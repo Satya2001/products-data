@@ -1,0 +1,603 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/angelus-block
+best_practice: 240.804305 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '908002347753'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-07-19T15:19:19.000669Z'
+  declared_unit: 1 m3
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Pre-manufactured concrete masonry blocks
+  display_name: Concrete Unit Masonry
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4ec837a26a0a493786442296f4cb2730
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 04 22 00 Concrete Unit Masonry
+  may_contain_trusted_vendor_declarations: false
+  name: CMU
+  no_statistics: false
+  obsolete: false
+  openepd: CMU
+  openepd_name: CMU
+  parents: []
+  pct10_gwp: 176.4200003 kgCO2e
+  pct20_gwp: 215.4362988 kgCO2e
+  pct30_gwp: 239.217128 kgCO2e
+  pct40_gwp: 261.6864758 kgCO2e
+  pct50_gwp: 284.4293089 kgCO2e
+  pct60_gwp: 303.893972 kgCO2e
+  pct70_gwp: 333.968952 kgCO2e
+  pct80_gwp: 376.5394169 kgCO2e
+  pct90_gwp: 458.4040432 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Concrete Unit Masonry
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30131502'
+  updated_on: '2025-11-20T07:56:22.812500Z'
+  use_stored_carbon: ABSENT
+cmu_weight_classification: Light
+concrete_compressive_strength_28d: 2000.0000000000002 psi
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 343.195695 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-01-19T17:48:45.647590Z'
+date_of_issue: '2021-05-04'
+date_validity_ends: '2026-05-04'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 1554 kg / m3
+description: "Lightweight Concrete Masonry Units:                                \
+  \ Declared Unit: 1 m3 of concrete formed into\n  Angelus Lightweight CMU are made\
+  \ with ASTM C33 and C331             manufactured concrete masonry product (CMU)\n\
+  \  aggregates. Available in 4, 6, and 8-inch heights, and widths\n  from veneers\
+  \ to 16-inch wide structural, in Precision, Shotblast,    Global Warming Potential\
+  \ (kg CO2-eq)                                 292\n  and Split Face textures. Dimensional\
+  \ properties as defined in        Acidification Potential (kg SO2-eq)          \
+  \                        0.96\n  ASTM C90.\n                                   \
+  \                                    Eutrophication Potential (kg N-eq)        \
+  \                           0.16\n                                             \
+  \                          Smog Creation Potential (kg O3-eq)                  \
+  \                 25.6\n                                                       \
+  \                Ozone Depletion Potential (kg CFC-11-eq)                      3.25E-6"
+developer:
+  email: support@climateearth.com
+  name: Climate Earth Support
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: buildingtransparency.org/e/ec30edpe2t
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD_ANGELUS_BLOCK_CMU_INDIO_LW_6a994c37f1e840b48a6e5feac7d5b2bd.pdf
+gwp: 292 kgCO2e
+gwp_per_category_declared_unit: 292 kgCO2e
+gwp_per_kg: 0.1879021879 kgCO2e
+gwp_z: 0.2083266665599966
+id: 8a6558626cb745fc929942a089cb5acd
+image: https://static.buildingtransparency.org/images/ccc8c8367d3b4f109520efd7157c4ff4.png
+impacts: {}
+includes: []
+industry_standards:
+- ASTM C90
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- US-CA
+- '021'
+language: en
+lowest_plausible_gwp: 240.804305 kgCO2e
+manufacturer:
+  address: Sun Valley, CA 91352, USA
+  admin_district: CA
+  admin_district2: Los Angeles County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/angelus-block
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:33:06.145800Z'
+  email_extensions:
+  - angelusblock.com
+  enterprise: true
+  id: 9aee26dbf1424d16b395c80a529f58ad
+  image: https://static.buildingtransparency.org/images/4928cdbca8524730aa86e35dc43c3468.png
+  is_failed: false
+  latitude: 34.23015670000001
+  legal_name: Angelus Block Co., Inc.
+  locality: Los Angeles
+  location:
+  - long_name: '91352'
+    short_name: '91352'
+    types:
+    - postal_code
+  - long_name: Sun Valley
+    short_name: Sun Valley
+    types:
+    - neighborhood
+    - political
+  - long_name: Los Angeles
+    short_name: Los Angeles
+    types:
+    - locality
+    - political
+  - long_name: Los Angeles County
+    short_name: Los Angeles County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -118.3520389
+  name: Angelus Block
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9aee26dbf1424d16b395c80a529f58ad
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91352'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:20:50.889775Z'
+  web_domain: angelusblock.com
+  website: https://www.angelusblock.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1554 kg
+matched_plants_count: 0
+material_id: 14beeb7d4bdf46108a17f0985af2dbb2
+my_capabilities: 1
+name: Lightweight Concrete Masonry Units
+not_an_epd: false
+open_xpd_uuid: ec30edpe
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec30edpe
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-08-30T20:14:34.784289Z'
+  date_of_issue: '2020-11-11'
+  date_validity_ends: '2025-11-01'
+  declared_units:
+  - 1 m3
+  doc: buildingtransparency.org/p/ec3gmw51rc
+  id: 8c4e54a622244aa3b9cf160183765dfa
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: 'Part B: Concrete Masonry and Segmental Concrete Paving Product EPD Requirements'
+  open_xpd_uuid: ec3gmw51
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3gmw51
+  short_link: buildingtransparency.org/p/ec3gmw51rc
+  short_name: 'Part B: Concrete Masonry and Segmental Concrete Paving Product EPD
+    Requirements'
+  status: Expired
+  updated_on: '2025-11-02T00:01:26.178701Z'
+  version: '1.0'
+pct80_gwp_per_category_declared_unit: 343.195695 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Fargo Canyon Rd, California, USA
+  address_line: Fargo Canyon Rd
+  admin_district: CA
+  admin_district2: Riverside County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-05-25T23:28:33.717279Z'
+  id: 9f48a36f81bf402f9f37a8086241ddb0
+  is_failed: false
+  latitude: 33.7438949
+  location:
+  - long_name: Fargo Canyon Road
+    short_name: Fargo Canyon Rd
+    types:
+    - route
+  - long_name: Riverside County
+    short_name: Riverside County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -116.1250161
+  name: Angelus Block Indio Plant
+  openepd_id: 8555PVVF+HX.angelusblock.com
+  owned_by:
+    address: Sun Valley, CA 91352, USA
+    admin_district: CA
+    admin_district2: Los Angeles County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/angelus-block
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:33:06.145800Z'
+    email_extensions:
+    - angelusblock.com
+    enterprise: true
+    id: 9aee26dbf1424d16b395c80a529f58ad
+    image: https://static.buildingtransparency.org/images/4928cdbca8524730aa86e35dc43c3468.png
+    is_failed: false
+    latitude: 34.23015670000001
+    legal_name: Angelus Block Co., Inc.
+    locality: Los Angeles
+    location:
+    - long_name: '91352'
+      short_name: '91352'
+      types:
+      - postal_code
+    - long_name: Sun Valley
+      short_name: Sun Valley
+      types:
+      - neighborhood
+      - political
+    - long_name: Los Angeles
+      short_name: Los Angeles
+      types:
+      - locality
+      - political
+    - long_name: Los Angeles County
+      short_name: Los Angeles County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: California
+      short_name: CA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    longitude: -118.3520389
+    name: Angelus Block
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9aee26dbf1424d16b395c80a529f58ad
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91352'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:20:50.889775Z'
+    web_domain: angelusblock.com
+    website: https://www.angelusblock.com/
+  total_epds: 4
+  type: Plant
+  units: USA
+  updated_on: '2021-05-25T23:31:54.919157Z'
+plant_specific: true
+private: false
+product_classes:
+  masterformat: 04 22 00 Concrete Unit Masonry
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec30edpe2t
+standard_deviation: 60.83138664 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 343.195695 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T18:02:27.319448Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

@@ -1,0 +1,472 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+best_practice: 961.7376528 kgCO2e
+biogenic_embodied_carbon_z: 0.3777525645180983
+box_id: '1990259370904'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:45.574316Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hot rolled steel shapes, Hollow Sections, pipes, and similar hot-worked
+    structural steels
+  display_name: Structural Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 820e86326d2945fb9322246fd4690fc8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel
+  openepd_name: Steel >> StructuralSteel
+  parents: []
+  pct10_gwp: 941.1625246 kgCO2e
+  pct20_gwp: 1149.056015 kgCO2e
+  pct30_gwp: 1315.942811 kgCO2e
+  pct40_gwp: 1565.934733 kgCO2e
+  pct50_gwp: 1808.139596 kgCO2e
+  pct60_gwp: 2029.5915 kgCO2e
+  pct70_gwp: 2271.628692 kgCO2e
+  pct80_gwp: 2819.624543 kgCO2e
+  pct90_gwp: 3713.070828 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103618'
+  updated_on: '2025-11-20T07:56:46.833466Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1858.262347 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-09-18T20:42:16.076859Z'
+date_of_issue: '2025-08-08'
+date_validity_ends: '2030-08-08'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 7870 kg / m^3
+description: Built-up, hot-rolled, or cold-form steel columns or framing systems which
+  transfer loads directly to the structure's foundation. Includes rigid frame sidewall
+  columns and rafter beams connected as built-up 'I' shapes, rafter beams, end wall
+  columns, and canopy beams assembled as built-up 'I' shapes, 'WF' shapes, or roll-formed
+  'C' sections, depending on specific load and span requirements.
+doc: buildingtransparency.org/e/ec31zw5h3d
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: 05 5000 Primary Structural Steel Frame Components - EPD.pdf
+galvanized: false
+gwp: 1410 kgCO2e
+gwp_per_category_declared_unit: 1410 kgCO2e
+gwp_per_kg: 1.41 kgCO2e
+gwp_z: 0.3777525645180983
+id: 7c38b6c7e73745faad12ad0242fbcf12
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 961.7376528 kgCO2e
+manufacturer:
+  address: Charlotte, NC 28211
+  admin_district: NC
+  admin_district2: Mecklenburg
+  alt_names:
+  - Nucor Corporation
+  - Nucor Steel Seattle, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T15:02:42.684523Z'
+  currency: USD
+  email_extensions:
+  - nucor.com
+  enterprise: true
+  id: 625c7af38bd0492d9fbdd186f1cea21a
+  image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+  is_failed: false
+  iso14001_certified: true
+  iso9001_certified: true
+  latitude: 35.159332
+  locality: Charlotte
+  location:
+    boundingBox:
+      entity: position
+      northEast: 35.159382,-80.834303
+      southWest: 35.159260,-80.834970
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Mecklenburg
+    countrySubdivision: NC
+    countrySubdivisionName: North Carolina
+    countryTertiarySubdivision: Township 1 Charlotte
+    freeformAddress: Charlotte, NC 28211
+    municipality: Charlotte
+    municipalitySubdivision: Charlotte, Barclay Downs
+    postalCode: '28211'
+    routeNumbers: []
+  longitude: -80.834694
+  name: Nucor
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28211'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:02:58.846698Z'
+  web_domain: nucor.com
+  website: http://www.nucor.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 metric ton
+matched_plants_count: 1
+material_id: 2eca6a01435548acb875ad0a9e9e2246
+my_capabilities: 1
+name: Primary Structural Steel Frame Components
+not_an_epd: false
+open_xpd_uuid: ec31zw5h
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31zw5h
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-fossil
+      - gwp
+      - gwp-biogenic
+      - gwp-luluc
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - ep-fresh
+      - ep-terrestrial
+      - pocp
+      - ep-marine
+      - ep
+      - odp
+      - ap
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2025-09-18T05:33:14.263756Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 1858.262347 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-04-08T21:15:43.856329Z'
+  id: 376c4528ae21458f86e291aa7c529575
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Berkeley & Yamato
+  owned_by:
+    address: Charlotte, NC 28211
+    admin_district: NC
+    admin_district2: Mecklenburg
+    alt_names:
+    - Nucor Corporation
+    - Nucor Steel Seattle, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T15:02:42.684523Z'
+    currency: USD
+    email_extensions:
+    - nucor.com
+    enterprise: true
+    id: 625c7af38bd0492d9fbdd186f1cea21a
+    image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+    is_failed: false
+    iso14001_certified: true
+    iso9001_certified: true
+    latitude: 35.159332
+    locality: Charlotte
+    location:
+      boundingBox:
+        entity: position
+        northEast: 35.159382,-80.834303
+        southWest: 35.159260,-80.834970
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Mecklenburg
+      countrySubdivision: NC
+      countrySubdivisionName: North Carolina
+      countryTertiarySubdivision: Township 1 Charlotte
+      freeformAddress: Charlotte, NC 28211
+      municipality: Charlotte
+      municipalitySubdivision: Charlotte, Barclay Downs
+      postalCode: '28211'
+      routeNumbers: []
+    longitude: -80.834694
+    name: Nucor
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28211'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:02:58.846698Z'
+    web_domain: nucor.com
+    website: http://www.nucor.com/
+  plants_count: 2
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2025-11-03T22:00:02.586511Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-10470
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31zw5h3d
+stainless: false
+standard_deviation: 532.631116 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1858.262347 kgCO2e
+uncertainty_factor: 1.3179165582984316
+updated_on: '2025-09-22T16:36:06.904805Z'
+use_stored_carbon: false
+verifier:
+  email: lwathen@scsglobalservices.com
+  name: Lucas
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - GWP with the PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

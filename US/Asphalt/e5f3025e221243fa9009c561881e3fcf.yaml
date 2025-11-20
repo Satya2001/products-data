@@ -1,0 +1,595 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+asphalt_aggregate_size_max: 0.7499999999999999 in
+asphalt_gradation: Dense-graded
+asphalt_gtr: false
+asphalt_max_temperature: 70 degC
+asphalt_min_temperature: 10 degC
+asphalt_mix_type: HMA
+asphalt_ppa: false
+asphalt_sbr: false
+asphalt_sbs: false
+best_practice: 69.04980979 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '953968824536'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:31.880547Z'
+  declared_unit: 1 kg
+  default_distance: 51.49888 km
+  default_transport_mode: truck, single unit
+  description: General category for asphalt mixtures
+  display_name: Asphalt
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: aa61ba9aeb2a4566942554362bb496d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 12 16 Asphalt Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Asphalt
+  no_statistics: false
+  obsolete: false
+  openepd: Asphalt
+  openepd_name: Asphalt
+  parents: []
+  pct10_gwp: 0.05482551228 kgCO2e
+  pct20_gwp: 0.05982888239 kgCO2e
+  pct30_gwp: 0.06403185433 kgCO2e
+  pct40_gwp: 0.06789398122 kgCO2e
+  pct50_gwp: 0.07156570503 kgCO2e
+  pct60_gwp: 0.07547954634 kgCO2e
+  pct70_gwp: 0.07945215405 kgCO2e
+  pct80_gwp: 0.08491742796 kgCO2e
+  pct90_gwp: 0.09532260428 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Asphalt
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30121601'
+  updated_on: '2025-11-20T07:57:55.742450Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 98.41019021 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-05-05T20:29:50.789822Z'
+date_of_issue: '2022-04-29'
+date_validity_ends: '2027-03-31'
+declaration_type: Product EPD
+declared_unit: 1 tonne
+density: 2400 kg / m3
+description: "This EPD reports the potential environmental impacts and additional\
+  \ environmental information for an asphalt mixture, which falls\nunder the United\
+  \ Nations Standard Products and Services Code 30111509. Asphalt mixtures are typically\
+  \ incorporated as part of the\nstructure of a roadway, parking lot, driveway, airfield,\
+  \ bike lane, pedestrian path, railroad track bed, or recreational surface.\nMix\
+  \ Name: S22-2-9LVW\nSpecification Entity: City of Phoenix\nSpecification: C-3/4\"\
+  \ Low Volume Marshall Mix\nGradation Type: dense\nMix Design Method: marshall\n\
+  Nominal Maximum Aggregate Size: 0.75 inches\nPerformance Grade of Asphalt Binder:\
+  \ PG 70-10\nCustomer [Project/Contract] Number: Not Reported\nThis mix producer\
+  \ categorizes this product as a Hot Mix Asphalt (HMA) asphalt mixture. This asphalt\
+  \ mixture was produced within a\ntemperature range of 162 to 168\xB0C (324.0 to\
+  \ 335.0\xB0F). Energy and environmental impacts are based on a plant\u2019s average\
+  \ performance over\na 12-month period and are not adjusted for mix-specific production\
+  \ temperatures."
+developer:
+  email: ben@trisightengineering.com
+  name: Ben Ciavola
+  org:
+    address: 101 West Lakeshore Drive, Houghton, MI 49931
+    address_line: 101 West Lakeshore Drive
+    admin_district: MI
+    admin_district2: Houghton
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-29T02:29:42.575799Z'
+    email_extensions:
+    - trisightengineering.com
+    enterprise: true
+    id: e1f3bc7a8d35434ba3bb6fc0dc4ca04e
+    image: https://static.buildingtransparency.org/images/b867529a-97db-49eb-ad70-2abafee8ef80.png
+    is_failed: false
+    latitude: 47.12189
+    locality: Houghton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Houghton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Houghton
+      extendedPostalCode: '499312274'
+      freeformAddress: 101 West Lakeshore Drive, Houghton, MI 49931
+      localName: Houghton
+      municipality: Houghton
+      municipalitySubdivision: Houghton
+      postalCode: '49931'
+      streetName: West Lakeshore Drive
+      streetNumber: '101'
+    longitude: -88.57428
+    name: Trisight
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e1f3bc7a8d35434ba3bb6fc0dc4ca04e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '49931'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-20T04:08:25.561858Z'
+    web_domain: trisightengineering.com
+    website: www.trisightengineering.com
+doc: buildingtransparency.org/e/ec3bczzmax
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: EPD15_3053505d51af4abd8a5c836512351ec2.pdf
+gwp: 83.73 kgCO2e
+gwp_per_category_declared_unit: 0.08373 kgCO2e
+gwp_per_kg: 0.08373 kgCO2e
+gwp_z: 0.2083266665599966
+id: d682f53374e84216b4fd36d80989eb64
+image: https://static.buildingtransparency.org/images/7331cab5653640ca8794c31972094235.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 69.04980979 kgCO2e
+manufacturer:
+  address: 1625 E Northern Ave, Phoenix, AZ 85020, USA
+  address_line: 1625 E Northern Ave
+  admin_district: AZ
+  admin_district2: Maricopa County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-05-12T04:42:20.160922Z'
+  enterprise: false
+  id: 925e9b26aa0945d1b8a29216d775bfc3
+  is_failed: false
+  latitude: 33.5548275
+  locality: Phoenix
+  location:
+  - long_name: '1625'
+    short_name: '1625'
+    types:
+    - street_number
+  - long_name: East Northern Avenue
+    short_name: E Northern Ave
+    types:
+    - route
+  - long_name: Phoenix
+    short_name: Phoenix
+    types:
+    - locality
+    - political
+  - long_name: Maricopa County
+    short_name: Maricopa County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arizona
+    short_name: AZ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '85020'
+    short_name: '85020'
+    types:
+    - postal_code
+  - long_name: '3960'
+    short_name: '3960'
+    types:
+    - postal_code_suffix
+  longitude: -112.0466832
+  name: Solterra Materials LLC
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/925e9b26aa0945d1b8a29216d775bfc3
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '85020'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-12T04:42:20.160931Z'
+  web_domain: solterramaterials.com
+  website: https://solterramaterials.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: e5f3025e221243fa9009c561881e3fcf
+my_capabilities: 1
+name: S22-2-9LVW, an asphalt mix.
+not_an_epd: false
+open_xpd_uuid: ec3bczzm
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bczzm
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules for Asphalt Mixtures
+  - Product Category Rules (PCR) for Asphalt Mixtures, version 2.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-05-06T20:26:10.862766Z'
+  date_of_issue: '2022-04-01'
+  date_validity_ends: '2027-04-01'
+  declared_units:
+  - 1 tonne
+  doc: '#broken-link cqd.io/p/ec3paun0yg'
+  id: 03f6ce8b701a473fb6a9040098379ae5
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NAPA PCR For Asphalt Mixtures
+  open_xpd_uuid: ec3paun0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3paun0
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3paun0yg
+  short_name: Asphalt Mixtures
+  status: Published
+  updated_on: '2025-08-03T18:32:26.858101Z'
+  version: '2.0'
+pct80_gwp_per_category_declared_unit: 0.09841019021 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: 16402 S Tuthill Rd, Buckeye, AZ 85326, USA
+  address_line: 16402 S Tuthill Rd
+  admin_district: AZ
+  admin_district2: Maricopa County
+  alt_names: []
+  carbon_intensity: 1027.548 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-05-12T04:42:35.607947Z'
+  id: 79812ab4d8ef43cbbe43e0ec3f8610f7
+  is_failed: false
+  latitude: 33.2974223
+  locality: Buckeye
+  location:
+  - long_name: '16402'
+    short_name: '16402'
+    types:
+    - street_number
+  - long_name: South Tuthill Road
+    short_name: S Tuthill Rd
+    types:
+    - route
+  - long_name: Buckeye
+    short_name: Buckeye
+    types:
+    - locality
+    - political
+  - long_name: Maricopa County
+    short_name: Maricopa County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arizona
+    short_name: AZ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '85326'
+    short_name: '85326'
+    types:
+    - postal_code
+  - long_name: '4760'
+    short_name: '4760'
+    types:
+    - postal_code_suffix
+  longitude: -112.4876001
+  name: Buckeye Plant
+  openepd_id: 85597GW6+XX.solterramaterials.com
+  owned_by:
+    address: 1625 E Northern Ave, Phoenix, AZ 85020, USA
+    address_line: 1625 E Northern Ave
+    admin_district: AZ
+    admin_district2: Maricopa County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-05-12T04:42:20.160922Z'
+    enterprise: false
+    id: 925e9b26aa0945d1b8a29216d775bfc3
+    is_failed: false
+    latitude: 33.5548275
+    locality: Phoenix
+    location:
+    - long_name: '1625'
+      short_name: '1625'
+      types:
+      - street_number
+    - long_name: East Northern Avenue
+      short_name: E Northern Ave
+      types:
+      - route
+    - long_name: Phoenix
+      short_name: Phoenix
+      types:
+      - locality
+      - political
+    - long_name: Maricopa County
+      short_name: Maricopa County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Arizona
+      short_name: AZ
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '85020'
+      short_name: '85020'
+      types:
+      - postal_code
+    - long_name: '3960'
+      short_name: '3960'
+      types:
+      - postal_code_suffix
+    longitude: -112.0466832
+    name: Solterra Materials LLC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/925e9b26aa0945d1b8a29216d775bfc3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '85020'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-12T04:42:20.160931Z'
+    web_domain: solterramaterials.com
+    website: https://solterramaterials.com/
+  postal_code: '85326'
+  total_epds: 47
+  type: Plant
+  units: SI
+  updated_on: '2024-11-24T09:30:20.432048Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 5100 Forbes Boulevard, Lanham, MD 20706
+  address_line: 5100 Forbes Boulevard
+  admin_district: MD
+  admin_district2: Prince George's
+  alt_names:
+  - NAPA
+  - Asphalt EPD
+  - Emerald Ecolabel
+  - Emerald Eco-label
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-10T23:11:11.739481Z'
+  email_extensions:
+  - asphaltpavement.org
+  - asphaltepd.org
+  enterprise: true
+  id: 136904d07bd94f9f959bfae24e24c56a
+  image: https://static.buildingtransparency.org/images/fbdd34b1-8146-4d80-8bc9-0e578a03f018.png
+  is_failed: false
+  latitude: 38.960571
+  legal_name: National Asphalt Pavement Association
+  locality: Lanham
+  location:
+    boundingBox:
+      entity: position
+      northEast: 38.961196,-76.833920
+      southWest: 38.959630,-76.835144
+    buildingNumber: '5100'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Prince George's
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 20 Lanham
+    extendedPostalCode: '207064407'
+    freeformAddress: 5100 Forbes Boulevard, Lanham, MD 20706
+    municipality: Lanham
+    municipalitySubdivision: Lanham
+    postalCode: '20706'
+    routeNumbers: []
+    street: Forbes Boulevard
+    streetName: Forbes Boulevard
+    streetNameAndNumber: 5100 Forbes Boulevard
+    streetNumber: '5100'
+  longitude: -76.834511
+  name: National Asphalt Pavement Association
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/136904d07bd94f9f959bfae24e24c56a
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-07-03T13:56:29.001838Z'
+  web_domain: asphaltpavement.org
+  website: asphaltpavement.org
+program_operator_fkey: "44.130.305 v1 So\uFB05ware Version2.0.0"
+reference_service_life: 1 year
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bczzmax
+standard_deviation: 17.44319179 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 98.41019021 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T19:05:06.872313Z'
+use_stored_carbon: false
+verifier:
+  email: ea169147c3664a5eb1713003f8ccb400@for.review
+  name: John Beath Environmental
+  org:
+    address: San Francisco, CA
+    admin_district: CA
+    admin_district2: San Francisco
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-04-09T18:50:55.658775Z'
+    email_extensions:
+    - nancybuilt.com
+    enterprise: true
+    id: a26275a816d74b6797c42cbcf837ec58
+    image: https://static.buildingtransparency.org/images/1d4a1edc-e0b3-4005-a20a-45c7b94ff6d2.png
+    is_failed: false
+    latitude: 37.78008
+    legal_name: Nancy Built, LLC
+    locality: San Francisco
+    location:
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: San Francisco
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: San Francisco
+      freeformAddress: San Francisco, CA
+      municipality: San Francisco
+    longitude: -122.42017
+    name: Nancy Built, LLC
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a26275a816d74b6797c42cbcf837ec58
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: true
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: true
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: true
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-20T16:37:19.355175Z'
+    web_domain: nancybuilt.com
+    website: https://www.nancybuilt.com
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

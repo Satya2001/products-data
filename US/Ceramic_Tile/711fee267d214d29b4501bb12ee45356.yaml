@@ -1,0 +1,677 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/fireclay-tile
+best_practice: 37.85245753 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '759177038012'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2023-04-20T12:03:28Z'
+  declared_unit: 1 m2
+  description: Ceramic tiles, including porcelain, quarry, pressed floor tile, wall
+    tile, mosaic tile, etc.
+  display_name: Ceramic Tile
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e7a0bc114c934f3f815d922bf1e689f9
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 19.4 kg
+  massless: false
+  masterformat: 09 31 00 Ceramic Tile
+  may_contain_trusted_vendor_declarations: false
+  name: CeramicTile
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Tiling >> CeramicTile
+  openepd_name: Finishes >> Tiling >> CeramicTile
+  parents: []
+  pct10_gwp: 8.570802231 kgCO2e
+  pct20_gwp: 10.00781464 kgCO2e
+  pct30_gwp: 11.14571872 kgCO2e
+  pct40_gwp: 11.77939679 kgCO2e
+  pct50_gwp: 12.41865326 kgCO2e
+  pct60_gwp: 12.7756852 kgCO2e
+  pct70_gwp: 14.04316568 kgCO2e
+  pct80_gwp: 16.05216705 kgCO2e
+  pct90_gwp: 18.41643971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ceramic
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2025-11-19T07:57:34.104966Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 53.94754247 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-01-04T09:06:05.053232Z'
+date_of_issue: '2020-05-22'
+date_validity_ends: '2025-05-22'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "This EPD includes representative products derived from Fireclay\u2019\
+  s line of products produced at the facility located in Aromas, California. Ceramic\
+  \ tiles are primarily made up of clays, silica and other additives and then molded\
+  \ into shape followed by firing into a kiln. Ceramic tiles can be glazed or unglazed.\
+  \ There are several advantages to ceramic tiles. They are fire resistant, non-combustible,\
+  \ durable(lasts a lifetime) and extremely easy to maintain. The UNSPSC code for\
+  \ this flooring product is 301617 and the CSI code is 09 30 00."
+developer:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: buildingtransparency.org/e/ec3bckhfwc
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Fireclay_Tile_EPD_a61741f1c3544648a88c58873b72eafe.pdf
+gwp: 45.9 kgCO2e
+gwp_per_category_declared_unit: 45.9 kgCO2e
+gwp_per_kg: 2.729411765 kgCO2e
+gwp_z: 0.2083266665599966
+id: 836bab93c4af4f1c8b58c221bfc7fcbf
+image: https://static.buildingtransparency.org/images/1d5317b127064e22924c1c86530f2a1e.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  Table 2: Material Composition Component Material Ceramic Tile (with recycled content)
+  Granite 17.06% Clay 19.19% Kaolin 6.40% Body Internal Scrap 16.47% Glass (Post-
+  Consumer) 16.47% Mullite 23.46% Bentonite 0.7% Frits 0.23% Kaolin 0.02% Alumina
+  0.003% Glaze Sludge Iron Oxide 0.001% Stain 0.006% Additives 0.004% 10. PACKAGING
+  Table 3: Packaging Inputs Inputper sq. m WETS Unit Cardboard 0.2 kg Packaging waste
+  disposal have been modeled as per guidelines in section 2.8.5 of Part A: Life Cycle
+  Assessment Calculation Rules and Report Requirements. 11. PRODUCT INSTALLATION Product
+  installation requirements and procedure are provided in guidelines by Tile Council
+  of North America (TCNA). Mortar is used to adheretile to the floor substrate while
+  grout is usedto fill in gaps betweenthetiles. 4.5% of waste is assumed for mortar
+  and grout. Apart from these, installation solution made of acrylate and waterare
+  also recommendedforinstallation. Installation inputs are detailed in Table 4. Table
+  4: Installation Inputs Material PANCIiLs Unit PANINI | Unit Mortar(density - 1282
+  kg/m?) 4.07 kg/m2 0.83 Ib/ft2 Grout 0.212 kg/m2 0.043 Ib/ft2 Water 0.37 kg/m2 0.075
+  Ib/ft2 Acrylate 0.043 kg/m2 0.008 Ib/ft2 Waste for mortar 4.5 % 4.5 % Waste for
+  grout 4.5 % 4.5 % 12. USE CONDITIONS As recommendedbythe Tile Council of North America
+  (TCNA), ceramictile floors are cleaned with dust mops daily and with a damp mop36
+  times a year for commercial flooring applications. Damp moppingrequires the use
+  of tap water for cleaning. The impacts from the mopsitself as multi-use tools are
+  considered to be negligible per functional unit. Since the reference service life
+  of porcelain tiles is 75 years, which is as long as the estimated service life of
+  the building, there are no replacementsoftiles over the course ofthe lifetime of
+  the building. Use phase conditions and inputs are provided in Tables 5 and 6 respectively.
+  Table 5: Use Phase Parameters Cleaning Process Cleaning Frequency | QUIENMSoeAMD
+  aea Dust mop 365 times/ year - Commercial Damp mop 36 times/ year (Commercial) Tap
+  water Table 6: Use Phase Inputs Tap water 0.783 I/m2/yr 13. PRODUCT REFERENCE SERVICE
+  AND BUILDING ESTIMATED SERVICE LIFE According to Part A: Life Cycle Assessment Calculation
+  Rules and Report Requirements, UL Environment, V3.2, 2018, the Estimated Service
+  Life (ESL) of the building is assumed to be 75 years. Since ceramic tiles are expected
+  to last as long as the buildingitself, the Reference Service Life (RSL) of ceramictiles
+  is taken to be 75 years. 14. DISPOSAL All waste has beenclassified according to
+  regional-specific legislation as laid out in Section 2.8.6 in Part A: Life Cycle
+  Assessment Calculation Rules and Report Requirements from UL Environment. Ceramic
+  being a non-metal, all ofit is landfilled at end-of-life as per the aforementioned
+  PCR. LIFE CYCLE ASSESSMENT BACKGROUND INFORMATION 1. FUNCTIONAL UNIT The functional
+  unit according to the PCR is 1 m? offinishedflooring. The function ofa floor covering
+  is to cover andprotect the flooring substrate. Table 7: Functional Unit | reeey
+  Functional Unit [m7] 1 Average Weight[kg] 17.57 2. SYSTEM BOUNDARY This EPDis considered
+  a Cradle-to-Grave study. A summary of the life cycle modules included in this EPD
+  is presented in Table 8. Infrastructure flows have been excluded. Table &: Summary
+  ofIncluded Life Cycle Modules be Description Analysis Summaryof Included Elements
+  Name oat Al Product Stage: Raw 2019 Raw Material sourcing and processing as defined
+  by secondary data.
+
+
+  ## LCA Notes
+
+  This EPDis considered a Cradle-to-Grave study. A summary of the life cycle modules
+  included in this EPD is presented in Table
+
+
+  ## Source Data Notes
+
+  Primary data wascollected onsite by Fireclay associates. All calculation procedures
+  adhere to ISO14044. Data collection forms were used to survey Fireclay of the materials
+  inputs, energy inputs, waste outputs, and raw material supplier information as well
+  as packaging inputs for the year 2019.'
+lowest_plausible_gwp: 37.85245753 kgCO2e
+manufacturer:
+  address: 901 Brannan St, San Francisco, CA 94103, USA
+  address_line: 901 Brannan St
+  admin_district: CA
+  admin_district2: San Francisco County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/fireclay-tile
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-03-31T23:41:32.434876Z'
+  enterprise: false
+  id: 041df94c67b24108b814cd581d54f070
+  is_failed: false
+  latitude: 37.7708883
+  locality: SF
+  location:
+  - long_name: '901'
+    short_name: '901'
+    types:
+    - street_number
+  - long_name: Brannan Street
+    short_name: Brannan St
+    types:
+    - route
+  - long_name: SoMa
+    short_name: SoMa
+    types:
+    - neighborhood
+    - political
+  - long_name: San Francisco
+    short_name: SF
+    types:
+    - locality
+    - political
+  - long_name: San Francisco County
+    short_name: San Francisco County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '94103'
+    short_name: '94103'
+    types:
+    - postal_code
+  longitude: -122.4053798
+  name: Fireclay Tile
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/041df94c67b24108b814cd581d54f070
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '94103'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:40:08.604415Z'
+  web_domain: fireclaytile.com
+  website: https://www.fireclaytile.com/
+manufacturer_specific: true
+mass_per_declared_unit: 17 kg
+matched_plants_count: 0
+material_id: 711fee267d214d29b4501bb12ee45356
+my_capabilities: 1
+name: Ceramic Wall and Floor Tile
+not_an_epd: false
+open_xpd_uuid: ec3bckhf
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bckhf
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2025-09-10T16:49:20.092103Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 53.94754247 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Aromas, CA 95004, USA
+  admin_district: CA
+  admin_district2: San Benito County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-03-03T04:19:25.967139Z'
+  id: cf6ed426e73d4e92a31c890d9895b88c
+  is_failed: false
+  latitude: 50.074687499999996
+  locality: Aromas
+  location:
+  - long_name: Aromas
+    short_name: Aromas
+    types:
+    - locality
+    - political
+  - long_name: San Benito County
+    short_name: San Benito County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '95004'
+    short_name: '95004'
+    types:
+    - postal_code
+  longitude: -85.8286875
+  name: Aromas
+  openepd_id: 962P35FC+VG.fireclaytile.com
+  owned_by:
+    address: 901 Brannan St, San Francisco, CA 94103, USA
+    address_line: 901 Brannan St
+    admin_district: CA
+    admin_district2: San Francisco County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/fireclay-tile
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-03-31T23:41:32.434876Z'
+    enterprise: false
+    id: 041df94c67b24108b814cd581d54f070
+    is_failed: false
+    latitude: 37.7708883
+    locality: SF
+    location:
+    - long_name: '901'
+      short_name: '901'
+      types:
+      - street_number
+    - long_name: Brannan Street
+      short_name: Brannan St
+      types:
+      - route
+    - long_name: SoMa
+      short_name: SoMa
+      types:
+      - neighborhood
+      - political
+    - long_name: San Francisco
+      short_name: SF
+      types:
+      - locality
+      - political
+    - long_name: San Francisco County
+      short_name: San Francisco County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: California
+      short_name: CA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '94103'
+      short_name: '94103'
+      types:
+      - postal_code
+    longitude: -122.4053798
+    name: Fireclay Tile
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/041df94c67b24108b814cd581d54f070
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94103'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:40:08.604415Z'
+    web_domain: fireclaytile.com
+    website: https://www.fireclaytile.com/
+  postal_code: '95004'
+  total_epds: 3
+  type: Plant
+  units: USA
+  updated_on: '2025-08-13T00:00:02.762478Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: EPD10355
+reference_service_life: 75 years
+reinforced: false
+residential_only: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bckhfwc
+standard_deviation: 9.562193995 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 53.94754247 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T18:05:17.782004Z'
+use_stored_carbon: false
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

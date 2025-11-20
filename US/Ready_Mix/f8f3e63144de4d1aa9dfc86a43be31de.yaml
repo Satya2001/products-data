@@ -1,0 +1,568 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  Developer: http://wapsustainability.com
+best_practice: 299.6306343 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.0899029 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
+  pct40_gwp: 334.578825 kgCO2e
+  pct50_gwp: 359.0203617 kgCO2e
+  pct60_gwp: 386.3847185 kgCO2e
+  pct70_gwp: 416.8085524 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 507.1461971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-11-20T07:56:16.507251Z'
+  use_stored_carbon: ABSENT
+concrete_compressive_strength_28d: 20.7 MPa
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 362.2251657 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-16T19:57:37.725134Z'
+date_of_issue: '2023-10-16'
+date_validity_ends: '2026-09-28'
+declaration_type: Product EPD
+declared_unit: 1 m3
+description: '-'
+doc: https://concrete.thetaepd.com/public?guid=3e10255c-06e6-4c06-a20f-982485e93a3c
+excluded: false
+externally_verified: true
+gwp: 330.9279 kgCO2e
+gwp_per_category_declared_unit: 330.9279 kgCO2e
+gwp_per_kg: 0.3110805687 kgCO2e
+gwp_z: 0.11237437430304116
+id: a1edc649faf142b18d4900375b34af95
+impacts: {}
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 299.6306343 kgCO2e
+manufacturer:
+  address: 2025 East Financial Way, Glendora, CA 91741
+  address_line: 2025 East Financial Way
+  admin_district: CA
+  admin_district2: Los Angeles
+  alt_names:
+  - CalPortland Company Oregon/SW Washington Office
+  - CalPortland Company Washington Division
+  - CalPortland Company CA Central Coast Divsion Office
+  - Catalina Pacific A CalPortland Company
+  - CalPortland Company Tuscon Phoenix Regional Office
+  - CalPortland Company Phoenix Regional Office
+  - Chaparral Concrete Company
+  - CalPortland Company
+  - CalPortland Construction
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/calportland-company
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T15:02:42.684523Z'
+  currency: USD
+  email_extensions:
+  - calportland.com
+  enterprise: true
+  id: ce0a81a1f8044ec4adf0d4197d3ed2c9
+  image: https://static.buildingtransparency.org/images/0692bdbf-970b-4d4d-9c14-74f1478147e7.png
+  is_failed: false
+  latitude: 34.128937
+  legal_name: CalPortland
+  locality: Glendora
+  location:
+    boundingBox:
+      entity: position
+      northEast: 34.128936,-117.825432
+      southWest: 34.128915,-117.826189
+    buildingNumber: '2025'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: East San Gabriel Valley
+    extendedPostalCode: '917414601'
+    freeformAddress: 2025 East Financial Way, Glendora, CA 91741
+    municipality: Glendora
+    municipalitySubdivision: Glendora
+    postalCode: '91741'
+    routeNumbers: []
+    street: East Financial Way
+    streetName: East Financial Way
+    streetNameAndNumber: 2025 East Financial Way
+    streetNumber: '2025'
+  longitude: -117.826157
+  name: CalPortland
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ce0a81a1f8044ec4adf0d4197d3ed2c9
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91741'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:26:49.998159Z'
+  web_domain: calportland.com
+  website: https://www.calportland.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1063.801257 kg
+matched_plants_count: 0
+material_id: f8f3e63144de4d1aa9dfc86a43be31de
+my_capabilities: 1
+name: '30335771'
+not_an_epd: false
+open_xpd_uuid: ec30rrzp
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec30rrzp
+output_flows: {}
+owner:
+  name: Michael Salazar
+  user_id: mike@wapsustainability.com
+pcr:
+  alt_names:
+  - NSF PCR for Concrete
+  - PCR for Concrete, NSF International, August 2021 v2.1
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-01-20T21:57:07.160366Z'
+  date_of_issue: '2021-08-01'
+  date_validity_ends: '2025-02-22'
+  declared_units:
+  - 1 m3
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/pcr_concrete.pdf?mtime=20210903125351&focal=none
+  id: ad8c5c4db2454a5e963fce6cc747e5bf
+  is_failed: false
+  issuer_doc_id: NSF 1112-19
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NSF PCR for Concrete
+  open_xpd_uuid: ec3n3h3t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3n3h3t
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3n3h3t5z
+  short_name: Concrete
+  status: Expired
+  updated_on: '2025-11-20T20:50:04.123411Z'
+  version: '2.1'
+pct80_gwp_per_category_declared_unit: 362.2251657 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 9229 Harris Plant Rd, San Diego, CA 92111, USA
+  address_line: 9229 Harris Plant Rd
+  admin_district: CA
+  admin_district2: San Diego County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2023-07-13T17:27:19.697246Z'
+  id: e18408c2fe2743d7a25967bd67226d2c
+  is_failed: false
+  latitude: 32.8605518
+  locality: San Diego
+  location:
+  - long_name: '9229'
+    short_name: '9229'
+    types:
+    - street_number
+  - long_name: Harris Plant Road
+    short_name: Harris Plant Rd
+    types:
+    - route
+  - long_name: Miramar
+    short_name: Miramar
+    types:
+    - neighborhood
+    - political
+  - long_name: San Diego
+    short_name: San Diego
+    types:
+    - locality
+    - political
+  - long_name: San Diego County
+    short_name: San Diego County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '92111'
+    short_name: '92111'
+    types:
+    - postal_code
+  longitude: -117.1270727
+  name: Miramar
+  openepd_id: 8544VV6F+65.calportland.com
+  owned_by:
+    address: 2025 East Financial Way, Glendora, CA 91741
+    address_line: 2025 East Financial Way
+    admin_district: CA
+    admin_district2: Los Angeles
+    alt_names:
+    - CalPortland Company Oregon/SW Washington Office
+    - CalPortland Company Washington Division
+    - CalPortland Company CA Central Coast Divsion Office
+    - Catalina Pacific A CalPortland Company
+    - CalPortland Company Tuscon Phoenix Regional Office
+    - CalPortland Company Phoenix Regional Office
+    - Chaparral Concrete Company
+    - CalPortland Company
+    - CalPortland Construction
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/calportland-company
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T15:02:42.684523Z'
+    currency: USD
+    email_extensions:
+    - calportland.com
+    enterprise: true
+    id: ce0a81a1f8044ec4adf0d4197d3ed2c9
+    image: https://static.buildingtransparency.org/images/0692bdbf-970b-4d4d-9c14-74f1478147e7.png
+    is_failed: false
+    latitude: 34.128937
+    legal_name: CalPortland
+    locality: Glendora
+    location:
+      boundingBox:
+        entity: position
+        northEast: 34.128936,-117.825432
+        southWest: 34.128915,-117.826189
+      buildingNumber: '2025'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Los Angeles
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: East San Gabriel Valley
+      extendedPostalCode: '917414601'
+      freeformAddress: 2025 East Financial Way, Glendora, CA 91741
+      municipality: Glendora
+      municipalitySubdivision: Glendora
+      postalCode: '91741'
+      routeNumbers: []
+      street: East Financial Way
+      streetName: East Financial Way
+      streetNameAndNumber: 2025 East Financial Way
+      streetNumber: '2025'
+    longitude: -117.826157
+    name: CalPortland
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ce0a81a1f8044ec4adf0d4197d3ed2c9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91741'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:26:49.998159Z'
+    web_domain: calportland.com
+    website: https://www.calportland.com/
+  postal_code: '92111'
+  total_epds: 61
+  type: Plant
+  updated_on: '2025-09-24T18:02:48.422783Z'
+plant_specific: true
+private: false
+product_classes:
+  io.cqd.ec3: Concrete >> ReadyMix
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec30rrzppd
+standard_deviation: 37.1878157 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 362.2251657 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2024-09-25T16:48:42Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_air_entrain:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  density:
+  - Not specified
+  description:
+  - Between 3 and 2000 symbols
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

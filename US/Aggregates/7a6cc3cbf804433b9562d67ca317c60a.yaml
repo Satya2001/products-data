@@ -1,0 +1,547 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/graniterock
+best_practice: 8.15402961 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '493000046884'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:55:06.380561Z'
+  declared_unit: 1 kg
+  default_distance: 65.98294 km
+  default_transport_mode: truck, unspecified
+  description: Construction Aggregates, including sand, gravel, crushed stone, etc.
+    for use as bases, ballasts, or as a component in concrete or asphalt
+  display_name: Aggregates
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: f4b20196cf844933b4222809f51386fa
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 10 00 Bases Ballasts and Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Aggregates
+  no_statistics: false
+  obsolete: false
+  openepd: Aggregates
+  openepd_name: Aggregates
+  parents: []
+  pct10_gwp: 0.001332641195 kgCO2e
+  pct20_gwp: 0.001883952008 kgCO2e
+  pct30_gwp: 0.002605018508 kgCO2e
+  pct40_gwp: 0.004098406937 kgCO2e
+  pct50_gwp: 0.00576135918 kgCO2e
+  pct60_gwp: 0.007870153955 kgCO2e
+  pct70_gwp: 0.01494783105 kgCO2e
+  pct80_gwp: 0.04106154999 kgCO2e
+  pct90_gwp: 0.0747351572 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Aggregates
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111800'
+  updated_on: '2025-11-20T07:55:57.623427Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 11.62117039 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-10-31T16:32:31.263022Z'
+date_of_issue: '2018-07-03'
+date_validity_ends: '2023-07-03'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 2650 kg / m^3
+description: This EPD covers two average aggregate products representing the product
+  range offered by the two participating facilities. The product range for each facility
+  is listed in Table 1. The product composition is 100% construction aggregate, with
+  no packaging or other additional materials added to the shipped products. The products
+  are compliant with ASTM-C33 Standard Specification for Concrete Aggregates and thus
+  fulfills the desired function/performance of a building product.
+developer:
+  email: james.salazar@athenasmi.org
+  name: James Salazar
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+doc: buildingtransparency.org/e/ec3muug9aq
+excluded: false
+externally_verified: true
+file_name: Graniterock_EPD2018-07-03.pdf
+gwp: 9.8876 kgCO2e
+gwp_per_category_declared_unit: 0.0098876 kgCO2e
+gwp_per_kg: 0.0098876 kgCO2e
+gwp_z: 0.2083266665599966
+id: bd09aee6035c4df6829f918b8ebac9d6
+image: https://static.buildingtransparency.org/images/80c29b478af940bd9cb97edaa5ba5737.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: '
+
+
+  ## LCA Notes
+
+  Details of the methodology of the underlying LCA can be found in the LCA Project
+  Report: Athena Sustainable Materials Institute: A Cradle-to-Gate Life Cycle Assessment
+  of Aggregate Products Manufactured by Graniterock; Version 1.0. Prepared by the
+  Athena Sustainable Materials Institute: June 2018.
+
+
+  ## Source Data Notes
+
+  ASTM International: Product Category Rule (PCR) for Construction Aggregates: Natural
+  Aggregate, Crushed Concrete, and Iron/Steel Furnace Slag UNCPC 1532 ; Version 1
+  January 2017. Athena Sustainable Materials Institute: A Cradle-to-Gate Life Cycle
+  Assessment of Aggregate Products Manufactured by Graniterock; Version 1.0. Prepared
+  by the Athena Sustainable Materials Institute: June 2018. ISO 21930: 2017 Building
+  construction - Sustainability in building construction - Environmental declaration
+  of building products. ISO 14025: 2006 Environmental labeling and declarations -
+  Type III environmental declarations - Principles and procedures. ISO 14044: 2006
+  Environmental management - Life cycle assessment - Requirements and guidelines.
+  ISO 14040: 2006 Environmental management - Life cycle assessment - Principles and
+  framework. National Renewable Energy Laboratory 2014. U.S. Life Cycle Inventory
+  Database. https://www.lcacommons.gov/nrel/search.'
+lowest_plausible_gwp: 8.15402961 kgCO2e
+manufacturer:
+  address: Watsonville, CA
+  admin_district: CA
+  admin_district2: Santa Cruz
+  alt_names: []
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/graniterock
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-10T12:45:31.114012Z'
+  email_extensions:
+  - graniterock.com
+  enterprise: true
+  id: 8ee9eda809f84386a724753f17846ded
+  is_failed: false
+  latitude: 36.91023
+  locality: Watsonville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Santa Cruz
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Watsonville
+    freeformAddress: Watsonville, CA
+    municipality: Watsonville
+  longitude: -121.75687
+  name: Graniterock
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8ee9eda809f84386a724753f17846ded
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:43:34.023726Z'
+  web_domain: graniterock.com
+  website: http://www.graniterock.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 7a6cc3cbf804433b9562d67ca317c60a
+my_capabilities: 1
+name: 1/2 x 1/4 Drain Rock
+not_an_epd: false
+open_xpd_uuid: ec3muug9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3muug9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'ASTM PCR for Construction Aggregates: Natural Aggregate, Crushed Concrete, and
+    Iron/Steel Furnace Slag'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:55:26.834970Z'
+  date_of_issue: '2017-01-01'
+  date_validity_ends: '2022-12-31'
+  declared_units:
+  - 1 tonne
+  doc: '#broken-link https://www.astm.org/CERTIFICATION/DOCS/369.PCR_for_Construction_Aggregates_PCR.pdf'
+  errors: {}
+  failures: {}
+  id: 7a6f1281866040d59c1c53c6a208a8d5
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: 'Construction Aggregates: Natural Aggregate, Crushed Concrete, and Iron/Steel
+    Furnace Slag'
+  open_xpd_uuid: ec34ahrg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec34ahrg
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec34ahrg14
+  short_name: 'Construction Aggregates: Natural Aggregate, Crushed Concrete, and Iron/Steel
+    Furnace Slag'
+  status: Expired
+  updated_on: '2023-01-01T00:01:01.038020Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.01162117039 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Airline Highway, Hollister, CA 95023
+  address_line: ' Airline Highway'
+  admin_district: CA
+  admin_district2: San Benito
+  alt_names:
+  - 'Graniterock: Southside Sand and Gravel'
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-10-31T16:32:35.198535Z'
+  id: 07a933c409ff4624993f477f33578009
+  is_failed: false
+  latitude: 36.83353
+  locality: Hollister
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: San Benito
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Hollister
+    extendedPostalCode: 9502361,950235600,950235609,950235610,950235612,950235614,950235618,950235621,950235634,950235640,950235650,950235779,950236105,950236106,950236199,950237633,950237634,950239701,950239714,950239725
+    freeformAddress: Airline Highway, Hollister, CA 95023
+    municipality: Hollister
+    municipalitySubdivision: Hollister
+    postalCode: '95023'
+    streetName: Airline Highway
+  longitude: -121.38711
+  name: 'Graniterock: Southside Sand and Gravel'
+  openepd_id: 848WRJM7+C5.graniterock.com
+  owned_by:
+    address: Watsonville, CA
+    admin_district: CA
+    admin_district2: Santa Cruz
+    alt_names: []
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/graniterock
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:45:31.114012Z'
+    email_extensions:
+    - graniterock.com
+    enterprise: true
+    id: 8ee9eda809f84386a724753f17846ded
+    is_failed: false
+    latitude: 36.91023
+    locality: Watsonville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Santa Cruz
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: Watsonville
+      freeformAddress: Watsonville, CA
+      municipality: Watsonville
+    longitude: -121.75687
+    name: Graniterock
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8ee9eda809f84386a724753f17846ded
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:43:34.023726Z'
+    web_domain: graniterock.com
+    website: http://www.graniterock.com
+  postal_code: '95023'
+  total_epds: 17
+  type: Plant
+  updated_on: '2020-08-16T03:10:49.989861Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 900 Spring Street, Silver Spring, MD 20910
+  address_line: 900 Spring Street
+  admin_district: MD
+  admin_district2: Montgomery
+  alt_names:
+  - National Ready Mixed Concrete Association
+  - The National Ready Mixed Concrete Association
+  - NRMCA
+  - National Ready Mix Concrete Association
+  - National Ready-Mix Concrete Association
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/national-ready-mixed-concrete-assoc
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-25T01:07:49.604571Z'
+  currency: USD
+  email: servicerequest@nrmca.org
+  email_extensions:
+  - nrmca.org
+  enterprise: true
+  id: 1812a81e62a1424b8f27738be33fe023
+  image: https://static.buildingtransparency.org/images/0449ac39-6fff-4aca-a07f-36c94f3a3b63.png
+  is_failed: false
+  latitude: 38.99884
+  legal_name: National Ready Mixed Concrete Association
+  locality: Silver Spring
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Montgomery
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 13
+    extendedPostalCode: '209104017'
+    freeformAddress: 900 Spring Street, Silver Spring, MD 20910
+    localName: Silver Spring
+    municipality: Silver Spring
+    municipalitySubdivision: Silver Spring
+    postalCode: '20910'
+    streetName: Spring Street
+    streetNumber: '900'
+  longitude: -77.02468
+  name: NRMCA
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1812a81e62a1424b8f27738be33fe023
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20910'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-06-06T00:35:46.621058Z'
+  web_domain: nrmca.org
+  website: http://www.nrmca.org/sustainability/
+program_operator_fkey: 'NRMCAEPD: 10020'
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3muug9aq
+standard_deviation: 2.059850748 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 11.62117039 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2024-03-14T03:23:02.888370Z'
+use_stored_carbon: false
+verifier:
+  email: paula@ltsexperts.com
+  name: Paula Bernstein
+  org:
+    address: 830 Taft Road, Huntington, VT 05462
+    address_line: 830 Taft Road
+    admin_district: VT
+    admin_district2: Chittenden
+    alt_names:
+    - LTS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-10-29T09:29:30.617864Z'
+    email_extensions:
+    - ltsexperts.com
+    enterprise: true
+    id: acbcc2a7d2e945c6984b078ead7ad914
+    is_failed: false
+    latitude: 44.31176
+    locality: Huntington
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Chittenden
+      countrySubdivision: VT
+      countrySubdivisionName: Vermont
+      countryTertiarySubdivision: Huntington
+      extendedPostalCode: 054629779
+      freeformAddress: 830 Taft Road, Huntington, VT 05462
+      localName: Huntington
+      municipality: Huntington
+      municipalitySubdivision: Huntington
+      postalCode: '05462'
+      streetName: Taft Road
+      streetNumber: '830'
+    longitude: -72.962
+    name: Long Trail Sustainability
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/acbcc2a7d2e945c6984b078ead7ad914
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '05462'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-07-23T18:25:29.149808Z'
+    web_domain: ltsexperts.com
+    website: https://ltsexperts.com/
+warnings:
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

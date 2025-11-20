@@ -1,0 +1,595 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+best_practice: 849.8787522 kgCO2e
+biogenic_embodied_carbon_z: 0.17837600735524944
+box_id: '619980563175'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 521.4991161 kgCO2e
+  pct20_gwp: 694.6503556 kgCO2e
+  pct30_gwp: 763.7966119 kgCO2e
+  pct40_gwp: 816.3412036 kgCO2e
+  pct50_gwp: 882.7302894 kgCO2e
+  pct60_gwp: 940.5757397 kgCO2e
+  pct70_gwp: 1080.065663 kgCO2e
+  pct80_gwp: 1455.354582 kgCO2e
+  pct90_gwp: 2948.429061 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2025-11-20T07:56:44.822971Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1150.121248 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-02-20T11:45:17.784800Z'
+date_of_issue: '2019-10-31'
+date_validity_ends: '2024-10-30'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7900 kg / m3
+description: The rebar is used in the reinforcement of concrete in the construction
+  industry. The rebar surface is rolled with a deformed pattern in order to form an
+  improved mechanical bond with the concrete. Mechanical properties, sizes, and deformation
+  dimensions are specified by ASTM standards A706 and A615. The rebar is shipped to
+  various customers for rebar fabrication. Rebar is fabricated by cutting and bending
+  operations to form shapes according to the needs of a particular project. In accordance
+  with the PCR, the declared unit and product density are shown in Table 1. Table
+  1. Declared unit for reinforcing bar and the approximate density. Parameter Value
+  Density 7,900 kg/m3 MATERIAL CONTENT The steel rebar in this EPD contains 100% recycled
+  steel scrap with an alloy content lower than 5%. In general, the reinforcing steel
+  products will contain 95-99% recycled iron, including < 2% Manganese, < 1% Carbon,
+  < 1.25% Chromium and a total of <2.25% Nickel and other alloying elements. Steel
+  products under normal conditions do not present inhalation, ingestion, or contact
+  health hazards. These products used inside the building envelope do not include
+  materials or substances which have potential route of exposure to humans or flora/fauna
+  in the environment.
+developer:
+  email: asuresh@scsglobalservices.com
+  name: Aditi Suresh
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec30r1wxjx
+en_standards: []
+epd_degraded: false
+epoxy_coated: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-05755_Vinton-Steel_Rebar_103119.pdf
+galvanized: false
+gwp: 1000 kgCO2e
+gwp_per_category_declared_unit: 1000 kgCO2e
+gwp_per_kg: 1 kgCO2e
+gwp_z: 0.17837600735524944
+id: 07b4b0b930bb4718b47501f0829d9a72
+image: https://static.buildingtransparency.org/images/1a085f50877e427da1a63e7ced44e287.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nThe steel rebar in this EPD contains\
+  \ 100% recycled steel scrap with an alloy content lower than 5%. In general, the\
+  \ reinforcing steel products will contain 95-99% recycled iron, including < 2% Manganese,\
+  \ < 1% Carbon, < 1.25% Chromium and a total of <2.25% Nickel and other alloying\
+  \ elements. Steel products under normal conditions do not present inhalation, ingestion,\
+  \ or contact health hazards. These products used inside the building envelope do\
+  \ not include materials or substances which have potential route of exposure to\
+  \ humans or flora/fauna in the environment. \u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026..\n\n## Source Data Notes\nDisclaimers: This EPD conforms to ISO 14025,\
+  \ 14040, 14044, and ISO 21930. Scope of Results Reported: The PCR requirements limit\
+  \ the scope of the LCA metrics such that the results exclude environmental and social\
+  \ performance benchmarks and thresholds, and exclude impacts from the depletion\
+  \ of natural resources, land use ecological impacts, ocean impacts related to greenhouse\
+  \ gas emissions, risks from hazardous wastes and impacts linked to hazardous chemical\
+  \ emissions. Accuracy of Results: Due to PCR constraints, this EPD provides estimations\
+  \ of potential impacts that are inherently limited in terms of accuracy. Comparability:\
+  \ The PCR this EPD was based on was not written to support comparative assertions.\
+  \ EPDs based on different PCRs, or different calculation models, may not be comparable.\
+  \ When attempting to compare EPDs or life cycle impacts of products from different\
+  \ companies, the user should be aware of the uncertainty in the final results, due\
+  \ to and not limited to, the practitioner\u2019s assumptions, the source of the\
+  \ data used in the study, and the specifics of the product modeled. In accordance\
+  \ with ISO 21930:2017, EPDs are comparable only if they comply with the core PCR,\
+  \ use the same sub-category PCR where applicable, include all relevant information\
+  \ modules and are based on equivalent scenarios with respect to the context of construction\
+  \ works."
+lowest_plausible_gwp: 849.8787522 kgCO2e
+manufacturer:
+  address: Vinton, TX 79821, USA
+  admin_district: TX
+  admin_district2: El Paso County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/vinton-steel
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-02-20T11:45:17.908949Z'
+  email_extensions:
+  - vintonsteel.com
+  enterprise: true
+  id: d82c99b9dcd24c33bb85ef9622b0b673
+  is_failed: false
+  latitude: 31.9512135
+  locality: Vinton
+  location:
+  - long_name: Vinton
+    short_name: Vinton
+    types:
+    - locality
+    - political
+  - long_name: El Paso County
+    short_name: El Paso County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Texas
+    short_name: TX
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '79821'
+    short_name: '79821'
+    types:
+    - postal_code
+  longitude: -106.6024915
+  name: Vinton Steel, LLC
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d82c99b9dcd24c33bb85ef9622b0b673
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '79821'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:25:40.972939Z'
+  web_domain: vintonsteel.com
+  website: vintonsteel.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 1
+material_id: 5a6857c641d64b77807f6951c2471523
+my_capabilities: 1
+name: Fabricated Reinforcing Bar
+not_an_epd: false
+open_xpd_uuid: ec30r1wx
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec30r1wx
+output_flows: {}
+pcr:
+  alt_names:
+  - North American Product Category Rule for  Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS Global Services
+  - North American PCR for Designated Steel Construction Products (SCS, 2015)
+  - 'SCS Global: North American Product Category Rule for Designated Steel Construction
+    Products'
+  - North American PCR for Designated Steel Construction Products
+  - North American Product Category Rule for Designated Steel Construction Products
+  - SCS Services. (2015). North American PCR for Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Products
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - North American Product Category Rule for Designated Steel Construction Products
+    Reference PCR by SCS Global Services, May 5, 2015 V.1.O
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015.
+  - North American PCR for Designated Steel Construction Products, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Projects, v1.0, May 2015
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015
+  - North American Product Category Rule for Designated Steel Construction Products,
+    v1.0
+  - SCS PCR for Designated Steel Construction Products v1 2015
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-04T10:19:19.700479Z'
+  date_of_issue: '2015-05-05'
+  date_validity_ends: '2020-05-05'
+  declared_units:
+  - 1 tonne
+  doc: https://cdn.scsglobalservices.com/files/standards/scs_pcr_steel-products_050515_final.pdf
+  id: b1aba1a033844da19a8b22ca146b5125
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: North American PCR for Designated Steel Construction Products
+  open_xpd_uuid: ec3spn6n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3spn6n
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3spn6nw2
+  short_name: Designated Steel Construction Products
+  status: Sunset
+  updated_on: '2025-08-11T20:22:04.833912Z'
+  version: '1'
+pcr_notes: Should be split for list of US southwest factories
+pct80_gwp_per_category_declared_unit: 1150.121248 kgCO2e
+plant_geography:
+- US-NM
+- US-OK
+- US-AZ
+- US
+- US-TX
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-12-02T19:41:45.837607Z'
+  id: e0597b13f6084880abeb1c9d2f1a60a7
+  is_failed: false
+  jurisdiction:
+  - US
+  name: US Southwest
+  owned_by:
+    address: Vinton, TX 79821, USA
+    admin_district: TX
+    admin_district2: El Paso County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/vinton-steel
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-02-20T11:45:17.908949Z'
+    email_extensions:
+    - vintonsteel.com
+    enterprise: true
+    id: d82c99b9dcd24c33bb85ef9622b0b673
+    is_failed: false
+    latitude: 31.9512135
+    locality: Vinton
+    location:
+    - long_name: Vinton
+      short_name: Vinton
+      types:
+      - locality
+      - political
+    - long_name: El Paso County
+      short_name: El Paso County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Texas
+      short_name: TX
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '79821'
+      short_name: '79821'
+      types:
+      - postal_code
+    longitude: -106.6024915
+    name: Vinton Steel, LLC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d82c99b9dcd24c33bb85ef9622b0b673
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '79821'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:25:40.972939Z'
+    web_domain: vintonsteel.com
+    website: vintonsteel.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2020-12-02T19:44:34.163471Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-05755
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec30r1wxjx
+standard_deviation: 178.3760074 kgCO2e
+steel_fabricated: true
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1150.121248 kgCO2e
+uncertainty_factor: 1.1501212477901779
+updated_on: '2025-01-14T08:34:28.496211Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified

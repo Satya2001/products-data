@@ -1,0 +1,449 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+astm_standards: []
+best_practice: 1849.059638 kgCO2e
+biogenic_embodied_carbon_z: 0.38046419016774763
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-11-04T15:08:09Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hollow cross section steel shape, typically referred to as hollow structural
+    section (HSS)
+  display_name: Hollow Sections
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: e96e409053534524b18ca57b992bb328
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: HollowSections
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> HollowSections
+  openepd_name: Steel >> StructuralSteel >> HollowSections
+  parents: []
+  pct10_gwp: 1314.981566 kgCO2e
+  pct20_gwp: 1532.380667 kgCO2e
+  pct30_gwp: 1686.700564 kgCO2e
+  pct40_gwp: 1805.098675 kgCO2e
+  pct50_gwp: 1929.075635 kgCO2e
+  pct60_gwp: 2120.163034 kgCO2e
+  pct70_gwp: 2242.274264 kgCO2e
+  pct80_gwp: 2442.963977 kgCO2e
+  pct90_gwp: 2953.7688 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Hollow Sections
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30104000'
+  updated_on: '2025-11-20T07:56:47.916939Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3590.940362 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-09-05T14:45:33.301168Z'
+date_of_issue: '2025-09-05'
+date_validity_ends: '2030-09-05'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7870 kg / m^3
+description: "Galvanized tube from Allied Tube &amp; Conduit has been manufactured\
+  \ with a combination of strength and advanced corrosion protection for over 40 years.\
+  \ Atkore\u2019s unique Gatorshield\xAE coating produces superior corrosion resistance\
+  \ by utilizing a triple layer of protection. The tube can be easily fabricated including\
+  \ bending, swaging, and flattening without damaging the layers of protection. Ranging\
+  \ in size from .500\u201D to 8.75\u201D and varying shapes from square and rectangle\
+  \ to round and oval, Allied Tube &amp; Conduit delivers an unmatched reliable and\
+  \ quality product. Atkore\u2019s galvanized tube conforms to UL2703."
+developer:
+  org:
+    alt_names:
+    - Atkore
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-19T19:29:57.150363Z'
+    enterprise: false
+    id: 4eace29d70d84b30bde08d51c6424c88
+    is_failed: false
+    name: Atkore
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4eace29d70d84b30bde08d51c6424c88
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-09T16:54:26.250965Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: atkore.com
+    website: atkore.com
+doc: smartepd.com/epd-library/6850425524bf6a71b37e0ffd
+en_standards: []
+excluded: false
+externally_verified: true
+galvanized: false
+gwp: 2720 kgCO2e
+gwp_per_category_declared_unit: 2720 kgCO2e
+gwp_per_kg: 2.72 kgCO2e
+gwp_z: 0.38046419016774763
+id: 8c84426a730d460eb3b9033cfd733b88
+image: https://www.smartepd.com/api/epd-library/gallery/686584a104d57d5eeb6215f2
+impacts: {}
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1849.059638 kgCO2e
+manufacturer:
+  alt_names:
+  - Atkore
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-03-19T19:29:57.150363Z'
+  enterprise: false
+  id: 4eace29d70d84b30bde08d51c6424c88
+  is_failed: false
+  name: Atkore
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4eace29d70d84b30bde08d51c6424c88
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-09T16:54:26.250965Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: atkore.com
+  website: atkore.com
+manufacturer_specific: true
+manufacturing_image: https://www.smartepd.com/api/epd-library/gallery/685c7cbf536e42b8d22806c9
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 1
+material_id: 5479cbdd9efc4a5cb18fbd7bf74ed075
+my_capabilities: 1
+name: Steel Mechanical Tubing
+not_an_epd: false
+open_xpd_uuid: ec3k7r3t
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3k7r3t
+output_flows: {}
+owner:
+  name: Mariya Verovko
+  user_id: mariya.verovko@smartepd.com
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2025-04-29T14:36:31.670754Z'
+  date_of_issue: '2025-04-03'
+  date_validity_ends: '2030-04-03'
+  declared_units:
+  - 1 kg
+  doc: buildingtransparency.org/p/ec35721x73
+  id: 9b8397a2cac24f6095e677ddf894a0ad
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: "Smart EPD\xAE Part B PCR for Designated Steel Construction Products, 1000-008,\
+    \ v3.0"
+  open_xpd_uuid: ec35721x
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35721x
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec35721x73
+  short_name: Steel Construction Products
+  updated_on: '2025-07-09T14:58:11.655119Z'
+  version: '3'
+pct80_gwp_per_category_declared_unit: 3590.940362 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-09-05T14:45:34.018994Z'
+  id: fbc9503eb2af4c778e5276e8aefb821b
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Hobart, IN, Phoenix, AZ, Harvey, IL
+  owned_by:
+    alt_names:
+    - Atkore
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-19T19:29:57.150363Z'
+    enterprise: false
+    id: 4eace29d70d84b30bde08d51c6424c88
+    is_failed: false
+    name: Atkore
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4eace29d70d84b30bde08d51c6424c88
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-09T16:54:26.250965Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: atkore.com
+    website: atkore.com
+  plants_count: 3
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2025-09-05T15:00:01.556359Z'
+plant_specific: false
+private: false
+product_classes:
+  CN: '73045189'
+product_specific: false
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+resource_uses: {}
+sae_standards: []
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3k7r3ta4
+sku: Square Solar Tube - 4"
+stainless: false
+standard_deviation: 1034.862597 kgCO2e
+steel_composition: Carbon
+steel_fabricated: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3590.940362 kgCO2e
+uncertainty_factor: 1.3201986624451765
+updated_on: '2025-09-06T11:25:39Z'
+use_stored_carbon: false
+verifier:
+  email: curpen1996@gmail.com
+  name: curpen1996
+  org:
+    address: Herndon, VA 20170, USA
+    admin_district: VA
+    admin_district2: Fairfax County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-11-14T14:43:39.418085Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+    id: bf9d0aaa64de490bbd874ae435e9945e
+    image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+    is_failed: false
+    latitude: 38.9695545
+    locality: Herndon
+    location:
+    - long_name: Herndon
+      short_name: Herndon
+      types:
+      - locality
+      - political
+    - long_name: Fairfax County
+      short_name: Fairfax County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Virginia
+      short_name: VA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '20170'
+      short_name: '20170'
+      types:
+      - postal_code
+    longitude: -77.3860976
+    name: Smart EPD LLC
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '20170'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-01-22T21:59:42.873726Z'
+    web_domain: smartepd.com
+    website: www.smartepd.com
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - GWP with the PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Verifier is not employee of verifier org

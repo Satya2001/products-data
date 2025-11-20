@@ -1,0 +1,606 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 124.6717064 kgCO2e
+biogenic_embodied_carbon_z: 0.35128336140500593
+box_id: '797579781151'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2018-09-28T14:36:49.779622Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Exterior skin of building where walls are non-structural and are outboard
+    of the floor slabs, often as system of aluminum framing with vision glass and
+    opaque panels of glass, metal, or other materials, Can be 'unitized' (prefabricated
+    off-site) or 'stick' (fabricated on site).
+  display_name: Curtain Walls
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 73c2edf45aa24856b11bd8598b77db45
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 35.7 kg
+  massless: false
+  masterformat: 08 44 00 Curtain Wall and Glazed Assemblies
+  may_contain_trusted_vendor_declarations: false
+  name: CurtainWalls
+  no_statistics: true
+  obsolete: false
+  openepd: Openings >> CurtainWalls
+  openepd_name: Openings >> CurtainWalls
+  parents: []
+  pct10_gwp: 31.70660721 kgCO2e
+  pct20_gwp: 40.81618328 kgCO2e
+  pct30_gwp: 112.5593177 kgCO2e
+  pct40_gwp: 154.172065 kgCO2e
+  pct50_gwp: 173.6619972 kgCO2e
+  pct60_gwp: 192.1873658 kgCO2e
+  pct70_gwp: 220.2738926 kgCO2e
+  pct80_gwp: 264.080653 kgCO2e
+  pct90_gwp: 320.0980175 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Curtain Walls
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171613'
+  updated_on: '2025-11-20T07:58:01.212106Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 229.3282936 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-04-09T19:47:56.122449Z'
+date_of_issue: '2015-11-16'
+date_validity_ends: '2020-11-16'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: Kawneer curtain wall systems are designed to minimize heat gain/loss
+  (thermal conductance) through the curtain wall systems. Once viewed as an outer
+  skin able to keep out water and hold glass, curtain wall systems have evolved into
+  much more, offering not only high thermal performance, but also benefits such as
+  blast mitigation, hurricane resistance and day lighting. Structural Silicone Glazed
+  (SSG) curtain wall for low-to-mid-rise
+developer:
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: https://buildingtransparency.org/ec3/epds/ec33rwzt
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: kawneer 1600 EPD_4cc93c938fe6431688771cbd34e46414.pdf
+gwp: 177 kgCO2e
+gwp_per_category_declared_unit: 177 kgCO2e
+gwp_per_kg: 4.971910112 kgCO2e
+gwp_z: 0.35128336140500593
+id: 4d05a9e8e7dc4715a877318afb13650a
+image: https://static.buildingtransparency.org/images/bcfb92f64c364e8194e1bdab0107b66f.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Source Data Notes\nAA. 2013 \u201CThe Environmental Footprint\
+  \ of Semi-finished Aluminum Products in North America: A Life Cycle Assessment Report.\u201D\
+  \ Aluminum Association. 2013 Bare, J. 2012 Tool for the Reduction and Assessment\
+  \ of Chemical and other Environmental Impacts (TRACI) - Software Name and Version\
+  \ Number: TRACI version 2.1 - User\u2019s Manual. Washington, D.C.: U.S. EPA. Earthsure\
+  \ 2015 Earthsure. \u201CCradle to Gate Window Product Category Rule. September 2015.\u201D\
+  \ Earthsure PCR Cradle-to-Gate 30171600:2015. A Program of the Institute for Environmental\
+  \ Research and Education. Vashon WA. 2015 EN 15804 2012 European Committee for Standardization\
+  \ (CEN). \u201CEN15804:2012. Sustainability of construction works - Environmental\
+  \ product declarations- Core rules for the product category of construction products\u201D\
+  \ ISO 14040 International Standard Organization. ISO 14040:2006-10, Environmental\
+  \ management - Life cycle assessment - Principles and framework (ISO 14040:2006).\u201D\
+  \ German and English version EN ISO 14040:2006 Geneva. 2006 ISO 14044 International\
+  \ Standard Organization. \u201CISO 14044:200610, Environmental management - Life\
+  \ cycle assessment - Requirements and guidelines (ISO 14044:2006).\u201D German\
+  \ and English version EN ISO 14044:2006 Geneva. 2006 thinkstep. 2014 GaBi LCA Database\
+  \ Documentation. Retrieved from thinkstep AG: http://database- documentation.gabi-software.com\
+  \ The Life Cycle Assessment was conducted by thinkstep (formerly PE INTERNATIONAL)\
+  \ using GaBi data."
+lowest_plausible_gwp: 124.6717064 kgCO2e
+manufacturer:
+  address: 555 Guthridge Ct NW, Norcross, GA 30092, USA
+  address_line: 555 Guthridge Ct NW
+  admin_district: GA
+  admin_district2: Gwinnett County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/kawneer
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:04:14.092099Z'
+  email_extensions:
+  - kawneer.com
+  enterprise: true
+  id: c50815559c954fde9275e587d697831d
+  is_failed: false
+  latitude: 33.9594197
+  locality: Norcross
+  location:
+  - long_name: '555'
+    short_name: '555'
+    types:
+    - street_number
+  - long_name: Guthridge Court Northwest
+    short_name: Guthridge Ct NW
+    types:
+    - route
+  - long_name: Norcross
+    short_name: Norcross
+    types:
+    - locality
+    - political
+  - long_name: Gwinnett County
+    short_name: Gwinnett County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30092'
+    short_name: '30092'
+    types:
+    - postal_code
+  - long_name: '3503'
+    short_name: '3503'
+    types:
+    - postal_code_suffix
+  longitude: -84.2210869
+  name: Kawneer
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c50815559c954fde9275e587d697831d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30092'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:51:26.966795Z'
+  web_domain: kawneer.com
+  website: www.kawneer.com
+manufacturer_specific: true
+mass_per_declared_unit: 35.6 kg
+matched_plants_count: 1
+material_id: ecff8a6fdf8044dcb40cec1505dc48ab
+my_capabilities: 1
+name: Traditional Curtain Wall (CS)
+not_an_epd: false
+open_xpd_uuid: ec33rwzt
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33rwzt
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Cradle to Gate Window Product Category Rule
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:31.239381Z'
+  date_of_issue: '2015-09-01'
+  date_validity_ends: '2020-09-01'
+  declared_units:
+  - 1 m2
+  doc: https://app.box.com/file/647381743094
+  errors: {}
+  failures: {}
+  id: e70744f4789d47f88cb9d3d174185250
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: PCR Cradle-to-Gate Windows 30171600:2015
+  open_xpd_uuid: ec3tr1km
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3tr1km
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3tr1kmae
+  short_name: Windows
+  status: Sunset
+  updated_on: '2025-09-02T00:01:13.763492Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 229.3282936 kgCO2e
+plant_geography:
+- US-CA
+- US
+- CA
+- US-AR
+- CA-AB
+- US-PA
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-01-12T18:56:56.149658Z'
+  id: 579ed2cc23904538a4dea040832fabf9
+  is_failed: false
+  jurisdiction:
+  - US
+  - CA
+  name: Kawneer Company, Inc.
+  owned_by:
+    address: 555 Guthridge Ct NW, Norcross, GA 30092, USA
+    address_line: 555 Guthridge Ct NW
+    admin_district: GA
+    admin_district2: Gwinnett County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/kawneer
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:04:14.092099Z'
+    email_extensions:
+    - kawneer.com
+    enterprise: true
+    id: c50815559c954fde9275e587d697831d
+    is_failed: false
+    latitude: 33.9594197
+    locality: Norcross
+    location:
+    - long_name: '555'
+      short_name: '555'
+      types:
+      - street_number
+    - long_name: Guthridge Court Northwest
+      short_name: Guthridge Ct NW
+      types:
+      - route
+    - long_name: Norcross
+      short_name: Norcross
+      types:
+      - locality
+      - political
+    - long_name: Gwinnett County
+      short_name: Gwinnett County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30092'
+      short_name: '30092'
+      types:
+      - postal_code
+    - long_name: '3503'
+      short_name: '3503'
+      types:
+      - postal_code_suffix
+    longitude: -84.2210869
+    name: Kawneer
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c50815559c954fde9275e587d697831d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30092'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:51:26.966795Z'
+    web_domain: kawneer.com
+    website: www.kawneer.com
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2021-01-12T18:56:58.837317Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 47868332121.105.1
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33rwztpr
+standard_deviation: 62.17715497 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 229.3282936 kgCO2e
+uncertainty_factor: 1.295640076958453
+updated_on: '2024-03-14T02:02:04.687831Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

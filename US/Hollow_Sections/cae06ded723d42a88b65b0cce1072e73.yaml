@@ -1,0 +1,569 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+astm_standards: []
+best_practice: 1324.128585 kgCO2e
+biogenic_embodied_carbon_z: 0.3777525645180983
+box_id: '1258016285482'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-11-04T15:08:09Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hollow cross section steel shape, typically referred to as hollow structural
+    section (HSS)
+  display_name: Hollow Sections
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: e96e409053534524b18ca57b992bb328
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: HollowSections
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> HollowSections
+  openepd_name: Steel >> StructuralSteel >> HollowSections
+  parents: []
+  pct10_gwp: 1314.981566 kgCO2e
+  pct20_gwp: 1532.380667 kgCO2e
+  pct30_gwp: 1686.700564 kgCO2e
+  pct40_gwp: 1805.098675 kgCO2e
+  pct50_gwp: 1929.075635 kgCO2e
+  pct60_gwp: 2120.163034 kgCO2e
+  pct70_gwp: 2242.274264 kgCO2e
+  pct80_gwp: 2442.963977 kgCO2e
+  pct90_gwp: 2953.7688 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Hollow Sections
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30104000'
+  updated_on: '2025-11-20T07:56:47.916939Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2558.471415 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-07-30T08:31:47.548749Z'
+date_of_issue: '2022-03-22'
+date_validity_ends: '2024-08-14'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7850 kg / m3
+description: Steel tubes covered by this product declaration are classified as either
+  Hollow Structural Sections (HSS) or mechanical tubing. They are produced by the
+  single seam Electric Resistance Welded (ERW) process in round, square and rectangular
+  shapes. These products can be used in any welded or bolted construction and in various
+  manufactured products.
+developer:
+  email: info@sphera.com
+  name: Sphera staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec32aeekq2
+document_version: JKRPNOPQ
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Atlas Tube Environmental-Product-Declaration_a9ebcf07a9074d318a01a532928c9f28.pdf
+galvanized: false
+gwp: 1941.3 kgCO2e
+gwp_per_category_declared_unit: 1941.3 kgCO2e
+gwp_per_kg: 1.9413 kgCO2e
+gwp_z: 0.3777525645180983
+id: fb0997fb4515497a9d96a73b6b307b72
+image: https://static.buildingtransparency.org/images/fbd98e396ff8419793c4a755429ef49c.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1324.128585 kgCO2e
+manufacturer:
+  address: 1855 East 122nd Street, Chicago, IL 60633
+  address_line: 1855 East 122nd Street
+  admin_district: IL
+  admin_district2: Cook
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-07-09T23:37:50.513268Z'
+  enterprise: true
+  id: 9fa71c31d63442179d99f92d4e6ca131
+  image: https://static.buildingtransparency.org/images/f525d27ccb3d4a28bb0f27bb0340dd7d.png
+  is_failed: false
+  latitude: 41.67357
+  locality: Chicago
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cook
+    countrySubdivision: IL
+    countrySubdivisionName: Illinois
+    extendedPostalCode: '606332362'
+    freeformAddress: 1855 East 122nd Street, Chicago, IL 60633
+    localName: Chicago
+    municipality: Chicago
+    municipalitySubdivision: South Deering
+    postalCode: '60633'
+    streetName: East 122nd Street
+    streetNumber: '1855'
+  longitude: -87.57793
+  name: Atlas Tube
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fa71c31d63442179d99f92d4e6ca131
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '60633'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-11-08T02:45:57.797882Z'
+  web_domain: atlastube.com
+  website: https://www.atlastube.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 1
+material_id: cae06ded723d42a88b65b0cce1072e73
+my_capabilities: 1
+name: Fabricated Hollow structural steel sections (average)
+not_an_epd: false
+open_xpd_uuid: ec32aeek
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32aeek
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-fossil
+      - gwp
+      - gwp-biogenic
+      - gwp-luluc
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - ep-fresh
+      - ep-terrestrial
+      - pocp
+      - ep-marine
+      - ep
+      - odp
+      - ap
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2025-09-18T05:33:14.263756Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2558.471415 kgCO2e
+plant_geography:
+- US-AL
+- US-IL
+- CA-ON
+- US-MI
+- US-AR
+- US-AZ
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-27T11:44:25.524230Z'
+  id: 1d0408e7c32e48219d5f740977d739d2
+  is_failed: false
+  jurisdiction:
+  - US-AL
+  - US-IL
+  - CA-ON
+  - US-MI
+  - US-AR
+  - US-AZ
+  name: Atlas Tube Plants
+  owned_by:
+    address: 1855 East 122nd Street, Chicago, IL 60633
+    address_line: 1855 East 122nd Street
+    admin_district: IL
+    admin_district2: Cook
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-07-09T23:37:50.513268Z'
+    enterprise: true
+    id: 9fa71c31d63442179d99f92d4e6ca131
+    image: https://static.buildingtransparency.org/images/f525d27ccb3d4a28bb0f27bb0340dd7d.png
+    is_failed: false
+    latitude: 41.67357
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      extendedPostalCode: '606332362'
+      freeformAddress: 1855 East 122nd Street, Chicago, IL 60633
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: South Deering
+      postalCode: '60633'
+      streetName: East 122nd Street
+      streetNumber: '1855'
+    longitude: -87.57793
+    name: Atlas Tube
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fa71c31d63442179d99f92d4e6ca131
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60633'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-11-08T02:45:57.797882Z'
+    web_domain: atlastube.com
+    website: https://www.atlastube.com/
+  plants_count: 5
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-27T15:50:08.250726Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4790050508.101.1
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32aeekq2
+stainless: false
+standard_deviation: 733.3310535 kgCO2e
+steel_fabricated: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2558.471415 kgCO2e
+uncertainty_factor: 1.3179165582984316
+updated_on: '2025-06-25T01:00:22.810062Z'
+use_stored_carbon: false
+verifier:
+  email: info@thriveesg.com
+  name: James Mellentine
+  org:
+    address: 1312 17th St, Denver, CO 80202, USA
+    address_line: 1312 17th St
+    admin_district: CO
+    admin_district2: Denver County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-05-07T22:39:03.973231Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/bb5d369335074f9ba40ed53bbe586a71.png
+    id: 170cb26c578848bb94ecee1f5a5f44d7
+    image: https://static.buildingtransparency.org/images/4ac82ea1a716407b84cd31235a7e94e7.png
+    is_failed: false
+    latitude: 39.7503299
+    locality: Denver
+    location:
+    - long_name: '1312'
+      short_name: '1312'
+      types:
+      - street_number
+    - long_name: 17th Street
+      short_name: 17th St
+      types:
+      - route
+    - long_name: Central
+      short_name: Central
+      types:
+      - neighborhood
+      - political
+    - long_name: Denver
+      short_name: Denver
+      types:
+      - locality
+      - political
+    - long_name: Denver County
+      short_name: Denver County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Colorado
+      short_name: CO
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '80202'
+      short_name: '80202'
+      types:
+      - postal_code
+    longitude: -104.9966735
+    name: Thrive ESG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/170cb26c578848bb94ecee1f5a5f44d7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '80202'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-03-27T19:29:29.866418Z'
+    web_domain: thriveesg.com
+    website: http://www.thriveesg.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

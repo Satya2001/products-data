@@ -1,0 +1,618 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/gerdau
+best_practice: 735.3513346 kgCO2e
+biogenic_embodied_carbon_z: 0.07244998274671982
+box_id: '311628052651'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 521.4991161 kgCO2e
+  pct20_gwp: 694.6503556 kgCO2e
+  pct30_gwp: 763.7966119 kgCO2e
+  pct40_gwp: 816.3412036 kgCO2e
+  pct50_gwp: 882.7302894 kgCO2e
+  pct60_gwp: 940.5757397 kgCO2e
+  pct70_gwp: 1080.065663 kgCO2e
+  pct80_gwp: 1455.354582 kgCO2e
+  pct90_gwp: 2948.429061 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2025-11-20T07:56:44.822971Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 830.8486654 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-01T14:46:17.257840Z'
+date_of_issue: '2015-12-15'
+date_validity_ends: '2018-11-30'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 7843 kg / m3
+description: Gerdau produces rebar, providing an unrivaled range of straight bars
+  and dowel products. With our rebar, which is rolled from continuous cast billets,
+  customers can choose products including dowel bars, mine anchor bolts and straight
+  rebar.
+developer:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+    address_line: 4221 West Boy Scout Boulevard, West Columbus Drive, Florida 589,
+      Florida 616, Florida State Road 589, Florida State Road 616, State Road 589,
+      State Road 616
+    admin_district: FL
+    admin_district2: Hillsborough
+    alt_names:
+    - Gerdau Corsa
+    - Gerdau Long Steel North America
+    - Gerdau
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/gerdau
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T19:47:24.132784Z'
+    email_extensions:
+    - gerdau.com
+    enterprise: true
+    id: 9dc0a25b6d4d479aab471ab7b5a95865
+    image: https://static.buildingtransparency.org/images/9f8e7f10-ebee-4899-b03a-4e0a8373c4f4.png
+    is_failed: false
+    latitude: 27.96611
+    legal_name: Gerdau Long Steel
+    locality: Tampa
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Hillsborough
+      countrySubdivision: FL
+      countrySubdivisionName: Florida
+      countryTertiarySubdivision: Tampa
+      extendedPostalCode: '336075705'
+      freeformAddress: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+      localName: Tampa
+      municipality: Tampa
+      municipalitySubdivision: Tampa
+      postalCode: '33607'
+      streetName: West Boy Scout Boulevard, West Columbus Drive, Florida 589, Florida
+        616, Florida State Road 589, Florida State Road 616, State Road 589, State
+        Road 616
+      streetNumber: '4221'
+    longitude: -82.51436
+    name: Gerdau Long Steel
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9dc0a25b6d4d479aab471ab7b5a95865
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '33607'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:42:27.102143Z'
+    web_domain: gerdau.com
+    website: www.gerdau.com/northamerica
+doc: buildingtransparency.org/e/ec3hmskt73
+en_standards: []
+epd_degraded: false
+epoxy_coated: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-03799_Gerdau_Rebar-Rancho-Cucamonga_122816.pdf
+galvanized: false
+gwp: 783.1 kgCO2e
+gwp_per_category_declared_unit: 783.1 kgCO2e
+gwp_per_kg: 0.7831 kgCO2e
+gwp_z: 0.07244998274671982
+id: f903c9ee929149bb837945b82d465e4f
+image: https://static.buildingtransparency.org/images/50915244c2c84adfa015daced7afe8f5.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nThe approximate material content of carbon\
+  \ steel rebar will vary slightly from batch to batch. In general, the steel will\
+  \ contain < 97% recycled iron, < 2% Manganese, <1.5% Copper, <0.9% Carbon, and a\
+  \ total of 1.5% or less of Nickel, Silicon, Sulfur, Tin, Phosphorus, and Vanadium.\
+  \ Steel products used inside the building envelope (e.g., used in load-bearing applications\
+  \ present inside wall structures) do not include materials or substances which have\
+  \ any potential route of exposure to humans or flora/fauna in the environment.\n\
+  \n## Source Data Notes\n1. Bare, J., et al. TRACI - The Tool for the Reduction and\
+  \ Assessment of Chemical and Other Environmental Impacts. Journal of Industrial\
+  \ Ecology. Volume 6, no. 3-4 (2003). http://mitpress.mit.edu/jie 2. CML-IA Characterization\
+  \ Factors v4.1. Leiden University, Institute of Environmental Sciences. October\
+  \ 2012 3. Cradle to Gate Life Cycle Assessment of Rebar and Wire Products by Gerdau.\
+  \ Prepared by Environmental Resources Management. November 2016. 4. Ecoinvent Centre\
+  \ (2010) ecoinvent data from v2.2. Swiss Center for Life Cycle Inventories, D\xFC\
+  bendorf, 2010, http://www.ecoinvent.org 5. EN 15804:2012+A1:2013. Sustainability\
+  \ of construction works - Environmental product declarations - Core rules for the\
+  \ product category of construction products. 2013. 6. ISO 14025:2006 Environmental\
+  \ labels and declarations - Type III environmental declarations - Principles and\
+  \ Procedures. 7. ISO 14040: 2006 Environmental Management - Life cycle assessment\
+  \ - Requirements and Guidelines 8. ISO 14044: 2006 Environmental Management - Life\
+  \ cycle assessment - Requirements and Guidelines. 9. ISO 21930: 2007 Sustainability\
+  \ in building construction - Environmental declaration of building products. 10.\
+  \ North American Product Category Rule for Designated Steel Construction Products.\
+  \ SCS Global Services. Version 1.0. May 2015. 11. GaBi Databases. Thinkstep. http://www.gabi-software.com/\
+  \ 12. SCS Type III Environmental Declaration Program: Program Operator Manual v7.0.\
+  \ October 2015. SCS Global Services. 13. US Life-Cycle Inventory Database. National\
+  \ Renewable Energy Laboratory. http://www.nrel.gov/lci/ 14. World Steel Association,\
+  \ \u201CLife Cycle Assessment Methodology Report - Life cycle inventory study for\
+  \ steel products\u201D. 2011."
+lowest_plausible_gwp: 735.3513346 kgCO2e
+manufacturer:
+  address: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+  address_line: 4221 West Boy Scout Boulevard, West Columbus Drive, Florida 589, Florida
+    616, Florida State Road 589, Florida State Road 616, State Road 589, State Road
+    616
+  admin_district: FL
+  admin_district2: Hillsborough
+  alt_names:
+  - Gerdau Corsa
+  - Gerdau Long Steel North America
+  - Gerdau
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/gerdau
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-08T19:47:24.132784Z'
+  email_extensions:
+  - gerdau.com
+  enterprise: true
+  id: 9dc0a25b6d4d479aab471ab7b5a95865
+  image: https://static.buildingtransparency.org/images/9f8e7f10-ebee-4899-b03a-4e0a8373c4f4.png
+  is_failed: false
+  latitude: 27.96611
+  legal_name: Gerdau Long Steel
+  locality: Tampa
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Hillsborough
+    countrySubdivision: FL
+    countrySubdivisionName: Florida
+    countryTertiarySubdivision: Tampa
+    extendedPostalCode: '336075705'
+    freeformAddress: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+    localName: Tampa
+    municipality: Tampa
+    municipalitySubdivision: Tampa
+    postalCode: '33607'
+    streetName: West Boy Scout Boulevard, West Columbus Drive, Florida 589, Florida
+      616, Florida State Road 589, Florida State Road 616, State Road 589, State Road
+      616
+    streetNumber: '4221'
+  longitude: -82.51436
+  name: Gerdau Long Steel
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9dc0a25b6d4d479aab471ab7b5a95865
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '33607'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:42:27.102143Z'
+  web_domain: gerdau.com
+  website: www.gerdau.com/northamerica
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 6a9c3e2c6a634b8489c33148c5bb245d
+my_capabilities: 1
+name: Rebar, Rancho Cucamonga, CA Steel Mill
+not_an_epd: false
+open_xpd_uuid: ec3hmskt
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hmskt
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - North American Product Category Rule for  Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS Global Services
+  - North American PCR for Designated Steel Construction Products (SCS, 2015)
+  - 'SCS Global: North American Product Category Rule for Designated Steel Construction
+    Products'
+  - North American PCR for Designated Steel Construction Products
+  - North American Product Category Rule for Designated Steel Construction Products
+  - SCS Services. (2015). North American PCR for Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Products
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - North American Product Category Rule for Designated Steel Construction Products
+    Reference PCR by SCS Global Services, May 5, 2015 V.1.O
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015.
+  - North American PCR for Designated Steel Construction Products, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Projects, v1.0, May 2015
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015
+  - North American Product Category Rule for Designated Steel Construction Products,
+    v1.0
+  - SCS PCR for Designated Steel Construction Products v1 2015
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-04T10:19:19.700479Z'
+  date_of_issue: '2015-05-05'
+  date_validity_ends: '2020-05-05'
+  declared_units:
+  - 1 tonne
+  doc: https://cdn.scsglobalservices.com/files/standards/scs_pcr_steel-products_050515_final.pdf
+  id: b1aba1a033844da19a8b22ca146b5125
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: North American PCR for Designated Steel Construction Products
+  open_xpd_uuid: ec3spn6n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3spn6n
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3spn6nw2
+  short_name: Designated Steel Construction Products
+  status: Sunset
+  updated_on: '2025-08-11T20:22:04.833912Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 830.8486654 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Arrow Route, Rancho Cucamonga, CA 91739
+  address_line: ' Arrow Route, Arrow Boulevard, Arrow Highway'
+  admin_district: CA
+  admin_district2: San Bernardino
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-09T01:03:06.463402Z'
+  id: 2f758c3f6aa94ae6997981d63bf653b3
+  invalid_after: '2018-12-01'
+  is_failed: false
+  latitude: 34.09904
+  locality: Rancho Cucamonga
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: San Bernardino
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: San Bernardino
+    extendedPostalCode: 9173998,917399219,917399463,917399601,917399630,917399680,917399681,917399682,917399683,917399684,917399693,917399807
+    freeformAddress: Arrow Route, Rancho Cucamonga, CA 91739
+    municipality: Rancho Cucamonga
+    municipalitySubdivision: Rancho Cucamonga
+    postalCode: '91739'
+    streetName: Arrow Route, Arrow Boulevard, Arrow Highway
+  longitude: -117.53026
+  name: Gerdau Rancho Cucamonga Steel Mill
+  openepd_id: 85643FX9+JV.gerdau.com
+  owned_by:
+    address: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+    address_line: 4221 West Boy Scout Boulevard, West Columbus Drive, Florida 589,
+      Florida 616, Florida State Road 589, Florida State Road 616, State Road 589,
+      State Road 616
+    admin_district: FL
+    admin_district2: Hillsborough
+    alt_names:
+    - Gerdau Corsa
+    - Gerdau Long Steel North America
+    - Gerdau
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/gerdau
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T19:47:24.132784Z'
+    email_extensions:
+    - gerdau.com
+    enterprise: true
+    id: 9dc0a25b6d4d479aab471ab7b5a95865
+    image: https://static.buildingtransparency.org/images/9f8e7f10-ebee-4899-b03a-4e0a8373c4f4.png
+    is_failed: false
+    latitude: 27.96611
+    legal_name: Gerdau Long Steel
+    locality: Tampa
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Hillsborough
+      countrySubdivision: FL
+      countrySubdivisionName: Florida
+      countryTertiarySubdivision: Tampa
+      extendedPostalCode: '336075705'
+      freeformAddress: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+      localName: Tampa
+      municipality: Tampa
+      municipalitySubdivision: Tampa
+      postalCode: '33607'
+      streetName: West Boy Scout Boulevard, West Columbus Drive, Florida 589, Florida
+        616, Florida State Road 589, Florida State Road 616, State Road 589, State
+        Road 616
+      streetNumber: '4221'
+    longitude: -82.51436
+    name: Gerdau Long Steel
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9dc0a25b6d4d479aab471ab7b5a95865
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '33607'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:42:27.102143Z'
+    web_domain: gerdau.com
+    website: www.gerdau.com/northamerica
+  postal_code: '91739'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2020-07-20T19:04:37.789441Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-03799
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hmskt73
+standard_deviation: 56.73558149 kgCO2e
+steel_fabricated: true
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 830.8486654 kgCO2e
+uncertainty_factor: 1.0609739054796394
+updated_on: '2025-01-14T01:27:41.862784Z'
+use_stored_carbon: false
+verifier:
+  email: jhakian@scsglobalservices.com
+  name: Jeremie Hakian
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified

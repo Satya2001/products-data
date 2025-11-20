@@ -1,0 +1,598 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  Datasheet: https://neopor.basf.us/files/pdf/2019_Neopor_CommConst_8-5x11_LRes.pdf
+best_practice: 1.619256899 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '628856806738'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.56 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.161773448 kgCO2e
+  pct20_gwp: 2.826833427 kgCO2e
+  pct30_gwp: 3.371672829 kgCO2e
+  pct40_gwp: 4.209539511 kgCO2e
+  pct50_gwp: 5.404156868 kgCO2e
+  pct60_gwp: 6.928031479 kgCO2e
+  pct70_gwp: 8.914929053 kgCO2e
+  pct80_gwp: 11.81690411 kgCO2e
+  pct90_gwp: 16.63461223 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-11-20T07:57:34.086071Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 2.840743101 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-04-01T08:35:59.232813Z'
+date_of_issue: '2020-02-14'
+date_validity_ends: '2025-02-14'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 1.1499999999999997 lb / ft3
+description: "Neopor\xAEPlus (GPS) insulation boards are graphite polystyrene (GPS)\
+  \ with a polymeric flame retardant in uniform distribution (blowing agent: pentane)."
+developer:
+  email: bruce.uhlman@basf.com
+  name: Bruce Uhlman
+  org:
+    address: 4011 Southeast International Way, Portland, OR 97222
+    address_line: 4011 Southeast International Way
+    admin_district: OR
+    admin_district2: Clackamas
+    alt_names:
+    - BASF
+    - BASF SE
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-04-17T12:53:12.971504Z'
+    email_extensions:
+    - basf.com
+    enterprise: true
+    id: c33f916720674915b58e524b210c2927
+    image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+    is_failed: false
+    latitude: 45.44013
+    legal_name: BASF Corporation
+    locality: Portland, Milwaukie
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Clackamas
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Northwest Clackamas
+      extendedPostalCode: '972228850'
+      freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+      localName: Portland
+      municipality: Portland, Milwaukie
+      municipalitySubdivision: Portland, Milwaukie
+      postalCode: '97222'
+      streetName: Southeast International Way
+      streetNumber: '4011'
+    longitude: -122.62202
+    name: BASF Corporation
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97222'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-02-17T21:39:35.085117Z'
+    web_domain: basf.com
+    website: www.basf.com
+doc: buildingtransparency.org/e/ec39xkr0ku
+excluded: false
+externally_verified: true
+file_name: EPD10327_BASF_Neopor GPS Insulation 2020.pdf
+gwp: 2.23 kgCO2e
+gwp_per_category_declared_unit: 2.23 kgCO2e
+gwp_per_kg: 3.912280702 kgCO2e
+gwp_z: 0.32542280190545964
+id: caceb507f27e4db89224701ab698209f
+impacts: {}
+industry_standards: []
+insulating_material: GPS
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: '
+
+
+  ## LCA Notes
+
+  Results displayed are from TRACI 2.1 analysis.
+
+  The EPD also reports GWP impacts using CML, which are slightly (approx 1%) different.'
+lowest_plausible_gwp: 1.619256899 kgCO2e
+manufacturer:
+  address: 4011 Southeast International Way, Portland, OR 97222
+  address_line: 4011 Southeast International Way
+  admin_district: OR
+  admin_district2: Clackamas
+  alt_names:
+  - BASF
+  - BASF SE
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-04-17T12:53:12.971504Z'
+  email_extensions:
+  - basf.com
+  enterprise: true
+  id: c33f916720674915b58e524b210c2927
+  image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+  is_failed: false
+  latitude: 45.44013
+  legal_name: BASF Corporation
+  locality: Portland, Milwaukie
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Clackamas
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Northwest Clackamas
+    extendedPostalCode: '972228850'
+    freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+    localName: Portland
+    municipality: Portland, Milwaukie
+    municipalitySubdivision: Portland, Milwaukie
+    postalCode: '97222'
+    streetName: Southeast International Way
+    streetNumber: '4011'
+  longitude: -122.62202
+  name: BASF Corporation
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97222'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-02-17T21:39:35.085117Z'
+  web_domain: basf.com
+  website: www.basf.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.57 kg
+matched_plants_count: 2
+material_id: f867cf6a844b4a159c7e88e1574b3be2
+my_capabilities: 1
+name: "Neopor\xAE Plus (GPS)  - Type VIII"
+not_an_epd: false
+open_xpd_uuid: ec39xkr0
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec39xkr0
+output_flows: {}
+owner:
+  name: Data Entry
+  user_id: data_entry@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Building Envelope Thermal Insulation EPD requirements'
+  - 'Part B: Building Thermal Insulation EPD Requirements UL 10010-1(2nd edition,
+    April 10, 2018)'
+  - 'PCR for preparing an EPD for Product Group: Building Envelope Thermal Insulation'
+  - PCR for Building Envelope Thermal Insulation
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.470071Z'
+  date_of_issue: '2023-04-06'
+  date_validity_ends: '2024-04-06'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34197
+  id: af1087300982459398cb8bd7734ce08d
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 4
+    IPCC AR5:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Building Envelope Thermal Insulation Products'
+  open_xpd_uuid: ec3qgwtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qgwtt
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qgwttac
+  short_name: 'Part B: Building Envelope Thermal Insulation'
+  status: Expired
+  updated_on: '2025-11-20T20:50:04.713284Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2.840743101 kgCO2e
+plant_geography:
+- US-WA
+- US-MO
+- US-UT
+- US-IA
+- DE
+- CA-AB
+- US-AZ
+- CA-BC
+- US-WI
+- US-OH
+- US-CA
+- US-CO
+- US-VA
+- US-NV
+- US-GA
+- CA-MB
+- US-NE
+- US-FL
+- US-AK
+- MX
+- US-KS
+- US-MI
+- CA-SK
+- CA-ON
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-12-23T16:42:30.228922Z'
+  id: 98fa44ffe6214cc2aa8afe2a1daa61c7
+  is_failed: false
+  jurisdiction:
+  - US-WA
+  - US-MO
+  - US-UT
+  - US-IA
+  - DE
+  - CA-AB
+  - US-AZ
+  - CA-BC
+  - US-WI
+  - US-OH
+  - US-CA
+  - US-CO
+  - US-VA
+  - US-NV
+  - US-GA
+  - CA-MB
+  - US-NE
+  - US-FL
+  - US-AK
+  - MX
+  - US-KS
+  - US-MI
+  - CA-SK
+  - CA-ON
+  name: BASF Insulation Plants
+  owned_by:
+    address: 4011 Southeast International Way, Portland, OR 97222
+    address_line: 4011 Southeast International Way
+    admin_district: OR
+    admin_district2: Clackamas
+    alt_names:
+    - BASF
+    - BASF SE
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-04-17T12:53:12.971504Z'
+    email_extensions:
+    - basf.com
+    enterprise: true
+    id: c33f916720674915b58e524b210c2927
+    image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+    is_failed: false
+    latitude: 45.44013
+    legal_name: BASF Corporation
+    locality: Portland, Milwaukie
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Clackamas
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Northwest Clackamas
+      extendedPostalCode: '972228850'
+      freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+      localName: Portland
+      municipality: Portland, Milwaukie
+      municipalitySubdivision: Portland, Milwaukie
+      postalCode: '97222'
+      streetName: Southeast International Way
+      streetNumber: '4011'
+    longitude: -122.62202
+    name: BASF Corporation
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97222'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-02-17T21:39:35.085117Z'
+    web_domain: basf.com
+    website: www.basf.com
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2020-12-23T16:42:33.945532Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10327
+reference_service_life: 75 years
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec39xkr0ku
+standard_deviation: 0.7256928482 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 30.7 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.840743101 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T10:42:46.729618Z'
+use_stored_carbon: false
+verifier:
+  email: joorbeck@nsf.org
+  name: Jenny Oorbeck
+  org:
+    address: 789 North Dixboro Road, Ann Arbor, MI 48105
+    address_line: 789 North Dixboro Road
+    admin_district: MI
+    admin_district2: Washtenaw
+    alt_names:
+    - NSF
+    - NSF Certification LLC
+    - NSF Certification
+    attachments:
+      Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-08-01T22:31:34.491119Z'
+    email_extensions:
+    - nsf.org
+    enterprise: true
+    id: a44683606c014062ac954e094362582e
+    image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+    is_failed: false
+    latitude: 42.28365
+    legal_name: NSF International
+    locality: Ann Arbor
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Washtenaw
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+      freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+      localName: Ann Arbor
+      municipality: Ann Arbor
+      municipalitySubdivision: Ann Arbor
+      postalCode: '48105'
+      streetName: North Dixboro Road
+      streetNumber: '789'
+    longitude: -83.67447
+    name: NSF International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:00:07.818662Z'
+    web_domain: nsf.org
+    website: https://www.nsf.org/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

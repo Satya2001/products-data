@@ -1,0 +1,744 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/rcp-block-brick
+best_practice: 236.1618794 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '493009101522'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-07-19T15:19:19.000669Z'
+  declared_unit: 1 m3
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Pre-manufactured concrete masonry blocks
+  display_name: Concrete Unit Masonry
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4ec837a26a0a493786442296f4cb2730
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 04 22 00 Concrete Unit Masonry
+  may_contain_trusted_vendor_declarations: false
+  name: CMU
+  no_statistics: false
+  obsolete: false
+  openepd: CMU
+  openepd_name: CMU
+  parents: []
+  pct10_gwp: 176.4200003 kgCO2e
+  pct20_gwp: 215.4362988 kgCO2e
+  pct30_gwp: 239.217128 kgCO2e
+  pct40_gwp: 261.6864758 kgCO2e
+  pct50_gwp: 284.4293089 kgCO2e
+  pct60_gwp: 303.893972 kgCO2e
+  pct70_gwp: 333.968952 kgCO2e
+  pct80_gwp: 376.5394169 kgCO2e
+  pct90_gwp: 458.4040432 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Concrete Unit Masonry
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30131502'
+  updated_on: '2025-11-20T07:56:22.812500Z'
+  use_stored_carbon: ABSENT
+cmu_insulated: false
+cmu_weight_classification: Normal
+concrete_compressive_strength_28d: 13.78951 MPa
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 337.8381206 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-07-18T15:39:17.728642Z'
+date_of_issue: '2018-03-12'
+date_validity_ends: '2023-03-12'
+declaration_type: Product EPD
+declared_unit: 1 yd3
+density: 2400 kg / m3
+description: The RCP Block & Brick 8x8x16 splitface concrete masonry units represented
+  by this cradle-to-gate EPD are produced at one plant located in San Diego, California
+  under ASTM C-90 and ASTM C-129 specifications for loadbearing and non-loadbearing
+  concrete masonry units. The concrete masonry units are used in a wide variety of
+  masonry structures.
+developer:
+  email: joorbeck@nsf.org
+  name: Jenny Oorbeck
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec38a4ndxr
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: EPD10119.pdf
+gwp: 287 kgCO2e
+gwp_per_category_declared_unit: 375.3818277 kgCO2e
+gwp_per_kg: 0.1958906169 kgCO2e
+gwp_z: 0.2104756517984919
+id: 286091e13f1d435ca4253cc40764bcba
+image: https://static.buildingtransparency.org/images/2652df034c114d3db7a5e2c355a86dbf.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  Non-hazardous generated, Hazardous waste generated, LIFE CYCLE IMPACT CAT, Global
+  Warming Potential, Acidification Potential, Eutrophication Potential
+
+
+  ## LCA Notes
+
+  Product Description
+
+  The RCP Block & Brick 8x8x16 splitface concrete masonry units
+
+  represented by this cradle-to-gate EPD are produced at one plant
+
+  located in San Diego, California under ASTM C-90 and
+
+  ASTM C-129 specifications for loadbearing and non-loadbearing
+
+  concrete masonry units. The concrete masonry units are used in a
+
+  wide variety of masonry structures.
+
+
+  Declared Unit
+
+  The ASTM PCR for concrete and concrete masonry products only covers the cradle-to-gate
+
+  life-cycle stages. Therefore, the declared unit for this EPD is one (1) yd3 of concrete
+
+  formed into manufactured concrete and concrete masonry products. The EPD may be
+
+  presented additionally per one (1) yd3 of concrete. This EPD covers only the cradle-to-gate
+
+  impacts of manufactured concrete and concrete masonry products using a declared
+  unit,
+
+  and the results cannot be used to compare between products.
+
+
+  System Boundaries
+
+  Based on the ASTM PCR, the system boundaries are defined as the modules for raw
+
+  material supply, transportation of inbound materials and the manufacturing process
+  also
+
+  known as the Product Stage. The stages include extraction and processing of raw
+
+  materials (raw material supply), the average or specific transportation of raw materials
+  from
+
+  extraction site or source to the manufacturing site including empty backhauls
+
+  (transportation of inbound materials) and the manufacturing of the product including
+  the
+
+  batching and mixing of the concrete, forming of the units, curing of the untis and
+  the
+
+  applicable post-production finishing of the units which includes the packaging with
+
+  associated transportation and waste disposal in preparing the product for shipment.
+
+  (manufacturing process).
+
+
+  Waste Management
+
+  Hazardous and non-hazardous waste generated within the system boundaries and
+
+  transported outside of the plant facility are reported in the EPD per declared unit.
+
+
+  Certification Other Standards/Additional Testing Requirements
+
+  Each product presented in this EPD conforms to the appropriate ASTM and/or CSA
+
+  specification which provide detailed descriptions and specifications for each of
+  the
+
+  products.
+
+
+  Allocation Rules
+
+  A production process that generates more than one type of product may require the
+
+  allocation of environmental flows from the process to the different products to
+  get product-
+
+
+  ## Source Data Notes
+
+  org, Jack Geibig, jgeibig@ecoform.com, Life Cycle Assessment Manager for Manufactured,
+  Concrete and Concrete Masonry Product EPD, February, 2015, David R.Green, BASF Corporation,
+  216-839-7803, Jack Geibig, Ecoform, LLC, jgeibig@ecoform.com, NSF International,
+  Manuctured Concrete and Concrete Masonry, Products (UN CPC 3755), December, 2014,
+  Nicholas Santero, PE International, ASTM International, http://www.astm.org, Date
+  of Issue: March 12, 2018, Period of Validity: 5 years, Declaration#: EPD100119'
+lowest_plausible_gwp: 236.1618794 kgCO2e
+manufacturer:
+  address: 8240 Broadway, Lemon Grove, CA 91945
+  address_line: 8240 Broadway
+  admin_district: CA
+  admin_district2: San Diego
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/rcp-block-brick
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:35:27.368724Z'
+  email_extensions:
+  - rcpblock.com
+  enterprise: true
+  id: a98ad6277b5d4d3c93365c168d7018d9
+  is_failed: false
+  latitude: 32.74539
+  locality: Lemon Grove
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: San Diego
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: San Diego
+    extendedPostalCode: '919452004'
+    freeformAddress: 8240 Broadway, Lemon Grove, CA 91945
+    localName: Lemon Grove
+    municipality: Lemon Grove
+    municipalitySubdivision: Lemon Grove
+    postalCode: '91945'
+    streetName: Broadway
+    streetNumber: '8240'
+  longitude: -117.02055
+  name: RCP Block & Brick
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a98ad6277b5d4d3c93365c168d7018d9
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91945'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:10:07.485965Z'
+  web_domain: rcpblock.com
+  website: www.rcpblock.com
+manufacturer_specific: true
+mass_per_declared_unit: 1465.1033551 kg
+matched_plants_count: 0
+material_id: 763b15bc888643609d92903ad855af37
+my_capabilities: 1
+name: 8x8x16 Splitface CMU
+not_an_epd: false
+open_xpd_uuid: ec38a4nd
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38a4nd
+output_flows: {}
+owner:
+  name: cqd.io Script
+  user_id: script@cqd.io
+pcr:
+  alt_names:
+  - Manuctured Concrete and Concrete MasonryProducts (UN CPC 3755)
+  - 'The ASTM International PCR005: Product Category rules for Preparing an Environmental
+    Product Declaration for Manufactured concrete and Concrete Masonry Products issued
+    December 2014 serves as the PCR for this EPD.'
+  - 'The ASTM International PCR005: Product Category rules for Preparing an Environmental
+    Product Declaration for Manufactured concrete and Concrete Masonry Products issued
+    December 2014.'
+  - PCR for Manufactured concrete and Concrete Masonry Products
+  - Manufactured Concrete and Concrete Masonry Products (UN CPC 3755)
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:00.488594Z'
+  date_of_issue: '2014-12-12'
+  date_validity_ends: '2019-12-12'
+  declared_units:
+  - 1 m3
+  doc: '#broken-link https://www.astm.org/CERTIFICATION/DOCS/264.PCR_for_Manufactured_Concrete_and_Concrete_Masonry_Products.pdf'
+  id: dd4044ef20374302933272366df6988e
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Manufactured Concrete and Concrete Masonry Products
+  open_xpd_uuid: ec3p875z
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3p875z
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3p875zcu
+  short_name: Manufactured Concrete and Concrete Masonry Products
+  status: Sunset
+  updated_on: '2025-06-11T00:34:47.678211Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 441.875579 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 2480 Britannia Boulevard, San Diego, CA 92154
+  address_line: 2480 Britannia Boulevard
+  admin_district: CA
+  admin_district2: San Diego
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-10-08T16:10:17.628224Z'
+  id: ecf50099c914436c8ed90a684ae02a73
+  is_failed: false
+  latitude: 32.55443
+  locality: San Diego
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: San Diego
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    extendedPostalCode: 92154-7405
+    freeformAddress: 2480 Britannia Boulevard, San Diego, CA 92154
+    localName: San Diego
+    municipality: San Diego
+    postalCode: '92154'
+    streetName: Britannia Boulevard
+    streetNumber: '2480'
+  longitude: -116.98208
+  name: San Diego, CA
+  openepd_id: 8545H239+Q5.rcpblock.com
+  owned_by:
+    address: 8240 Broadway, Lemon Grove, CA 91945
+    address_line: 8240 Broadway
+    admin_district: CA
+    admin_district2: San Diego
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/rcp-block-brick
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:35:27.368724Z'
+    email_extensions:
+    - rcpblock.com
+    enterprise: true
+    id: a98ad6277b5d4d3c93365c168d7018d9
+    is_failed: false
+    latitude: 32.74539
+    locality: Lemon Grove
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: San Diego
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: San Diego
+      extendedPostalCode: '919452004'
+      freeformAddress: 8240 Broadway, Lemon Grove, CA 91945
+      localName: Lemon Grove
+      municipality: Lemon Grove
+      municipalitySubdivision: Lemon Grove
+      postalCode: '91945'
+      streetName: Broadway
+      streetNumber: '8240'
+    longitude: -117.02055
+    name: RCP Block & Brick
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a98ad6277b5d4d3c93365c168d7018d9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91945'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:10:07.485965Z'
+    web_domain: rcpblock.com
+    website: www.rcpblock.com
+  postal_code: '92154'
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2020-12-22T23:23:31.011689Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD100119
+resource_uses: {}
+reviewer:
+  org:
+    address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+    address_line: 100 Barr Harbor Dr
+    admin_district: PA
+    admin_district2: Montgomery County
+    alt_names:
+    - astm
+    - ASTMInternational
+    attachments:
+      Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-01T05:13:50.328641Z'
+    email_extensions:
+    - astm.org
+    enterprise: true
+    id: 2657c6a84bfa4675a5e4ee785c253a48
+    image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+    is_failed: false
+    latitude: 40.0689574
+    legal_name: ASTM International
+    locality: Conshohocken
+    location:
+    - long_name: '100'
+      short_name: '100'
+      types:
+      - street_number
+    - long_name: Barr Harbor Drive
+      short_name: Barr Harbor Dr
+      types:
+      - route
+    - long_name: Conshohocken
+      short_name: Conshohocken
+      types:
+      - locality
+      - political
+    - long_name: Montgomery County
+      short_name: Montgomery County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19428'
+      short_name: '19428'
+      types:
+      - postal_code
+    - long_name: '2951'
+      short_name: '2951'
+      types:
+      - postal_code_suffix
+    longitude: -75.3083283
+    name: ASTM International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - CA
+    - US
+    postal_code: '19428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: true
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-22T20:35:58.976247Z'
+    web_domain: astm.org
+    website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+sanitizable: true
+short_link: buildingtransparency.org/e/ec38a4ndxr
+standard_deviation: 60.40651207 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 337.8381206 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T03:22:04.423096Z'
+use_stored_carbon: false
+verifier:
+  email: joorbeck@nsf.org
+  name: Jenny Oorbeck
+  org:
+    address: 789 North Dixboro Road, Ann Arbor, MI 48105
+    address_line: 789 North Dixboro Road
+    admin_district: MI
+    admin_district2: Washtenaw
+    alt_names:
+    - NSF
+    - NSF Certification LLC
+    - NSF Certification
+    attachments:
+      Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-08-01T22:31:34.491119Z'
+    email_extensions:
+    - nsf.org
+    enterprise: true
+    id: a44683606c014062ac954e094362582e
+    image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+    is_failed: false
+    latitude: 42.28365
+    legal_name: NSF International
+    locality: Ann Arbor
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Washtenaw
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+      freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+      localName: Ann Arbor
+      municipality: Ann Arbor
+      municipalitySubdivision: Ann Arbor
+      postalCode: '48105'
+      streetName: North Dixboro Road
+      streetNumber: '789'
+    longitude: -83.67447
+    name: NSF International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:00:07.818662Z'
+    web_domain: nsf.org
+    website: https://www.nsf.org/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+white_cement: false

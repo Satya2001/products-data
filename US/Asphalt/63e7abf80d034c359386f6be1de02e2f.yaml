@@ -1,0 +1,584 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+asphalt_aggregate_size_max: 0.7499999999999999 inches
+asphalt_gtr: false
+asphalt_ppa: false
+asphalt_rap: 0.0
+asphalt_sbr: false
+asphalt_sbs: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/george-reed-inc
+best_practice: 31.74988268 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '514963985297'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:31.880547Z'
+  declared_unit: 1 kg
+  default_distance: 51.49888 km
+  default_transport_mode: truck, single unit
+  description: General category for asphalt mixtures
+  display_name: Asphalt
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: aa61ba9aeb2a4566942554362bb496d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 12 16 Asphalt Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Asphalt
+  no_statistics: false
+  obsolete: false
+  openepd: Asphalt
+  openepd_name: Asphalt
+  parents: []
+  pct10_gwp: 0.05482551228 kgCO2e
+  pct20_gwp: 0.05982888239 kgCO2e
+  pct30_gwp: 0.06403185433 kgCO2e
+  pct40_gwp: 0.06789398122 kgCO2e
+  pct50_gwp: 0.07156570503 kgCO2e
+  pct60_gwp: 0.07547954634 kgCO2e
+  pct70_gwp: 0.07945215405 kgCO2e
+  pct80_gwp: 0.08491742796 kgCO2e
+  pct90_gwp: 0.09532260428 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Asphalt
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30121601'
+  updated_on: '2025-11-20T07:57:55.742450Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 45.25011732 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-13T16:27:05.999854Z'
+date_of_issue: '2019-03-27'
+date_validity_ends: '2022-01-31'
+declaration_type: Product EPD
+declared_unit: 2000 lbs
+density: 145 kg / m3
+description: 2018-TM-004D-VSS-64-10-R0, a Dense-Graded Superpave 3/4"NMAS Virgin Mix
+  asphalt mixture
+developer:
+  org:
+    address: 101 West Lakeshore Drive, Houghton, MI 49931
+    address_line: 101 West Lakeshore Drive
+    admin_district: MI
+    admin_district2: Houghton
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-29T02:29:42.575799Z'
+    email_extensions:
+    - trisightengineering.com
+    enterprise: true
+    id: e1f3bc7a8d35434ba3bb6fc0dc4ca04e
+    image: https://static.buildingtransparency.org/images/b867529a-97db-49eb-ad70-2abafee8ef80.png
+    is_failed: false
+    latitude: 47.12189
+    locality: Houghton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Houghton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Houghton
+      extendedPostalCode: '499312274'
+      freeformAddress: 101 West Lakeshore Drive, Houghton, MI 49931
+      localName: Houghton
+      municipality: Houghton
+      municipalitySubdivision: Houghton
+      postalCode: '49931'
+      streetName: West Lakeshore Drive
+      streetNumber: '101'
+    longitude: -88.57428
+    name: Trisight
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e1f3bc7a8d35434ba3bb6fc0dc4ca04e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '49931'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-20T04:08:25.561858Z'
+    web_domain: trisightengineering.com
+    website: www.trisightengineering.com
+doc: buildingtransparency.org/e/ec3schbwq5
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: George Reed_1.pdf
+gwp: 38.5 kgCO2e
+gwp_per_category_declared_unit: 0.04243898547 kgCO2e
+gwp_per_kg: 0.04243898547 kgCO2e
+gwp_z: 0.2083266665599966
+id: 4ab612be6fb84fe3bf6069e19f8b298c
+image: https://static.buildingtransparency.org/images/8aafc85c203649d88ffb8f3311e23957.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## LCA Notes
+
+  This EPD was created using plant-specific data for asphalt mix
+
+  production of the manufacturing life cycle phase. Potential
+
+  variations due to asphalt mixture design, supplier locations,
+
+  manufacturing processes, efficiencies, and fuel use are
+
+  accounted for in this EPD. All other upstream data sources were
+
+  prescribed and are publicly available and freely accessible to
+
+  ensure transparency and comparability. Use of the prescribed
+
+  data sources ensures comparability among the EPDs developed
+
+  by limiting any variability due to differences in the upstream
+
+  data within the system boundaries. 5
+
+
+  ## Source Data Notes
+
+  1 ISO 14025:2006 Environmental labels and declarations - Type 3 environmental declarations
+  - Principles and procedures
+
+  2 EN 15804-2012 Sustainability of Construction Works, Environmental Product Declarations,
+  Core rules for the product category
+
+  of construction products
+
+  3, 4, 5 Product Category Rules for Asphalt Mixtures, Version 1.0 dated 1/31/2017
+  Page 8, 10-12, 16-1E'
+lowest_plausible_gwp: 31.74988268 kgCO2e
+manufacturer:
+  address: 5695 O'Byrnes Ferry Road, Jamestown, CA 95327
+  address_line: 5695 O'Byrnes Ferry Road
+  admin_district: CA
+  admin_district2: Tuolumne
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/george-reed-inc
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-13T16:26:29.195641Z'
+  email_extensions:
+  - georgereed.com
+  enterprise: true
+  id: f6f022c56ed94a6ab89cc8c649ed6671
+  is_failed: false
+  latitude: 37.88823
+  locality: Jamestown
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Tuolumne
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Sonora
+    freeformAddress: 5695 O'Byrnes Ferry Road, Jamestown, CA 95327
+    municipality: Jamestown
+    municipalitySubdivision: Jamestown
+    postalCode: '95327'
+    streetName: O'Byrnes Ferry Road
+    streetNumber: '5695'
+  longitude: -120.53045
+  name: George Reed, Inc.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f6f022c56ed94a6ab89cc8c649ed6671
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '95327'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:42:22.359364Z'
+  web_domain: georgereed.com
+  website: http://georgereed.com/
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: 63e7abf80d034c359386f6be1de02e2f
+my_capabilities: 1
+name: 2018-TM-004D V55-64-10-R0
+not_an_epd: false
+open_xpd_uuid: ec3schbw
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3schbw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NAPA Product Category Rules (PCR) For Asphalt Mixtures
+  - Product Category Rules for Asphalt Mixtures Version 1.0 dated 1/1/2017, www.AsphaltPavement.org/PCR
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:56.966357Z'
+  date_of_issue: '2017-01-31'
+  date_validity_ends: '2022-01-31'
+  declared_units:
+  - 1 tonne
+  doc: http://www.asphaltpavement.org/PDFs/EPD_Program/NAPA_Product_Category_Rules_%20final.pdf
+  id: 102825d8adb74ce7a094c407aed27bc6
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: NAPA PCR For Asphalt Mixtures
+  open_xpd_uuid: ec3ygf1b
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ygf1b
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3ygf1bgq
+  short_name: Asphalt Mixtures
+  status: Expired
+  updated_on: '2025-08-03T18:32:26.833221Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.04987971614 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 5695 O'Byrnes Ferry Road, Jamestown, CA 95327
+  address_line: 5695 O'Byrnes Ferry Road
+  admin_district: CA
+  admin_district2: Tuolumne
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-13T16:26:30.108786Z'
+  id: b025d86544a648a381dbc5f7b0147d5f
+  is_failed: false
+  latitude: 37.88823
+  locality: Jamestown
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Tuolumne
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Sonora
+    freeformAddress: 5695 O'Byrnes Ferry Road, Jamestown, CA 95327
+    municipality: Jamestown
+    municipalitySubdivision: Jamestown
+    postalCode: '95327'
+    streetName: O'Byrnes Ferry Road
+    streetNumber: '5695'
+  longitude: -120.53045
+  name: Table Mountain Hot
+  openepd_id: 849XVFQ9+7R.georgereed.com
+  owned_by:
+    address: 5695 O'Byrnes Ferry Road, Jamestown, CA 95327
+    address_line: 5695 O'Byrnes Ferry Road
+    admin_district: CA
+    admin_district2: Tuolumne
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/george-reed-inc
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-13T16:26:29.195641Z'
+    email_extensions:
+    - georgereed.com
+    enterprise: true
+    id: f6f022c56ed94a6ab89cc8c649ed6671
+    is_failed: false
+    latitude: 37.88823
+    locality: Jamestown
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Tuolumne
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: Sonora
+      freeformAddress: 5695 O'Byrnes Ferry Road, Jamestown, CA 95327
+      municipality: Jamestown
+      municipalitySubdivision: Jamestown
+      postalCode: '95327'
+      streetName: O'Byrnes Ferry Road
+      streetNumber: '5695'
+    longitude: -120.53045
+    name: George Reed, Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f6f022c56ed94a6ab89cc8c649ed6671
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '95327'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:42:22.359364Z'
+    web_domain: georgereed.com
+    website: http://georgereed.com/
+  postal_code: '95327'
+  total_epds: 8
+  type: Plant
+  updated_on: '2025-06-22T10:29:45.498952Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 5100 Forbes Boulevard, Lanham, MD 20706
+  address_line: 5100 Forbes Boulevard
+  admin_district: MD
+  admin_district2: Prince George's
+  alt_names:
+  - NAPA
+  - Asphalt EPD
+  - Emerald Ecolabel
+  - Emerald Eco-label
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-10T23:11:11.739481Z'
+  email_extensions:
+  - asphaltpavement.org
+  - asphaltepd.org
+  enterprise: true
+  id: 136904d07bd94f9f959bfae24e24c56a
+  image: https://static.buildingtransparency.org/images/fbdd34b1-8146-4d80-8bc9-0e578a03f018.png
+  is_failed: false
+  latitude: 38.960571
+  legal_name: National Asphalt Pavement Association
+  locality: Lanham
+  location:
+    boundingBox:
+      entity: position
+      northEast: 38.961196,-76.833920
+      southWest: 38.959630,-76.835144
+    buildingNumber: '5100'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Prince George's
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 20 Lanham
+    extendedPostalCode: '207064407'
+    freeformAddress: 5100 Forbes Boulevard, Lanham, MD 20706
+    municipality: Lanham
+    municipalitySubdivision: Lanham
+    postalCode: '20706'
+    routeNumbers: []
+    street: Forbes Boulevard
+    streetName: Forbes Boulevard
+    streetNameAndNumber: 5100 Forbes Boulevard
+    streetNumber: '5100'
+  longitude: -76.834511
+  name: National Asphalt Pavement Association
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/136904d07bd94f9f959bfae24e24c56a
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-07-03T13:56:29.001838Z'
+  web_domain: asphaltpavement.org
+  website: asphaltpavement.org
+program_operator_fkey: 19.55.52 v9
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3schbwq5
+standard_deviation: 8.020576663 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 45.25011732 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T02:26:23.743246Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

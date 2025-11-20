@@ -1,0 +1,635 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/vicostone
+best_practice: 1.979213466 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '522491443007'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-01-05T09:24:04Z'
+  declared_unit: 1 m2
+  description: Raised, flat, and horizontal surfaces often used in kitchens, bathrooms,
+    and workrooms
+  display_name: Countertops
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 221c8d31a1c1424ba155937a20ee59c1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 25 kg
+  massless: false
+  masterformat: 12 36 00 Countertops
+  may_contain_trusted_vendor_declarations: false
+  name: Countertops
+  no_statistics: false
+  obsolete: false
+  openepd: Furnishings >> Countertops
+  openepd_name: Furnishings >> Countertops
+  parents: []
+  pct10_gwp: 4.736005845 kgCO2e
+  pct20_gwp: 16.44314308 kgCO2e
+  pct30_gwp: 26.43007969 kgCO2e
+  pct40_gwp: 30.39956906 kgCO2e
+  pct50_gwp: 36.42175893 kgCO2e
+  pct60_gwp: 43.12846427 kgCO2e
+  pct70_gwp: 51.07014281 kgCO2e
+  pct80_gwp: 73.71088986 kgCO2e
+  pct90_gwp: 117.2807268 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Countertops
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-11-20T07:56:38.794445Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 2.820786534 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-12T11:28:25.837385Z'
+date_of_issue: '2017-12-14'
+date_validity_ends: '2022-12-13'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "VICOSTONE\xAE quartz based engineered stones are produced from up to\
+  \ 93% pure natural quartz aggregates that are adhered with polymer resin with color\
+  \ powder, and have a hardness and flexural strength that is much higher than natural\
+  \ and other engineered stones. With a special and luxurious beauty, VICOSTONE\xAE\
+  \ compound stones are widely used in interior applications such as kitchen countertops,\
+  \ bathroom vanities, wall paneling, flooring, etc. In this LCA study, VICOSTONE\xAE\
+  \ Quartz Surfaces are fabricated for use as a residential countertop. The manufacturer\
+  \ warrants the product for a period of 15 years from the date of purchase. PRODUCT\
+  \ CHARACTERISTICS AND PERFORMANCE Table 1. Product characteristics for VICOSTONE\xAE\
+  \ Quartz Surfaces. Characteristic Nominal Value Unit Slab thickness 20.0 (0.787)\
+  \ mm (inch) Slab length 305 (120) cm (inch) Slab width 144 (56) cm (inch) Slab weight\
+  \ 50.0 (10.2) kg/m2 (lb/ft2) Underlayment included N Y/N VOC Emissions Test Method\
+  \ GREENGUARD Gold"
+developer:
+  email: egriffing@environmentalclarity.com
+  name: Evan Griffing
+  org:
+    address: 5230 Hickory Park Drive, Glen Allen, VA 23059
+    address_line: 5230 Hickory Park Drive
+    admin_district: VA
+    admin_district2: Henrico
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-02T14:49:02.299370Z'
+    email_extensions:
+    - environmentalclarity.com
+    enterprise: true
+    id: 30f4ddde3ae34d439412c611ee3a9e00
+    is_failed: false
+    latitude: 37.67691
+    locality: Glen Allen, Short Pump
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Henrico
+      countrySubdivision: VA
+      countrySubdivisionName: Virginia
+      countryTertiarySubdivision: Three Chopt
+      extendedPostalCode: '230592616'
+      freeformAddress: 5230 Hickory Park Drive, Glen Allen, VA 23059
+      localName: Glen Allen
+      municipality: Glen Allen, Short Pump
+      municipalitySubdivision: Glen Allen, Short Pump
+      postalCode: '23059'
+      streetName: Hickory Park Drive
+      streetNumber: '5230'
+    longitude: -77.58758
+    name: Environmental Clarity
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/30f4ddde3ae34d439412c611ee3a9e00
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '23059'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-21T04:58:05.342592Z'
+    web_domain: environmentalclarity.com
+    website: http://www.environmentalclarity.com/
+doc: buildingtransparency.org/e/ec3hmbjy5s
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-04770_VICOSTONE-Quartz-Surfaces_121417.pdf
+gwp: 2.4 kgCO2e
+gwp_per_category_declared_unit: 2.4 kgCO2e
+gwp_per_kg: 0.048 kgCO2e
+gwp_z: 0.2083266665599966
+gypsum_specific_density: 50 kg / m^2
+id: 46c1d36ebb3b491d945e384866556cfe
+image: https://static.buildingtransparency.org/images/65eb12edbaec4cc2847395b328c1b763.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## LCA Notes\nStages ...............................................................................................................................................................\
+  \ 4 Product Life Cycle Flow Diagram .........................................................................................................................................................\
+  \ 5 Life Cycle Inventory .................................................................................................................................................................................\
+  \ 6 Life Cycle Impact Assessment ..............................................................................................................................................................\
+  \ 7 Supporting Technical Information .......................................................................................................................................................\
+  \ 8 References ..............................................................................................................................................................................................12\n\
+  \n## Source Data Notes\nDisclaimers: This EPD conforms to ISO 14025, 14040, and\
+  \ ISO 14044. Scope of Results Reported: The PCR requirements limit the scope of\
+  \ the LCA metrics such that the results exclude environmental and social performance\
+  \ benchmarks and thresholds, and exclude impacts from the depletion of natural resources,\
+  \ land use ecological impacts, ocean impacts related to greenhouse gas emissions,\
+  \ risks from hazardous wastes and impacts linked to hazardous chemical emissions.\
+  \ Accuracy of Results: Due to PCR constraints, this EPD provides estimations of\
+  \ potential impacts that are inherently limited in terms of accuracy. Comparability:\
+  \ The PCR this EPD was based on was not written to support comparative assertions.\
+  \ EPDs based on different PCRs, or different calculation models, may not be comparable.\
+  \ When attempting to compare EPDs or life cycle impacts of products from different\
+  \ companies, the user should be aware of the uncertainty in the final results, due\
+  \ to and not limited to, the practitioner\u2019s assumptions, the source of the\
+  \ data used in the study, and the specifics of the product modeled. PCR review,\
+  \ was conducted by"
+lowest_plausible_gwp: 1.979213466 kgCO2e
+manufacturer:
+  address: "Km 29 \u0110\u1EA1i l\u1ED9 Th\u0103ng Long VN, 29km \u0110CT08, Th\u1EA1\
+    ch Ho\xE0, Th\u1EA1ch Th\u1EA5t, H\xE0 N\u1ED9i, Vietnam"
+  address_line: "29km \u0110CT08"
+  admin_district: "H\xE0 N\u1ED9i"
+  admin_district2: "Th\u1EA1ch Th\u1EA5t"
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/vicostone
+  confirmable_fields: []
+  confirmed_fields: []
+  country: VN
+  cqd_sync_unlocked: true
+  created_on: '2021-07-30T04:17:45.258013Z'
+  email_extensions: []
+  enterprise: false
+  id: 958e633d620d474d90c605c52be7bc56
+  is_failed: false
+  latitude: 21.007833
+  locality: Sokol
+  location:
+  - long_name: 29km
+    short_name: 29km
+    types:
+    - street_number
+  - long_name: "\u0110\u1EA1i l\u1ED9 Th\u0103ng Long"
+    short_name: "\u0110CT08"
+    types:
+    - route
+  - long_name: "Th\u1EA1ch Th\u1EA5t"
+    short_name: "Th\u1EA1ch Th\u1EA5t"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "H\xE0 N\u1ED9i"
+    short_name: "H\xE0 N\u1ED9i"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Vietnam
+    short_name: VN
+    types:
+    - country
+    - political
+  longitude: 105.5310822
+  name: Vicostone Joint Stock Company
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/958e633d620d474d90c605c52be7bc56
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '162132'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:25:21.276722Z'
+  web_domain: vicostone.com
+  website: www.vicostone.com
+manufacturer_specific: true
+mass_per_declared_unit: 50 kg
+matched_plants_count: 0
+material_id: 3d342bdb8d3a422484c2ef40703d95f7
+my_capabilities: 1
+name: "VICOSTONE\xAE Quartz Surfaces"
+not_an_epd: false
+open_xpd_uuid: ec3hmbjy
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hmbjy
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:20.975941Z'
+  date_of_issue: '2013-09-17'
+  date_validity_ends: '2022-09-30'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/PCR_Residential_Countertops.pdf
+  id: 5a222d672f314421999dc8ba4bb8423d
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: PCR for Residential Countertops
+  open_xpd_uuid: ec3sd5t7
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3sd5t7
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3sd5t764
+  short_name: Residential Countertops
+  status: Expired
+  updated_on: '2023-04-25T07:05:10.050677Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 2.820786534 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Vicstone Court, Culver City, CA 90232
+  address_line: ' Vicstone Court'
+  admin_district: CA
+  admin_district2: Los Angeles
+  alt_names: []
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-08-04T03:03:25.168749Z'
+  id: c9085f9a33df4ae2ae3f00b0136f11c8
+  is_failed: false
+  latitude: 34.0172
+  locality: Culver City
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Los Angeles
+    extendedPostalCode: '902323019'
+    freeformAddress: Vicstone Court, Culver City, CA 90232
+    municipality: Culver City
+    municipalitySubdivision: Culver City, Blair Hills
+    postalCode: '90232'
+    streetName: Vicstone Court
+  longitude: -118.3743
+  name: Culver City, CA
+  openepd_id: 85632J8G+V7.vicostone.com
+  owned_by:
+    address: "Km 29 \u0110\u1EA1i l\u1ED9 Th\u0103ng Long VN, 29km \u0110CT08, Th\u1EA1\
+      ch Ho\xE0, Th\u1EA1ch Th\u1EA5t, H\xE0 N\u1ED9i, Vietnam"
+    address_line: "29km \u0110CT08"
+    admin_district: "H\xE0 N\u1ED9i"
+    admin_district2: "Th\u1EA1ch Th\u1EA5t"
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/vicostone
+    confirmable_fields: []
+    confirmed_fields: []
+    country: VN
+    cqd_sync_unlocked: true
+    created_on: '2021-07-30T04:17:45.258013Z'
+    email_extensions: []
+    enterprise: false
+    id: 958e633d620d474d90c605c52be7bc56
+    is_failed: false
+    latitude: 21.007833
+    locality: Sokol
+    location:
+    - long_name: 29km
+      short_name: 29km
+      types:
+      - street_number
+    - long_name: "\u0110\u1EA1i l\u1ED9 Th\u0103ng Long"
+      short_name: "\u0110CT08"
+      types:
+      - route
+    - long_name: "Th\u1EA1ch Th\u1EA5t"
+      short_name: "Th\u1EA1ch Th\u1EA5t"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "H\xE0 N\u1ED9i"
+      short_name: "H\xE0 N\u1ED9i"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Vietnam
+      short_name: VN
+      types:
+      - country
+      - political
+    longitude: 105.5310822
+    name: Vicostone Joint Stock Company
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/958e633d620d474d90c605c52be7bc56
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '162132'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:25:21.276722Z'
+    web_domain: vicostone.com
+    website: www.vicostone.com
+  postal_code: '90232'
+  total_epds: 1
+  type: Plant
+  updated_on: '2021-09-01T13:20:02.340594Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-04770
+resource_uses: {}
+reviewer:
+  email: egriffing@environmentalclarity.com
+  name: Evan Griffing
+  org:
+    address: 5230 Hickory Park Drive, Glen Allen, VA 23059
+    address_line: 5230 Hickory Park Drive
+    admin_district: VA
+    admin_district2: Henrico
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-02T14:49:02.299370Z'
+    email_extensions:
+    - environmentalclarity.com
+    enterprise: true
+    id: 30f4ddde3ae34d439412c611ee3a9e00
+    is_failed: false
+    latitude: 37.67691
+    locality: Glen Allen, Short Pump
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Henrico
+      countrySubdivision: VA
+      countrySubdivisionName: Virginia
+      countryTertiarySubdivision: Three Chopt
+      extendedPostalCode: '230592616'
+      freeformAddress: 5230 Hickory Park Drive, Glen Allen, VA 23059
+      localName: Glen Allen
+      municipality: Glen Allen, Short Pump
+      municipalitySubdivision: Glen Allen, Short Pump
+      postalCode: '23059'
+      streetName: Hickory Park Drive
+      streetNumber: '5230'
+    longitude: -77.58758
+    name: Environmental Clarity
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/30f4ddde3ae34d439412c611ee3a9e00
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '23059'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-21T04:58:05.342592Z'
+    web_domain: environmentalclarity.com
+    website: http://www.environmentalclarity.com/
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hmbjy5s
+specific_density: "50 kg/m\xB2"
+standard_deviation: 0.4999839997 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.820786534 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T02:22:30.004944Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  gypsum_specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously lower than category's typical values
+  specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.

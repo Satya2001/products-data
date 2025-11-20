@@ -1,0 +1,686 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+best_practice: 0.1612812835 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '295611480886'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9734917272 kgCO2e
+  pct20_gwp: 1.281107218 kgCO2e
+  pct30_gwp: 1.542048564 kgCO2e
+  pct40_gwp: 1.927537465 kgCO2e
+  pct50_gwp: 2.495220755 kgCO2e
+  pct60_gwp: 3.260207571 kgCO2e
+  pct70_gwp: 3.925594593 kgCO2e
+  pct80_gwp: 4.890311356 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-11-20T07:57:35.089809Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.2307187165 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-09T16:20:47.518074Z'
+date_of_issue: '2017-02-02'
+date_validity_ends: '2022-02-02'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 12.3 kg / m3
+description: "CertainTeed is dedicated to Building Responsibly\u2122 with fiber glass\
+  \ insulation products that are engineered, producedand shipped with a commitment\
+  \ to minimizing environmental impact and improving energy savings. The CertainTeedSustainable\
+  \ Insulation\xAE Blanket product line is an insulation material made of fiber glass\
+  \ thatconsists of rapidly renewable content, a high percentage of recycled glass,\
+  \ and a new plant-based binder that has noformaldehyde, harsh acrylics, dyes or\
+  \ unnecessary fire retardants added. The blanket insulation products included in\
+  \ this EPD are: Standard Universal Blanket Insulation, Theater Blanket Insulation\
+  \ (AcoustaBlanket), Metal Building Insulation for the U.S., and Commercial Blanket\
+  \ Insulation for the U.S. and Canada. The sizes for the products in this EPD range\
+  \ from R-2.1 to R-30."
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/3aae86691efc432e94710136878d8ead.png
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2025-10-10T20:50:31.564974Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3f8p9pgt
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 102.1_CertainTeed_EPD_Blanket Insulation.pdf
+gwp: 0.196 kgCO2e
+gwp_per_category_declared_unit: 0.196 kgCO2e
+gwp_per_kg: 0.35 kgCO2e
+gwp_z: 0.2104756517984919
+id: c4dacb4905bd43f59a34d50e84725c1f
+image: https://static.buildingtransparency.org/images/c46351a5ad1a49d0b903463e20699323.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Fiberglass
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "## Product Component Notes\nGlass Batch\nCullet 25% - 50% \nSand\
+  \ 15% - 50% \nSoda Ash <15%\nBorates <15%\nLimestone <10%\nManganese Dioxide <2%\
+  \ \nFeldspar <25% \nBinder\nBio-Based Polycarboxylic Acid 0%- 50%\nSugars 0% - 50%\
+  \ \nMineral Oil 6%- 30% \nSilane 0% - 6%\nAdditives 0% - 8%\n\n## LCA Notes\nA1-A3\n\
+  \n## Source Data Notes\nor the data used in this LCA, the data quality is considered\
+  \ to be good to high quality. The data and data sets cover all relevant process\
+  \ steps and technologies over the supply chain of the represented Sustainable Insulation\
+  \ products. The majority of secondary data sets are from the SimaPro v8.1 database\
+  \ and wherever secondary data are used, the study adopts critically reviewed data\
+  \ wherever possible for consistency, precision, and reproducibility to limit uncertainty.\
+  \ The data used are complete and representative of North America in terms of the\
+  \ geographic and technological coverage and is of a recent vintage, i.e. less than\
+  \ ten years old."
+lowest_plausible_gwp: 0.1612812835 kgCO2e
+manufacturer:
+  address: 20 Moores Rd, Malvern, PA 19355, USA
+  address_line: 20 Moores Rd
+  admin_district: PA
+  admin_district2: Chester County
+  alt_names:
+  - CertainTeed Gypsum, Inc
+  - CertainTeed Insulation Group
+  - CertainTeed
+  - CertainTeed Ceilings
+  - CertainTeed Gypsum Canada
+  - CertainTeed Gypsum
+  - CertainTeed Gypsum, Inc.
+  - Certainteed Gypsum
+  - CertainTeed Insulation
+  - CertainTeed Roofing
+  - CertainTeed Saint-Gobain
+  attachments:
+    Ecomedes: https://saintgobain.ecomedes.com/
+    TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:09.590285Z'
+  currency: USD
+  email_extensions:
+  - certainteed.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+  id: 4f0f4939d54945a08051f4c048ac71c0
+  image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+  is_failed: false
+  latitude: 40.0539584
+  legal_name: CertainTeed
+  locality: Malvern
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Moores Road
+    short_name: Moores Rd
+    types:
+    - route
+  - long_name: Malvern
+    short_name: Malvern
+    types:
+    - locality
+    - political
+  - long_name: East Whiteland Township
+    short_name: East Whiteland Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chester County
+    short_name: Chester County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19355'
+    short_name: '19355'
+    types:
+    - postal_code
+  - long_name: '1114'
+    short_name: '1114'
+    types:
+    - postal_code_suffix
+  longitude: -75.5576008
+  name: CertainTeed Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: true
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-06-10T22:47:30.631306Z'
+  web_domain: certainteed.com
+  website: www.certainteed.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.56 kg
+matched_plants_count: 0
+material_id: 21c3304cca104c92ba61591c02b0e14f
+my_capabilities: 1
+name: Sustainable Insulation Fiberglass Blanket
+not_an_epd: false
+open_xpd_uuid: ec3f8p9p
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3f8p9p
+output_flows: {}
+owner:
+  name: Brook Waldman
+  user_id: brook@waldmanlca.com
+pcr:
+  alt_names:
+  - 'Product Category Rules for preparing an environmental product declaration (EPD)
+    for Product Group: Building Envelope Thermal Insulation'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-23T20:22:04.995756Z'
+  date_of_issue: '2013-10-29'
+  date_validity_ends: '2016-09-12'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://legacy-uploads.ul.com/wp-content/uploads/sites/2/2014/09/UL_Environment_PCR_for_Building_Envelope_Thermal_Insulation_v1.2.pdf'
+  id: 8fa1c1c75b76451ba6ee6e3982ce4f2c
+  is_failed: false
+  name: Building Envelope Thermal Insulation
+  open_xpd_uuid: ec3q8a42
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3q8a42
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3q8a42b2
+  short_name: Building Envelope Thermal Insulation
+  status: Sunset
+  updated_on: '2025-04-18T22:51:11.091152Z'
+  version: '1.2'
+pct80_gwp_per_category_declared_unit: 0.2307187165 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 17775 Ave 23 1/2, Chowchilla, CA 93610, USA
+  address_line: 17775 Ave 23 1/2
+  admin_district: CA
+  admin_district2: Madera County
+  alt_names: []
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-02T19:06:11.660056Z'
+  id: dc1c5e545a5747bd833ca63c89db865e
+  is_failed: false
+  latitude: 37.0928752
+  locality: Chowchilla
+  location:
+  - long_name: '17775'
+    short_name: '17775'
+    types:
+    - street_number
+  - long_name: Avenue 23 1/2
+    short_name: Ave 23 1/2
+    types:
+    - route
+  - long_name: Chowchilla
+    short_name: Chowchilla
+    types:
+    - locality
+    - political
+  - long_name: Madera County
+    short_name: Madera County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '93610'
+    short_name: '93610'
+    types:
+    - postal_code
+  - long_name: '9551'
+    short_name: '9551'
+    types:
+    - postal_code_suffix
+  longitude: -120.2256361
+  name: Chowchilla, CA
+  openepd_id: 849X3QVF+5P.certainteed.com
+  owned_by:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-10T22:47:30.631306Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+  postal_code: '93610'
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2021-02-03T15:03:34.294181Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4787358622.102.1
+reference_service_life: 60 year
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3f8p9pgt
+standard_deviation: 0.04125322775 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 45.5 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.2307187165 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T02:16:02.519902Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - GWP is suspiciously lower than category's typical values
+  language:
+  - Not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

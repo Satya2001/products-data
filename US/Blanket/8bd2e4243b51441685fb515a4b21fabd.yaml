@@ -1,0 +1,555 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  Datasheet: https://res.cloudinary.com/knauf-insulation/image/upload/Knauf%20Insulation/Batt%20Insulation/EcoBatt/Standard/Literature/knauf-ecobatt-data-sheet.pdf
+best_practice: 0.7486273542 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '904819084037'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9734917272 kgCO2e
+  pct20_gwp: 1.281107218 kgCO2e
+  pct30_gwp: 1.542048564 kgCO2e
+  pct40_gwp: 1.927537465 kgCO2e
+  pct50_gwp: 2.495220755 kgCO2e
+  pct60_gwp: 3.260207571 kgCO2e
+  pct70_gwp: 3.925594593 kgCO2e
+  pct80_gwp: 4.890311356 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-11-20T07:57:35.089809Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.229372646 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-08-03T14:50:58.191667Z'
+date_of_issue: '2018-12-03'
+date_validity_ends: '2023-12-03'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "EcoBatt glass mineral wool insulation takes sustainability to a new\
+  \ level while delivering Knauf\u2019s exceptional quality, handling and durability.\
+  \ EcoBatt leverages ECOSE\xAE Technology\u2014a revolutionary binder that transformed\
+  \ the glass wool insulation industry. It is based on rapidly renewable, biobased\
+  \ material. EcoBatt also contains sand\u2014 an abundant resource\u2014and recycled\
+  \ glass."
+developer:
+  email: manuela@sustainableminds.com
+  name: Manuela Toro
+  org:
+    address: Broadway, Cambridge, MA 02139
+    address_line: ' Broadway'
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - Sustainable Minds LLC.
+    - sminds
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-12T10:00:38.592854Z'
+    email_extensions:
+    - sustainableminds.com
+    - ebsqart.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
+    id: 321e5dc991904465af04913936fd75c8
+    image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+    is_failed: false
+    latitude: 42.36484
+    locality: Cambridge
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Cambridge
+      freeformAddress: Broadway, Cambridge, MA 02139
+      municipality: Cambridge
+      municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+      postalCode: 02139
+      streetName: Broadway
+    longitude: -71.08975
+    name: Sustainable Minds
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: 02139
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-07-22T02:03:03.572846Z'
+    web_domain: sustainableminds.com
+    website: https://www.sustainableminds.com
+doc: https://app.transparencycatalog.com/assets/uploads/pdf/EcoBatt-batts-and-rolls_EPD_Knauf-Insulation_03222019.pdf
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 430f685149be4c76a5cc823f3611a2eb.pdf
+gwp: 0.531 kgCO2e
+gwp_per_category_declared_unit: 0.989 kgCO2e
+gwp_per_kg: 2.226975906 kgCO2e
+gwp_z: 0.28879058156387305
+id: a5e41ae7317c4df7ab8d25ff7c334964
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Fiberglass
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 0.7486273542 kgCO2e
+manufacturer:
+  address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+  address_line: "95 Rue de Ma\xEBstricht"
+  admin_district: "R\xE9gion Wallonne"
+  admin_district2: "Li\xE8ge"
+  alt_names:
+  - Knauf
+  - Knauf Insulation (Northern Europe)
+  - Knauf Insulation (Northern Europe
+  - Knauf di Knauf S.r.l. s.a.s.
+  - Knauf d. o. o.
+  - "Knauf A.\u015E."
+  - Knauf Danogips GmbH
+  - Knauf di Knauf S.r.l. s.a.s.
+  - "KNAUF A\u015E"
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:34:13.447516Z'
+  email_extensions:
+  - knaufinsulation.com
+  - knaufinsulation.us
+  - knauf.com
+  enterprise: true
+  id: 67105cd1fbce4810b84e557f72d80055
+  image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+  is_failed: false
+  latitude: 50.74865
+  locality: "Vis\xE9"
+  location:
+    country: Belgique
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "Li\xE8ge"
+    countrySubdivision: "R\xE9gion Wallonne"
+    countryTertiarySubdivision: "Li\xE8ge"
+    freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    municipality: "Vis\xE9"
+    municipalitySubdivision: "Vis\xE9"
+    postalCode: '4600'
+    streetName: "Rue de Ma\xEBstricht"
+    streetNumber: '95'
+  longitude: 5.70433
+  name: Knauf Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:50:21.990991Z'
+  web_domain: knaufinsulation.com
+  website: https://www.knaufinsulation.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.44409999999999994 kg
+matched_plants_count: 1
+material_id: 8bd2e4243b51441685fb515a4b21fabd
+my_capabilities: 1
+name: 'EcoBatt batts and rolls: FSK-faced'
+not_an_epd: false
+open_xpd_uuid: ec3ea6q4
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ea6q4
+output_flows: {}
+owner:
+  name: Manuela Toro
+  user_id: manuela@sustainableminds.com
+pcr:
+  alt_names:
+  - 'Part B: Building Envelope Thermal Insulation EPD requirements'
+  - 'Part B: Building Thermal Insulation EPD Requirements UL 10010-1(2nd edition,
+    April 10, 2018)'
+  - 'PCR for preparing an EPD for Product Group: Building Envelope Thermal Insulation'
+  - PCR for Building Envelope Thermal Insulation
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.470071Z'
+  date_of_issue: '2023-04-06'
+  date_validity_ends: '2024-04-06'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34197
+  id: af1087300982459398cb8bd7734ce08d
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 4
+    IPCC AR5:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Building Envelope Thermal Insulation Products'
+  open_xpd_uuid: ec3qgwtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qgwtt
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qgwttac
+  short_name: 'Part B: Building Envelope Thermal Insulation'
+  status: Expired
+  updated_on: '2025-11-20T20:50:04.713284Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 1.229372646 kgCO2e
+plant_geography:
+- US-IN
+- US-CA
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-13T12:37:11.152585Z'
+  id: c4170a452c4d4999adec6d1b8f696924
+  is_failed: false
+  jurisdiction:
+  - US-IN
+  - US-CA
+  name: Shelbyville, IN and Shasta Lake, CA
+  owned_by:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+  plants_count: 0
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2020-10-13T12:37:12.927852Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Broadway, Cambridge, MA 02139
+  address_line: ' Broadway'
+  admin_district: MA
+  admin_district2: Middlesex
+  alt_names:
+  - Sustainable Minds LLC.
+  - sminds
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-12T10:00:38.592854Z'
+  email_extensions:
+  - sustainableminds.com
+  - ebsqart.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
+  id: 321e5dc991904465af04913936fd75c8
+  image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+  is_failed: false
+  latitude: 42.36484
+  locality: Cambridge
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Middlesex
+    countrySubdivision: MA
+    countrySubdivisionName: Massachusetts
+    countryTertiarySubdivision: Cambridge
+    freeformAddress: Broadway, Cambridge, MA 02139
+    municipality: Cambridge
+    municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+    postalCode: 02139
+    streetName: Broadway
+  longitude: -71.08975
+  name: Sustainable Minds
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: 02139
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: true
+  updated_on: '2025-07-22T02:03:03.572846Z'
+  web_domain: sustainableminds.com
+  website: https://www.sustainableminds.com
+program_operator_fkey: "KNA \u2013 12032018 \u2013 001"
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ea6q4zq
+standard_deviation: 0.2856138852 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.229372646 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2024-03-14T02:07:00.718196Z'
+use_stored_carbon: false
+verifier:
+  email: askinner@nsf.org
+  name: Allison Skinner
+  org:
+    address: 789 North Dixboro Road, Ann Arbor, MI 48105
+    address_line: 789 North Dixboro Road
+    admin_district: MI
+    admin_district2: Washtenaw
+    alt_names:
+    - NSF
+    - NSF Certification LLC
+    - NSF Certification
+    attachments:
+      Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-08-01T22:31:34.491119Z'
+    email_extensions:
+    - nsf.org
+    enterprise: true
+    id: a44683606c014062ac954e094362582e
+    image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+    is_failed: false
+    latitude: 42.28365
+    legal_name: NSF International
+    locality: Ann Arbor
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Washtenaw
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+      freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+      localName: Ann Arbor
+      municipality: Ann Arbor
+      municipalitySubdivision: Ann Arbor
+      postalCode: '48105'
+      streetName: North Dixboro Road
+      streetNumber: '789'
+    longitude: -83.67447
+    name: NSF International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:00:07.818662Z'
+    web_domain: nsf.org
+    website: https://www.nsf.org/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  language:
+  - Not specified

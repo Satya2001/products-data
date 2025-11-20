@@ -1,0 +1,716 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/basalite
+best_practice: 326.5702219 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '295112604780'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-07-19T15:19:19.000669Z'
+  declared_unit: 1 m3
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Pre-manufactured concrete masonry blocks
+  display_name: Concrete Unit Masonry
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4ec837a26a0a493786442296f4cb2730
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 04 22 00 Concrete Unit Masonry
+  may_contain_trusted_vendor_declarations: false
+  name: CMU
+  no_statistics: false
+  obsolete: false
+  openepd: CMU
+  openepd_name: CMU
+  parents: []
+  pct10_gwp: 176.4200003 kgCO2e
+  pct20_gwp: 215.4362988 kgCO2e
+  pct30_gwp: 239.217128 kgCO2e
+  pct40_gwp: 261.6864758 kgCO2e
+  pct50_gwp: 284.4293089 kgCO2e
+  pct60_gwp: 303.893972 kgCO2e
+  pct70_gwp: 333.968952 kgCO2e
+  pct80_gwp: 376.5394169 kgCO2e
+  pct90_gwp: 458.4040432 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Concrete Unit Masonry
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30131502'
+  updated_on: '2025-11-20T07:56:22.812500Z'
+  use_stored_carbon: ABSENT
+cmu_insulated: false
+cmu_weight_classification: Normal
+concrete_compressive_strength_28d: 13.8 MPa
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 465.4297781 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-04-25T08:29:21.251059Z'
+date_of_issue: '2016-09-15'
+date_validity_ends: '2021-09-15'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2.4E+03 kg/m3
+description: Structural lightweight CMU made with lightweight aggregates (less than
+  105pcf).
+developer:
+  email: laurel.mcewen@climateearth.com
+  name: Laurel McEwen
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: buildingtransparency.org/e/ec3g5twm0x
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: EPD_BASALITE_CONCRETE_PRODUCTS_DIXON_225-LW.pdf
+gwp: 396 kgCO2e
+gwp_per_category_declared_unit: 396 kgCO2e
+gwp_per_kg: 0.165 kgCO2e
+gwp_z: 0.2083266665599966
+id: 103b84485b2f4e3faaa2e6948c165167
+image: https://static.buildingtransparency.org/images/f3b8edf81bb04a74894a76bb4cb4ce8b.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '
+
+
+  ## Product Component Notes
+
+  crushed aggregate, pumice, natural aggregate, Portland cement, batch water, admixture.
+
+
+  ## LCA Notes
+
+  STUDY
+
+  The impact results are based on a cradle-to-gate life cycle assessment (LCA)
+
+  A1 - raw material acquisition;
+
+  A2 - upstream transportation; and
+
+  A3 - manufacturing processes.
+
+
+  A flow diagram illustrating the main unit processes by life cycle stage is provide
+
+
+  The following cradle-to-gate life cycle stages are excluded from the primary
+
+  product stages:
+
+  1. Production, manufacture, and construction of manufacturing capital
+
+  goods and infrastructure.
+
+  2. Production and manufacture of production equipment, delivery
+
+  vehicles, and laboratory equipment.
+
+  3. Personnel-related activities (travel, furniture, office supplies).
+
+  4. Energy and water use related to company management and sales
+
+  activities that may be located either within the factory site or at another
+
+  location.
+
+  For more information contact: Conrad James Director, Environmental'
+lowest_plausible_gwp: 326.5702219 kgCO2e
+manufacturer:
+  address: 605 Industrial Way, Dixon, CA 95620
+  address_line: 605 Industrial Way
+  admin_district: CA
+  admin_district2: Solano
+  alt_names:
+  - BASALITE CONCRETE PRODUCTS
+  - Kistner Concrete Products
+  - Prestige Concrete Products
+  - Shea Concrete Products
+  - Brown's Concrete Products
+  - Century Concrete Products
+  - Cindercrete Products
+  - Basalite
+  - Basalite Concrete Products
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/basalite
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-04-25T08:28:43.721961Z'
+  email_extensions:
+  - basalite.com
+  enterprise: true
+  id: a130464112f94d95b949d639c561362f
+  image: https://static.buildingtransparency.org/images/12bc1149-2dfd-4480-9860-935b8f5b6eea.png
+  is_failed: false
+  latitude: 38.458878
+  legal_name: BASALITE CONCRETE PRODUCTS
+  locality: Dixon
+  location:
+    boundingBox:
+      entity: position
+      northEast: 38.458899,-121.814171
+      southWest: 38.458878,-121.815204
+    buildingNumber: '605'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Solano
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Dixon
+    extendedPostalCode: '956209700'
+    freeformAddress: 605 Industrial Way, Dixon, CA 95620
+    municipality: Dixon
+    municipalitySubdivision: Dixon
+    postalCode: '95620'
+    routeNumbers: []
+    street: Industrial Way
+    streetName: Industrial Way
+    streetNameAndNumber: 605 Industrial Way
+    streetNumber: '605'
+  longitude: -121.814171
+  name: BASALITE CONCRETE PRODUCTS
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a130464112f94d95b949d639c561362f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '95620'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-07-06T12:35:08.587151Z'
+  web_domain: basalite.com
+  website: https://www.basalite.com
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 13c365ec89e84292a0e4672118c24fce
+my_capabilities: 1
+name: Mix 225-LW
+not_an_epd: false
+open_xpd_uuid: ec3g5twm
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3g5twm
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Manuctured Concrete and Concrete MasonryProducts (UN CPC 3755)
+  - 'The ASTM International PCR005: Product Category rules for Preparing an Environmental
+    Product Declaration for Manufactured concrete and Concrete Masonry Products issued
+    December 2014 serves as the PCR for this EPD.'
+  - 'The ASTM International PCR005: Product Category rules for Preparing an Environmental
+    Product Declaration for Manufactured concrete and Concrete Masonry Products issued
+    December 2014.'
+  - PCR for Manufactured concrete and Concrete Masonry Products
+  - Manufactured Concrete and Concrete Masonry Products (UN CPC 3755)
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:00.488594Z'
+  date_of_issue: '2014-12-12'
+  date_validity_ends: '2019-12-12'
+  declared_units:
+  - 1 m3
+  doc: '#broken-link https://www.astm.org/CERTIFICATION/DOCS/264.PCR_for_Manufactured_Concrete_and_Concrete_Masonry_Products.pdf'
+  id: dd4044ef20374302933272366df6988e
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Manufactured Concrete and Concrete Masonry Products
+  open_xpd_uuid: ec3p875z
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3p875z
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3p875zcu
+  short_name: Manufactured Concrete and Concrete Masonry Products
+  status: Sunset
+  updated_on: '2025-06-11T00:34:47.678211Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 465.4297781 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 605 Industrial Way, Dixon, CA 95620
+  address_line: 605 Industrial Way
+  admin_district: CA
+  admin_district2: Solano
+  alt_names:
+  - Dixon
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-04-25T08:29:13.373759Z'
+  id: f9f58ddae7874b70a3d0072e6c00919d
+  is_failed: false
+  latitude: 38.458878
+  locality: Dixon
+  location:
+    boundingBox:
+      entity: position
+      northEast: 38.458899,-121.814171
+      southWest: 38.458878,-121.815204
+    buildingNumber: '605'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Solano
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Dixon
+    extendedPostalCode: '956209700'
+    freeformAddress: 605 Industrial Way, Dixon, CA 95620
+    municipality: Dixon
+    municipalitySubdivision: Dixon
+    postalCode: '95620'
+    routeNumbers: []
+    street: Industrial Way
+    streetName: Industrial Way
+    streetNameAndNumber: 605 Industrial Way
+    streetNumber: '605'
+  longitude: -121.814171
+  name: Dixon
+  openepd_id: 84CWF55P+H8.basalite.com
+  owned_by:
+    address: 605 Industrial Way, Dixon, CA 95620
+    address_line: 605 Industrial Way
+    admin_district: CA
+    admin_district2: Solano
+    alt_names:
+    - BASALITE CONCRETE PRODUCTS
+    - Kistner Concrete Products
+    - Prestige Concrete Products
+    - Shea Concrete Products
+    - Brown's Concrete Products
+    - Century Concrete Products
+    - Cindercrete Products
+    - Basalite
+    - Basalite Concrete Products
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/basalite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-04-25T08:28:43.721961Z'
+    email_extensions:
+    - basalite.com
+    enterprise: true
+    id: a130464112f94d95b949d639c561362f
+    image: https://static.buildingtransparency.org/images/12bc1149-2dfd-4480-9860-935b8f5b6eea.png
+    is_failed: false
+    latitude: 38.458878
+    legal_name: BASALITE CONCRETE PRODUCTS
+    locality: Dixon
+    location:
+      boundingBox:
+        entity: position
+        northEast: 38.458899,-121.814171
+        southWest: 38.458878,-121.815204
+      buildingNumber: '605'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Solano
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: Dixon
+      extendedPostalCode: '956209700'
+      freeformAddress: 605 Industrial Way, Dixon, CA 95620
+      municipality: Dixon
+      municipalitySubdivision: Dixon
+      postalCode: '95620'
+      routeNumbers: []
+      street: Industrial Way
+      streetName: Industrial Way
+      streetNameAndNumber: 605 Industrial Way
+      streetNumber: '605'
+    longitude: -121.814171
+    name: BASALITE CONCRETE PRODUCTS
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a130464112f94d95b949d639c561362f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '95620'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-07-06T12:35:08.587151Z'
+    web_domain: basalite.com
+    website: https://www.basalite.com
+  postal_code: '95620'
+  total_epds: 34
+  type: Plant
+  units: USA
+  updated_on: '2025-09-29T18:00:02.749988Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 10857 98th Place Southwest, Vashon, WA 98070
+  address_line: 10857 98th Place Southwest
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - Earthsure
+  - IERE
+  - Institute for Environmental Research and Education
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-07-26T13:26:41.418139Z'
+  email_extensions:
+  - iere.org
+  enterprise: true
+  id: 5609a6ef730f45d381c0dfcc8f1e4030
+  image: https://static.buildingtransparency.org/images/09578c87-ff1e-4bef-b9de-710d039dda6c.png
+  invalid_after: '2018-07-01'
+  is_failed: false
+  latitude: 47.447029
+  legal_name: EarthSure
+  locality: Vashon
+  location:
+    boundingBox:
+      entity: position
+      northEast: 47.447447,-122.459782
+      southWest: 47.446493,-122.459807
+    buildingNumber: '10857'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Vashon Island
+    freeformAddress: 10857 98th Place Southwest, Vashon, WA 98070
+    municipality: Vashon
+    municipalitySubdivision: Vashon
+    postalCode: '98070'
+    routeNumbers: []
+    street: 98th Place Southwest
+    streetName: 98th Place Southwest
+    streetNameAndNumber: 10857 98th Place Southwest
+    streetNumber: '10857'
+  longitude: -122.459793
+  name: EarthSure
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5609a6ef730f45d381c0dfcc8f1e4030
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '98070'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:50:05.976251Z'
+  web_domain: iere.org
+  website: http://iere.org/programs/earthsure/
+program_operator_fkey: ''
+resource_uses: {}
+reviewer:
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3g5twm0x
+standard_deviation: 82.49735996 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 465.4297781 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-06-10T03:13:28.179806Z'
+use_stored_carbon: false
+verifier:
+  email: rita@iere.org
+  name: Rita Schenck
+  org:
+    address: 10857 98th Place Southwest, Vashon, WA 98070
+    address_line: 10857 98th Place Southwest
+    admin_district: WA
+    admin_district2: King
+    alt_names:
+    - Earthsure
+    - IERE
+    - Institute for Environmental Research and Education
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-07-26T13:26:41.418139Z'
+    email_extensions:
+    - iere.org
+    enterprise: true
+    id: 5609a6ef730f45d381c0dfcc8f1e4030
+    image: https://static.buildingtransparency.org/images/09578c87-ff1e-4bef-b9de-710d039dda6c.png
+    invalid_after: '2018-07-01'
+    is_failed: false
+    latitude: 47.447029
+    legal_name: EarthSure
+    locality: Vashon
+    location:
+      boundingBox:
+        entity: position
+        northEast: 47.447447,-122.459782
+        southWest: 47.446493,-122.459807
+      buildingNumber: '10857'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: King
+      countrySubdivision: WA
+      countrySubdivisionName: Washington
+      countryTertiarySubdivision: Vashon Island
+      freeformAddress: 10857 98th Place Southwest, Vashon, WA 98070
+      municipality: Vashon
+      municipalitySubdivision: Vashon
+      postalCode: '98070'
+      routeNumbers: []
+      street: 98th Place Southwest
+      streetName: 98th Place Southwest
+      streetNameAndNumber: 10857 98th Place Southwest
+      streetNumber: '10857'
+    longitude: -122.459793
+    name: EarthSure
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5609a6ef730f45d381c0dfcc8f1e4030
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '98070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:50:05.976251Z'
+    web_domain: iere.org
+    website: http://iere.org/programs/earthsure/
+warnings:
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  program_operator_fkey:
+  - Value is an empty string
+white_cement: false

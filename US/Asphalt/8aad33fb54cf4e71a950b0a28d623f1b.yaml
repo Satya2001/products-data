@@ -1,0 +1,501 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+asphalt_gtr: false
+asphalt_pmb: false
+asphalt_ppa: false
+asphalt_sbr: false
+asphalt_sbs: false
+box_id: '1021773665908'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:31.880547Z'
+  declared_unit: 1 kg
+  default_distance: 51.49888 km
+  default_transport_mode: truck, single unit
+  description: General category for asphalt mixtures
+  display_name: Asphalt
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: aa61ba9aeb2a4566942554362bb496d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 12 16 Asphalt Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Asphalt
+  no_statistics: false
+  obsolete: false
+  openepd: Asphalt
+  openepd_name: Asphalt
+  parents: []
+  pct10_gwp: 0.05482551228 kgCO2e
+  pct20_gwp: 0.05982888239 kgCO2e
+  pct30_gwp: 0.06403185433 kgCO2e
+  pct40_gwp: 0.06789398122 kgCO2e
+  pct50_gwp: 0.07156570503 kgCO2e
+  pct60_gwp: 0.07547954634 kgCO2e
+  pct70_gwp: 0.07945215405 kgCO2e
+  pct80_gwp: 0.08491742796 kgCO2e
+  pct90_gwp: 0.09532260428 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Asphalt
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30121601'
+  updated_on: '2025-11-20T07:57:55.742450Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-09-22T16:05:04.971817Z'
+date_of_issue: '2022-07-07'
+date_validity_ends: '2027-03-31'
+declaration_type: Product EPD
+declared_unit: 1 ton
+density: 2400 kg / m^3
+description: "This EPD reports the potential environmental impacts and additional\
+  \ environmental information for an asphalt mixture, which falls\nunder the United\
+  \ Nations Standard Products and Services Code 30111509. Asphalt mixtures are typically\
+  \ incorporated as part of the\nstructure of a roadway, parking lot, driveway, airfield,\
+  \ bike lane, pedestrian path, railroad track bed, or recreational surface.\nMix\
+  \ Name: HMA055-21\nSpecification Entity: ARDOT\nSpecification: 12.5mm ACHM Surface\n\
+  Gradation Type: dense\nMix Design Method: superpave\nNominal Maximum Aggregate Size:\
+  \ 0.5 inches\nPerformance Grade of Asphalt Binder: PG 64-22\nCustomer [Project/Contract]\
+  \ Number: HMA055\nThis mix producer categorizes this product as a Hot Mix Asphalt\
+  \ (HMA) asphalt mixture. This asphalt mixture was produced within a\ntemperature\
+  \ range of 82 to 160\xB0C (180.0 to 320.0\xB0F). Energy and environmental impacts\
+  \ are based on a plant\u2019s average performance over a\n12-month period and are\
+  \ not adjusted for mix-specific production temperatures."
+developer:
+  email: ben@trisightengineering.com
+  name: Ben Ciavola
+  org:
+    address: 101 West Lakeshore Drive, Houghton, MI 49931
+    address_line: 101 West Lakeshore Drive
+    admin_district: MI
+    admin_district2: Houghton
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-29T02:29:42.575799Z'
+    email_extensions:
+    - trisightengineering.com
+    enterprise: true
+    id: e1f3bc7a8d35434ba3bb6fc0dc4ca04e
+    image: https://static.buildingtransparency.org/images/b867529a-97db-49eb-ad70-2abafee8ef80.png
+    is_failed: false
+    latitude: 47.12189
+    locality: Houghton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Houghton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Houghton
+      extendedPostalCode: '499312274'
+      freeformAddress: 101 West Lakeshore Drive, Houghton, MI 49931
+      localName: Houghton
+      municipality: Houghton
+      municipalitySubdivision: Houghton
+      postalCode: '49931'
+      streetName: West Lakeshore Drive
+      streetNumber: '101'
+    longitude: -88.57428
+    name: Trisight
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e1f3bc7a8d35434ba3bb6fc0dc4ca04e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '49931'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-20T04:08:25.561858Z'
+    web_domain: trisightengineering.com
+    website: www.trisightengineering.com
+doc: buildingtransparency.org/e/ec37y3j3ec
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: Print EPD1_994595f1c7e54490b3518a4ffaebfb8f.pdf
+id: bfe51ecd21054b68a3e8c761fe57c24d
+image: https://static.buildingtransparency.org/images/6130d2ee031c4a36b28414a2ccbb049a.png
+impacts: {}
+is_downloadable: true
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-11T16:24:18.699932Z'
+  enterprise: false
+  id: 0dc58717e0b84664ba2bf97c86c416b6
+  image: https://static.buildingtransparency.org/images/353dea034a3d4581abdd24dc48c06787.png
+  is_failed: false
+  name: Pine Bluff Sand and Gravel Company
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/0dc58717e0b84664ba2bf97c86c416b6
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-10T14:51:28.861998Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: pbsgc.com
+  website: https://www.pbsgc.com/
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: 8aad33fb54cf4e71a950b0a28d623f1b
+my_capabilities: 1
+name: HMA055-21, an asphalt mix.
+not_an_epd: false
+open_xpd_uuid: ec37y3j3
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec37y3j3
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules for Asphalt Mixtures
+  - Product Category Rules (PCR) for Asphalt Mixtures, version 2.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-05-06T20:26:10.862766Z'
+  date_of_issue: '2022-04-01'
+  date_validity_ends: '2027-04-01'
+  declared_units:
+  - 1 tonne
+  doc: '#broken-link cqd.io/p/ec3paun0yg'
+  id: 03f6ce8b701a473fb6a9040098379ae5
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NAPA PCR For Asphalt Mixtures
+  open_xpd_uuid: ec3paun0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3paun0
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3paun0yg
+  short_name: Asphalt Mixtures
+  status: Published
+  updated_on: '2025-08-03T18:32:26.858101Z'
+  version: '2.0'
+plant_geography:
+- US-AR
+plant_or_group:
+  address: 330 State School Rd, Monticello, AR 71655, USA
+  address_line: 330 State School Rd
+  admin_district: AR
+  admin_district2: Drew County
+  alt_names: []
+  carbon_intensity: 858.369 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-10-18T15:49:22.155717Z'
+  id: 16265836164b48bf94c651ab68fc706e
+  is_failed: false
+  latitude: 33.5948383
+  locality: Monticello
+  location:
+  - long_name: '330'
+    short_name: '330'
+    types:
+    - street_number
+  - long_name: State School Road
+    short_name: State School Rd
+    types:
+    - route
+  - long_name: Monticello
+    short_name: Monticello
+    types:
+    - locality
+    - political
+  - long_name: Marion Township
+    short_name: Marion Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Drew County
+    short_name: Drew County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arkansas
+    short_name: AR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '71655'
+    short_name: '71655'
+    types:
+    - postal_code
+  - long_name: '9735'
+    short_name: '9735'
+    types:
+    - postal_code_suffix
+  longitude: -91.7947226
+  name: PBSGC Monticello Asphalt
+  openepd_id: 865CH6V4+W4.pbsgc.com
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2022-10-11T16:24:18.699932Z'
+    enterprise: false
+    id: 0dc58717e0b84664ba2bf97c86c416b6
+    image: https://static.buildingtransparency.org/images/353dea034a3d4581abdd24dc48c06787.png
+    is_failed: false
+    name: Pine Bluff Sand and Gravel Company
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0dc58717e0b84664ba2bf97c86c416b6
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-10T14:51:28.861998Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: pbsgc.com
+    website: https://www.pbsgc.com/
+  postal_code: '71655'
+  total_epds: 3
+  type: Plant
+  updated_on: '2022-10-18T16:00:38.707820Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 5100 Forbes Boulevard, Lanham, MD 20706
+  address_line: 5100 Forbes Boulevard
+  admin_district: MD
+  admin_district2: Prince George's
+  alt_names:
+  - NAPA
+  - Asphalt EPD
+  - Emerald Ecolabel
+  - Emerald Eco-label
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-10T23:11:11.739481Z'
+  email_extensions:
+  - asphaltpavement.org
+  - asphaltepd.org
+  enterprise: true
+  id: 136904d07bd94f9f959bfae24e24c56a
+  image: https://static.buildingtransparency.org/images/fbdd34b1-8146-4d80-8bc9-0e578a03f018.png
+  is_failed: false
+  latitude: 38.960571
+  legal_name: National Asphalt Pavement Association
+  locality: Lanham
+  location:
+    boundingBox:
+      entity: position
+      northEast: 38.961196,-76.833920
+      southWest: 38.959630,-76.835144
+    buildingNumber: '5100'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Prince George's
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 20 Lanham
+    extendedPostalCode: '207064407'
+    freeformAddress: 5100 Forbes Boulevard, Lanham, MD 20706
+    municipality: Lanham
+    municipalitySubdivision: Lanham
+    postalCode: '20706'
+    routeNumbers: []
+    street: Forbes Boulevard
+    streetName: Forbes Boulevard
+    streetNameAndNumber: 5100 Forbes Boulevard
+    streetNumber: '5100'
+  longitude: -76.834511
+  name: National Asphalt Pavement Association
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/136904d07bd94f9f959bfae24e24c56a
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-07-03T13:56:29.001838Z'
+  web_domain: asphaltpavement.org
+  website: asphaltpavement.org
+program_operator_fkey: "64.178.388 v9 So\uFB05ware Version2.0.0"
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec37y3j3ec
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-08T17:29:27.097480Z'
+use_stored_carbon: false
+verifier:
+  email: ea169147c3664a5eb1713003f8ccb400@for.review
+  name: John Beath Environmental
+  org:
+    address: San Francisco, CA
+    admin_district: CA
+    admin_district2: San Francisco
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-04-09T18:50:55.658775Z'
+    email_extensions:
+    - nancybuilt.com
+    enterprise: true
+    id: a26275a816d74b6797c42cbcf837ec58
+    image: https://static.buildingtransparency.org/images/1d4a1edc-e0b3-4005-a20a-45c7b94ff6d2.png
+    is_failed: false
+    latitude: 37.78008
+    legal_name: Nancy Built, LLC
+    locality: San Francisco
+    location:
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: San Francisco
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: San Francisco
+      freeformAddress: San Francisco, CA
+      municipality: San Francisco
+    longitude: -122.42017
+    name: Nancy Built, LLC
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a26275a816d74b6797c42cbcf837ec58
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: true
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: true
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: true
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-20T16:37:19.355175Z'
+    web_domain: nancybuilt.com
+    website: https://www.nancybuilt.com
+warnings:
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

@@ -1,0 +1,688 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 7.632024251 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '493031606184'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.357 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.879608306 kgCO2e
+  pct20_gwp: 6.88647569 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.521733535 kgCO2e
+  pct50_gwp: 10.95405437 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.91655384 kgCO2e
+  pct80_gwp: 17.0297323 kgCO2e
+  pct90_gwp: 20.03790399 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-11-20T07:57:02.915919Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 12.56797575 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-07-19T06:28:25.011229Z'
+date_of_issue: '2014-09-16'
+date_validity_ends: '2019-09-16'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: This Environmental Product Declaration (EPD) report pertains to a solution
+  dyed Masland styrene butadiene latex backed broadloom carpet. This is an update
+  to a previous EPD report (2014) to account for improvements to the carpet architecture.
+  Masland is located at 716 Bill Myles Drive, Saraland, AL, 36571. The carpet has
+  a face fiber weight of 28.9 oz/square yard (sy) (0.98 kg/m2) and a total weight
+  of 66.8 oz/sy (2.27 kg/m2). The face fiber is composed of solution dyed nylon 6,6,
+  and it is tufted on a primary backing made from polypropylene (PP). There is a secondary
+  backing sheet of PP, and back coatings are styrene butadiene latex (SBL) with calcium
+  carbonate as filler. The 2018 carpet has the same nylon 6,6 face fiber and PP backing
+  weights as the 2014 carpet. Improvements come in the form of a reduced quantity
+  of SBL, and replacement of aluminum hydroxide with calcium carbonate.
+developer:
+  email: egriffing@environmentalclarity.com
+  name: Evan Griffing
+  org:
+    address: 5230 Hickory Park Drive, Glen Allen, VA 23059
+    address_line: 5230 Hickory Park Drive
+    admin_district: VA
+    admin_district2: Henrico
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-02T14:49:02.299370Z'
+    email_extensions:
+    - environmentalclarity.com
+    enterprise: true
+    id: 30f4ddde3ae34d439412c611ee3a9e00
+    is_failed: false
+    latitude: 37.67691
+    locality: Glen Allen, Short Pump
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Henrico
+      countrySubdivision: VA
+      countrySubdivisionName: Virginia
+      countryTertiarySubdivision: Three Chopt
+      extendedPostalCode: '230592616'
+      freeformAddress: 5230 Hickory Park Drive, Glen Allen, VA 23059
+      localName: Glen Allen
+      municipality: Glen Allen, Short Pump
+      municipalitySubdivision: Glen Allen, Short Pump
+      postalCode: '23059'
+      streetName: Hickory Park Drive
+      streetNumber: '5230'
+    longitude: -77.58758
+    name: Environmental Clarity
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/30f4ddde3ae34d439412c611ee3a9e00
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '23059'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-21T04:58:05.342592Z'
+    web_domain: environmentalclarity.com
+    website: http://www.environmentalclarity.com/
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/3aae86691efc432e94710136878d8ead.png
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2025-10-10T20:50:31.564974Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3p9dty30
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD10044.pdf
+form_factor: Broadloom
+gwp: 10.1 kgCO2e
+gwp_per_category_declared_unit: 10.1 kgCO2e
+gwp_per_kg: 4.449339207 kgCO2e
+gwp_z: 0.2903446228191595
+gypsum_specific_density: 1.531024 kg / m^2
+id: 412aa73ce6284fde8b0685add88b4cc4
+image: https://static.buildingtransparency.org/images/feb092d627e141d98eca311876e47c7a.png
+impacts: {}
+intended_application:
+- Com
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nAvailability Origin Component Material\
+  \ Mass % of Raw Renewable Non-Renewable Recycled Materials Pile Material Type 6,6\
+  \ Fossil resource, 43.3% Global (Tuft) Nylon limited 0% Primary Fossil resource,\
+  \ Backing Polypropylene 6% 0% Global limited Fabric Fossil resource, Back coating\
+  \ Latex 0% Global limited (Bonding 47.8% Calcium Mineral, Agent) 0% US Carbonate\
+  \ abundant Secondary Fossil resource, Backing Polypropylene 3% 0% Global limited\
+  \ Fabric Production of main materials Nylon Face Fiber - Type 6,6 nylon that is\
+  \ solution dyed. Nylon 6,6 is produced through polycondensation of hexamethylenediamine\
+  \ and adipic acid. Styrene Butadiene Rubber (SBR) is a synthetic copolymer that\
+  \ is used as a primary cross-linkable binder in the manufacture of rubber flooring\
+  \ products and tires. It is used to provide tuft bind and lamination strength between\
+  \ the nylon fiber and secondary backing. Calcium carbonate is an abundant mineral\
+  \ found in all parts of the world as the chief substance in rocks (i.e., marble\
+  \ and limestone). It can be ground to varying particle sizes and is widely used\
+  \ as filler in formulated flooring systems. Polypropylene Backings - The primary\
+  \ backing is utilized to tuft the Type 6,6 nylon fiber to create the carpet. The\
+  \ secondary backing is utilized to provide dimensional stability to the finished\
+  \ carpet. Environmental Product Declaration Program Operator NSF International Date\
+  \ of Issue: September 16, 2014 789 N. Dixboro Rd. Date of Update: July 6, 2018 Ann\
+  \ Arbor MI 48105 USA Valid Until: September 16, 2019 www.nsf.org Declaration#: EPD10045\
+  \ Environmental Product Declarations Masland Family of Products | Broadloom Carpet\
+  \ Life Cycle Assessment Stages and Reported EPD Information Sourcing/extraction\
+  \ (raw material acquisition) stage The life cycle assessment stage for sourcing\
+  \ and material extraction begins at the point of the raw materials extraction from\
+  \ its source and ends at the receipt of the raw material at the carpet manufacturing\
+  \ facility. All raw materials are evaluated for quality, availability, consistency,\
+  \ performance, and value before acceptance into the manufacturing process. Once\
+  \ the material and its source have passed the initial evaluation process, on-going\
+  \ evaluation is made using the suppliers\u2019 certificate of analysis. Manufacturing\
+  \ stage The production process is designed for efficiency, utilizing the strengths\
+  \ of Masland\u2019s technology and expertise. It begins with the use of solution\
+  \ dyed fibers. A change to the use of solution dyed nylon was made as a method of\
+  \ reducing water and energy usage. The fiber is then converted into yarn in the\
+  \ spinning process. About 90% of the nylon fiber is processed (twisted, heat set,\
+  \ and warped) on site. The remainder of the fiber is processed by a supplier and\
+  \ purchased in the warped state ready for tufting. These processes utilize water,\
+  \ electricity, and natural gas. The tufting process incorporates tufting machines\
+  \ that utilize needles to insert the yarn into a synthetic backing material. The\
+  \ needles are controlled to determine the myriad of aesthetics that the marketplace\
+  \ desires. This process requires electricity. Next is the coating process which\
+  \ applies a high performance precoat to the back of the tufted substrate. This precoat\
+  \ locks the fibers into place giving strength to the material. Following the precoat\
+  \ process, the back coating consisting of SBR latex and a polypropylene backing\
+  \ is added. The coating process uses electricity, gas, and water. Dyeing Spinning\
+  \ Tufting Coating Backing Packaging Environmental Product Declaration Program Operator\
+  \ NSF International Date of Issue: September 16, 2014 789 N. Dixboro Rd. Date of\
+  \ Update: July 6, 2018 Ann Arbor MI 48105 USA Valid Until: September 16, 2019 www.nsf.org\
+  \ Declaration#: EPD10045 Environmental Product Declarations Masland Family of Products\
+  \ | Broadloom Carpet Delivery and installation stage Delivery Delivery to the customer\
+  \ is typically through the use of diesel powered trucks. Truck transportation is\
+  \ optimized by loa\n\n## LCA Notes\nStages and Reported EPD Information Sourcing/extraction\
+  \ (raw material acquisition) stage The life cycle assessment stage for sourcing\
+  \ and material extraction begins at the point of the raw materials extraction from\
+  \ its source and ends at the receipt of the raw material at the carpet manufacturing\
+  \ facility. All raw materials are evaluated for quality, availability, consistency,\
+  \ performance, and value before acceptance into the manufacturing process. Once\
+  \ the material and its source have passed the initial evaluation process, on-going\
+  \ evaluation is made using the suppliers\u2019 certificate of analysis.\n\n## Source\
+  \ Data Notes\nCML (2013) CML 2 baseline 2000 v 3.01, impact assessment method, as\
+  \ provided by Simapro 8.0, http://cml.leiden.edu/software/data-cmlia.html. CRI,\
+  \ Carpet and Rug Institute, Life cycle database developed by Georgia Institute of\
+  \ Technology and carpet industry, Dalton, GA, 2010. EIA (2016) Electric Power Monthly\
+  \ with data for October 2016, Energy Information Agency, url= https://www.eia.gov/electricity/monthly/archive/december2016.pdf\
+  \ U.S. Environmental Protection Agency (2008). Municipal solid waste in the United\
+  \ States: 2007 Facts and figures, Office of Solid Waste and Emergency Response,\
+  \ EPA 530-R-08-010, Washington, D.C. Retrieved from http://www.epa.gov/osw/nonhaz/municipal/pubs/msw07-rpt.pdf\
+  \ Accessed on 13 April 2009."
+lowest_plausible_gwp: 7.632024251 kgCO2e
+manufacturer:
+  address: 716 Bill Myles Drive, Saraland, AL 36571
+  address_line: 716 Bill Myles Drive, Bill Myles Drive East
+  admin_district: AL
+  admin_district2: Mobile
+  alt_names:
+  - Avant Contract
+  - Masland Contract
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/masland-contract
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-26T18:57:47.749905Z'
+  email_extensions:
+  - maslandcontract.com
+  enterprise: true
+  id: 93ff0ceb37fa4a8a88a232a2bb899fd1
+  is_failed: false
+  latitude: 30.80588
+  locality: Saraland
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Mobile
+    countrySubdivision: AL
+    countrySubdivisionName: Alabama
+    countryTertiarySubdivision: Mobile
+    extendedPostalCode: '3657133'
+    freeformAddress: 716 Bill Myles Drive, Saraland, AL 36571
+    localName: Saraland
+    municipality: Saraland
+    municipalitySubdivision: Saraland
+    postalCode: '36571'
+    streetName: Bill Myles Drive, Bill Myles Drive East
+    streetNumber: '716'
+  longitude: -88.06804
+  name: Avant Contract
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/93ff0ceb37fa4a8a88a232a2bb899fd1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '36571'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-30T03:16:08.415652Z'
+  web_domain: maslandcontract.com
+  website: http://www.maslandcontract.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2.27 kg
+matched_plants_count: 0
+material_id: 43f8bae3b94345dc80b9a7fdfd0bcc5e
+my_capabilities: 1
+name: Broadloom Carpet
+not_an_epd: false
+open_xpd_uuid: ec3p9dty
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3p9dty
+output_flows: {}
+owner:
+  name: cqd.io Script
+  user_id: script@cqd.io
+pcr:
+  alt_names:
+  - NSF PCR for Flooring Carpet, Resilient, Laminate, Ceramic and Wood
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and W ood)
+  - USA NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - 'NSF  Reference PCR Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - NSF PCR for Flooring PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - NSF PCR for Flooring PCR - Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:57.344402Z'
+  date_of_issue: '2012-05-22'
+  date_validity_ends: '2017-05-22'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: 59a08bc797e84eb78fe7ab5ff3e40852
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3e6jsg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e6jsg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e6jsgyf
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-11-20T18:20:04.372724Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 12.56797575 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: Phoenix, AZ
+  admin_district: AZ
+  admin_district2: Maricopa
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-07-24T03:02:19.064912Z'
+  id: 6c6f801ecf424a1298423cc2b2a1333a
+  is_failed: false
+  latitude: 33.4482
+  locality: Phoenix
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Maricopa
+    countrySubdivision: AZ
+    countrySubdivisionName: Arizona
+    countryTertiarySubdivision: Phoenix
+    freeformAddress: Phoenix, AZ
+    municipality: Phoenix
+  longitude: -112.07258
+  name: Phoenix, AZ
+  openepd_id: 8559CWXG+7X.maslandcontract.com
+  owned_by:
+    address: 716 Bill Myles Drive, Saraland, AL 36571
+    address_line: 716 Bill Myles Drive, Bill Myles Drive East
+    admin_district: AL
+    admin_district2: Mobile
+    alt_names:
+    - Avant Contract
+    - Masland Contract
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/masland-contract
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-26T18:57:47.749905Z'
+    email_extensions:
+    - maslandcontract.com
+    enterprise: true
+    id: 93ff0ceb37fa4a8a88a232a2bb899fd1
+    is_failed: false
+    latitude: 30.80588
+    locality: Saraland
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Mobile
+      countrySubdivision: AL
+      countrySubdivisionName: Alabama
+      countryTertiarySubdivision: Mobile
+      extendedPostalCode: '3657133'
+      freeformAddress: 716 Bill Myles Drive, Saraland, AL 36571
+      localName: Saraland
+      municipality: Saraland
+      municipalitySubdivision: Saraland
+      postalCode: '36571'
+      streetName: Bill Myles Drive, Bill Myles Drive East
+      streetNumber: '716'
+    longitude: -88.06804
+    name: Avant Contract
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/93ff0ceb37fa4a8a88a232a2bb899fd1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '36571'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-30T03:16:08.415652Z'
+    web_domain: maslandcontract.com
+    website: http://www.maslandcontract.com/
+  total_epds: 1
+  type: Plant
+  updated_on: '2020-07-24T03:02:20.203556Z'
+plant_specific: true
+private: false
+product_specific: false
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10045
+reference_service_life: 15 year
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3p9dty30
+specific_density: "1.531024 kg/m\xB2"
+standard_deviation: 2.93248069 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 12.56797575 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T03:02:06.697818Z'
+use_stored_carbon: false
+verifier:
+  email: joorbeck@nsf.org
+  name: Jenny Oorbeck
+  org:
+    address: 789 North Dixboro Road, Ann Arbor, MI 48105
+    address_line: 789 North Dixboro Road
+    admin_district: MI
+    admin_district2: Washtenaw
+    alt_names:
+    - NSF
+    - NSF Certification LLC
+    - NSF Certification
+    attachments:
+      Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-08-01T22:31:34.491119Z'
+    email_extensions:
+    - nsf.org
+    enterprise: true
+    id: a44683606c014062ac954e094362582e
+    image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+    is_failed: false
+    latitude: 42.28365
+    legal_name: NSF International
+    locality: Ann Arbor
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Washtenaw
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+      freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+      localName: Ann Arbor
+      municipality: Ann Arbor
+      municipalitySubdivision: Ann Arbor
+      postalCode: '48105'
+      streetName: North Dixboro Road
+      streetNumber: '789'
+    longitude: -83.67447
+    name: NSF International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:00:07.818662Z'
+    web_domain: nsf.org
+    website: https://www.nsf.org/
+warnings:
+  density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  - Not specified
+  gypsum_specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B1_years are empty
+  specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+yarn_type: Nylon 6,6
+yarn_weight: 28.9 oz/sy

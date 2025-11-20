@@ -1,0 +1,662 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 303.5384925 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '493006615650'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-03-27T13:38:09Z'
+  declared_unit: 1 m3
+  default_distance: 875.48096 km
+  default_transport_mode: truck, unspecified
+  description: A lightweight, precast, foamed concrete masonry building material
+  display_name: Autoclaved Aerated Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a869e46b62f44d61a186b0da76f03870
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1137.231664 kg
+  massless: false
+  masterformat: 04 22 26 Autoclaved Aerated Concrete Unit Masonry
+  may_contain_trusted_vendor_declarations: false
+  name: AutoclavedAeratedConcrete
+  no_statistics: false
+  obsolete: false
+  openepd: Masonry >> AutoclavedAeratedConcrete
+  openepd_name: Masonry >> AutoclavedAeratedConcrete
+  parents: []
+  pct10_gwp: 154.9978585 kgCO2e
+  pct20_gwp: 192.0309546 kgCO2e
+  pct30_gwp: 202.5463132 kgCO2e
+  pct40_gwp: 213.0616718 kgCO2e
+  pct50_gwp: 221.0114071 kgCO2e
+  pct60_gwp: 228.9611424 kgCO2e
+  pct70_gwp: 239.8763113 kgCO2e
+  pct80_gwp: 250.7914802 kgCO2e
+  pct90_gwp: 269.8528971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: AAC
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2025-11-20T07:56:21.734375Z'
+  use_stored_carbon: ABSENT
+concrete_compressive_strength_28d: 13.78951 MPa
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 498.4615075 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-07-18T15:36:29.116279Z'
+date_of_issue: '2015-09-26'
+date_validity_ends: '2020-08-21'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m3
+description: 'The Superlite 8x8x16 medium weight concrete masonry units represented
+  by this cradle-to-gate EPD are produced at four plants in Arizona: West Phoenix
+  (4601 N. 42nd Avenue Phoenix, AZ 85019), Gilbert (301 E. Baseline Road Gilbert,
+  AZ 85233), Lone Butte (6741 W. German Road Chandler, AZ 85226) and Yuma (6500 S.
+  Highway 95 Yuma, AZ 85365). The units are produced under ASTM C-90 specification
+  for Loadbearing Concrete Masonry Units. The Concrete Masonry Units are used in a
+  wide variety of lowrise buildings from residential to educational to commercial.'
+developer:
+  email: david.r.green@basf.com
+  name: David Green
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-12T23:01:57.814017Z'
+    enterprise: false
+    id: a5767c7fa046457fa698e985912c1023
+    is_failed: false
+    name: NSF International
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a5767c7fa046457fa698e985912c1023
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-29T04:18:08.698841Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: nsfsustainability.org
+    website: nsfsustainability.org
+doc: buildingtransparency.org/e/ec3dup7r1t
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+file_name: EPD10063.pdf
+gwp: 401 kgCO2e
+gwp_per_category_declared_unit: 401 kgCO2e
+gwp_per_kg: 0.2005 kgCO2e
+gwp_z: 0.28879058156387305
+id: d18215d2146f4f39a0bff172d2388581
+image: https://static.buildingtransparency.org/images/fccc7cdf8ac34256a3c04e43adea2a56.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '
+
+
+  ## Product Component Notes
+
+  Non-hazardous generated, Hazardous waste generated, LIFE CYCLE IMPACT CAT, Global
+  Warming Potential, Acidification Potential, Eutrophication Potential
+
+
+  ## LCA Notes
+
+  Product Description
+
+  The Superlite 8x8x16 medium weight concrete masonry units
+
+  represented by this cradle-to-gate EPD are produced at four
+
+  plants in Arizona: West Phoenix (4601 N. 42nd Avenue Phoenix,
+
+  AZ 85019), Gilbert (301 E. Baseline Road Gilbert, AZ 85233),
+
+  Lone Butte (6741 W. German Road Chandler, AZ 85226) and
+
+  Yuma (6500 S. Highway 95 Yuma, AZ 85365). The units are
+
+  produced under ASTM C-90 specification for Loadbearing
+
+  Concrete Masonry Units. The Concrete Masonry Units are used in a wide variety of
+  lowrise buildings from residential to educational to commercial.
+
+
+  Declared Unit
+
+  The ASTM PCR for concrete and concrete masonry products only covers the cradle-to-gate
+
+  life-cycle stages. Therefore, the declared unit for this EPD is one (1) m 3 of concrete
+  formed
+
+  into manufactured concrete and concrete masonry products. The EPD may be presented
+
+  additionally per one (1) yd3 of concrete. This EPD covers only the cradle-to-gate
+  impacts of
+
+  manufactured concrete and concrete masonry products using a declared unit, and the
+
+  results cannot be used to compare between products.
+
+
+  System Boundaries
+
+  Based on the ASTM PCR, the system boundaries are defined as the modules for raw
+
+  material supply, transportation of inbound materials and the manufacturing process
+  also
+
+  known as the Product Stage. The stages include extraction and processing of raw
+
+  materials (raw material supply), the average or specific transportation of raw materials
+  from
+
+  extraction site or source to the manufacturing site including empty backhauls (transportation
+
+  of inbound materials) and the manufacturing of the product including the batching
+  and
+
+  mixing of the concrete, forming of the units, curing of the units and the applicable
+  postproduction finishing of the units which includes the packaging with associated
+  transportation
+
+  and waste disposal in preparing the product for shipment. (Manufacturing process).
+
+
+  Waste Management
+
+  Hazardous and non-hazardous waste generated within the system boundaries and
+
+  transported outside of the plant facility are reported in the EPD per declared unit.
+
+
+  Certification Other Standards/Additional Testing Requirements
+
+  Each product presented in this EPD conforms to the appropriate ASTM and/or CSA
+
+  specification which provide detailed descriptions and specifications for each of
+  the products.
+
+
+  Allocation Rules
+
+  A production process that generates more than one type of product may require the
+
+  allocation of environmental flows from the process to the different products to
+  get product-
+
+
+  ## Source Data Notes
+
+  org, Jack Geibig, jgeibig@ecoform.com, Lifecycle Assessment Manager for Segmental,
+  Concrete Paving Products EPD, August, 2015, David R. Green, BASF Corporation, 216-839-7803,
+  Jack Geibig, Ecoform, LLC, jgeibig@ecoform.com, ASTM International, Manufactured
+  Concrete and Concrete Masonry, Products (UN CPC 3755), December, 2014, Nicholas
+  Santero, PE International, ASTM International, http://www.astm.org, Date of Issue:
+  September 26, 2015, Period of Validity: 5 years, Declaration#: EPD10063'
+lowest_plausible_gwp: 303.5384925 kgCO2e
+manufacturer:
+  address: Frankfurt am Main
+  admin_district: Hessen
+  admin_district2: Frankfurt am Main
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/superlite-block
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:33:38.277844Z'
+  email_extensions:
+  - superliteblock.com
+  enterprise: true
+  id: 91d2557b5a564e90aaebec4d21a25066
+  is_failed: false
+  latitude: 50.11088
+  locality: Frankfurt am Main
+  location:
+    country: Germany
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Frankfurt am Main
+    countrySubdivision: Hessen
+    freeformAddress: Frankfurt am Main
+    municipality: Frankfurt am Main
+  longitude: 8.67949
+  name: Superlite Block
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/91d2557b5a564e90aaebec4d21a25066
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:18:53.704442Z'
+  web_domain: superliteblock.com
+  website: www.superliteblock.com
+manufacturer_specific: true
+mass_per_declared_unit: 2000 kg
+matched_plants_count: 4
+material_id: e570915575fe4762bcb765755a1fe70e
+my_capabilities: 1
+name: 8x8x16 Medium Weight CMU
+not_an_epd: false
+open_xpd_uuid: ec3dup7r
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3dup7r
+output_flows: {}
+owner:
+  name: cqd.io Script
+  user_id: script@cqd.io
+pcr:
+  alt_names:
+  - Manuctured Concrete and Concrete MasonryProducts (UN CPC 3755)
+  - 'The ASTM International PCR005: Product Category rules for Preparing an Environmental
+    Product Declaration for Manufactured concrete and Concrete Masonry Products issued
+    December 2014 serves as the PCR for this EPD.'
+  - 'The ASTM International PCR005: Product Category rules for Preparing an Environmental
+    Product Declaration for Manufactured concrete and Concrete Masonry Products issued
+    December 2014.'
+  - PCR for Manufactured concrete and Concrete Masonry Products
+  - Manufactured Concrete and Concrete Masonry Products (UN CPC 3755)
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:00.488594Z'
+  date_of_issue: '2014-12-12'
+  date_validity_ends: '2019-12-12'
+  declared_units:
+  - 1 m3
+  doc: '#broken-link https://www.astm.org/CERTIFICATION/DOCS/264.PCR_for_Manufactured_Concrete_and_Concrete_Masonry_Products.pdf'
+  id: dd4044ef20374302933272366df6988e
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Manufactured Concrete and Concrete Masonry Products
+  open_xpd_uuid: ec3p875z
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3p875z
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3p875zcu
+  short_name: Manufactured Concrete and Concrete Masonry Products
+  status: Sunset
+  updated_on: '2025-06-11T00:34:47.678211Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 498.4615075 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-05T15:04:49.841208Z'
+  id: 25c159a7fe2b4091aa8d77d515721f56
+  is_failed: false
+  jurisdiction:
+  - US-AZ
+  name: Phoenix, AZ/Gilbert, AZ/Chandler, AZ/Yuma, AZ
+  owned_by:
+    address: Frankfurt am Main
+    admin_district: Hessen
+    admin_district2: Frankfurt am Main
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/superlite-block
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:33:38.277844Z'
+    email_extensions:
+    - superliteblock.com
+    enterprise: true
+    id: 91d2557b5a564e90aaebec4d21a25066
+    is_failed: false
+    latitude: 50.11088
+    locality: Frankfurt am Main
+    location:
+      country: Germany
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Frankfurt am Main
+      countrySubdivision: Hessen
+      freeformAddress: Frankfurt am Main
+      municipality: Frankfurt am Main
+    longitude: 8.67949
+    name: Superlite Block
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/91d2557b5a564e90aaebec4d21a25066
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:18:53.704442Z'
+    web_domain: superliteblock.com
+    website: www.superliteblock.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2020-10-05T15:04:51.620442Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10063
+resource_uses: {}
+reviewer:
+  org:
+    address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+    address_line: 100 Barr Harbor Dr
+    admin_district: PA
+    admin_district2: Montgomery County
+    alt_names:
+    - astm
+    - ASTMInternational
+    attachments:
+      Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-01T05:13:50.328641Z'
+    email_extensions:
+    - astm.org
+    enterprise: true
+    id: 2657c6a84bfa4675a5e4ee785c253a48
+    image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+    is_failed: false
+    latitude: 40.0689574
+    legal_name: ASTM International
+    locality: Conshohocken
+    location:
+    - long_name: '100'
+      short_name: '100'
+      types:
+      - street_number
+    - long_name: Barr Harbor Drive
+      short_name: Barr Harbor Dr
+      types:
+      - route
+    - long_name: Conshohocken
+      short_name: Conshohocken
+      types:
+      - locality
+      - political
+    - long_name: Montgomery County
+      short_name: Montgomery County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19428'
+      short_name: '19428'
+      types:
+      - postal_code
+    - long_name: '2951'
+      short_name: '2951'
+      types:
+      - postal_code_suffix
+    longitude: -75.3083283
+    name: ASTM International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '19428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: true
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-22T20:35:58.976247Z'
+    web_domain: astm.org
+    website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3dup7r1t
+standard_deviation: 115.8050232 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 498.4615075 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T03:21:19.421772Z'
+use_stored_carbon: false
+verifier:
+  email: joorbeck@nsf.org
+  name: Jenny Oorbeck
+  org:
+    address: 789 North Dixboro Road, Ann Arbor, MI 48105
+    address_line: 789 North Dixboro Road
+    admin_district: MI
+    admin_district2: Washtenaw
+    alt_names:
+    - NSF
+    - NSF Certification LLC
+    - NSF Certification
+    attachments:
+      Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-08-01T22:31:34.491119Z'
+    email_extensions:
+    - nsf.org
+    enterprise: true
+    id: a44683606c014062ac954e094362582e
+    image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+    is_failed: false
+    latitude: 42.28365
+    legal_name: NSF International
+    locality: Ann Arbor
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Washtenaw
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+      freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+      localName: Ann Arbor
+      municipality: Ann Arbor
+      municipalitySubdivision: Ann Arbor
+      postalCode: '48105'
+      streetName: North Dixboro Road
+      streetNumber: '789'
+    longitude: -83.67447
+    name: NSF International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:00:07.818662Z'
+    web_domain: nsf.org
+    website: https://www.nsf.org/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

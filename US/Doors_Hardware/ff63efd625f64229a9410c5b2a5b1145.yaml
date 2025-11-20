@@ -1,0 +1,689 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 4.994782607 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '627983849660'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:46.691849Z'
+  declared_unit: 1 unit
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Door hardware, including automatic and security door hardware
+  display_name: Doors Hardware
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ca54e842c0fc4bf2b4f3a8564c3b1a4d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2.18 kg
+  massless: false
+  masterformat: 08 70 00 Doors Hardware
+  may_contain_trusted_vendor_declarations: false
+  name: DoorsHardware
+  no_statistics: false
+  obsolete: false
+  openepd: Accessories >> DoorsHardware
+  openepd_name: Accessories >> DoorsHardware
+  parents: []
+  pct10_gwp: 2.704905428 kgCO2e
+  pct20_gwp: 6.990470809 kgCO2e
+  pct30_gwp: 8.704985141 kgCO2e
+  pct40_gwp: 9.321804941 kgCO2e
+  pct50_gwp: 11.32362171 kgCO2e
+  pct60_gwp: 13.76255562 kgCO2e
+  pct70_gwp: 16.20235452 kgCO2e
+  pct80_gwp: 21.49450899 kgCO2e
+  pct90_gwp: 29.56772023 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Doors Hardware
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '46171500'
+  updated_on: '2025-11-20T07:57:22.034852Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 7.145217393 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-03-04T16:08:37.619240Z'
+date_of_issue: '2015-05-18'
+date_validity_ends: '2020-05-18'
+declaration_type: Product EPD
+declared_unit: 1 piece
+description: The HES 9600 series is a windstorm rated, surface mounted electric strike
+  designed to accommodate rim exit devices with a 3/4" throw latchbolt. All components
+  are completely encased within its 3/4" thick stainless steel housing, so no cutting
+  on the frame is required for installation. It is field selectable for fail secure
+  and fail safe operation, and for 12 or 24VDC.
+developer:
+  email: info@pe-international.com
+  name: PE International Staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3j4xu4yj
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: 128.1_ASSA ABLOY_mrEPD_HES9600SeriesElectric Strike.pdf
+gwp: 6.07 kgCO2e
+gwp_per_category_declared_unit: 6.07 kgCO2e
+gwp_per_kg: 8.69224 kgCO2e
+gwp_z: 0.2104756517984919
+id: 4b42c0e8823948debf97acc6b83b846c
+image: https://static.buildingtransparency.org/images/9ccb0b72b54041b1be9aba1da09c8c3c.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\ns / Ancillary materials product components\
+  \ and/or materi ated as a percentage mass to ena PD to understand the composition\
+  \ ivery status. composition for 9600 Series is as nent l Steel chanics Percentage\
+  \ in mas 0.4 92.0 6.6\n\n## Source Data Notes\nThe PCR review was conducted by:\
+  \ IBU - Institut Bauen und Umwelt e.V. PCR was approved by the Independent Expert\
+  \ Committee (SVA) The CEN Norm EN 15804 serves as the core PCR. This declaration\
+  \ was independently verified in accordance with ISO 14025 by Underwriters Laboratories\
+  \ \u2610 INTERNAL \u2612 EXTERNAL Wade Stout This life cycle assessment was independently\
+  \ verified in accordance with EN 15804 and the reference PCR by: IBU - Institut\
+  \ Bauen und Umwelt e.V. 1. General Information Hanchett Entry Systems, Inc. 9600\
+  \ series Programme holder Owner of the Declaration IBU - Institut Bauen und Umwelt\
+  \ e.V. Hanchett Entry Systems, Inc. Panoramastr. 1 10027 S. 51st St, Ste. 102 10178\
+  \ Berlin Phoenix, AZ 85044 Germany Declaration number Declared product / Declared\
+  \ unit EPD-ASA-20150139-IBA1-EN The declaration represents 1 electric strike - 9600\
+  \ series consisting of the following items: - Strike body and cover - Mounting screws,\
+  \ lockdown screws & cover screws - 12-Volt and 24-Volt pigtails This Declaration\
+  \ is based on the Product Scope: Category Rules: This declaration and its LCA study\
+  \ are relevant to 9600 Locks and fittings , 07.2014 series electric strike. (PCR\
+  \ tested and approved by the independent expert The primary manufacturing processes\
+  \ are made by committee) external suppliers and the final manufacturing processes\
+  \ and assembly occur at our manufacturing Issue date factory in Arizona, United\
+  \ States. The owner of the 18.05.2015 declaration shall be liable for the underlying\
+  \ information and evidence; the IBU shall not be liable with respect Valid to to\
+  \ manufacturer information, life cycle assessment data and evidences. 17.05.2020\
+  \ The owner of the declaration shall be liable for the underlying information and\
+  \ evidence; the IBU shall not be liable with respect to manufacturer information,\
+  \ life cycle assessment data and evidences. Verification The CEN Standard EN 15804\
+  \ serves as the core PCR Independent verification of the declaration according to\
+  \ ISO 14025 Prof. Dr.-Ing. Horst J. Bossenmayer (President of Institut Bauen und\
+  \ Umwelt e.V.) internally x externally Dr.-Ing. Burkhart Lehmann Dr. Wolfram Trinius\
+  \ (Managing Director IBU) (Independent verifier appointed by SVA) 2. Product 2.1\
+  \ Product description - Emergency exit doors - Frequently used doors. Product name:\
+  \ HES 9600 Series 2.3 Technical Data Product characteristic: electric strike The\
+  \ table presents the technical properties of HES The HES 9600 series is a windstorm\
+  \ rated, surface 9600 Series: mounted electric strike designed to accommodate rim\
+  \ exit devices with a 3/4\" throw latchbolt. All components Technical data are completely\
+  \ encased within its 3/4\" thick stainless Parameter Value Unit steel housing, so\
+  \ no cutting on the frame is required for Static strength 2.000 lbs. installation.\
+  \ It is field selectable for fail secure and fail Dynamic strength 70 ft-lbs. safe\
+  \ operation, and for 12 or 24VDC. Endurance 1,000,000 cycles Dual voltage 12 or\
+  \ 24 VDC 2.2 Application 9600 Series electric strikes are ideal for a wide range\
+  \ 2.4 Placing on the market / Application rules of applications - from private to\
+  \ commercial and public The standards that can be applied for 9600 Series sectors\
+  \ both light and heavy duty usage: electric strikes are: - Door openings that are\
+  \ secured with a rim exit device \u2022 ANSI 250.13-2003 Severe Windstorm listed\
+  \ where someone wants to add access control or traffic \u2022 Florida Building Code\
+  \ Approved (FL#14307) control 2 Environmental Product Declaration ASSA ABLOY / Hanchett\
+  \ Entry Systems, Inc. - HES 9600 Series electric strike \u2022 UL 1034 burglary-resistant\
+  \ listed and suitable for 2.10 Packaging outdoor use HES 9600 Series electric strikes\
+  \ are packed in a \u2022 UL 294 (6th Edition) listed cardboard box with corrugated\
+  \ carton inlays. The \u2022 ANSI/BHMA, A156.31 Grade 1 (#E09731, #E09732, packaging\
+  \ is fully recyclable. Separate lock case #E09373) package with dimensions: 9.75\
+  \ x 3 x 2.5 Inches. \u2022 RoHS compliant Material composition of packaging in %\
+  \ of total \u2022 Patent # 6,390,520 & 8,454,063 packaging mass is as following:\
+  \ 2.5 Delivery status Material Value (%) Electric strikes are delivered as in a\
+  \ box size - 9.75 x 3 Cardboard/paper 100.0 x 2.5 Inches. Total 100.0 2.6 Base materials\
+  \ / Ancillary materials 2.11 Condition of use The primary product components and/or\
+  \ materials To maintain low friction and secure latching, annual must be indicated\
+  \ as a percentage mass to enable the maintenance <1g of grease on contact surfaces\
+  \ of user of the EPD to understand the composition of the latchbolt is recommended.\
+  \ product in delivery status. No cleaning. Electric strikes can be replaced or The\
+  \ average composition for 9600 Series is as upgraded without changing control unit\
+  \ or installation following: cable. Component Percentage in mass (%) 2.12 Environment\
+  \ and health during use Steel 0.4 There is no harmful emissive potential. No damage\
+  \ to Stainless Steel 92.0 health or impairment is expected under normal use Electro\
+  \ mechanics 6.6 corresponding to the intended use of the product. Other 1.0 Total\
+  \ 100.0 2.13 Reference service life Approved for 1,000,000 cycles under normal working\
+  \ 2.7 Manufacture conditions, 15 years depending on cycle frequency. The primary\
+  \ manufacturing processes are made by Tier 1 suppliers and the final manufacturing\
+  \ processes 2.14 Extraordinary effects occur at factory in China. The electronics\
+  \ are produced in China & Taiwan and the mechanics in China & USA. Fire The components\
+  \ come from processes like stamped Suitable for use in fire and smoke doors (EN\
+  \ 14846). steel, turning, zinc and steel casting. Final assembly takes place in\
+  \ Phoenix, Arizona, USA. Water The factory in Phoenix, AZ USA has a certification\
+  \ of Contain no substances that have any impact on water Quality Management system\
+  \ in accordance with in case of flood. Electric operation of the device will be\
+  \ ISO 9001:2008. influenced negative. 2.8 Environment and health during Mechanical\
+  \ destruction manufacturing No danger to the environment can be anticipated ASSA\
+  \ ABLOY is committed to producing and during mechanical destruction. distributing\
+  \ door opening solutions with minimal environmental impact, where health & safety\
+  \ is the 2.15 Re-use phase primary focus for all employees and associates. The product\
+  \ is possible to re-use during the reference service life and be moved to one door\
+  \ to another. The \u2022 Environmental operations, GHG, energy, water, electric\
+  \ strikes 9600 can be mechanically dissembled waste, VOC, surface treatment and\
+  \ H&S are being to separate the different materials. 99% of the routinely monitored.\
+  \ Inspections, audits, and reviews materials used are recyclable. The plastic components\
+  \ are conducted periodically to ensure that applicable can be used for energy recovery\
+  \ in an incineration standards are met and environmental management plant. program\
+  \ effectiveness is evaluated. \u2022 Code of Conduct covers human rights, labor\
+  \ practices and decent work. Management of ASSA 2.16 Disposal ABLOY is aware of\
+  \ their roles and responsibilities, The product can be mechanically dissembled to\
+  \ providing appropriate training, supporting separate the different materials. 99.1%\
+  \ of the materials accountability and recognizing outstanding used are recyclable.\
+  \ The rest is disposed as a performance. construction waste for landfill. \u2022\
+  \ Any waste metals during machining are separated and recycled. The waste from the\
+  \ water-based 2.17 Further information painting process is delivered to waste treatment\
+  \ Hanchett Entry Systems, Inc. plant. 10027 S. 51st St, Ste. 102 Phoenix, AZ 85044\
+  \ 2.9 Product processing/Installation 9600 Series electric strikes are distributed\
+  \ through and Tel: 1-800-626-7590 installed by trained installation technicians,\
+  \ such as http://www.hesinnovations.com locksmiths, carpenters etc. adhering to\
+  \ local/national www.hesinnovations.com standards and requirements. 3 Environmental\
+  \ Product Declaration ASSA ABLOY / Hanchett Entry Systems, Inc. - HES 9600 Series\
+  \ electric strike 3. LCA: Calculation rules 3.1 Declared Unit available). In case\
+  \ a specific flow contributing less than The declaration refers to the functional\
+  \ unit of 1 piece 1% in mass or energy is not available, worst case of electric\
+  \ strike 9000 Series as specified in Part B assumption proxies are selected to represent\
+  \ the requirements on the EPD for PCR Locks and fittings: respective environmental\
+  \ impacts. (mechanical & electromechanical locks & fittings). Impacts relating to\
+  \ the production of machines and Declared unit facilities required during production\
+  \ are out of the Name Value Unit scope of this assessment. piece of Declared unit\
+  \ 1 electric strike 3.5 Background data Mass (without packaging) 0.698 kg For life\
+  \ cycle modeling of the considered products, the Conversion factor to 1 kg 1.432\
+  \ - GaBi 6 Software System for Life Cycle Engineering, developed by PE INTERNATIONAL\
+  \ AG, is used /GaBi 3.2 System boundary 6 2013/. The GaBi-database contains consistent\
+  \ and Type of the EPD: cradle to gate - with Options documented datasets which are\
+  \ documented in the The following life cycle phases were considered: online GaBi-documentation\
+  \ /GaBi 6 2013D/. To ensure comparability of results in the LCA, the basic data\
+  \ of Production stage: GaBi database were used for energy, transportation A1 - Raw\
+  \ material extraction and processing and auxiliary materials. A2 - Transport to\
+  \ the manufacturer and 3.6 Data quality A3 - Manufacturing The requirements for\
+  \ data quality and background data correspond to the specifications of the /IBU\
+  \ PCR PART Construction stage: A/. A4 - Transport from the gate to the site PE INTERNATIONAL\
+  \ performed a variety of tests and A5 - Packaging waste processing checks during\
+  \ the entire project to ensure high quality of the completed project. This obviously\
+  \ includes an extensive review of project-specific LCA models as Use stage related\
+  \ to the operation of the building well as the background data used. includes: The\
+  \ technological background of the collected data B6 - Operational energy use reflects\
+  \ the physical reality of the declared product"
+lowest_plausible_gwp: 4.994782607 kgCO2e
+manufacturer:
+  address: 10027 South 51st Street, Phoenix, AZ 85044
+  address_line: 10027 South 51st Street
+  admin_district: AZ
+  admin_district2: Maricopa
+  alt_names:
+  - Securitron
+  - Hanchett Entry Systems Inc.
+  - Hanchett Entry Systems, Inc.
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/securitron
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-03-31T09:25:15.273623Z'
+  email_extensions:
+  - assaabloyesh.com
+  enterprise: true
+  id: 24aeaa2034d04c17bbe140a9921e0568
+  is_failed: false
+  latitude: 33.35547
+  locality: Phoenix
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Maricopa
+    countrySubdivision: AZ
+    countrySubdivisionName: Arizona
+    countryTertiarySubdivision: Phoenix
+    extendedPostalCode: '850445204'
+    freeformAddress: 10027 South 51st Street, Phoenix, AZ 85044
+    localName: Phoenix
+    municipality: Phoenix
+    postalCode: '85044'
+    streetName: South 51st Street
+    streetNumber: '10027'
+  longitude: -111.97227
+  name: Hanchent Entry Systems Inc.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/24aeaa2034d04c17bbe140a9921e0568
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '85044'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-21T04:59:44.739423Z'
+  web_domain: assaabloyesh.com
+  website: https://www.assaabloyesh.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.6983240223463687 kg
+matched_plants_count: 0
+material_id: ff63efd625f64229a9410c5b2a5b1145
+my_capabilities: 1
+name: 9600 Series Electric Strike
+not_an_epd: false
+open_xpd_uuid: ec3j4xu4
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3j4xu4
+output_flows: {}
+pcr:
+  alt_names:
+  - Locks and fittings
+  - 'IBU PCR Part B: Locks and fittings'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-08-04T22:31:01.915912Z'
+  date_of_issue: '2014-07-04'
+  date_validity_ends: '2016-09-25'
+  declared_units:
+  - 1 piece
+  doc: https://epd-online.com/Pcr/PdfDownloadForEpd/6815
+  id: 4aea9ec1251542849ceae61c73cfde22
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Locks and Fittings'
+  open_xpd_uuid: ec3u9n17
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3u9n17
+  short_link: buildingtransparency.org/p/ec3u9n179p
+  short_name: Locks and Fittings
+  status: Sunset
+  updated_on: '2025-11-20T18:20:05.070870Z'
+  version: 1.0/1.3/1.1
+pct80_gwp_per_category_declared_unit: 7.145217393 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: 10027 South 51st Street, Phoenix, AZ 85044
+  address_line: 10027 South 51st Street
+  admin_district: AZ
+  admin_district2: Maricopa
+  carbon_intensity: 1027.548 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-08-09T03:01:32.008571Z'
+  id: 09cfff4401d2489a93520eac7511bf13
+  is_failed: false
+  latitude: 33.35547
+  locality: Phoenix
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Maricopa
+    countrySubdivision: AZ
+    countrySubdivisionName: Arizona
+    countryTertiarySubdivision: Phoenix
+    extendedPostalCode: '850445204'
+    freeformAddress: 10027 South 51st Street, Phoenix, AZ 85044
+    localName: Phoenix
+    municipality: Phoenix
+    postalCode: '85044'
+    streetName: South 51st Street
+    streetNumber: '10027'
+  longitude: -111.97227
+  name: Phoenix, AZ
+  openepd_id: 855C924H+53.assaabloyesh.com
+  owned_by:
+    address: 10027 South 51st Street, Phoenix, AZ 85044
+    address_line: 10027 South 51st Street
+    admin_district: AZ
+    admin_district2: Maricopa
+    alt_names:
+    - Securitron
+    - Hanchett Entry Systems Inc.
+    - Hanchett Entry Systems, Inc.
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/securitron
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-03-31T09:25:15.273623Z'
+    email_extensions:
+    - assaabloyesh.com
+    enterprise: true
+    id: 24aeaa2034d04c17bbe140a9921e0568
+    is_failed: false
+    latitude: 33.35547
+    locality: Phoenix
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Maricopa
+      countrySubdivision: AZ
+      countrySubdivisionName: Arizona
+      countryTertiarySubdivision: Phoenix
+      extendedPostalCode: '850445204'
+      freeformAddress: 10027 South 51st Street, Phoenix, AZ 85044
+      localName: Phoenix
+      municipality: Phoenix
+      postalCode: '85044'
+      streetName: South 51st Street
+      streetNumber: '10027'
+    longitude: -111.97227
+    name: Hanchent Entry Systems Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/24aeaa2034d04c17bbe140a9921e0568
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '85044'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-21T04:59:44.739423Z'
+    web_domain: assaabloyesh.com
+    website: https://www.assaabloyesh.com
+  postal_code: '85044'
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2020-12-22T17:38:08.461820Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4786545067.128.1
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3j4xu4yj
+standard_deviation: 1.277587206 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 7.145217393 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T12:09:55.310032Z'
+use_stored_carbon: false
+verifier:
+  email: wade.stout@ul.com
+  name: Wade Stout
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B6_years are empty

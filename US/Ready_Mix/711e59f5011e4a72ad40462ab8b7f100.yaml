@@ -1,0 +1,605 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/cemex
+best_practice: 236.7582357 kgCO2e
+biogenic_embodied_carbon_z: 0.10203842413522467
+box_id: '1111418208213'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.0899029 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
+  pct40_gwp: 334.578825 kgCO2e
+  pct50_gwp: 359.0203617 kgCO2e
+  pct60_gwp: 386.3847185 kgCO2e
+  pct70_gwp: 416.8085524 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 507.1461971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-11-20T07:56:16.507251Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 20.7 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 281.2417643 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-01-12T00:42:40.873550Z'
+date_of_issue: '2022-01-31'
+date_validity_ends: '2027-01-31'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m^3
+description: AUSTIN 3000 PSI CUSTOM FLOOR MIX
+developer:
+  email: laurel.mcewen@climateearth.com
+  name: Laurel McEwen
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: buildingtransparency.org/e/ec30byug5d
+document_version: '2'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Mix%201618211_da9db5bd4bb4237eb1f0d4fcd2c7dd817575349c.pdf
+gwp: 259 kgCO2e
+gwp_per_category_declared_unit: 259 kgCO2e
+gwp_per_kg: 0.1079166667 kgCO2e
+gwp_z: 0.10203842413522467
+id: 396c231da03940949fcf18759dd0b264
+image: https://static.buildingtransparency.org/images/67d0869b48db4807b08b10a71766b324.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 236.7582357 kgCO2e
+manufacturer:
+  address: 10100 Katy Freeway, Houston, TX 77043
+  address_line: 10100 Katy Freeway, Old Katy Road
+  admin_district: TX
+  admin_district2: Harris
+  alt_names:
+  - CEMEX Pacific Northwest Division
+  - CEMEX Construction Materials Florida, LLC
+  - CEMEX Arizona/Nevada Division
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/cemex
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-31T13:33:44.251392Z'
+  email_extensions:
+  - cemex.com
+  - cemexventures.com
+  enterprise: true
+  id: 97bffa520c454d9bbc53a63bdba3b8e2
+  image: https://static.buildingtransparency.org/images/2394526b-848f-4952-97ce-5b79bb0fab22
+  is_failed: false
+  latitude: 29.78644
+  locality: Houston
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Harris
+    countrySubdivision: TX
+    countrySubdivisionName: Texas
+    countryTertiarySubdivision: Houston
+    freeformAddress: 10100 Katy Freeway, Houston, TX 77043
+    localName: Houston
+    municipality: Houston
+    municipalitySubdivision: Houston, Spring Branch West
+    postalCode: '77043'
+    streetName: Katy Freeway, Old Katy Road
+    streetNumber: '10100'
+  longitude: -95.54586
+  name: CEMEX
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/97bffa520c454d9bbc53a63bdba3b8e2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '77043'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-09T15:07:57.832891Z'
+  web_domain: cemex.com
+  website: https://www.cemex.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 711e59f5011e4a72ad40462ab8b7f100
+my_capabilities: 1
+name: Mix 1618211
+not_an_epd: false
+open_xpd_uuid: ec30byug
+original_data_format: custom_api
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec30byug
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF PCR for Concrete
+  - PCR for Concrete, NSF International, August 2021 v2.1
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-01-20T21:57:07.160366Z'
+  date_of_issue: '2021-08-01'
+  date_validity_ends: '2025-02-22'
+  declared_units:
+  - 1 m3
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/pcr_concrete.pdf?mtime=20210903125351&focal=none
+  id: ad8c5c4db2454a5e963fce6cc747e5bf
+  is_failed: false
+  issuer_doc_id: NSF 1112-19
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NSF PCR for Concrete
+  open_xpd_uuid: ec3n3h3t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3n3h3t
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3n3h3t5z
+  short_name: Concrete
+  status: Expired
+  updated_on: '2025-11-20T18:20:03.845451Z'
+  version: '2.1'
+pct80_gwp_per_category_declared_unit: 281.2417643 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: 14152 N Attaway Rd, Coolidge, AZ 85128, USA
+  address_line: 14152 N Attaway Rd
+  admin_district: AZ
+  admin_district2: Pinal County
+  alt_names: []
+  carbon_intensity: 1027.548 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-11-21T12:17:33.571529Z'
+  id: 177af55c09fd4882a2484bc259bea822
+  is_failed: false
+  latitude: 33.0086832
+  locality: Coolidge
+  location:
+  - long_name: '14152'
+    short_name: '14152'
+    types:
+    - street_number
+  - long_name: North Attaway Road
+    short_name: N Attaway Rd
+    types:
+    - route
+  - long_name: Coolidge
+    short_name: Coolidge
+    types:
+    - locality
+    - political
+  - long_name: Pinal County
+    short_name: Pinal County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arizona
+    short_name: AZ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '85128'
+    short_name: '85128'
+    types:
+    - postal_code
+  - long_name: '9564'
+    short_name: '9564'
+    types:
+    - postal_code_suffix
+  longitude: -111.4755711
+  name: Coolidge
+  openepd_id: 855C2G5F+FQ.cemex.com
+  owned_by:
+    address: 10100 Katy Freeway, Houston, TX 77043
+    address_line: 10100 Katy Freeway, Old Katy Road
+    admin_district: TX
+    admin_district2: Harris
+    alt_names:
+    - CEMEX Pacific Northwest Division
+    - CEMEX Construction Materials Florida, LLC
+    - CEMEX Arizona/Nevada Division
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/cemex
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-05-31T13:33:44.251392Z'
+    email_extensions:
+    - cemex.com
+    - cemexventures.com
+    enterprise: true
+    id: 97bffa520c454d9bbc53a63bdba3b8e2
+    image: https://static.buildingtransparency.org/images/2394526b-848f-4952-97ce-5b79bb0fab22
+    is_failed: false
+    latitude: 29.78644
+    locality: Houston
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Harris
+      countrySubdivision: TX
+      countrySubdivisionName: Texas
+      countryTertiarySubdivision: Houston
+      freeformAddress: 10100 Katy Freeway, Houston, TX 77043
+      localName: Houston
+      municipality: Houston
+      municipalitySubdivision: Houston, Spring Branch West
+      postalCode: '77043'
+      streetName: Katy Freeway, Old Katy Road
+      streetNumber: '10100'
+    longitude: -95.54586
+    name: CEMEX
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/97bffa520c454d9bbc53a63bdba3b8e2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '77043'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-09T15:07:57.832891Z'
+    web_domain: cemex.com
+    website: https://www.cemex.com/
+  postal_code: '85128'
+  total_epds: 90
+  type: Plant
+  updated_on: '2024-08-15T20:00:20.484264Z'
+plant_specific: true
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: 668f97aeb6314a9fac8b60f4e2aae3f2
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec30byug5d
+standard_deviation: 26.42795185 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.1
+third_party_verified: true
+uncertainty_adjusted_gwp: 281.2417643 kgCO2e
+uncertainty_factor: 1.0858755377522051
+updated_on: '2024-09-25T16:46:38Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+white_cement: false

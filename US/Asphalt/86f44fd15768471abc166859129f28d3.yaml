@@ -1,0 +1,649 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+asphalt_aggregate_size_max: 0.025 m
+asphalt_gtr: false
+asphalt_mix_type: WMA
+asphalt_pmb: false
+asphalt_ppa: false
+asphalt_sbr: false
+asphalt_sbs: false
+attachments:
+  EmeraldEcolabel: https://asphaltepd.org/epd/d/E3UL9w/
+best_practice: 60.96802147 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1766453985240'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:31.880547Z'
+  declared_unit: 1 kg
+  default_distance: 51.49888 km
+  default_transport_mode: truck, single unit
+  description: General category for asphalt mixtures
+  display_name: Asphalt
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: aa61ba9aeb2a4566942554362bb496d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 12 16 Asphalt Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Asphalt
+  no_statistics: false
+  obsolete: false
+  openepd: Asphalt
+  openepd_name: Asphalt
+  parents: []
+  pct10_gwp: 0.05482551228 kgCO2e
+  pct20_gwp: 0.05982888239 kgCO2e
+  pct30_gwp: 0.06403185433 kgCO2e
+  pct40_gwp: 0.06789398122 kgCO2e
+  pct50_gwp: 0.07156570503 kgCO2e
+  pct60_gwp: 0.07547954634 kgCO2e
+  pct70_gwp: 0.07945215405 kgCO2e
+  pct80_gwp: 0.08491742796 kgCO2e
+  pct90_gwp: 0.09532260428 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Asphalt
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30121601'
+  updated_on: '2025-11-20T07:57:55.742450Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 86.89197853 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-02-02T13:44:43.396884Z'
+date_of_issue: '2025-01-21'
+date_validity_ends: '2027-03-31'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 2400 kg / m^3
+description: This EPD reports the potential environmental impacts and additional environmental
+  information for an asphalt mixture, which falls under the United Nations Standard
+  Products and Services Code 30111509. Asphalt mixtures are typically incorporated
+  as part of the structure of a roadway, parking lot, driveway, airfield, bike lane,
+  pedestrian path, railroad track bed, or recreational surface.
+developer:
+  email: info@metsims.com
+  name: Metsims Sustainability Consulting Contact
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: https://asphaltepd.org/epd/d/E3UL9w/
+document_version: '1'
+excluded: false
+externally_verified: true
+file_name: 251531_8804258dfc6aa67791a727e597d551ef79b67cb5.html
+gwp: 73.93 kgCO2e
+gwp_per_category_declared_unit: 0.07393 kgCO2e
+gwp_per_kg: 0.07393 kgCO2e
+gwp_z: 0.2083266665599966
+id: cdbf3f3aa03349baaf3adb40845862d8
+impacts: {}
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 60.96802147 kgCO2e
+manufacturer:
+  address: 300 East John Carpenter Freeway, Irving, TX 75062
+  address_line: 300 East John Carpenter Freeway
+  admin_district: TX
+  admin_district2: Dallas
+  alt_names:
+  - Lehigh Hanson Materials Limited
+  - Hanson Ready Mix Heidelberg Cement Group
+  - Lehigh Hanson, Inc.
+  - Lehigh Hanson Materials
+  - Campbell Concrete & Materials, LP
+  - Hanson Building Materials America
+  - Hanson Ready Mix
+  - Continental Florida Materials, Inc.
+  - Concrete British Columbia and Materials Washington Lehigh Hanson Materials Ltd.
+  - Hanson Aggregates Southeast, LLC
+  - Lehigh Northeast Cement Company
+  - Hanson Aggregates West Region, Inc.
+  - Lehigh Hanson Materials Ltd.
+  - Hanson Aggregates
+  - Lehigh Hanson
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/lehigh-hanson
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-10T12:48:44.015196Z'
+  email_extensions:
+  - lehighcement.com
+  - lehighhanson.com
+  - heidelbergmaterials.com
+  - heidelbergmaterials.us
+  - corlissresources.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/1636be8ad1004ffcb1050e157075a171.png
+  id: 1bac549716f847d49af78e04074afee3
+  image: https://static.buildingtransparency.org/images/3e4a774c647f43f8afb0155aa14ffd70.png
+  is_failed: false
+  latitude: 32.86261
+  locality: Irving
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Dallas
+    countrySubdivision: TX
+    countrySubdivisionName: Texas
+    extendedPostalCode: 75062-2202
+    freeformAddress: 300 East John Carpenter Freeway, Irving, TX 75062
+    localName: Irving
+    municipality: Irving
+    municipalitySubdivision: Las Colinas
+    postalCode: '75062'
+    streetName: East John Carpenter Freeway
+    streetNumber: '300'
+  longitude: -96.9396
+  name: Heidelberg Materials
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1bac549716f847d49af78e04074afee3
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '75062'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2024-10-17T15:33:29.514105Z'
+  web_domain: heidelbergmaterials.us
+  website: https://www.heidelbergmaterials.com/en
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 86f44fd15768471abc166859129f28d3
+my_capabilities: 1
+name: '251531'
+not_an_epd: false
+open_xpd_uuid: ec3xzgum
+original_data_format: web
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xzgum
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules for Asphalt Mixtures
+  - Product Category Rules (PCR) for Asphalt Mixtures, version 2.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-05-06T20:26:10.862766Z'
+  date_of_issue: '2022-04-01'
+  date_validity_ends: '2027-04-01'
+  declared_units:
+  - 1 tonne
+  doc: '#broken-link cqd.io/p/ec3paun0yg'
+  id: 03f6ce8b701a473fb6a9040098379ae5
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NAPA PCR For Asphalt Mixtures
+  open_xpd_uuid: ec3paun0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3paun0
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3paun0yg
+  short_name: Asphalt Mixtures
+  status: Published
+  updated_on: '2025-08-03T18:32:26.858101Z'
+  version: '2.0'
+pct80_gwp_per_category_declared_unit: 0.08689197853 kgCO2e
+plant_geography:
+- US-AL
+plant_or_group:
+  address: 8732 Parkway Dr, Leeds, AL 35094, USA
+  address_line: 8732 Parkway Dr
+  admin_district: AL
+  admin_district2: Jefferson County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2025-01-22T22:42:43.447907Z'
+  id: 2e03c90a745c4e219b5cb4a59d9acc46
+  is_failed: false
+  latitude: 33.54463
+  locality: Leeds
+  location:
+  - long_name: '8732'
+    short_name: '8732'
+    types:
+    - street_number
+  - long_name: Parkway Drive Southeast
+    short_name: Parkway Dr
+    types:
+    - route
+  - long_name: Leeds
+    short_name: Leeds
+    types:
+    - locality
+    - political
+  - long_name: Jefferson County
+    short_name: Jefferson County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Alabama
+    short_name: AL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '35094'
+    short_name: '35094'
+    types:
+    - postal_code
+  - long_name: '1559'
+    short_name: '1559'
+    types:
+    - postal_code_suffix
+  longitude: -86.522565
+  name: 37 Leeds Plant
+  openepd_id: 865MGFVG+VX.heidelbergmaterials.us
+  owned_by:
+    address: 300 East John Carpenter Freeway, Irving, TX 75062
+    address_line: 300 East John Carpenter Freeway
+    admin_district: TX
+    admin_district2: Dallas
+    alt_names:
+    - Lehigh Hanson Materials Limited
+    - Hanson Ready Mix Heidelberg Cement Group
+    - Lehigh Hanson, Inc.
+    - Lehigh Hanson Materials
+    - Campbell Concrete & Materials, LP
+    - Hanson Building Materials America
+    - Hanson Ready Mix
+    - Continental Florida Materials, Inc.
+    - Concrete British Columbia and Materials Washington Lehigh Hanson Materials Ltd.
+    - Hanson Aggregates Southeast, LLC
+    - Lehigh Northeast Cement Company
+    - Hanson Aggregates West Region, Inc.
+    - Lehigh Hanson Materials Ltd.
+    - Hanson Aggregates
+    - Lehigh Hanson
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/lehigh-hanson
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:48:44.015196Z'
+    email_extensions:
+    - lehighcement.com
+    - lehighhanson.com
+    - heidelbergmaterials.com
+    - heidelbergmaterials.us
+    - corlissresources.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/1636be8ad1004ffcb1050e157075a171.png
+    id: 1bac549716f847d49af78e04074afee3
+    image: https://static.buildingtransparency.org/images/3e4a774c647f43f8afb0155aa14ffd70.png
+    is_failed: false
+    latitude: 32.86261
+    locality: Irving
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Dallas
+      countrySubdivision: TX
+      countrySubdivisionName: Texas
+      extendedPostalCode: 75062-2202
+      freeformAddress: 300 East John Carpenter Freeway, Irving, TX 75062
+      localName: Irving
+      municipality: Irving
+      municipalitySubdivision: Las Colinas
+      postalCode: '75062'
+      streetName: East John Carpenter Freeway
+      streetNumber: '300'
+    longitude: -96.9396
+    name: Heidelberg Materials
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1bac549716f847d49af78e04074afee3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '75062'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: true
+    updated_on: '2024-10-17T15:33:29.514105Z'
+    web_domain: heidelbergmaterials.us
+    website: https://www.heidelbergmaterials.com/en
+  postal_code: '35094'
+  total_epds: 56
+  type: Plant
+  units: SI
+  updated_on: '2025-02-02T13:58:29.916839Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 5100 Forbes Boulevard, Lanham, MD 20706
+  address_line: 5100 Forbes Boulevard
+  admin_district: MD
+  admin_district2: Prince George's
+  alt_names:
+  - NAPA
+  - Asphalt EPD
+  - Emerald Ecolabel
+  - Emerald Eco-label
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-10T23:11:11.739481Z'
+  email_extensions:
+  - asphaltpavement.org
+  - asphaltepd.org
+  enterprise: true
+  id: 136904d07bd94f9f959bfae24e24c56a
+  image: https://static.buildingtransparency.org/images/fbdd34b1-8146-4d80-8bc9-0e578a03f018.png
+  is_failed: false
+  latitude: 38.960571
+  legal_name: National Asphalt Pavement Association
+  locality: Lanham
+  location:
+    boundingBox:
+      entity: position
+      northEast: 38.961196,-76.833920
+      southWest: 38.959630,-76.835144
+    buildingNumber: '5100'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Prince George's
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 20 Lanham
+    extendedPostalCode: '207064407'
+    freeformAddress: 5100 Forbes Boulevard, Lanham, MD 20706
+    municipality: Lanham
+    municipalitySubdivision: Lanham
+    postalCode: '20706'
+    routeNumbers: []
+    street: Forbes Boulevard
+    streetName: Forbes Boulevard
+    streetNameAndNumber: 5100 Forbes Boulevard
+    streetNumber: '5100'
+  longitude: -76.834511
+  name: National Asphalt Pavement Association
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/136904d07bd94f9f959bfae24e24c56a
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-07-03T13:56:29.001838Z'
+  web_domain: asphaltpavement.org
+  website: asphaltpavement.org
+program_operator_fkey: 259.1297.7119
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xzgumt0
+standard_deviation: 15.40159046 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 86.89197853 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-02-02T14:43:14Z'
+use_stored_carbon: false
+verifier:
+  email: user_b0d20728c03a469dbb212eb2d4d147fd@cqd.io
+  name: Trisha Montalbo
+  org:
+    address: 148 S Dowlen Rd, Beaumont, TX 77707, USA
+    address_line: 148 S Dowlen Rd
+    admin_district: TX
+    admin_district2: Jefferson County
+    alt_names:
+    - John Beath Environmental, LLC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-04-10T22:35:50.139920Z'
+    enterprise: false
+    id: 07b66822fcc94816acfa5e8d91c44e83
+    image: https://static.buildingtransparency.org/images/38233aa183314a02a637d2c9eb9529bb.png
+    is_failed: false
+    latitude: 30.0730332
+    legal_name: John Beath Environmental, LLC
+    locality: Beaumont
+    location:
+    - long_name: '148'
+      short_name: '148'
+      types:
+      - street_number
+    - long_name: South Dowlen Road
+      short_name: S Dowlen Rd
+      types:
+      - route
+    - long_name: Beaumont
+      short_name: Beaumont
+      types:
+      - locality
+      - political
+    - long_name: Jefferson County
+      short_name: Jefferson County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Texas
+      short_name: TX
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '77707'
+      short_name: '77707'
+      types:
+      - postal_code
+    longitude: -94.1730943
+    name: JBE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07b66822fcc94816acfa5e8d91c44e83
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '77707'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-10-11T14:10:38.237725Z'
+    web_domain: beath.us
+    website: beath.us
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

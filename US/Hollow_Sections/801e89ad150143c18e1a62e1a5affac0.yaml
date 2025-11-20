@@ -1,0 +1,537 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+best_practice: 1575.013077 kgCO2e
+biogenic_embodied_carbon_z: 0.08084553172563094
+box_id: '872730808646'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-11-04T15:08:09Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hollow cross section steel shape, typically referred to as hollow structural
+    section (HSS)
+  display_name: Hollow Sections
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: e96e409053534524b18ca57b992bb328
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: HollowSections
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> HollowSections
+  openepd_name: Steel >> StructuralSteel >> HollowSections
+  parents: []
+  pct10_gwp: 1314.981566 kgCO2e
+  pct20_gwp: 1532.380667 kgCO2e
+  pct30_gwp: 1686.700564 kgCO2e
+  pct40_gwp: 1805.098675 kgCO2e
+  pct50_gwp: 1929.075635 kgCO2e
+  pct60_gwp: 2120.163034 kgCO2e
+  pct70_gwp: 2242.274264 kgCO2e
+  pct80_gwp: 2442.963977 kgCO2e
+  pct90_gwp: 2953.7688 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Hollow Sections
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30104000'
+  updated_on: '2025-11-20T07:56:47.916939Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1804.986923 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-10-14T23:57:46.155261Z'
+date_of_issue: '2021-04-01'
+date_validity_ends: '2026-04-01'
+declaration_type: Product EPD
+declared_unit: 1 short ton
+density: 7800 kg / m3
+description: Steel tubes covered under this declaration represent hollow structural
+  sections, mechanical tube, sprinkler pipe, and solar torque tube. These products
+  are used in building, bridge and industrial applications.
+doc: buildingtransparency.org/e/ec3pdhmu11
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 101.1_Nucor_Corporation_EPD_Fabricated_Steel_Hollow_Structural_Sections_f8f6d913e67f42c4b29337d76742dc05.pdf
+galvanized: false
+gwp: 1690 kgCO2e
+gwp_per_category_declared_unit: 1862.906115 kgCO2e
+gwp_per_kg: 1.862906115 kgCO2e
+gwp_z: 0.08084553172563094
+id: 0fde344f6c954323bd79ecb1f21bfdcf
+image: https://static.buildingtransparency.org/images/75e5adbc14664658846af94550d8446b.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1575.013077 kgCO2e
+manufacturer:
+  address: Charlotte, NC 28211
+  admin_district: NC
+  admin_district2: Mecklenburg
+  alt_names:
+  - Nucor Corporation
+  - Nucor Steel Seattle, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T15:02:42.684523Z'
+  currency: USD
+  email_extensions:
+  - nucor.com
+  enterprise: true
+  id: 625c7af38bd0492d9fbdd186f1cea21a
+  image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+  is_failed: false
+  iso14001_certified: true
+  iso9001_certified: true
+  latitude: 35.159332
+  locality: Charlotte
+  location:
+    boundingBox:
+      entity: position
+      northEast: 35.159382,-80.834303
+      southWest: 35.159260,-80.834970
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Mecklenburg
+    countrySubdivision: NC
+    countrySubdivisionName: North Carolina
+    countryTertiarySubdivision: Township 1 Charlotte
+    freeformAddress: Charlotte, NC 28211
+    municipality: Charlotte
+    municipalitySubdivision: Charlotte, Barclay Downs
+    postalCode: '28211'
+    routeNumbers: []
+  longitude: -80.834694
+  name: Nucor
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28211'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:02:58.846698Z'
+  web_domain: nucor.com
+  website: http://www.nucor.com/
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: 801e89ad150143c18e1a62e1a5affac0
+my_capabilities: 1
+name: Fabricated Steel Hollow Structural Sections
+not_an_epd: false
+open_xpd_uuid: ec3ebamy
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ebamy
+output_flows: {}
+owner:
+  name: Vaclav Admin
+  user_id: vaclav.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-fossil
+      - gwp
+      - gwp-biogenic
+      - gwp-luluc
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - ep-fresh
+      - ep-terrestrial
+      - pocp
+      - ep-marine
+      - ep
+      - odp
+      - ap
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2025-09-18T05:33:14.263756Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 1989.657501 kgCO2e
+plant_geography:
+- US-AL
+plant_or_group:
+  address: Iverson Boulevard, Trinity, AL 35673
+  address_line: ' Iverson Boulevard'
+  admin_district: AL
+  admin_district2: Morgan
+  carbon_intensity: 1038.127 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-08T09:17:25.945644Z'
+  id: aca0b70a841f4a3f867a9692cf9a147f
+  is_failed: false
+  latitude: 34.63177
+  locality: Trinity
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Morgan
+    countrySubdivision: AL
+    countrySubdivisionName: Alabama
+    countryTertiarySubdivision: Decatur
+    extendedPostalCode: 3567366,356736628,356736629,356736637,356736641,356736642,356736643,356736650
+    freeformAddress: Iverson Boulevard, Trinity, AL 35673
+    municipality: Trinity
+    municipalitySubdivision: Trinity
+    postalCode: '35673'
+    streetName: Iverson Boulevard
+  longitude: -87.09501
+  name: Nucor Steel - Decatur - Sheet Mill
+  openepd_id: 866JJWJ3+PX.nucor.com
+  owned_by:
+    address: Charlotte, NC 28211
+    admin_district: NC
+    admin_district2: Mecklenburg
+    alt_names:
+    - Nucor Corporation
+    - Nucor Steel Seattle, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T15:02:42.684523Z'
+    currency: USD
+    email_extensions:
+    - nucor.com
+    enterprise: true
+    id: 625c7af38bd0492d9fbdd186f1cea21a
+    image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+    is_failed: false
+    iso14001_certified: true
+    iso9001_certified: true
+    latitude: 35.159332
+    locality: Charlotte
+    location:
+      boundingBox:
+        entity: position
+        northEast: 35.159382,-80.834303
+        southWest: 35.159260,-80.834970
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Mecklenburg
+      countrySubdivision: NC
+      countrySubdivisionName: North Carolina
+      countryTertiarySubdivision: Township 1 Charlotte
+      freeformAddress: Charlotte, NC 28211
+      municipality: Charlotte
+      municipalitySubdivision: Charlotte, Barclay Downs
+      postalCode: '28211'
+      routeNumbers: []
+    longitude: -80.834694
+    name: Nucor
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28211'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:02:58.846698Z'
+    web_domain: nucor.com
+    website: http://www.nucor.com/
+  postal_code: '35673'
+  total_epds: 3
+  type: Plant
+  units: SI
+  updated_on: '2019-07-15T08:51:55.339951Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4789971302.101.1
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ebamyyn
+stainless: false
+standard_deviation: 136.6289486 kgCO2e
+steel_fabricated: true
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1804.986923 kgCO2e
+uncertainty_factor: 1.068039599500291
+updated_on: '2025-01-14T19:35:54.559686Z'
+use_stored_carbon: false
+verifier:
+  email: info@thriveesg.com
+  name: James Mellentine
+  org:
+    address: 1312 17th St, Denver, CO 80202, USA
+    address_line: 1312 17th St
+    admin_district: CO
+    admin_district2: Denver County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-05-07T22:39:03.973231Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/bb5d369335074f9ba40ed53bbe586a71.png
+    id: 170cb26c578848bb94ecee1f5a5f44d7
+    image: https://static.buildingtransparency.org/images/4ac82ea1a716407b84cd31235a7e94e7.png
+    is_failed: false
+    latitude: 39.7503299
+    locality: Denver
+    location:
+    - long_name: '1312'
+      short_name: '1312'
+      types:
+      - street_number
+    - long_name: 17th Street
+      short_name: 17th St
+      types:
+      - route
+    - long_name: Central
+      short_name: Central
+      types:
+      - neighborhood
+      - political
+    - long_name: Denver
+      short_name: Denver
+      types:
+      - locality
+      - political
+    - long_name: Denver County
+      short_name: Denver County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Colorado
+      short_name: CO
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '80202'
+      short_name: '80202'
+      types:
+      - postal_code
+    longitude: -104.9966735
+    name: Thrive ESG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/170cb26c578848bb94ecee1f5a5f44d7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '80202'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-03-27T19:29:29.866418Z'
+    web_domain: thriveesg.com
+    website: http://www.thriveesg.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

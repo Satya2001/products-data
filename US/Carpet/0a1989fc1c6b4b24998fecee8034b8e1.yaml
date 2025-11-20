@@ -1,0 +1,736 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 10.05695802 kgCO2e
+biogenic_embodied_carbon_z: 0.3525620512760839
+box_id: '344688840532'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.357 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.879608306 kgCO2e
+  pct20_gwp: 6.88647569 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.521733535 kgCO2e
+  pct50_gwp: 10.95405437 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.91655384 kgCO2e
+  pct80_gwp: 17.0297323 kgCO2e
+  pct90_gwp: 20.03790399 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-11-20T07:57:02.915919Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 18.54304198 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-05T15:30:03.892681Z'
+date_of_issue: '2014-09-16'
+date_validity_ends: '2019-09-16'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Products covered in this Environmental Product Declaration (EPD) are\
+  \ a broad variety of modular carpets manufactured by Masland Contract backed by\
+  \ our thermoplastic backing and made with a type 6,6 nylon. The thermoplastic is\
+  \ comprised of a polyvinyl chloride comprised of at least 30% recycled content with\
+  \ a minimum of 11% post-consumer. The face fiber is 100% nylon 6,6 and is either\
+  \ solution, skein dyed, space dyed, piece dyed or a combination of the methods.\
+  \ The products are covered by Masland Contract\u2019s Lifetime Limited Commercial\
+  \ Warranty. The products all pass the Carpet & Rugs Institutes Green Label Plus\
+  \ and are third party to the NSF/ANSI 140 Sustainable Carpet Assessment Standard\
+  \ at the Platinum and Gold levels."
+developer:
+  email: e4cfc8e04408410ebfd1eef713dab3c3@for.review
+  name: k Geibi
+  org:
+    address: 5230 Hickory Park Drive, Glen Allen, VA 23059
+    address_line: 5230 Hickory Park Drive
+    admin_district: VA
+    admin_district2: Henrico
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-02T14:49:02.299370Z'
+    email_extensions:
+    - environmentalclarity.com
+    enterprise: true
+    id: 30f4ddde3ae34d439412c611ee3a9e00
+    is_failed: false
+    latitude: 37.67691
+    locality: Glen Allen, Short Pump
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Henrico
+      countrySubdivision: VA
+      countrySubdivisionName: Virginia
+      countryTertiarySubdivision: Three Chopt
+      extendedPostalCode: '230592616'
+      freeformAddress: 5230 Hickory Park Drive, Glen Allen, VA 23059
+      localName: Glen Allen
+      municipality: Glen Allen, Short Pump
+      municipalitySubdivision: Glen Allen, Short Pump
+      postalCode: '23059'
+      streetName: Hickory Park Drive
+      streetNumber: '5230'
+    longitude: -77.58758
+    name: Environmental Clarity
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/30f4ddde3ae34d439412c611ee3a9e00
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '23059'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-21T04:58:05.342592Z'
+    web_domain: environmentalclarity.com
+    website: http://www.environmentalclarity.com/
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/3aae86691efc432e94710136878d8ead.png
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2025-10-10T20:50:31.564974Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3xf4hwzw
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: MaslandEPDModular.pdf
+form_factor: Tiles
+gwp: 14.3 kgCO2e
+gwp_per_category_declared_unit: 14.3 kgCO2e
+gwp_per_kg: 3.530864198 kgCO2e
+gwp_z: 0.3525620512760839
+id: c3718d0c6383443284da2104346cabe7
+image: https://static.buildingtransparency.org/images/0ebf04da9fd5459e970ff66889d388df.png
+impacts: {}
+intended_application:
+- Com
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nMaterial Content of the product\n\
+  \                                                                              Availability\
+  \                            Origin\n                                          \
+  \           Mas\n            Component                Material                 \
+  \                                                        of Raw\n              \
+  \                                       s%\n                                   \
+  \                        Renewable      Non-Renewable       Recycled           \
+  \    Materials\n                                                               \
+  \                                16% Recycled\n                                \
+  \                                                                    (6%\n     \
+  \                                                                     Fossil resource,\n\
+  \            Pile Material    Type 6,6 Nylon          15%                      \
+  \                 Preconsumer,        Global\n                                 \
+  \                                         limited\n                            \
+  \                                                                        10%\n \
+  \                                                                              \
+  \                Postconsumer)\n            Primary                            \
+  \                           Fossil resource,\n                             Polyester\
+  \               3%                                                            Global\n\
+  \            Backing                                                       limited\n\
+  \                                                                          Fossil\
+  \ resource,\n                             PVC                     14%          \
+  \                                                 Global\n                     \
+  \                                                     limited\n            Precoat\n\
+  \                                                                          Mineral,\n\
+  \                             Calcium Carbonate       6%                       \
+  \                                     US\n                                     \
+  \                                     abundant\n                               \
+  \                                           Fossil resource,\n                 \
+  \            PVC                     17%                                       \
+  \                    Global\n                                                  \
+  \                        limited\n                                             \
+  \                             Mineral,\n                             Calcium Carbonate\
+  \       14%                                                           US\n     \
+  \                                                                     abundant\n\
+  \            Back coating\n                                                    \
+  \                                             100% Post\n                      \
+  \       Glass                   10%                  Silica, abundant          \
+  \               US\n                                                           \
+  \                                      Consumer\n                              \
+  \                                            Fossil resource,       100% Pre\n \
+  \                            Coal Fly Ash            20%                       \
+  \                                    US\n                                      \
+  \                                    limited                Consumer\n         \
+  \   Secondary                                                     Fossil resource,\n\
+  \                             Fiberglass              1%                       \
+  \                                     Global\n            Backing              \
+  \                                         limited\n           The fiber content\
+  \ consists of 82% virgin fiber, 6% Post Consumer content and 12% Post Industrial\
+  \ content.\n\n## LCA Notes\nLifecycle Analysis of Masland Carpets June 28, 2014\n\
+  \n## Source Data Notes\nCML (2009) CML 2 baseline 2000, impact assessment method,\
+  \ as provided by Simapro 7.3.3,\nhttp://cml.leiden.edu/software/data-cmlia.html.\n\
+  CRI, Carpet and Rug Institute, Life cycle database developed by Georgia Institute\
+  \ of Technology and\ncarpet industry, Dalton, GA, 2010.\nNSF International (2014).\
+  \ Product Category Rule for Environmental Product Declarations Flooring:Carpet,\n\
+  Resilient, Laminate, Ceramic, Wood. Ann Arbor, MI: NSF International.\nOvercash,\
+  \ M. and E. Griffing. 1998-2014. Life cycle inventory (lci) database, edited by\
+  \ Environmental\nClarity, LLC, Reston, VA (available in collaborative projects with\
+  \ research teams).\nSimapro 7.3.3 (2011) http://www.pre-sustainability.com/\nISO\
+  \ 14044:2006"
+lowest_plausible_gwp: 10.05695802 kgCO2e
+manufacturer:
+  address: 716 Bill Myles Drive, Saraland, AL 36571
+  address_line: 716 Bill Myles Drive, Bill Myles Drive East
+  admin_district: AL
+  admin_district2: Mobile
+  alt_names:
+  - Avant Contract
+  - Masland Contract
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/masland-contract
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-26T18:57:47.749905Z'
+  email_extensions:
+  - maslandcontract.com
+  enterprise: true
+  id: 93ff0ceb37fa4a8a88a232a2bb899fd1
+  is_failed: false
+  latitude: 30.80588
+  locality: Saraland
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Mobile
+    countrySubdivision: AL
+    countrySubdivisionName: Alabama
+    countryTertiarySubdivision: Mobile
+    extendedPostalCode: '3657133'
+    freeformAddress: 716 Bill Myles Drive, Saraland, AL 36571
+    localName: Saraland
+    municipality: Saraland
+    municipalitySubdivision: Saraland
+    postalCode: '36571'
+    streetName: Bill Myles Drive, Bill Myles Drive East
+    streetNumber: '716'
+  longitude: -88.06804
+  name: Avant Contract
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/93ff0ceb37fa4a8a88a232a2bb899fd1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '36571'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-30T03:16:08.415652Z'
+  web_domain: maslandcontract.com
+  website: http://www.maslandcontract.com/
+manufacturer_specific: true
+mass_per_declared_unit: 4.05 kg
+matched_plants_count: 0
+material_id: 0a1989fc1c6b4b24998fecee8034b8e1
+my_capabilities: 1
+name: Modular Carpet Family
+not_an_epd: false
+open_xpd_uuid: ec3xf4hw
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xf4hw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF PCR for Flooring Carpet, Resilient, Laminate, Ceramic and Wood
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and W ood)
+  - USA NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - 'NSF  Reference PCR Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - NSF PCR for Flooring PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - NSF PCR for Flooring PCR - Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:57.344402Z'
+  date_of_issue: '2012-05-22'
+  date_validity_ends: '2017-05-22'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: 59a08bc797e84eb78fe7ab5ff3e40852
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3e6jsg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e6jsg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e6jsgyf
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-11-20T18:20:04.372724Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 18.54304198 kgCO2e
+plant_geography:
+- US-AL
+plant_or_group:
+  address: 716 Bill Myles Drive, Saraland, AL 36571
+  address_line: 716 Bill Myles Drive, Bill Myles Drive East
+  admin_district: AL
+  admin_district2: Mobile
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-05-22T03:02:23.349003Z'
+  id: de444b2be94d4b89b320325edcb67972
+  is_failed: false
+  latitude: 30.80588
+  locality: Saraland
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Mobile
+    countrySubdivision: AL
+    countrySubdivisionName: Alabama
+    countryTertiarySubdivision: Mobile
+    extendedPostalCode: '3657133'
+    freeformAddress: 716 Bill Myles Drive, Saraland, AL 36571
+    localName: Saraland
+    municipality: Saraland
+    municipalitySubdivision: Saraland
+    postalCode: '36571'
+    streetName: Bill Myles Drive, Bill Myles Drive East
+    streetNumber: '716'
+  longitude: -88.06804
+  name: Masland Contract
+  openepd_id: 862HRW4J+9Q.maslandcontract.com
+  owned_by:
+    address: 716 Bill Myles Drive, Saraland, AL 36571
+    address_line: 716 Bill Myles Drive, Bill Myles Drive East
+    admin_district: AL
+    admin_district2: Mobile
+    alt_names:
+    - Avant Contract
+    - Masland Contract
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/masland-contract
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-26T18:57:47.749905Z'
+    email_extensions:
+    - maslandcontract.com
+    enterprise: true
+    id: 93ff0ceb37fa4a8a88a232a2bb899fd1
+    is_failed: false
+    latitude: 30.80588
+    locality: Saraland
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Mobile
+      countrySubdivision: AL
+      countrySubdivisionName: Alabama
+      countryTertiarySubdivision: Mobile
+      extendedPostalCode: '3657133'
+      freeformAddress: 716 Bill Myles Drive, Saraland, AL 36571
+      localName: Saraland
+      municipality: Saraland
+      municipalitySubdivision: Saraland
+      postalCode: '36571'
+      streetName: Bill Myles Drive, Bill Myles Drive East
+      streetNumber: '716'
+    longitude: -88.06804
+    name: Avant Contract
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/93ff0ceb37fa4a8a88a232a2bb899fd1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '36571'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-30T03:16:08.415652Z'
+    web_domain: maslandcontract.com
+    website: http://www.maslandcontract.com/
+  postal_code: '36571'
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2020-12-21T20:12:01.833310Z'
+plant_specific: false
+private: false
+product_specific: false
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10044
+reference_service_life: 60 year
+resource_uses: {}
+reviewer:
+  org:
+    address: 789 North Dixboro Road, Ann Arbor, MI 48105
+    address_line: 789 North Dixboro Road
+    admin_district: MI
+    admin_district2: Washtenaw
+    alt_names:
+    - NSF
+    - NSF Certification LLC
+    - NSF Certification
+    attachments:
+      Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-08-01T22:31:34.491119Z'
+    email_extensions:
+    - nsf.org
+    enterprise: true
+    id: a44683606c014062ac954e094362582e
+    image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+    is_failed: false
+    latitude: 42.28365
+    legal_name: NSF International
+    locality: Ann Arbor
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Washtenaw
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+      freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+      localName: Ann Arbor
+      municipality: Ann Arbor
+      municipalitySubdivision: Ann Arbor
+      postalCode: '48105'
+      streetName: North Dixboro Road
+      streetNumber: '789'
+    longitude: -83.67447
+    name: NSF International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:00:07.818662Z'
+    web_domain: nsf.org
+    website: https://www.nsf.org/
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xf4hwzw
+standard_deviation: 5.041637333 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 18.54304198 kgCO2e
+uncertainty_factor: 1.2967162223539521
+updated_on: '2024-03-14T03:02:32.716440Z'
+use_stored_carbon: false
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+yarn_type: Nylon 6,6
+yarn_weight: 22 oz/sy

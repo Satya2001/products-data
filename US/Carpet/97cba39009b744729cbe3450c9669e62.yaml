@@ -1,0 +1,662 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/bentley-mills
+best_practice: 12.0138099 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '344653335549'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.357 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.879608306 kgCO2e
+  pct20_gwp: 6.88647569 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.521733535 kgCO2e
+  pct50_gwp: 10.95405437 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.91655384 kgCO2e
+  pct80_gwp: 17.0297323 kgCO2e
+  pct90_gwp: 20.03790399 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-11-20T07:57:02.915919Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 17.1861901 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-08-23T15:46:00.569416Z'
+date_of_issue: '2017-12-29'
+date_validity_ends: '2022-12-28'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "AFFIXX\u2122 Tile, produced at the City of Industry, California manufacturing\
+  \ facility is a modular Tile with nylon 6,6 face fiber and a backing containing\
+  \ some recycled materials. It is certified Cradle to Cradle Silver, NSF 140 Platinum,\
+  \ and CRI Green Label Plus. The manufacturer warrants for a period of 15 years from\
+  \ the date of invoice."
+doc: buildingtransparency.org/e/ec3p56p7t2
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-04586_Bentley-AFFIXX-PieceDyed_122917.pdf
+form_factor: Tiles
+gwp: 14.6 kgCO2e
+gwp_per_category_declared_unit: 14.6 kgCO2e
+gwp_per_kg: 5.551330798 kgCO2e
+gwp_z: 0.2104756517984919
+gypsum_specific_density: 0.00263 kg / m^2
+id: 22d54089d27d484988f6bda362395645
+image: https://static.buildingtransparency.org/images/b2607e7e9f7d46fabb2d48f9b88aff03.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nTable 2. Origin and availability\
+  \ of material content.\n                                                       \
+  \                          Availability\n                                      \
+  \     Origin of Raw                                        Pre- and Post-\n    \
+  \      Component          Materials                                            \
+  \                Consumer        Percent of Total\n                            \
+  \                 Material        Renewable       Non-Renewable\n              \
+  \                                                                              \
+  \       Recycled\n                                                             \
+  \                                      Content\n            Facing          Nylon\
+  \ 6,6      United States                      Fossil limited                   \
+  \        29%\n                           Non-woven\n     Primary Backing       \
+  \                    Global                         Fossil limited      45%/0% \
+  \              4.2%\n                            Polyester\n          Carpet\n \
+  \     Protector/Stain       Proprietary        Global                         Fossil\
+  \ limited                          0.40%\n         Release\n                   \
+  \        Vinyl Acetate\n           Precoat                             Global  \
+  \                       Fossil limited                           6.6%\n        \
+  \                     Polymer\n                           Ammonium\n           \
+  \  Soap                          United States                       Abundant  \
+  \                             0.03%\n                          Lauryl Sulfate\n\
+  \                             Calcium                                          \
+  \  Mineral\n             Filler                            Global              \
+  \                               100%/0%              12%\n                     \
+  \       Carbonate                                          abundant\n          \
+  \                   Alumina                                            Mineral\n\
+  \      Fire Retardant                           Global                         \
+  \                                         3.3%\n                            Trihydrate\
+  \                                         abundant\n                           \
+  \  Sodium\n          Dispersant                           Global               \
+  \          Fossil limited                          0.003%\n                    \
+  \       Polyacrylate\n                             Sodium\n          Thickener \
+  \                           Global                         Fossil limited      35%/30%\
+  \             0.10%\n                           Polyacrylate\n          Adhesive\
+  \ &\n                            Polyolefin         Global                     \
+  \    Fossil limited                           39%\n           Laminate\n       \
+  \    Stabilizer       Fiberglass     United States                      Fossil limited\
+  \                           2.2%\n            Scrim            Polyester       \
+  \  Global                         Fossil limited      50%/50%              3.3%\n\
+  \n## LCA Notes\nA cradle to grave life cycle assessment (LCA) was completed for\
+  \ this product group in accordance with ISO 14040, ISO 14044, ISO 21930, and Product\
+  \ Category Rule for Environmental Product Declarations for Flooring: Carpet, Resilient,\
+  \ Laminate, Ceramic, Wood (Version 2).\n\n## Source Data Notes\n1.   ASTM International,\
+  \ 100 Barr Harbor Drive, West Conshohocken, PA, 19428-2959 USA.\nhttp://www.astm.org/Standard/index.shtml\n\
+  2.   Ecoinvent Centre (2010) Ecoinvent data from v2.2. Swiss Center for Life Cycle\
+  \ Inventories, Dubendorf, 2010,\nhttp://www.ecoinvent.org\n3.   Ecoinvent Centre\
+  \ (2015) Ecoinvent data from v3.2. Swiss Center for Life Cycle Inventories, Dubendorf,\
+  \ 2015,\nhttp://www.ecoinvent.org\n4.   ISO 14025: 2006 Environmental labels and\
+  \ declarations - Type III environmental declarations - Principles and\nProcedures\n\
+  5.   ISO 14040: 2006 Environmental Management - Life cycle assessment - Principles\
+  \ and framework\n6.   ISO 14044: 2006 Environmental Management - Life cycle assessment\
+  \ - Requirements and guidelines\n7.   ISO 21930: 2007 Sustainability in Building\
+  \ Construction - Environmental declaration of building products.\n8.   Product Category\
+  \ Rule (PCR) for preparing an Environmental Product Declaration (EPD) for Flooring:\
+  \ Carpet,\nResilient, Laminate, Ceramic, Wood. NSF International. Version 2. 2014.\n\
+  9.   SCS Global Services. Life Cycle Assessment of AFFIXX\u2122 Tile. May 2017.\
+  \ Final Report. Prepared for Bentley Mills.\n10. SCS Type III Environmental Declaration\
+  \ Program: Program Operator Manual v8.0. April 2017. SCS Global Services\n11. CARE\
+  \ Annual Report 2015. Carpet America Recovery Effort. https://carpetrecovery.org/wp-\n\
+  content/uploads/2014/04/CARE-2015-Annual-Report-FINAL-9-2-16-1.pdf\n12. US EPA.\
+  \ Advancing Sustainable Materials Management: 2014 Tables and Figures.\nhttps://www.epa.gov/sites/production/files/2016-11/documents/2014_smm_tablesfigures_508.pdf\n\
+  13. US EPA. WARM Model Transportation Research - Draft. Memorandum from ICF Consulting\
+  \ to United States\nEnvironmental Protection Agency. September 7, 2004.\nhttp://epa.gov/epawaste/conserve/tools/warm/SWMGHGreport.html#background.\n\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026"
+lowest_plausible_gwp: 12.0138099 kgCO2e
+manufacturer:
+  address: 14641 Don Julian Road, La Puente, CA 91746
+  address_line: 14641 Don Julian Road
+  admin_district: CA
+  admin_district2: Los Angeles
+  alt_names:
+  - Bentley
+  - Bentley Mills
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/bentley-mills
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-23T15:46:01.864781Z'
+  email_extensions:
+  - bentleymills.com
+  enterprise: true
+  id: 6d186a3d259445a4a79a82c4d28a5fd4
+  is_failed: false
+  latitude: 34.02811
+  locality: Industry, La Puente
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: East San Gabriel Valley
+    extendedPostalCode: '917463103'
+    freeformAddress: 14641 Don Julian Road, La Puente, CA 91746
+    localName: La Puente
+    municipality: Industry, La Puente
+    municipalitySubdivision: City of Industry, Industry
+    postalCode: '91746'
+    streetName: Don Julian Road
+    streetNumber: '14641'
+  longitude: -117.97758
+  name: Bentley Mills, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d186a3d259445a4a79a82c4d28a5fd4
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91746'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:24:10.518079Z'
+  web_domain: bentleymills.com
+  website: http://www.bentleymills.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.63 kg
+matched_plants_count: 0
+material_id: 97cba39009b744729cbe3450c9669e62
+my_capabilities: 1
+name: "AFFIXX\u2122 Tile - Piece Dyed Nylon 6,6"
+not_an_epd: false
+open_xpd_uuid: ec3p56p7
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3p56p7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, and Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2. NSF
+    International. 2014.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - PCR for Environmental Product Declarations, Flooring:Carpet, Resilient, Laminate,
+    Ceramic, Wood
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014'
+  - 'NSF: PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - NSF PCR for Flooring v2.0
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-17T13:03:00.704713Z'
+  date_of_issue: '2014-06-23'
+  date_validity_ends: '2018-09-28'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: bd683757a8234358a945e703bcc8cce3
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3qp4ff
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qp4ff
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qp4ff49
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-11-20T20:50:04.681365Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 17.1861901 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 14641 Don Julian Road, La Puente, CA 91746
+  address_line: 14641 Don Julian Road
+  admin_district: CA
+  admin_district2: Los Angeles
+  alt_names:
+  - 'the City of Industry, California '
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-05T00:57:42.198671Z'
+  id: 80b50dd95a24481d83d09202ed694a42
+  is_failed: false
+  latitude: 34.02811
+  locality: Industry, La Puente
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: East San Gabriel Valley
+    extendedPostalCode: '917463103'
+    freeformAddress: 14641 Don Julian Road, La Puente, CA 91746
+    localName: La Puente
+    municipality: Industry, La Puente
+    municipalitySubdivision: City of Industry, Industry
+    postalCode: '91746'
+    streetName: Don Julian Road
+    streetNumber: '14641'
+  longitude: -117.97758
+  name: City of Industry
+  openepd_id: 856422HC+6X.bentleymills.com
+  owned_by:
+    address: 14641 Don Julian Road, La Puente, CA 91746
+    address_line: 14641 Don Julian Road
+    admin_district: CA
+    admin_district2: Los Angeles
+    alt_names:
+    - Bentley
+    - Bentley Mills
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/bentley-mills
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-23T15:46:01.864781Z'
+    email_extensions:
+    - bentleymills.com
+    enterprise: true
+    id: 6d186a3d259445a4a79a82c4d28a5fd4
+    is_failed: false
+    latitude: 34.02811
+    locality: Industry, La Puente
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Los Angeles
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: East San Gabriel Valley
+      extendedPostalCode: '917463103'
+      freeformAddress: 14641 Don Julian Road, La Puente, CA 91746
+      localName: La Puente
+      municipality: Industry, La Puente
+      municipalitySubdivision: City of Industry, Industry
+      postalCode: '91746'
+      streetName: Don Julian Road
+      streetNumber: '14641'
+    longitude: -117.97758
+    name: Bentley Mills, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d186a3d259445a4a79a82c4d28a5fd4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91746'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:24:10.518079Z'
+    web_domain: bentleymills.com
+    website: http://www.bentleymills.com
+  postal_code: '91746'
+  total_epds: 159
+  type: Plant
+  units: SI
+  updated_on: '2024-08-27T15:51:56.694018Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: SCS-EPD-04586
+resource_uses: {}
+reviewer:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3p56p7t2
+specific_density: 0.00263 kg / m^2
+standard_deviation: 3.072944516 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 17.1861901 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T02:06:17.868867Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  gypsum_specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+yarn_type: Nylon 6,6
+yarn_weight: 15.400000000000002 oz / sy

@@ -1,0 +1,596 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 354.2544002 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '640416748286'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-03-16T14:54:39Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Acoustical ceiling panels
+  display_name: Acoustical Ceilings
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 342ccbc46fc1418c8db86016753807d5
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.120000379 kg
+  massless: false
+  masterformat: 09 51 00 Acoustical Ceilings
+  may_contain_trusted_vendor_declarations: false
+  name: AcousticalCeilings
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> CeilingPanel >> AcousticalCeilings
+  openepd_name: Finishes >> CeilingPanel >> AcousticalCeilings
+  parents: []
+  pct10_gwp: 2.618120889 kgCO2e
+  pct20_gwp: 3.613808467 kgCO2e
+  pct30_gwp: 4.726245241 kgCO2e
+  pct40_gwp: 5.416848782 kgCO2e
+  pct50_gwp: 6.325112763 kgCO2e
+  pct60_gwp: 8.276097017 kgCO2e
+  pct70_gwp: 11.41355306 kgCO2e
+  pct80_gwp: 28.0535939 kgCO2e
+  pct90_gwp: 50.67604562 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Acoustical Ceilings
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161601'
+  updated_on: '2025-11-20T07:57:06.985832Z'
+  use_stored_carbon: OPTIONAL
+ceiling_panel_cac: 24
+ceiling_panel_core_material: Mineral Fiber
+ceiling_panel_nrc: 0.75
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 581.7455998 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-05-26T11:23:01.310434Z'
+date_of_issue: '2019-07-01'
+date_validity_ends: '2022-05-16'
+declaration_type: Product EPD
+declared_unit: 1000 sf
+density: 15 pcf
+description: "Fine-textured panels with an NRC of 0.60, 0.75, 0.85 respectively provides\
+  \ excellent noise reduction, a high light reflective finish and a monolithic visual.\
+  \ The wet-formed mineral fiber family of products consists of a latex/starch-bound\
+  \ mineral wool basemat laminated with a non-woven veil. These products generally\
+  \ fall under ASTM E1264 Section 5.2 designation as Type IV-Mineral base with membrane-faced\
+  \ overlay. This EPD covers the following Orion\u2122 acoustical products: Item nos.:\
+  \ 62156, 62157, 62150, 62151, 62152, 62153, 62154, 62155, 62162, 62163, 62164, 62165,\
+  \ 62166 and 62167. 1.2. Application"
+doc: buildingtransparency.org/e/ec34dgk1ym
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Orion-60-75-85-Acoustical-Panels_USG_EPD.pdf
+gwp: 468 kgCO2e
+gwp_per_category_declared_unit: 5.037510075 kgCO2e
+gwp_per_kg: 1.3093444 kgCO2e
+gwp_z: 0.28879058156387305
+id: c840229dbed4434fb884505195a5e38d
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "## Product Component Notes\nORIONTM 60 - ORIONTM 75 - ORIONTM 85\
+  \ - MATERIAL 1/2\u201D 5/8\u201D 5/8\u201D Basemat 90.9% 89.0% 91.6% Adhesive 1.2%\
+  \ 1.1% 1.1% Laminate 3.7% 3.4% 3.4% Coating 4.2% 6.5% 3.8% Sum 100% 100% 100% 1.7.\
+  \ Manufacture In wet-formed mineral fiber production, the tile ingredients are mixed\
+  \ into a dilute slurry, which is then formed onto a wire as a basemat. The base\
+  \ mats are then pressed and dried. The dried tiles are laminated, cut or trimmed\
+  \ into the appropriate sizes and painted. Painting may involve two or more coatings\
+  \ with a drying cycle between coatings. After inspection, the ceiling tiles are\
+  \ packaged for shipment. Panel trim and panels\n\n## LCA Notes\nThis EPD represents\
+  \ a \u201Ccradle-to-grave\u201D LCA analysis for wet-formed mineral fiber ceiling\
+  \ panels. It covers all the production steps from raw material extraction (i.e.,\
+  \ the cradle) to end of life disposal (grave). 2.3. Estimates and Assumptions In\
+  \ the case of the wet-formed mineral fiber ceiling panel production at the Cloquet,\
+  \ MN plant, data collection of energy and raw material inputs were aided by the\
+  \ presence of an extensive computer monitoring system which tracked product formulas\
+  \ by product type. All wet-formed mineral fiber ceiling product raw material and\
+  \ energy inputs are specific to the specific wet-formed mineral fiber product produced\
+  \ at the Cloquet, MN plant. Additional data limitations include the use of proxy\
+  \ processes rather than actual supplier generated primary data. This would include\
+  \ such processes as starch, which is representative of wet-milled corn starch but\
+  \ may not necessarily be representative of USG\u2019s particular starch supplier.\
+  \ In addition, the data is limited in that the primary data was collected during\
+  \ the 2017 year and changes in operations may increase/decrease impacts in the future.\
+  \ Other data limitations include the use of secondary data sets instead of primary\
+  \ data for upstream and downstream processes, local impacts vs. global impacts,\
+  \ possible impacts vs. actual impacts, inherent uncertainty in the data sets, accuracy\
+  \ and precision of impact assessment methodology, etc. 2.4. Cut-off Criteria All\
+  \ inputs and outputs to a (unit) process were included in the calculation for which\
+  \ data is available. In case of insufficient input data or data gaps for a unit\
+  \ process, the cut-off criteria was 1% of renewable and non- renewable primary energy\
+  \ usage and 1% of the total mass of that unit process. The total neglected input\
+  \ flows did not exceed 5% of energy usage and mass. |6| Orion\u2122 60, Orion\u2122\
+  \ 75 and Orion\u2122 85 Acoustical Ceiling Panels with ClimaPlus\u2122 Performance\
+  \ According to ISO 14025, ISO 21930:2007 As such, some minor additives fell well\
+  \ below the cut-off criteria and were therefore not included in this study. 2.5.\
+  \ Background Data All background was sourced from critically reviewed GaBi databases.\
+  \ 2.6. Data Quality The LCA model was created using the GaBi ts software. Specific\
+  \ comments related to data quality requirements cited in ISO 14025 Section 4.2.3.6.2\
+  \ include the following. Temporal: In the case of wet-formed mineral fiber ceiling\
+  \ tile production, the LCI data was collected from the Cloquet, MN plant for the\
+  \ 2017 production year. Geographical: Where possible, all processes were chosen\
+  \ as being representative of US manufacturing processes. Technical: The data selected\
+  \ for this study is specific to the technology used in the preparation of the various\
+  \ raw materials. Precision: The raw material usage amounts were derived from plant\
+  \ quality data on finished products, coatings usage plant data and product formulas.\
+  \ Completeness: Virtually all the significant raw material flows (> 99%) in wet-formed\
+  \ mineral fiber ceiling panel production has been modeled. The exception consists\
+  \ of transportation of the coating raw materials; the effect of which was determined\
+  \ to be less than 1% of the total. Representative: Where possible all the data sets\
+  \ were selected to be representative of US-based production, are less than 10 years\
+  \ in age and are representative of the technology being employed. Consistency: All\
+  \ the manufacturing processes were modeled in a consistent manner throughout this\
+  \ study in accordance with the goal and scope definitions. Reproducibility: The\
+  \ information contained in this study, including raw material, energy and transportation\
+  \ distance inputs, have been fully documented in the LCA report. Sources of Data:\
+  \ The sources for the processes used in this study have been fully provided in the\
+  \ LCA report and are representative of the material and energy sources used in actual\
+  \ production. Uncertainty: The relative uncertainty associated with this study has\
+  \ been minimized. No significant assump\n\n## Source Data Notes\nLCA Report LCA\
+  \ Report for USG X-Technology Products. August 28 2018. USG. UL ENVIRONMENT UL Environment\
+  \ General Program Instructions April 2015, version 2 PCR Part A: UL Environment\
+  \ and Institute of Construction and Environment e.V., Ko\u0308nigswinter (pub.):\
+  \ Product Category Rules for Construction Products from the range of Environmental\
+  \ Product Declarations of Institut Bauen und Umwelt (IBU), Part A: Calculation Rules\
+  \ for the Life Cycle Assessment and Requirements on the Project Report. July 2014,\
+  \ version 1.3 UL Environment: PCR Guidance for Building-Related Products and Services;\
+  \ Part B: Non-Metal Ceiling Panel EPD Requirements; October 2015, version 1 SUSTAINABILITY\
+  \ REPORTING STANDARDS EN 15804: 2012-04 - Sustainability of construction works -\
+  \ Environmental Product Declarations - Core rules for the product category of construction\
+  \ product. ISO 14025: 2006 - Environmental labels and declarations - Type III environmental\
+  \ declarations - Principles and procedures ISO 14040: 2006 - Environmental management\
+  \ - Life cycle assessment - Principles and framework ISO 14044:2006 - Environmental\
+  \ management - Life cycle assessment - Requirements and guidelines ISO 14046:2013\
+  \ - Environmental management- Water footprint- Principles, requirements and guidelines\
+  \ ISO 15392:2008 - Sustainability in building construction- General principles ISO\
+  \ 15686-1:2011 - Buildings and constructed assets- Service life planning- Part 1:\
+  \ General principles ISO 15686-2:2008 - Buildings and constructed assets- Service\
+  \ life planning Part 2: Service life prediction procedures ISO 15686-7:2008 - Buildings\
+  \ and constructed assets- Service life planning Part 7: Performance evaluation for\
+  \ feedback of service life data from practice ISO 15686-8:2008 - Buildings and constructed\
+  \ assets- Service life planning Part 8: Reference service life and service life\
+  \ estimation ISO 21930: 2007 - Sustainability in building construction -- Environmental\
+  \ declaration of building products | 15 |"
+lowest_plausible_gwp: 354.2544002 kgCO2e
+manufacturer:
+  address: 333 South 270th Avenue, Alton, KS 67623
+  address_line: 333 South 270th Avenue
+  admin_district: KS
+  admin_district2: Osborne
+  alt_names:
+  - USG Cellings
+  - USG Sheetrock
+  - CGC
+  - "USG M\xE9xico, S.A. de C.V."
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-02T02:46:59.108322Z'
+  email_extensions:
+  - usg.com
+  enterprise: true
+  id: 139773b6950245eaa7181b669ba75ebd
+  image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+  is_failed: false
+  latitude: 39.495907
+  legal_name: USG
+  locality: Alton
+  location:
+    boundingBox:
+      entity: position
+      northEast: 39.509538,-98.989432
+      southWest: 39.494853,-98.989622
+    buildingNumber: '333'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Osborne
+    countrySubdivision: KS
+    countrySubdivisionName: Kansas
+    countryTertiarySubdivision: Grant
+    freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+    municipality: Alton
+    municipalitySubdivision: Alton
+    postalCode: '67623'
+    routeNumbers: []
+    street: South 270th Avenue
+    streetName: South 270th Avenue
+    streetNameAndNumber: 333 South 270th Avenue
+    streetNumber: '333'
+  longitude: -98.989456
+  name: USG
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '67623'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:24:00.773460Z'
+  web_domain: usg.com
+  website: https://www.usg.com
+manufacturer_specific: true
+mass_per_declared_unit: 357.43078755999994 kg
+matched_plants_count: 2
+material_id: 61a3d3f6469b4e9baa9da7605650a63d
+my_capabilities: 1
+name: "Orion\u2122 75 5/8\""
+not_an_epd: false
+open_xpd_uuid: ec34dgk1
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec34dgk1
+output_flows: {}
+owner:
+  name: Data Entry
+  user_id: data_entry@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Non- Metal Ceiling Panel EPD Requirements'
+  - 'Part B: Non-Metal Ceiling Panels'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:03.266944Z'
+  date_of_issue: '2015-10-16'
+  date_validity_ends: '2020-10-16'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=35840
+  id: cf6ddd56fd064633a5a62349694b3c9b
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: Non-Metal Ceiling Panels
+  open_xpd_uuid: ec39w7gy
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39w7gy
+  requires_mass: true
+  short_link: buildingtransparency.org/p/ec39w7gybd
+  short_name: Non-Metal Ceiling Panels
+  status: Sunset
+  updated_on: '2025-10-17T00:04:52.574960Z'
+  version: '1'
+pcr_notes: Manufactured at ALL USG facilities, split by product
+pct80_gwp_per_category_declared_unit: 6.261857522 kgCO2e
+plant_geography:
+- US-OH
+- US-CA
+- US-UT
+- US-IA
+- US-MN
+- US-VA
+- US-FL
+- US-OR
+- '003'
+- CA-ON
+- US-MD
+- US-MI
+- US-TX
+- US-GA
+- US-WI
+- US-AL
+- US-LA
+- US-MS
+- US-IN
+- US-PA
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-12-10T19:16:14.085848Z'
+  id: 7825728e0a4b4d87862d47901848fedc
+  is_failed: false
+  jurisdiction:
+  - '003'
+  name: USG Plants
+  owned_by:
+    address: 333 South 270th Avenue, Alton, KS 67623
+    address_line: 333 South 270th Avenue
+    admin_district: KS
+    admin_district2: Osborne
+    alt_names:
+    - USG Cellings
+    - USG Sheetrock
+    - CGC
+    - "USG M\xE9xico, S.A. de C.V."
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-02T02:46:59.108322Z'
+    email_extensions:
+    - usg.com
+    enterprise: true
+    id: 139773b6950245eaa7181b669ba75ebd
+    image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+    is_failed: false
+    latitude: 39.495907
+    legal_name: USG
+    locality: Alton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 39.509538,-98.989432
+        southWest: 39.494853,-98.989622
+      buildingNumber: '333'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Osborne
+      countrySubdivision: KS
+      countrySubdivisionName: Kansas
+      countryTertiarySubdivision: Grant
+      freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+      municipality: Alton
+      municipalitySubdivision: Alton
+      postalCode: '67623'
+      routeNumbers: []
+      street: South 270th Avenue
+      streetName: South 270th Avenue
+      streetNameAndNumber: 333 South 270th Avenue
+      streetNumber: '333'
+    longitude: -98.989456
+    name: USG
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67623'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:24:00.773460Z'
+    web_domain: usg.com
+    website: https://www.usg.com
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2020-12-10T19:16:16.095801Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4788655768.107.1
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec34dgk1ym
+standard_deviation: 135.1539922 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 581.7455998 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T07:23:05.692037Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

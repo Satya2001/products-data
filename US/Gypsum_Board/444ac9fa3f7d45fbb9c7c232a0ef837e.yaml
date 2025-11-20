@@ -1,0 +1,680 @@
+abuse_resistant: false
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 81.79265093 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1032.033771 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 116.7459613 kgCO2e
+  pct20_gwp: 173.406409 kgCO2e
+  pct30_gwp: 216.1799899 kgCO2e
+  pct40_gwp: 262.6058691 kgCO2e
+  pct50_gwp: 296.0013664 kgCO2e
+  pct60_gwp: 337.5644761 kgCO2e
+  pct70_gwp: 386.7953649 kgCO2e
+  pct80_gwp: 455.9060227 kgCO2e
+  pct90_gwp: 568.4596317 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2025-11-20T07:57:06.233569Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 117.0073491 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-06-18T15:15:03.797432Z'
+date_of_issue: '2025-06-18'
+date_validity_ends: '2030-06-18'
+declaration_type: Product EPD
+declared_unit: 1E+03 ft^2
+density: 640 kg / m^3
+description: CertainTeed M2Tech Moisture &amp; Mold Resistant Drywall is the ultimate
+  protection against moisture and mold damage. It is a specially formulated drywall
+  that is designed to resist the growth of mold and mildew, even in the most humid
+  environments.&nbsp;M2Tech Drywall is made with a unique combination of materials
+  that make it highly water-resistant and resistant to fungal growth. It also has
+  a special paper facing that is treated to resist mold and mildew.&nbsp;M2Tech Drywall
+  is ideal for use in areas that are prone to moisture damage, such as bathrooms,
+  kitchens, basements, and laundry rooms. It is also a good choice for use in coastal
+  areas and other humid climates.&nbsp;M2Tech Drywall is easy to install and finish.
+  It can be cut and worked with using standard drywall tools.
+developer:
+  org:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-10T22:47:30.631306Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+doc: smartepd.com/epd-library/677ef595e5979d0df95f4354
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Is not valid declared unit
+foil_backing: false
+gwp: 99.4 kgCO2e
+gwp_per_category_declared_unit: 99.4 kgCO2e
+gwp_per_kg: 0.09851337958 kgCO2e
+gwp_z: 0.2104756517984919
+id: 162ac41e8db84ab9b295267f73631e02
+image: https://www.smartepd.com/api/epd-library/gallery/680a94da856ff3a4ec253ed7
+impacts: {}
+is_downloadable: false
+is_failed: true
+jurisdiction:
+- US-AR
+- '021'
+language: en
+lowest_plausible_gwp: 81.79265093 kgCO2e
+manufacturer:
+  address: 20 Moores Rd, Malvern, PA 19355, USA
+  address_line: 20 Moores Rd
+  admin_district: PA
+  admin_district2: Chester County
+  alt_names:
+  - CertainTeed Gypsum, Inc
+  - CertainTeed Insulation Group
+  - CertainTeed
+  - CertainTeed Ceilings
+  - CertainTeed Gypsum Canada
+  - CertainTeed Gypsum
+  - CertainTeed Gypsum, Inc.
+  - Certainteed Gypsum
+  - CertainTeed Insulation
+  - CertainTeed Roofing
+  - CertainTeed Saint-Gobain
+  attachments:
+    Ecomedes: https://saintgobain.ecomedes.com/
+    TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:09.590285Z'
+  currency: USD
+  email_extensions:
+  - certainteed.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+  id: 4f0f4939d54945a08051f4c048ac71c0
+  image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+  is_failed: false
+  latitude: 40.0539584
+  legal_name: CertainTeed
+  locality: Malvern
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Moores Road
+    short_name: Moores Rd
+    types:
+    - route
+  - long_name: Malvern
+    short_name: Malvern
+    types:
+    - locality
+    - political
+  - long_name: East Whiteland Township
+    short_name: East Whiteland Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chester County
+    short_name: Chester County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19355'
+    short_name: '19355'
+    types:
+    - postal_code
+  - long_name: '1114'
+    short_name: '1114'
+    types:
+    - postal_code_suffix
+  longitude: -75.5576008
+  name: CertainTeed Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: true
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-06-10T22:47:30.631306Z'
+  web_domain: certainteed.com
+  website: www.certainteed.com
+manufacturer_specific: true
+manufacturing_image: https://www.smartepd.com/api/epd-library/gallery/6797be71f5127344dba1400e
+mass_per_declared_unit: 1009 kg
+matched_plants_count: 0
+material_id: 444ac9fa3f7d45fbb9c7c232a0ef837e
+moisture_resistant: false
+mold_resistant: false
+my_capabilities: 1
+name: "M2Tech Type X 5/8\u201D Gypsum Board - Nashville"
+not_an_epd: false
+open_xpd_uuid: ec39a48j
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec39a48j
+output_flows: {}
+owner:
+  name: Mariya Verovko
+  user_id: mariya.verovko@smartepd.com
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-02-24T18:23:05.865150Z'
+  date_of_issue: '2025-02-24'
+  date_validity_ends: '2030-02-24'
+  declared_units:
+  - 1 m2
+  doc: buildingtransparency.org/p/ec3xrwu3ju
+  id: a646221447804d638b8514b82c19115f
+  is_failed: false
+  name: "Smart EPD\xAE Part B PCR for Gypsum Panels"
+  open_xpd_uuid: ec3xrwu3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xrwu3
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3xrwu3ju
+  short_name: Gypsum Panels
+  updated_on: '2025-07-09T15:02:16.439321Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 117.0073491 kgCO2e
+plant_geography:
+- US-AR
+plant_or_group:
+  address: 794 State Hwy 369 N, Nashville, AR 71852, USA
+  address_line: 794 State Hwy 369 N
+  admin_district: AR
+  admin_district2: Howard County
+  carbon_intensity: 858.369 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-08-14T16:22:22.411471Z'
+  id: 39be77e81029443a9d434e38c56906b3
+  is_failed: false
+  latitude: 34.08519510000001
+  locality: Nashville
+  location:
+  - long_name: '794'
+    short_name: '794'
+    types:
+    - street_number
+  - long_name: State Highway 369 North
+    short_name: State Hwy 369 N
+    types:
+    - route
+  - long_name: Nashville
+    short_name: Nashville
+    types:
+    - locality
+    - political
+  - long_name: Howard County
+    short_name: Howard County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arkansas
+    short_name: AR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '71852'
+    short_name: '71852'
+    types:
+    - postal_code
+  longitude: -93.8729723
+  name: CertainTeed Gypsum
+  openepd_id: 866834PG+3R.certainteed.com
+  owned_by:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-10T22:47:30.631306Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+  postal_code: '71852'
+  total_epds: 10
+  type: Plant
+  updated_on: '2025-06-18T16:01:08.077074Z'
+plant_specific: true
+private: false
+product_classes:
+  EC3: Finishes >> Gypsum
+  UNSPSC: '301615'
+product_specific: true
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec39a48jgy
+sku: N/A
+standard_deviation: 20.92127979 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 117.0073491 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-06-18T15:15:07.698933Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

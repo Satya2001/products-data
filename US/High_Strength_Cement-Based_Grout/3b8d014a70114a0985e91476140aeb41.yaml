@@ -1,0 +1,627 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/central-concrete
+best_practice: 469.734919 kgCO2e
+biogenic_embodied_carbon_z: 0.035020565386641035
+box_id: '751451216536'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-03-01T15:46:41Z'
+  declared_unit: 1 m3
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Cement grouting is a slurry that is placed as a flowable liquid. It
+    is an effective material for filling and strengthening granular soils, voids in
+    rocks, foundation underpinnings, and other underground voids. Also called structural
+    grout, these materials typically impart significant compressive strength to the
+    system.
+  display_name: High Strength Cement-Based Grout
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 95793235b70c4b89b30d6a881ab8aee2
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 61 00 Cementitious Grouting
+  may_contain_trusted_vendor_declarations: false
+  name: CementGrout
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> CementGrout
+  openepd_name: Concrete >> CementGrout
+  parents: []
+  pct10_gwp: 239.7117659 kgCO2e
+  pct20_gwp: 270.3598455 kgCO2e
+  pct30_gwp: 293.3459053 kgCO2e
+  pct40_gwp: 314.1428165 kgCO2e
+  pct50_gwp: 336.0343019 kgCO2e
+  pct60_gwp: 363.7683051 kgCO2e
+  pct70_gwp: 399.5196098 kgCO2e
+  pct80_gwp: 450.9646006 kgCO2e
+  pct90_gwp: 525.3956512 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement Grout
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-11-20T07:56:06.649202Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.0
+  ggbs: 0.0
+concrete_aggregate_size_max: 1 in
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 41.4 MPa
+concrete_max_slump: 5 in
+concrete_min_pipeline_size: 4 in
+concrete_min_slump: 3 in
+concrete_self_consolidating: false
+concrete_slump: 4 in
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 498.265081 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-12-09T12:43:24.693393Z'
+date_of_issue: '2019-01-29'
+date_validity_ends: '2021-10-03'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m^3
+description: HE 3000 PSI 1" 2DAY 3-5SL
+developer:
+  email: laurel.mcewen@climateearth.com
+  name: Laurel McEwen
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: https://api.climateearth.com/api/mixes/epd/7EC887FA-3651-461F-AED6-476E5E635179/true
+document_version: '1'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Central Concrete_006_H30H1522_7EC887FA-3651-461F-AED6-476E5E635179_1.pdf
+gwp: 484 kgCO2e
+gwp_per_category_declared_unit: 484 kgCO2e
+gwp_per_kg: 0.2016666667 kgCO2e
+gwp_z: 0.035020565386641035
+id: d910f90d06e64f868cf13cfc54ec5004
+image: https://static.buildingtransparency.org/images/70520fa964104d688ecd1b75d2d876ab.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nnatural aggregate (ASTM C33), crushed\
+  \ aggregate (ASTM C33), Portland cement (ASTM C150), admixture (ASTM C494), batch\
+  \ water (ASTM C1602)\n\n## Source Data Notes\nPortland cement: Portland Concrete\
+  \ Association, Industry Average EPD, 2016 Aggregate: Supplier specific primary data,\
+  \ 2016 Aggregate (crushed): US-EI (2016): \u201CGravel, crushed, at mine/US\u201D\
+  , 2001 Municipal Water: US-EI (2016): \u201CTap water, at user/US\u201D, 2000 Admixture\
+  \ (plasticizing): EFCA EPD, 2015 Truck transport: US-EI (2014): Transport, single\
+  \ unit truck, diesel powered/NREL/US, 2007 and US EPA emission factors, 2014 Electricity\
+  \ (WECC): Ecoinvent 3.32: \u201CElectricity, medium voltage, market for, Alloc Rec\u201D\
+  , 2015 Diesel: US-EI (2016): \u201CDiesel, combusted in industrial equipment/NREL/US\u201D\
+  , 2007"
+lightweight: false
+lowest_plausible_gwp: 469.734919 kgCO2e
+manufacturer:
+  address: 755 Stockton Avenue, San Jose, CA 95126
+  address_line: 755 Stockton Avenue
+  admin_district: CA
+  admin_district2: Santa Clara
+  alt_names:
+  - Central Concrete
+  - Monumental Concrete
+  - Centre Concrete
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/central-concrete
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T14:55:59.965541Z'
+  email_extensions:
+  - centralconcrete.com
+  enterprise: true
+  id: c3d7d8d1e466457798d8c37c0df44cee
+  image: https://static.buildingtransparency.org/images/baee2a14-dfb9-4e9a-b1b7-f14134e3689b.png
+  is_failed: false
+  latitude: 37.34156
+  legal_name: CENTRAL CONCRETE Supply Company
+  locality: San Jose
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Santa Clara
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: San Jose
+    freeformAddress: 755 Stockton Avenue, San Jose, CA 95126
+    municipality: San Jose
+    municipalitySubdivision: San Jose, College Park
+    postalCode: '95126'
+    streetName: Stockton Avenue
+    streetNumber: '755'
+  longitude: -121.91509
+  name: Central Concrete
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c3d7d8d1e466457798d8c37c0df44cee
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '95126'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-21T18:31:05.255783Z'
+  web_domain: centralconcrete.com
+  website: http://www.centralconcrete.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 3b8d014a70114a0985e91476140aeb41
+my_capabilities: 1
+name: H30H1522
+not_an_epd: false
+open_xpd_uuid: ec3j96kf
+original_data_format: custom_api
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3j96kf
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules (PCR) for ISO 14025:2006 Type III Environmental Product
+    Declarations (EPDs) of Concrete
+  - "North American Product Category Rules (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - "North American Product Category Rules v1 (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - Product Category Rules (PCR) for ISO 14025 Type III Environmental Product Declarations
+    (EPDs) Concrete Version 1.1
+  - 'CLF PCR for ISO14025 Type III Environmental Product Declarations for Concrete
+    meeting hte requirement of one of the following:  C90, ASTM C90, CSA A23.1/A23.2,
+    UNSPC code 30111500, Version 1.1, Dec 4, 2013 Clarifications 1,2, and 3'
+  - PCR for ISO 14025:2006 Type III EPD of Concrete
+  - Carbon Leadership Forum (CLF) Product Category Rules (PCR) for ISO 14025 Type
+    III Environmental Product Declarations (EPDs) for Concrete v1.1 (December 2013)
+  - 'The Carbon Leadership Forum PCR: PCR for ISO 14025 Type III EPD for Concrete'
+  - '""The Carbon Leadership Forum PCR: Product Category Rules (PCR) for ISO 14025
+    Type III Environmental Product Declarations (EPDs) for Concrete, Version 1.1 dated
+    12/4/2013, serves as the PCR for this EPD. http://www.carbonleadershipforum.org""'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:48.524245Z'
+  date_of_issue: '2013-12-04'
+  date_validity_ends: '2018-12-04'
+  declared_units:
+  - 1 m3
+  doc: https://app.box.com/file/292552692203
+  id: 64e661dd8d894db3a1bb327f08edae1f
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American PCR for Concrete
+  open_xpd_uuid: ec37zjz1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37zjz1
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec37zjz1ws
+  short_name: Concrete
+  status: Sunset
+  updated_on: '2023-12-05T00:02:02.009988Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 498.265081 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 625 Seaport Blvd, Redwood City, CA 94063, USA
+  address_line: 625 Seaport Blvd
+  admin_district: CA
+  admin_district2: San Mateo County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-02-20T22:44:08.382824Z'
+  id: b54b0a74e55a49178c6a504965dcaa8a
+  is_failed: false
+  latitude: 37.508828
+  locality: Redwood City
+  location:
+  - long_name: '625'
+    short_name: '625'
+    types:
+    - street_number
+  - long_name: Seaport Boulevard
+    short_name: Seaport Blvd
+    types:
+    - route
+  - long_name: Redwood City
+    short_name: Redwood City
+    types:
+    - locality
+    - political
+  - long_name: San Mateo County
+    short_name: San Mateo County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '94063'
+    short_name: '94063'
+    types:
+    - postal_code
+  longitude: -122.2086066
+  name: Redwood City
+  openepd_id: 849VGQ5R+GH.centralconcrete.com
+  owned_by:
+    address: 755 Stockton Avenue, San Jose, CA 95126
+    address_line: 755 Stockton Avenue
+    admin_district: CA
+    admin_district2: Santa Clara
+    alt_names:
+    - Central Concrete
+    - Monumental Concrete
+    - Centre Concrete
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/central-concrete
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T14:55:59.965541Z'
+    email_extensions:
+    - centralconcrete.com
+    enterprise: true
+    id: c3d7d8d1e466457798d8c37c0df44cee
+    image: https://static.buildingtransparency.org/images/baee2a14-dfb9-4e9a-b1b7-f14134e3689b.png
+    is_failed: false
+    latitude: 37.34156
+    legal_name: CENTRAL CONCRETE Supply Company
+    locality: San Jose
+    location:
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Santa Clara
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: San Jose
+      freeformAddress: 755 Stockton Avenue, San Jose, CA 95126
+      municipality: San Jose
+      municipalitySubdivision: San Jose, College Park
+      postalCode: '95126'
+      streetName: Stockton Avenue
+      streetNumber: '755'
+    longitude: -121.91509
+    name: Central Concrete
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c3d7d8d1e466457798d8c37c0df44cee
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '95126'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-21T18:31:05.255783Z'
+    web_domain: centralconcrete.com
+    website: http://www.centralconcrete.com/
+  postal_code: '94063'
+  total_epds: 2524
+  type: Plant
+  updated_on: '2024-10-21T22:00:46.474248Z'
+plant_specific: true
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: 7EC887FA-3651-461F-AED6-476E5E635179
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3j96kfu6
+standard_deviation: 16.94995365 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.85
+third_party_verified: true
+uncertainty_adjusted_gwp: 498.265081 kgCO2e
+uncertainty_factor: 1.0294733078293972
+updated_on: '2024-03-14T02:19:41.332086Z'
+use_stored_carbon: false
+verifier:
+  email: rita@iere.org
+  name: Rita Schenck
+  org:
+    address: 10857 98th Place Southwest, Vashon, WA 98070
+    address_line: 10857 98th Place Southwest
+    admin_district: WA
+    admin_district2: King
+    alt_names:
+    - Earthsure
+    - IERE
+    - Institute for Environmental Research and Education
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-07-26T13:26:41.418139Z'
+    email_extensions:
+    - iere.org
+    enterprise: true
+    id: 5609a6ef730f45d381c0dfcc8f1e4030
+    image: https://static.buildingtransparency.org/images/09578c87-ff1e-4bef-b9de-710d039dda6c.png
+    invalid_after: '2018-07-01'
+    is_failed: false
+    latitude: 47.447029
+    legal_name: EarthSure
+    locality: Vashon
+    location:
+      boundingBox:
+        entity: position
+        northEast: 47.447447,-122.459782
+        southWest: 47.446493,-122.459807
+      buildingNumber: '10857'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: King
+      countrySubdivision: WA
+      countrySubdivisionName: Washington
+      countryTertiarySubdivision: Vashon Island
+      freeformAddress: 10857 98th Place Southwest, Vashon, WA 98070
+      municipality: Vashon
+      municipalitySubdivision: Vashon
+      postalCode: '98070'
+      routeNumbers: []
+      street: 98th Place Southwest
+      streetName: 98th Place Southwest
+      streetNameAndNumber: 10857 98th Place Southwest
+      streetNumber: '10857'
+    longitude: -122.459793
+    name: EarthSure
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5609a6ef730f45d381c0dfcc8f1e4030
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '98070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:50:05.976251Z'
+    web_domain: iere.org
+    website: http://iere.org/programs/earthsure/
+warnings:
+  concrete_cement_content:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+white_cement: false

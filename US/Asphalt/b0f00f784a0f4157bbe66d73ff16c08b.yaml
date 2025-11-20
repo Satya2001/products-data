@@ -1,0 +1,557 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+asphalt_aggregate_size_max: 0.0111125 m
+asphalt_gradation: Dense-graded
+asphalt_gtr: false
+asphalt_max_temperature: "64 \xB0C"
+asphalt_min_temperature: "34 \xB0C"
+asphalt_mix_type: HMA
+asphalt_pmb: false
+asphalt_ppa: false
+asphalt_rap: 0.14
+asphalt_sbr: false
+asphalt_sbs: false
+best_practice: 56.01998781 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1328826145396'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:31.880547Z'
+  declared_unit: 1 kg
+  default_distance: 51.49888 km
+  default_transport_mode: truck, single unit
+  description: General category for asphalt mixtures
+  display_name: Asphalt
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: aa61ba9aeb2a4566942554362bb496d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 12 16 Asphalt Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Asphalt
+  no_statistics: false
+  obsolete: false
+  openepd: Asphalt
+  openepd_name: Asphalt
+  parents: []
+  pct10_gwp: 0.05482551228 kgCO2e
+  pct20_gwp: 0.05982888239 kgCO2e
+  pct30_gwp: 0.06403185433 kgCO2e
+  pct40_gwp: 0.06789398122 kgCO2e
+  pct50_gwp: 0.07156570503 kgCO2e
+  pct60_gwp: 0.07547954634 kgCO2e
+  pct70_gwp: 0.07945215405 kgCO2e
+  pct80_gwp: 0.08491742796 kgCO2e
+  pct90_gwp: 0.09532260428 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Asphalt
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30121601'
+  updated_on: '2025-11-20T07:57:55.742450Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 79.84001219 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-08T04:52:56.856913Z'
+date_of_issue: '2023-09-26'
+date_validity_ends: '2027-03-31'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 2400 kg / m^3
+description: This EPD reports the potential environmental impacts and additional environmental
+  information for an asphalt mixture, which falls under the United Nations Standard
+  Products and Services Code 30111509. Asphalt mixtures are typically incorporated
+  as part of the structure of a roadway, parking lot, driveway, airfield, bike lane,
+  pedestrian path, railroad track bed, or recreational surface.
+developer:
+  email: info@metsims.com
+  name: Metsims Sustainability Consulting Contact
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: https://asphaltepd.org/epd/d/BZUo8r/
+document_version: '1'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 3776_ba3148d272791868947558aaa9c07662e6926388.html
+gwp: 67.93 kgCO2e
+gwp_per_category_declared_unit: 0.06793 kgCO2e
+gwp_per_kg: 0.06793 kgCO2e
+gwp_z: 0.2083266665599966
+id: 3419591496804505b0be815ece170b2b
+impacts: {}
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 56.01998781 kgCO2e
+manufacturer:
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/granite-construction
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-11T16:10:49.004528Z'
+  enterprise: false
+  id: 61a93945795d4666a43c9b377342fa4d
+  image: https://static.buildingtransparency.org/images/9a3838ff7e2e4fe3ace04afdda268d4d.png
+  is_failed: false
+  name: Granite Construction Inc
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/61a93945795d4666a43c9b377342fa4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: true
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: true
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-07-21T21:46:10.935840Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: graniteconstruction.com
+  website: https://www.graniteconstruction.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: b0f00f784a0f4157bbe66d73ff16c08b
+my_capabilities: 1
+name: '3776'
+not_an_epd: false
+open_xpd_uuid: ec3h6mad
+original_data_format: web
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3h6mad
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules for Asphalt Mixtures
+  - Product Category Rules (PCR) for Asphalt Mixtures, version 2.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-05-06T20:26:10.862766Z'
+  date_of_issue: '2022-04-01'
+  date_validity_ends: '2027-04-01'
+  declared_units:
+  - 1 tonne
+  doc: '#broken-link cqd.io/p/ec3paun0yg'
+  id: 03f6ce8b701a473fb6a9040098379ae5
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NAPA PCR For Asphalt Mixtures
+  open_xpd_uuid: ec3paun0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3paun0
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3paun0yg
+  short_name: Asphalt Mixtures
+  status: Published
+  updated_on: '2025-08-03T18:32:26.858101Z'
+  version: '2.0'
+pct80_gwp_per_category_declared_unit: 0.07984001219 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 8999 Capacity St, Arvin, CA 93203, USA
+  address_line: 8999 Capacity St
+  admin_district: CA
+  admin_district2: Kern County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2023-09-14T17:09:01.093648Z'
+  id: 14d59c7890454ffd9765a3297a510ec8
+  is_failed: false
+  latitude: 35.0302732
+  locality: Arvin
+  location:
+  - long_name: '8999'
+    short_name: '8999'
+    types:
+    - street_number
+  - long_name: Capacity Street
+    short_name: Capacity St
+    types:
+    - route
+  - long_name: Arvin
+    short_name: Arvin
+    types:
+    - locality
+    - political
+  - long_name: Kern County
+    short_name: Kern County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '93203'
+    short_name: '93203'
+    types:
+    - postal_code
+  longitude: -118.8036886
+  name: Solari AC
+  openepd_id: 857325JW+4G.graniteconstruction.com
+  owned_by:
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/granite-construction
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2022-10-11T16:10:49.004528Z'
+    enterprise: false
+    id: 61a93945795d4666a43c9b377342fa4d
+    image: https://static.buildingtransparency.org/images/9a3838ff7e2e4fe3ace04afdda268d4d.png
+    is_failed: false
+    name: Granite Construction Inc
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/61a93945795d4666a43c9b377342fa4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: true
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: true
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-07-21T21:46:10.935840Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: graniteconstruction.com
+    website: https://www.graniteconstruction.com/
+  postal_code: '93203'
+  total_epds: 12
+  type: Plant
+  updated_on: '2024-06-30T07:09:21.010519Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 5100 Forbes Boulevard, Lanham, MD 20706
+  address_line: 5100 Forbes Boulevard
+  admin_district: MD
+  admin_district2: Prince George's
+  alt_names:
+  - NAPA
+  - Asphalt EPD
+  - Emerald Ecolabel
+  - Emerald Eco-label
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-10T23:11:11.739481Z'
+  email_extensions:
+  - asphaltpavement.org
+  - asphaltepd.org
+  enterprise: true
+  id: 136904d07bd94f9f959bfae24e24c56a
+  image: https://static.buildingtransparency.org/images/fbdd34b1-8146-4d80-8bc9-0e578a03f018.png
+  is_failed: false
+  latitude: 38.960571
+  legal_name: National Asphalt Pavement Association
+  locality: Lanham
+  location:
+    boundingBox:
+      entity: position
+      northEast: 38.961196,-76.833920
+      southWest: 38.959630,-76.835144
+    buildingNumber: '5100'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Prince George's
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 20 Lanham
+    extendedPostalCode: '207064407'
+    freeformAddress: 5100 Forbes Boulevard, Lanham, MD 20706
+    municipality: Lanham
+    municipalitySubdivision: Lanham
+    postalCode: '20706'
+    routeNumbers: []
+    street: Forbes Boulevard
+    streetName: Forbes Boulevard
+    streetNameAndNumber: 5100 Forbes Boulevard
+    streetNumber: '5100'
+  longitude: -76.834511
+  name: National Asphalt Pavement Association
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/136904d07bd94f9f959bfae24e24c56a
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-07-03T13:56:29.001838Z'
+  web_domain: asphaltpavement.org
+  website: asphaltpavement.org
+program_operator_fkey: 18.742.2508
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3h6madfh
+standard_deviation: 14.15163046 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 79.84001219 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2024-05-10T16:09:55.786805Z'
+use_stored_carbon: false
+verifier:
+  email: user_b0d20728c03a469dbb212eb2d4d147fd@cqd.io
+  name: Trisha Montalbo
+  org:
+    address: 148 S Dowlen Rd, Beaumont, TX 77707, USA
+    address_line: 148 S Dowlen Rd
+    admin_district: TX
+    admin_district2: Jefferson County
+    alt_names:
+    - John Beath Environmental, LLC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-04-10T22:35:50.139920Z'
+    enterprise: false
+    id: 07b66822fcc94816acfa5e8d91c44e83
+    image: https://static.buildingtransparency.org/images/38233aa183314a02a637d2c9eb9529bb.png
+    is_failed: false
+    latitude: 30.0730332
+    legal_name: John Beath Environmental, LLC
+    locality: Beaumont
+    location:
+    - long_name: '148'
+      short_name: '148'
+      types:
+      - street_number
+    - long_name: South Dowlen Road
+      short_name: S Dowlen Rd
+      types:
+      - route
+    - long_name: Beaumont
+      short_name: Beaumont
+      types:
+      - locality
+      - political
+    - long_name: Jefferson County
+      short_name: Jefferson County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Texas
+      short_name: TX
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '77707'
+      short_name: '77707'
+      types:
+      - postal_code
+    longitude: -94.1730943
+    name: JBE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07b66822fcc94816acfa5e8d91c44e83
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '77707'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-10-11T14:10:38.237725Z'
+    web_domain: beath.us
+    website: beath.us
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

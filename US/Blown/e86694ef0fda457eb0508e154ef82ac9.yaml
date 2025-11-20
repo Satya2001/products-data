@@ -1,0 +1,601 @@
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-12-23T15:54:26Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Spray-on insulation, such as spray-on cellulose.  Foaming sprays are
+    categorized separately under foamed-in-place.
+  display_name: Sprayed
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d06e93dfb8844dd68a6646bd936991d5
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.516 kg
+  massless: false
+  masterformat: 07 21 29 Sprayed Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: SprayedInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> SprayedInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> SprayedInsulation
+  parents: []
+  pct10_gwp: 0.2921864718 kgCO2e
+  pct20_gwp: 1.114688391 kgCO2e
+  pct30_gwp: 2.277168569 kgCO2e
+  pct40_gwp: 2.884236333 kgCO2e
+  pct50_gwp: 3.321651706 kgCO2e
+  pct60_gwp: 3.652368022 kgCO2e
+  pct70_gwp: 3.922702734 kgCO2e
+  pct80_gwp: 4.199445952 kgCO2e
+  pct90_gwp: 5.090668645 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Sprayed
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-11-20T07:57:33.081867Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 0.2370932798 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: https://transparencycatalog.com/assets/uploads/pdf/AGGF_SANCTUARY_allpages.pdf
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.136796Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Loose-fill insulation for blow-in or closed cavity applications
+  display_name: Blown
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 6fd418c8ff92415c833e6327638d8482
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.5813 kg
+  massless: false
+  masterformat: 07 21 26 Blown Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlownInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlownInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlownInsulation
+  parents: []
+  pct10_gwp: 0.2867799643 kgCO2e
+  pct20_gwp: 0.4577666414 kgCO2e
+  pct30_gwp: 0.6797842131 kgCO2e
+  pct40_gwp: 0.8709136276 kgCO2e
+  pct50_gwp: 1.080099302 kgCO2e
+  pct60_gwp: 1.220070502 kgCO2e
+  pct70_gwp: 1.522138763 kgCO2e
+  pct80_gwp: 1.780534628 kgCO2e
+  pct90_gwp: 2.378286092 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-11-20T07:57:32.091127Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.3379067202 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-12-13T17:19:20.025849Z'
+date_of_issue: '2022-12-09'
+date_validity_ends: '2027-12-08'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 17.1 kg / m3
+description: SANCTUARY is insulation primarily made of postconsumer paper and can
+  be either blown-in or spray-applied in attics, walls, floors, and ceilings. This
+  fiber insulation is suitable for all climates and conditions. SANCTUARY is engineered
+  to fill tiny crevices and gaps, creating a dense, advanced barrier capable of reducing
+  the power of sound and also heating and cooling costs. It can be easily filled over
+  existing insulation and is designed to fill every gap, void, and hard-to-reach place
+  without time consuming cutting and fitting.
+developer:
+  email: kim@sustainableminds.com
+  name: Kim Hammer
+  org:
+    address: Broadway, Cambridge, MA 02139
+    address_line: ' Broadway'
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - Sustainable Minds LLC.
+    - sminds
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-12T10:00:38.592854Z'
+    email_extensions:
+    - sustainableminds.com
+    - ebsqart.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
+    id: 321e5dc991904465af04913936fd75c8
+    image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+    is_failed: false
+    latitude: 42.36484
+    locality: Cambridge
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Cambridge
+      freeformAddress: Broadway, Cambridge, MA 02139
+      municipality: Cambridge
+      municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+      postalCode: 02139
+      streetName: Broadway
+    longitude: -71.08975
+    name: Sustainable Minds
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: 02139
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-07-22T02:03:03.572846Z'
+    web_domain: sustainableminds.com
+    website: https://www.sustainableminds.com
+doc: buildingtransparency.org/e/ec3byejjfa
+excluded: false
+externally_verified: true
+gwp: 0.2875 kgCO2e
+gwp_per_category_declared_unit: 0.2875 kgCO2e
+gwp_per_kg: 0.4402756508 kgCO2e
+gwp_z: 0.2083266665599966
+id: fd9e5b990ee9485ebf7ab7ab8ddfdbce
+impacts: {}
+includes: []
+industry_standards:
+- ASTM C739
+insulating_material: Cellulose
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '021'
+- US-AZ
+language: en
+lowest_plausible_gwp: 0.2370932798 kgCO2e
+manufacturer:
+  address: 5500 77 Center Drive, Charlotte, NC 28217
+  address_line: 5500 77 Center Drive
+  admin_district: NC
+  admin_district2: Mecklenburg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-08-21T16:56:48.110844Z'
+  enterprise: true
+  id: 9edee269279f40aba361081954aab643
+  image: https://static.buildingtransparency.org/images/7aefcfd8-e541-4768-9445-62e1a118a1b2
+  is_failed: false
+  latitude: 35.16706
+  locality: Charlotte
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Mecklenburg
+    countrySubdivision: NC
+    countrySubdivisionName: North Carolina
+    extendedPostalCode: 28217-0125
+    freeformAddress: 5500 77 Center Drive, Charlotte, NC 28217
+    localName: Charlotte
+    municipality: Charlotte
+    municipalitySubdivision: Montclaire South
+    postalCode: '28217'
+    streetName: 77 Center Drive
+    streetNumber: '5500'
+  longitude: -80.88479
+  name: Applegate-Greenfiber
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9edee269279f40aba361081954aab643
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28217'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-12-13T17:11:37.290785Z'
+  web_domain: greenfiber.com
+  website: www.greenfiber.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.653 kg
+matched_plants_count: 0
+material_id: e86694ef0fda457eb0508e154ef82ac9
+my_capabilities: 1
+name: "Mesa, AZ - SANCTUARY\xAE by Greenfiber\xAE Blow-In or Spray-Applied Insulation"
+not_an_epd: false
+open_xpd_uuid: ec3nbrhh
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nbrhh
+output_flows: {}
+owner:
+  name: Kim Hammer
+  user_id: kim@sustainableminds.com
+pcr:
+  alt_names:
+  - 'Part B: Building Envelope Thermal Insulation EPD requirements'
+  - 'Part B: Building Thermal Insulation EPD Requirements UL 10010-1(2nd edition,
+    April 10, 2018)'
+  - 'PCR for preparing an EPD for Product Group: Building Envelope Thermal Insulation'
+  - PCR for Building Envelope Thermal Insulation
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.470071Z'
+  date_of_issue: '2023-04-06'
+  date_validity_ends: '2024-04-06'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34197
+  id: af1087300982459398cb8bd7734ce08d
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 4
+    IPCC AR5:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Building Envelope Thermal Insulation Products'
+  open_xpd_uuid: ec3qgwtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qgwtt
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qgwttac
+  short_name: 'Part B: Building Envelope Thermal Insulation'
+  status: Expired
+  updated_on: '2025-11-20T18:20:04.425461Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 0.3379067202 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: 7535 E Ray Rd, Mesa, AZ 85212, USA
+  address_line: 7535 E Ray Rd
+  admin_district: AZ
+  admin_district2: Maricopa County
+  carbon_intensity: 1027.548 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-12-13T17:07:04.051955Z'
+  id: 084a5423bdc540f3b594a253d375d43b
+  is_failed: false
+  latitude: 33.3263307
+  locality: Mesa
+  location:
+  - long_name: '7535'
+    short_name: '7535'
+    types:
+    - street_number
+  - long_name: East Ray Road
+    short_name: E Ray Rd
+    types:
+    - route
+  - long_name: Mesa
+    short_name: Mesa
+    types:
+    - locality
+    - political
+  - long_name: Maricopa County
+    short_name: Maricopa County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arizona
+    short_name: AZ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '85212'
+    short_name: '85212'
+    types:
+    - postal_code
+  longitude: -111.6718483
+  name: Mesa, AZ
+  openepd_id: 855C88GH+G7.greenfiber.com
+  owned_by:
+    address: 5500 77 Center Drive, Charlotte, NC 28217
+    address_line: 5500 77 Center Drive
+    admin_district: NC
+    admin_district2: Mecklenburg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-08-21T16:56:48.110844Z'
+    enterprise: true
+    id: 9edee269279f40aba361081954aab643
+    image: https://static.buildingtransparency.org/images/7aefcfd8-e541-4768-9445-62e1a118a1b2
+    is_failed: false
+    latitude: 35.16706
+    locality: Charlotte
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Mecklenburg
+      countrySubdivision: NC
+      countrySubdivisionName: North Carolina
+      extendedPostalCode: 28217-0125
+      freeformAddress: 5500 77 Center Drive, Charlotte, NC 28217
+      localName: Charlotte
+      municipality: Charlotte
+      municipalitySubdivision: Montclaire South
+      postalCode: '28217'
+      streetName: 77 Center Drive
+      streetNumber: '5500'
+    longitude: -80.88479
+    name: Applegate-Greenfiber
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9edee269279f40aba361081954aab643
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28217'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-12-13T17:11:37.290785Z'
+    web_domain: greenfiber.com
+    website: www.greenfiber.com
+  postal_code: '85212'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2024-10-03T16:00:31.028056Z'
+plant_specific: true
+private: false
+product_classes:
+  masterformat:
+  - 07 21 00
+product_specific: true
+program_operator:
+  address: Broadway, Cambridge, MA 02139
+  address_line: ' Broadway'
+  admin_district: MA
+  admin_district2: Middlesex
+  alt_names:
+  - Sustainable Minds LLC.
+  - sminds
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-12T10:00:38.592854Z'
+  email_extensions:
+  - sustainableminds.com
+  - ebsqart.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
+  id: 321e5dc991904465af04913936fd75c8
+  image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+  is_failed: false
+  latitude: 42.36484
+  locality: Cambridge
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Middlesex
+    countrySubdivision: MA
+    countrySubdivisionName: Massachusetts
+    countryTertiarySubdivision: Cambridge
+    freeformAddress: Broadway, Cambridge, MA 02139
+    municipality: Cambridge
+    municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+    postalCode: 02139
+    streetName: Broadway
+  longitude: -71.08975
+  name: Sustainable Minds
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: 02139
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: true
+  updated_on: '2025-07-22T02:03:03.572846Z'
+  web_domain: sustainableminds.com
+  website: https://www.sustainableminds.com
+program_operator_fkey: "AGG \u2013 20221209 \u2013 001"
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3nbrhhux
+sku: SANCTUARY
+standard_deviation: 0.05989391664 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 0.0378 m
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.3379067202 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T21:02:07.927157Z'
+use_stored_carbon: false
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

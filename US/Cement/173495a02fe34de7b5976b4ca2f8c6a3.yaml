@@ -1,0 +1,613 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_type: C150 Type III
+best_practice: 867.2871676 kgCO2e
+biogenic_embodied_carbon_z: 0.03162277660168379
+box_id: '983250985329'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 410.612522 kgCO2e
+  pct20_gwp: 639.5752694 kgCO2e
+  pct30_gwp: 727.2744129 kgCO2e
+  pct40_gwp: 775.5038757 kgCO2e
+  pct50_gwp: 817.5094329 kgCO2e
+  pct60_gwp: 857.9622687 kgCO2e
+  pct70_gwp: 907.1005252 kgCO2e
+  pct80_gwp: 962.8060311 kgCO2e
+  pct90_gwp: 1050.450141 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2025-11-20T07:56:25.802562Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 914.7128324 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-08-02T17:45:20.905354Z'
+date_of_issue: '2021-02-26'
+date_validity_ends: '2026-02-26'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 1440 kg / m3
+description: "This EPD reports environmental transparency information for five cement\
+  \ types produced by Holcim atits Theodore, AL\n plant. Cements are hydraulic binders\
+  \ and are manufactured by grinding cement clinker and other main or minor\n constituents\
+  \ into a finely ground, usually grey colored mineral powder. When mixed with water,\
+  \ cement acts as a glue\n to bind together the sand, gravel or crushed stone to\
+  \ form concrete, one of the most durable,resilient and widely used\n construction\
+  \ materials in the world. The Table below sets out each cement type constituents\
+  \ and applicable standards.\n All Theodore cements are sold in bulk."
+developer:
+  email: info@athenasmi.org
+  name: Athena Sustainable Materials Institute Staff
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+doc: buildingtransparency.org/e/ec37y2bk7u
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 612.EPD_FOR_Holcim_Theodore_d75b175314fd4c2f84373a4d1a99ac39.pdf
+gwp: 891 kgCO2e
+gwp_per_category_declared_unit: 891 kgCO2e
+gwp_per_kg: 0.891 kgCO2e
+gwp_z: 0.03162277660168379
+id: 258ad8c7c9994e969ddeb0ff05c2067d
+image: https://static.buildingtransparency.org/images/6e9a28ff993640a48c216139a0cc321b.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 867.2871676 kgCO2e
+manufacturer:
+  address: Grafenauweg 10, 6300 Zug, Switzerland
+  address_line: 10 Grafenauweg
+  admin_district: ZG
+  admin_district2: Zug
+  alt_names:
+  - LH
+  - Lafarge
+  - Holcim
+  - Holcim (Australia) Pty Ltd
+  - LafargeHolcim
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CH
+  cqd_sync_unlocked: true
+  created_on: '2019-07-10T12:48:24.526537Z'
+  email_extensions:
+  - lafargeholcim.com
+  - holcim.com
+  enterprise: true
+  id: 94f9e25b3a24499baab6c9cc691b9158
+  image: https://static.buildingtransparency.org/images/12a39a1900ab435888dbca3d0ae991a4.png
+  is_failed: false
+  latitude: 47.1744464
+  legal_name: Holcim Ltd
+  locality: Zug
+  location:
+  - long_name: '10'
+    short_name: '10'
+    types:
+    - street_number
+  - long_name: Grafenauweg
+    short_name: Grafenauweg
+    types:
+    - route
+  - long_name: Zug
+    short_name: Zug
+    types:
+    - locality
+    - political
+  - long_name: Zug
+    short_name: Zug
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Zug
+    short_name: ZG
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Switzerland
+    short_name: CH
+    types:
+    - country
+    - political
+  - long_name: '6300'
+    short_name: '6300'
+    types:
+    - postal_code
+  longitude: 8.5123882
+  name: Holcim
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/94f9e25b3a24499baab6c9cc691b9158
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '6300'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-06-09T15:13:18.771335Z'
+  web_domain: holcim.com
+  website: http://www.holcim.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 173495a02fe34de7b5976b4ca2f8c6a3
+my_capabilities: 1
+name: Holcim Portland Type III - Theodore cement plant
+not_an_epd: false
+open_xpd_uuid: ec3y1yc9
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3y1yc9
+output_flows: {}
+owner:
+  name: Bonnie Gan
+  user_id: bonnie.gan@c-change-labs.com
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-21T20:34:59.259349Z'
+  date_of_issue: '2020-09-01'
+  date_validity_ends: '2025-03-31'
+  declared_units:
+  - 1 kg
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/pcr_concrete.pdf?mtime=20210903125351&focal=none
+  id: b4b9cb506eda42f5b961c045d5782552
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR for Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements
+  open_xpd_uuid: ec3hxgu8
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3hxgu8
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3hxgu8q8
+  short_name: Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements
+  status: Expired
+  updated_on: '2025-07-19T01:19:19.550289Z'
+  version: '3.1'
+pct80_gwp_per_category_declared_unit: 914.7128324 kgCO2e
+plant_geography:
+- US-AL
+plant_or_group:
+  address: 3051 Hamilton Blvd, Theodore, AL 36582, USA
+  address_line: 3051 Hamilton Blvd
+  admin_district: AL
+  admin_district2: Mobile County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-07-21T16:28:13.026892Z'
+  id: e0ecbf17b578416d9baaf3ce56333f2b
+  is_failed: false
+  latitude: 30.549351
+  locality: Theodore
+  location:
+  - long_name: '3051'
+    short_name: '3051'
+    types:
+    - street_number
+  - long_name: Hamilton Boulevard
+    short_name: Hamilton Blvd
+    types:
+    - route
+  - long_name: Alligator Bayou
+    short_name: Alligator Bayou
+    types:
+    - neighborhood
+    - political
+  - long_name: Theodore
+    short_name: Theodore
+    types:
+    - locality
+    - political
+  - long_name: Mobile County
+    short_name: Mobile County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Alabama
+    short_name: AL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '36582'
+    short_name: '36582'
+    types:
+    - postal_code
+  longitude: -88.11021939999999
+  name: Theodore
+  openepd_id: 862HGVXQ+PW.holcim.com
+  owned_by:
+    address: Grafenauweg 10, 6300 Zug, Switzerland
+    address_line: 10 Grafenauweg
+    admin_district: ZG
+    admin_district2: Zug
+    alt_names:
+    - LH
+    - Lafarge
+    - Holcim
+    - Holcim (Australia) Pty Ltd
+    - LafargeHolcim
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CH
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:48:24.526537Z'
+    email_extensions:
+    - lafargeholcim.com
+    - holcim.com
+    enterprise: true
+    id: 94f9e25b3a24499baab6c9cc691b9158
+    image: https://static.buildingtransparency.org/images/12a39a1900ab435888dbca3d0ae991a4.png
+    is_failed: false
+    latitude: 47.1744464
+    legal_name: Holcim Ltd
+    locality: Zug
+    location:
+    - long_name: '10'
+      short_name: '10'
+      types:
+      - street_number
+    - long_name: Grafenauweg
+      short_name: Grafenauweg
+      types:
+      - route
+    - long_name: Zug
+      short_name: Zug
+      types:
+      - locality
+      - political
+    - long_name: Zug
+      short_name: Zug
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Zug
+      short_name: ZG
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Switzerland
+      short_name: CH
+      types:
+      - country
+      - political
+    - long_name: '6300'
+      short_name: '6300'
+      types:
+      - postal_code
+    longitude: 8.5123882
+    name: Holcim
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/94f9e25b3a24499baab6c9cc691b9158
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '6300'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-09T15:13:18.771335Z'
+    web_domain: holcim.com
+    website: http://www.holcim.com
+  postal_code: '36582'
+  total_epds: 5
+  type: Plant
+  units: SI
+  updated_on: '2022-07-21T16:28:13.026898Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD 176
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3y1yc9d4
+standard_deviation: 28.17589395 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 914.7128324 kgCO2e
+uncertainty_factor: 1.026613728787977
+updated_on: '2025-01-14T19:23:21.997905Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

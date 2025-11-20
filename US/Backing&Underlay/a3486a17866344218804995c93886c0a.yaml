@@ -1,0 +1,595 @@
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:44Z'
+  declared_unit: 1 m2
+  default_distance: 189.90212 km
+  default_transport_mode: truck, unspecified
+  description: Hard cementitious boards, typically used as a tile backer.
+  display_name: Cement Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 088ba9fc78a24ab1b5b1f93c0c44a96a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 14.40258342 kg
+  massless: false
+  masterformat: 09 28 13 Cementitious Backing Board
+  may_contain_trusted_vendor_declarations: false
+  name: CementBoard
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> CementBoard
+  openepd_name: Finishes >> CementBoard
+  parents: []
+  pct10_gwp: 6.661963904 kgCO2e
+  pct20_gwp: 7.528341909 kgCO2e
+  pct30_gwp: 7.921558836 kgCO2e
+  pct40_gwp: 8.72541049 kgCO2e
+  pct50_gwp: 10.68900116 kgCO2e
+  pct60_gwp: 11.49285386 kgCO2e
+  pct70_gwp: 14.27274078 kgCO2e
+  pct80_gwp: 17.31929827 kgCO2e
+  pct90_gwp: 19.70634812 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161501'
+  updated_on: '2025-11-20T07:57:04.086529Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 2187.596617 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '795628814571'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-05-25T14:43:05Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Cementitious, glass-mat faced gypsum, and fibered gypsum backing boards
+    to support finish materials
+  display_name: Backing&Underlay
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: a465ce986abd45bfa00335e9d007216a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2.5775 kg
+  massless: false
+  masterformat: 09 28 00 Backing Boards and Underlayments
+  may_contain_trusted_vendor_declarations: false
+  name: BackingAndUnderlay
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> BackingAndUnderlay
+  openepd_name: Finishes >> BackingAndUnderlay
+  parents: []
+  pct10_gwp: -0.03324017778 kgCO2e
+  pct20_gwp: 0.03940818787 kgCO2e
+  pct30_gwp: 0.0499530711 kgCO2e
+  pct40_gwp: 0.0659379101 kgCO2e
+  pct50_gwp: 1.889026477 kgCO2e
+  pct60_gwp: 2.336254277 kgCO2e
+  pct70_gwp: 2.914693937 kgCO2e
+  pct80_gwp: 4.024684675 kgCO2e
+  pct90_gwp: 7.645101925 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Backing&Underlay
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-11-20T07:57:04.935607Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 3592.403383 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-04-05T14:59:53.073526Z'
+date_of_issue: '2020-04-17'
+date_validity_ends: '2025-04-17'
+declaration_type: Product EPD
+declared_unit: 1000 ft2
+density: 1205 kg / m3
+description: "USG Structural Panel Concrete Subfloor, also known as USG Structo-Crete\u2122\
+  \ Panel, is formed from a composite\nconsisting of glass fibers, cementitious materials\
+  \ and aggregate. USG Structural Panel Concrete Subfloor is nominally\n\xBE\u201D\
+  \ (19.1 mm) thick, 4 feet (1219 mm) wide, and 8 feet (2428 mm) long with tongue-and-groove\
+  \ edges along the length\nof the panel. Other sizes and square edge panels are also\
+  \ available via special request.\nBased on tests in accordance with ASTM E136, the\
+  \ panels are noncombustible. The panels yield a flame-spread\nindex of 0 and a smoke-developed\
+  \ index of 5 or less when tested in accordance with ASTM E84.\n1.2 Application\n\
+  The products covered by this EPD are designed to be mechanically fastened to cold-formed\
+  \ steel joists, trusses or other\nframing members. A noncombustible ceiling assembly\
+  \ is attached to the bottom of the floor joists to complete the\nconstruction. See\
+  \ usg.com for additional installation specifications. Cutting the concrete subfloor\
+  \ requires a standard\nframing, carbide-tipped saw blade and a circular saw equipped\
+  \ with dust collection or suppression to control airborne\ndust. Fastening is also\
+  \ conventional, using a screw gun and self-drilling, corrosion resistant, fasteners.\
+  \ Refer to USG\nStructural Recommended Fasteners (SCP95) for details. Because these\
+  \ panels are so durable, they may be installed in\nmost weather conditions, including\
+  \ mild precipitation (rain or snow), and temperatures from 0\xB0F to 125\xB0F (-18\xB0\
+  C to 52\xB0C)."
+doc: buildingtransparency.org/e/ec340c6j51
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: EPD for USG Structural Panel Concrete Subfloor.pdf
+gwp: 2890 kgCO2e
+gwp_per_category_declared_unit: 31.1077011 kgCO2e
+gwp_per_kg: 1.359360301 kgCO2e
+gwp_z: 0.28879058156387305
+id: b43001d3a0c44df7b7b83b725620bb9d
+image: https://static.buildingtransparency.org/images/032540c13f9e421384d26381b23a78a3.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Source Data Notes\nThis declaration was independently verified\
+  \ in accordance with ISO 14025 and ISO 21930:2017 Tim Brooke, ASTM International\
+  \ \u25A1 INTERNAL \u2612 EXTERNAL This life cycle assessment was independently verified\
+  \ in accordance Thomas P. Gloria, Industrial Ecology Consultants with ISO 14044\
+  \ and the reference PCR by: Page 2 of 14 1. Product System Documentation 1.1 Product\
+  \ Description and Product Identification USG Structural Panel Concrete Subfloor,\
+  \ also known as USG Structo-Crete\u2122 Panel, is formed from a composite consisting\
+  \ of glass fibers, cementitious materials and aggregate. USG Structural Panel Concrete\
+  \ Subfloor is nominally \xBE\u201D (19.1 mm) thick, 4 feet (1219 mm) wide, and 8\
+  \ feet (2428 mm) long with tongue-and-groove edges along the length of the panel.\
+  \ Other sizes and square edge panels are also available via special request. Based\
+  \ on tests in accordance with ASTM E136, the panels are noncombustible. The panels\
+  \ yield a flame-spread index of 0 and a smoke-developed index of 5 or less when\
+  \ tested in accordance with ASTM E84. 1.2 Application The products covered by this\
+  \ EPD are designed to be mechanically fastened to cold-formed steel joists, trusses\
+  \ or other framing members. A noncombustible ceiling assembly is attached to the\
+  \ bottom of the floor joists to complete the construction. See usg.com for additional\
+  \ installation specifications. Cutting the concrete subfloor requires a standard\
+  \ framing, carbide-tipped saw blade and a circular saw equipped with dust collection\
+  \ or suppression to control airborne dust. Fastening is also conventional, using\
+  \ a screw gun and self-drilling, corrosion resistant, fasteners. Refer to USG Structural\
+  \ Recommended Fasteners (SCP95) for details. Because these panels are so durable,\
+  \ they may be installed in most weather conditions, including mild precipitation\
+  \ (rain or snow), and temperatures from 0\xB0F to 125\xB0F (-18\xB0C to 52\xB0C).\
+  \ Page 3 of 14 1.3 Product Technical Data The following technical construction data\
+  \ is relevant for the products covered by this EPD. Table 1: Technical Specifications\
+  \ PHYSICAL AND MECHANICAL PROPERTIES TEST STANDARD APPROXIMATE VALUES STANDARD (METRIC)\
+  \ Concentrated load ASTM E661 (550 lb., .108\") 804 lb. (3.58 kN) static 0.066\"\
+  \ (1.7 mm) max. deflection @ 200 lb. (0.89 kN) Fastener lateral resistanceA ASTM\
+  \ D1761, Sec. 10.2 (dry >210 lbf, wet >160 lbf) 776 lbf (3.45 kN) dry 800 lbf (3.56\
+  \ kN) wet DensityB ASTM C1185 (75 lb./ft3) 78.6 lb./ft3 (1,258 kg/m3) pH value ASTM\
+  \ D1293 10.5 Linear variation with change in moisture (25% to 90% relative humidity)\
+  \ ASTM C1185, Sec. 8 (<.10%) 0.06 % Thickness swell ASTM D1037, B (3.0%) 0.04 %\
+  \ Mold resistance ASTM D3273 (10) ASTM G21 ( 1) 10"
+lowest_plausible_gwp: 2187.596617 kgCO2e
+manufacturer:
+  address: 333 South 270th Avenue, Alton, KS 67623
+  address_line: 333 South 270th Avenue
+  admin_district: KS
+  admin_district2: Osborne
+  alt_names:
+  - USG Cellings
+  - USG Sheetrock
+  - CGC
+  - "USG M\xE9xico, S.A. de C.V."
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-02T02:46:59.108322Z'
+  email_extensions:
+  - usg.com
+  enterprise: true
+  id: 139773b6950245eaa7181b669ba75ebd
+  image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+  is_failed: false
+  latitude: 39.495907
+  legal_name: USG
+  locality: Alton
+  location:
+    boundingBox:
+      entity: position
+      northEast: 39.509538,-98.989432
+      southWest: 39.494853,-98.989622
+    buildingNumber: '333'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Osborne
+    countrySubdivision: KS
+    countrySubdivisionName: Kansas
+    countryTertiarySubdivision: Grant
+    freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+    municipality: Alton
+    municipalitySubdivision: Alton
+    postalCode: '67623'
+    routeNumbers: []
+    street: South 270th Avenue
+    streetName: South 270th Avenue
+    streetNameAndNumber: 333 South 270th Avenue
+    streetNumber: '333'
+  longitude: -98.989456
+  name: USG
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '67623'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:24:00.773460Z'
+  web_domain: usg.com
+  website: https://www.usg.com
+manufacturer_specific: true
+mass_per_declared_unit: 2126 kg
+matched_plants_count: 1
+material_id: a3486a17866344218804995c93886c0a
+my_capabilities: 1
+name: USG Structural Panel Concrete Subfloor
+not_an_epd: false
+open_xpd_uuid: ec340c6j
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec340c6j
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-05-28T13:41:39.003103Z'
+  date_of_issue: '2015-11-30'
+  date_validity_ends: '2018-11-30'
+  doc: '#broken-link https://www.idbcfp.org.tw/GetDownloadSubFile.ashx?id=132'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 8048ffdb739c47039e7e6476c85e8705
+  is_failed: false
+  name: Product-Category Rules (PCR)   for Preparing an Environmental Product Declaration
+    (EPD) for Flame Retardant Building Materials of Fiber Cement / Fiber Reinforced
+    Cement and Gypsum Board
+  open_xpd_uuid: ec3cw3gu
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3cw3gu
+  short_link: buildingtransparency.org/p/ec3cw3gub9
+  short_name: Flame Retardant Building Materials of Fiber Cement, Fiber Reinforced
+    Cement and Gypsum Board
+  status: Sunset
+  updated_on: '2023-12-01T00:01:00.783791Z'
+  version: '1.0'
+pct80_gwp_per_category_declared_unit: 38.6683082 kgCO2e
+plant_geography:
+- US-CA
+- US-UT
+- US-IA
+- US-TX
+- US-FL
+- US-OR
+- US-AL
+- US-IN
+- US-PA
+- US
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-07-20T15:39:21.519249Z'
+  id: acfb74d0dc1546a7b8ad20b9b71c6d04
+  is_failed: false
+  jurisdiction:
+  - US
+  name: USA Firecode X Plants
+  owned_by:
+    address: 333 South 270th Avenue, Alton, KS 67623
+    address_line: 333 South 270th Avenue
+    admin_district: KS
+    admin_district2: Osborne
+    alt_names:
+    - USG Cellings
+    - USG Sheetrock
+    - CGC
+    - "USG M\xE9xico, S.A. de C.V."
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-02T02:46:59.108322Z'
+    email_extensions:
+    - usg.com
+    enterprise: true
+    id: 139773b6950245eaa7181b669ba75ebd
+    image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+    is_failed: false
+    latitude: 39.495907
+    legal_name: USG
+    locality: Alton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 39.509538,-98.989432
+        southWest: 39.494853,-98.989622
+      buildingNumber: '333'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Osborne
+      countrySubdivision: KS
+      countrySubdivisionName: Kansas
+      countryTertiarySubdivision: Grant
+      freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+      municipality: Alton
+      municipalitySubdivision: Alton
+      postalCode: '67623'
+      routeNumbers: []
+      street: South 270th Avenue
+      streetName: South 270th Avenue
+      streetNameAndNumber: 333 South 270th Avenue
+      streetNumber: '333'
+    longitude: -98.989456
+    name: USG
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67623'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:24:00.773460Z'
+    web_domain: usg.com
+    website: https://www.usg.com
+  plants_count: 11
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-07-22T16:30:35.478457Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 136
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec340c6j51
+standard_deviation: 834.6047807 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3592.403383 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T18:20:35.986547Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously greater than category's typical values
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

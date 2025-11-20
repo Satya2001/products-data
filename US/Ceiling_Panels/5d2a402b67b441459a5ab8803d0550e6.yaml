@@ -1,0 +1,429 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 0.4322294922 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '296215401629'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-01T07:32:34.334656Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Acoustical and other specialty ceiling panels
+  display_name: Ceiling Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 237ca52c30ba4a1bbe214e10a2dee3fe
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.123274699 kg
+  massless: false
+  masterformat: 09 50 00 Ceilings
+  may_contain_trusted_vendor_declarations: false
+  name: CeilingPanel
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> CeilingPanel
+  openepd_name: Finishes >> CeilingPanel
+  parents: []
+  pct10_gwp: 2.73264242 kgCO2e
+  pct20_gwp: 3.885124655 kgCO2e
+  pct30_gwp: 4.927641977 kgCO2e
+  pct40_gwp: 5.68035392 kgCO2e
+  pct50_gwp: 6.741910159 kgCO2e
+  pct60_gwp: 8.812385531 kgCO2e
+  pct70_gwp: 14.19951054 kgCO2e
+  pct80_gwp: 35.34399366 kgCO2e
+  pct90_gwp: 65.46745385 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ceiling Panels
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161600'
+  updated_on: '2025-11-20T07:57:06.355922Z'
+  use_stored_carbon: ABSENT
+ceiling_panel_core_material: Steel
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.7117705078 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-05T21:05:57.515603Z'
+date_of_issue: '2013-09-05'
+date_validity_ends: '2018-09-05'
+declaration_type: Product EPD
+declared_unit: 1 ft^2
+description: 'USGInteriors produces a family of wet felted acoustical ceiling panels
+  at its Cloquet, MN and Greenville, MS facilities
+
+  having variouslight reflectance, noise reduction, and attenuation specifications
+  with various levels of post-
+
+  consumer/industrial recycled content. These production lines employ a wetfelted
+  technology in the production of
+
+  acoustical ceiling panels. Wetfelted acoustical ceiling panels contain mostly perlite,
+  mineral wool, starch, recycled
+
+  paper and clay. In smaller amounts, other raw materials used in the panel forming
+  processincludeflocculants,
+
+  biocides and defoamer. Thefinishing and packaging unit processes are dominated by
+  the use of water-basedpaint,
+
+  which contains the following ingredients: calcium carbonate,clay, latex, titanium
+  dioxide (TiOz) and other chemicals.
+
+  Shrink-wrap and corrugated strip are used as packing materials.
+
+  USGInteriors, LLC also producesa family of grid products at its Westlake, OH, Cartersville,
+  GA, Oakville, ON, Canada
+
+  and Stockton, CAfacilities. This family of grid products coordinates with USG Ceilings:
+  Radar Firecode, Radar
+
+  ClimaPlus Firecode, Radar ClimaPlus High-NRC/High-CAC Firecode panels andincludes8
+  grid profiles including
+
+  DX/DXL, DXLT, and DXLF. Each profile is available in Intermediate Duty and Heavy
+  Duty weight. Grid production
+
+  encompassesthe third-party production of the hot-dipped galvanizedsteel coils, transport
+  of these coils to USG
+
+  fabrication facilities where the steel coil is cleaned, coated (optional depending
+  on intended purpose) andslit and
+
+  optionally transported to additional production facilities where the coated steel
+  is formedinto finished grid components.
+
+  These finished grid components are then packaged in cardboard boxes.
+
+  Product Styles'
+doc: buildingtransparency.org/e/ec3uc81ncq
+errors:
+  name:
+  - Name is not extracted in sanitizer
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  program_operator:
+  - Missing link
+file_name: 103.1 Final EPD - Radar Firecode_Radar ClimaPlus Firecode_Radar High NRCCAC
+  Firecode.pdf
+gwp: 0.572 kgCO2e
+gwp_per_category_declared_unit: 6.156956758 kgCO2e
+gwp_z: 0.2903446228191595
+id: 00daa4baa7dd46ebb7dd160b33fe0aa4
+image: https://static.buildingtransparency.org/images/161626307e77496bb6d9d11dc74357e9.png
+impacts: {}
+is_downloadable: true
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.4322294922 kgCO2e
+manufacturer:
+  address: 333 South 270th Avenue, Alton, KS 67623
+  address_line: 333 South 270th Avenue
+  admin_district: KS
+  admin_district2: Osborne
+  alt_names:
+  - USG Cellings
+  - USG Sheetrock
+  - CGC
+  - "USG M\xE9xico, S.A. de C.V."
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-02T02:46:59.108322Z'
+  email_extensions:
+  - usg.com
+  enterprise: true
+  id: 139773b6950245eaa7181b669ba75ebd
+  image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+  is_failed: false
+  latitude: 39.495907
+  legal_name: USG
+  locality: Alton
+  location:
+    boundingBox:
+      entity: position
+      northEast: 39.509538,-98.989432
+      southWest: 39.494853,-98.989622
+    buildingNumber: '333'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Osborne
+    countrySubdivision: KS
+    countrySubdivisionName: Kansas
+    countryTertiarySubdivision: Grant
+    freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+    municipality: Alton
+    municipalitySubdivision: Alton
+    postalCode: '67623'
+    routeNumbers: []
+    street: South 270th Avenue
+    streetName: South 270th Avenue
+    streetNameAndNumber: 333 South 270th Avenue
+    streetNumber: '333'
+  longitude: -98.989456
+  name: USG
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '67623'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:24:00.773460Z'
+  web_domain: usg.com
+  website: https://www.usg.com
+manufacturer_specific: true
+matched_plants_count: 1
+material_id: 5d2a402b67b441459a5ab8803d0550e6
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3uc81n
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3uc81n
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 7.661433983 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-05-06T15:14:31.744267Z'
+  errors: {}
+  failures: {}
+  id: 3eab0598f4504631813bc1ea6484e254
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Baltimore, MD, Bridgeport, PA, Hagersville, ON (Canada), Jacksonville, FL,
+    Plaster City, CA, Shoals, IN, Sperry, IA, Sweetwater, TX
+  owned_by:
+    address: 333 South 270th Avenue, Alton, KS 67623
+    address_line: 333 South 270th Avenue
+    admin_district: KS
+    admin_district2: Osborne
+    alt_names:
+    - USG Cellings
+    - USG Sheetrock
+    - CGC
+    - "USG M\xE9xico, S.A. de C.V."
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-02T02:46:59.108322Z'
+    email_extensions:
+    - usg.com
+    enterprise: true
+    id: 139773b6950245eaa7181b669ba75ebd
+    image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+    is_failed: false
+    latitude: 39.495907
+    legal_name: USG
+    locality: Alton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 39.509538,-98.989432
+        southWest: 39.494853,-98.989622
+      buildingNumber: '333'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Osborne
+      countrySubdivision: KS
+      countrySubdivisionName: Kansas
+      countryTertiarySubdivision: Grant
+      freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+      municipality: Alton
+      municipalitySubdivision: Alton
+      postalCode: '67623'
+      routeNumbers: []
+      street: South 270th Avenue
+      streetName: South 270th Avenue
+      streetNameAndNumber: 333 South 270th Avenue
+      streetNumber: '333'
+    longitude: -98.989456
+    name: USG
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67623'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:24:00.773460Z'
+    web_domain: usg.com
+    website: https://www.usg.com
+  plants_count: 10
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2025-03-18T12:00:05.955583Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator_fkey: 12CA30659.103.1
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3uc81ncq
+standard_deviation: 0.1660771243 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.7117705078 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-05T21:06:05.392244Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

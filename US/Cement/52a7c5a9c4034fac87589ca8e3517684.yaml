@@ -1,0 +1,616 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_type: C150 Type I/II
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/lehigh-hanson
+best_practice: 798.1767424 kgCO2e
+biogenic_embodied_carbon_z: 0.03162277660168379
+box_id: '779356847660'
+c1157:
+- MS
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 410.612522 kgCO2e
+  pct20_gwp: 639.5752694 kgCO2e
+  pct30_gwp: 727.2744129 kgCO2e
+  pct40_gwp: 775.5038757 kgCO2e
+  pct50_gwp: 817.5094329 kgCO2e
+  pct60_gwp: 857.9622687 kgCO2e
+  pct70_gwp: 907.1005252 kgCO2e
+  pct80_gwp: 962.8060311 kgCO2e
+  pct90_gwp: 1050.450141 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2025-11-20T07:56:25.802562Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 841.8232576 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-02-22T20:47:00.467714Z'
+csa_a3001:
+- A3001 MS
+date_of_issue: '2021-01-25'
+date_validity_ends: '2026-01-02'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 1440 kg / m3
+description: This EPD reports environmental transparency information for two cement
+  products, produced by Lehigh Cement at their Redding, California facility. These
+  cements are hydraulic binders and are manufactured by grinding cement clinker and
+  other main or minor constituents into a finely ground, usually grey colored mineral
+  powder. Cement is just one ingredient in the mixture that creates concrete, but
+  it is the most chemically active ingredient and crucial to the quality of the final
+  product. When mixed with water, cement acts as a glue to bind together the sand,
+  gravel or crushed stone to form concrete, one of the most durable, resilient and
+  widely used construction materials in the world. These products are used for concrete
+  and mortar as well as all the other various applications for cement, including engineered
+  soils and solidification/stabilization of materials and wastes. DECLARED UNIT The
+  declared unit is one metric tonne of Type I/II and Type II/V cement. SYSTEM BOUNDARY
+  This EPD is a cradle-to-gate EPD covering stages A1-A3 of the life cycle.
+developer:
+  email: laurel.mcewen@climateearth.com
+  name: Laurel McEwen
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: buildingtransparency.org/e/ec33m9e10c
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: LehighCementReddingNRMCAEPD_20040Final20210122_e69e41b5c2a14f409330a58f68188e68.pdf
+gwp: 820 kgCO2e
+gwp_per_category_declared_unit: 820 kgCO2e
+gwp_per_kg: 0.82 kgCO2e
+gwp_z: 0.03162277660168379
+id: f2734580bcb34ef7b9cd370fce7d56c4
+image: https://static.buildingtransparency.org/images/fc2dbfae96264aaf9998fbab8dc640b3.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 798.1767424 kgCO2e
+manufacturer:
+  address: 300 East John Carpenter Freeway, Irving, TX 75062
+  address_line: 300 East John Carpenter Freeway
+  admin_district: TX
+  admin_district2: Dallas
+  alt_names:
+  - Lehigh Hanson Materials Limited
+  - Hanson Ready Mix Heidelberg Cement Group
+  - Lehigh Hanson, Inc.
+  - Lehigh Hanson Materials
+  - Campbell Concrete & Materials, LP
+  - Hanson Building Materials America
+  - Hanson Ready Mix
+  - Continental Florida Materials, Inc.
+  - Concrete British Columbia and Materials Washington Lehigh Hanson Materials Ltd.
+  - Hanson Aggregates Southeast, LLC
+  - Lehigh Northeast Cement Company
+  - Hanson Aggregates West Region, Inc.
+  - Lehigh Hanson Materials Ltd.
+  - Hanson Aggregates
+  - Lehigh Hanson
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/lehigh-hanson
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-10T12:48:44.015196Z'
+  email_extensions:
+  - lehighcement.com
+  - lehighhanson.com
+  - heidelbergmaterials.com
+  - heidelbergmaterials.us
+  - corlissresources.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/1636be8ad1004ffcb1050e157075a171.png
+  id: 1bac549716f847d49af78e04074afee3
+  image: https://static.buildingtransparency.org/images/3e4a774c647f43f8afb0155aa14ffd70.png
+  is_failed: false
+  latitude: 32.86261
+  locality: Irving
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Dallas
+    countrySubdivision: TX
+    countrySubdivisionName: Texas
+    extendedPostalCode: 75062-2202
+    freeformAddress: 300 East John Carpenter Freeway, Irving, TX 75062
+    localName: Irving
+    municipality: Irving
+    municipalitySubdivision: Las Colinas
+    postalCode: '75062'
+    streetName: East John Carpenter Freeway
+    streetNumber: '300'
+  longitude: -96.9396
+  name: Heidelberg Materials
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1bac549716f847d49af78e04074afee3
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '75062'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2024-10-17T15:33:29.514105Z'
+  web_domain: heidelbergmaterials.us
+  website: https://www.heidelbergmaterials.com/en
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 52a7c5a9c4034fac87589ca8e3517684
+my_capabilities: 1
+name: Type I/II
+not_an_epd: false
+open_xpd_uuid: ec33m9e1
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33m9e1
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-21T20:34:05.469448Z'
+  date_of_issue: '2020-03-31'
+  date_validity_ends: '2025-03-31'
+  declared_units:
+  - 1 kg
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/pcr_concrete.pdf?mtime=20210903125351&focal=none
+  id: 3d51107798964fcbab0da0df7861df8e
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR for Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements
+  open_xpd_uuid: ec39fzyu
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39fzyu
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec39fzyud2
+  short_name: Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements
+  status: Expired
+  updated_on: '2025-04-01T00:01:23.084933Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 841.8232576 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 15390 Wonderland Blvd, Redding, CA 96003, USA
+  address_line: 15390 Wonderland Blvd
+  admin_district: CA
+  admin_district2: Shasta County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-02-22T21:16:59.131513Z'
+  id: 38256023738e4184988b77fdb2dca623
+  is_failed: false
+  latitude: 40.7347672
+  locality: Redding
+  location:
+  - long_name: '15390'
+    short_name: '15390'
+    types:
+    - street_number
+  - long_name: Wonderland Boulevard
+    short_name: Wonderland Blvd
+    types:
+    - route
+  - long_name: Redding
+    short_name: Redding
+    types:
+    - locality
+    - political
+  - long_name: Shasta County
+    short_name: Shasta County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '96003'
+    short_name: '96003'
+    types:
+    - postal_code
+  - long_name: '8526'
+    short_name: '8526'
+    types:
+    - postal_code_suffix
+  longitude: -122.3183521
+  name: Redding Cement Plant and Terminal
+  openepd_id: 84GVPMMJ+WM.heidelbergmaterials.us
+  owned_by:
+    address: 300 East John Carpenter Freeway, Irving, TX 75062
+    address_line: 300 East John Carpenter Freeway
+    admin_district: TX
+    admin_district2: Dallas
+    alt_names:
+    - Lehigh Hanson Materials Limited
+    - Hanson Ready Mix Heidelberg Cement Group
+    - Lehigh Hanson, Inc.
+    - Lehigh Hanson Materials
+    - Campbell Concrete & Materials, LP
+    - Hanson Building Materials America
+    - Hanson Ready Mix
+    - Continental Florida Materials, Inc.
+    - Concrete British Columbia and Materials Washington Lehigh Hanson Materials Ltd.
+    - Hanson Aggregates Southeast, LLC
+    - Lehigh Northeast Cement Company
+    - Hanson Aggregates West Region, Inc.
+    - Lehigh Hanson Materials Ltd.
+    - Hanson Aggregates
+    - Lehigh Hanson
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/lehigh-hanson
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:48:44.015196Z'
+    email_extensions:
+    - lehighcement.com
+    - lehighhanson.com
+    - heidelbergmaterials.com
+    - heidelbergmaterials.us
+    - corlissresources.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/1636be8ad1004ffcb1050e157075a171.png
+    id: 1bac549716f847d49af78e04074afee3
+    image: https://static.buildingtransparency.org/images/3e4a774c647f43f8afb0155aa14ffd70.png
+    is_failed: false
+    latitude: 32.86261
+    locality: Irving
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Dallas
+      countrySubdivision: TX
+      countrySubdivisionName: Texas
+      extendedPostalCode: 75062-2202
+      freeformAddress: 300 East John Carpenter Freeway, Irving, TX 75062
+      localName: Irving
+      municipality: Irving
+      municipalitySubdivision: Las Colinas
+      postalCode: '75062'
+      streetName: East John Carpenter Freeway
+      streetNumber: '300'
+    longitude: -96.9396
+    name: Heidelberg Materials
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1bac549716f847d49af78e04074afee3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '75062'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: true
+    updated_on: '2024-10-17T15:33:29.514105Z'
+    web_domain: heidelbergmaterials.us
+    website: https://www.heidelbergmaterials.com/en
+  postal_code: '96003'
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2021-02-22T21:16:59.131521Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 900 Spring Street, Silver Spring, MD 20910
+  address_line: 900 Spring Street
+  admin_district: MD
+  admin_district2: Montgomery
+  alt_names:
+  - National Ready Mixed Concrete Association
+  - The National Ready Mixed Concrete Association
+  - NRMCA
+  - National Ready Mix Concrete Association
+  - National Ready-Mix Concrete Association
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/national-ready-mixed-concrete-assoc
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-25T01:07:49.604571Z'
+  currency: USD
+  email: servicerequest@nrmca.org
+  email_extensions:
+  - nrmca.org
+  enterprise: true
+  id: 1812a81e62a1424b8f27738be33fe023
+  image: https://static.buildingtransparency.org/images/0449ac39-6fff-4aca-a07f-36c94f3a3b63.png
+  is_failed: false
+  latitude: 38.99884
+  legal_name: National Ready Mixed Concrete Association
+  locality: Silver Spring
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Montgomery
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 13
+    extendedPostalCode: '209104017'
+    freeformAddress: 900 Spring Street, Silver Spring, MD 20910
+    localName: Silver Spring
+    municipality: Silver Spring
+    municipalitySubdivision: Silver Spring
+    postalCode: '20910'
+    streetName: Spring Street
+    streetNumber: '900'
+  longitude: -77.02468
+  name: NRMCA
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1812a81e62a1424b8f27738be33fe023
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20910'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-06-06T00:35:46.621058Z'
+  web_domain: nrmca.org
+  website: http://www.nrmca.org/sustainability/
+program_operator_fkey: 'NRMCAEPD: 20040'
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33m9e10c
+standard_deviation: 25.93067681 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 841.8232576 kgCO2e
+uncertainty_factor: 1.026613728787977
+updated_on: '2025-01-14T02:01:30.142513Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+white_cement: false

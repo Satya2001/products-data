@@ -1,0 +1,526 @@
+also_shown_in: []
+anodized: false
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 5.276859174 kgCO2e
+biogenic_embodied_carbon_z: 0.5330487782557991
+box_id: '936359489165'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-05-09T11:43:58Z'
+  declared_unit: 1 kg
+  default_distance: 856.16888 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made primarily from Aluminium
+    and its alloys
+  display_name: Aluminium
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 26021028190540229c4994c0ea5ea476
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: Aluminium
+  no_statistics: false
+  obsolete: false
+  openepd: Aluminium
+  openepd_name: Aluminium
+  parents: []
+  pct10_gwp: 1.197367763 kgCO2e
+  pct20_gwp: 2.090386074 kgCO2e
+  pct30_gwp: 3.075112167 kgCO2e
+  pct40_gwp: 3.681480642 kgCO2e
+  pct50_gwp: 4.852856403 kgCO2e
+  pct60_gwp: 5.92826916 kgCO2e
+  pct70_gwp: 7.74768768 kgCO2e
+  pct80_gwp: 10.02821819 kgCO2e
+  pct90_gwp: 14.17516129 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Aluminium
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-11-20T07:57:10.035325Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 13.86348083 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-03-26T14:52:19.737958Z'
+date_of_issue: '2022-03-02'
+date_validity_ends: '2027-03-02'
+declaration_type: Product EPD
+declared_unit: 32 ton
+density: 2700 kg / m^3
+description: 'The signs are designed for interior and exterior decoration of large-scale
+  modernized constructions
+
+  and/or warehouses. In some cases, the signs are manufactured using plastic to metal
+  sandwiching
+
+  using a continuous co-extrusion process. In other cases, the signs are manufactured
+  using sheet to
+
+  air-bubble co-extruded polypropylene board. And lastly, some signs are manufactured
+  using solely
+
+  polypropylene or polyvinyl chloride. The blend of plastics and metals for each sign
+  depend on the
+
+  function of the sign. For example, aluminium is used in the Rivet Sign as both as
+  a reenforcing'
+developer:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: buildingtransparency.org/e/ec3squez5j
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: SpecialtySignCo._S-P-04672_3e14ad6a-d31c-44ba-5e2f-08d9b96934f3.pdf
+gwp: 9.57017 kgCO2e
+gwp_per_category_declared_unit: 0.0003296658325 kgCO2e
+gwp_per_kg: 0.0003296658325 kgCO2e
+gwp_z: 0.5330487782557991
+id: 21b2c272818f477aaf4020e85af6cfcf
+image: https://static.buildingtransparency.org/images/d616eaf7fa3f47ca851c2ed1f3aec414.png
+impacts: {}
+is_downloadable: true
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 5.276859174 kgCO2e
+manufacturer:
+  address: United States
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T18:34:29.543234Z'
+  enterprise: false
+  id: 9dedd4fccf1e4a9ebc09ee925bdf6175
+  is_failed: false
+  latitude: 38.89206
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    freeformAddress: United States
+  longitude: -77.01991
+  name: Specialty Sign Co.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9dedd4fccf1e4a9ebc09ee925bdf6175
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T18:34:29.543239Z'
+  web_domain: specialtysigns.com
+  website: http://specialtysigns.com
+manufacturer_specific: true
+mass_per_declared_unit: 29029.91168 kg
+matched_plants_count: 0
+material_id: b17d92577cd94ea498830fd166f82412
+my_capabilities: 1
+name: Warehouse Signs
+not_an_epd: false
+open_xpd_uuid: ec3squez
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3squez
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+painted: false
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:48:47.178484Z'
+  date_of_issue: '2022-02-01'
+  date_validity_ends: '2027-01-31'
+  declared_units:
+  - 1 m2
+  - 1 m
+  - 1 kg
+  - 1 unit
+  - 1 m3
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  id: 6f37c5d9c38543efae0d9f741b74479f
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+  name: Core Product Category Rules
+  open_xpd_uuid: ec3g099n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3g099n
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3g099n8d
+  short_name: "Core Product Category Rules, Version 1.0 \u2013 1 February 2022"
+  status: Published
+  updated_on: '2022-09-30T15:53:02.824301Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.0004775584913 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: Phoenix, AZ, USA
+  admin_district: AZ
+  admin_district2: Maricopa County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T21:59:12.970028Z'
+  id: 0828a4f215e349c994c4e5f8b2854cf3
+  is_failed: false
+  latitude: 33.4483771
+  locality: Phoenix
+  location:
+  - long_name: Phoenix
+    short_name: Phoenix
+    types:
+    - locality
+    - political
+  - long_name: Maricopa County
+    short_name: Maricopa County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arizona
+    short_name: AZ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -112.0740373
+  name: Specialty Sign Co. plant
+  openepd_id: 8559CWXG+99.specialtysigns.com
+  owned_by:
+    address: United States
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T18:34:29.543234Z'
+    enterprise: false
+    id: 9dedd4fccf1e4a9ebc09ee925bdf6175
+    is_failed: false
+    latitude: 38.89206
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      freeformAddress: United States
+    longitude: -77.01991
+    name: Specialty Sign Co.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9dedd4fccf1e4a9ebc09ee925bdf6175
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T18:34:29.543239Z'
+    web_domain: specialtysigns.com
+    website: http://specialtysigns.com
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-20T22:00:21.126911Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04672
+recycled_content: 0.0
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3squez5j
+standard_deviation: 5.101367426 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 13.86348083 kgCO2e
+uncertainty_factor: 1.4486138517800806
+updated_on: '2024-06-20T21:59:21.253196Z'
+use_stored_carbon: false
+verifier:
+  email: tboguski@harmonyenviro.com
+  name: Terrie Boguski
+  org:
+    address: 16362 W Briarwood Ct, Olathe, KS 66062, USA
+    address_line: 16362 W Briarwood Ct
+    admin_district: KS
+    admin_district2: Johnson County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-07-26T22:56:38.977369Z'
+    enterprise: false
+    id: ff4b948d09a9464d855cab7f60b48761
+    is_failed: false
+    latitude: 38.8777136
+    locality: Olathe
+    location:
+    - long_name: '16362'
+      short_name: '16362'
+      types:
+      - street_number
+    - long_name: West Briarwood Court
+      short_name: W Briarwood Ct
+      types:
+      - route
+    - long_name: Briarwood
+      short_name: Briarwood
+      types:
+      - neighborhood
+      - political
+    - long_name: Olathe
+      short_name: Olathe
+      types:
+      - locality
+      - political
+    - long_name: Johnson County
+      short_name: Johnson County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Kansas
+      short_name: KS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '66062'
+      short_name: '66062'
+      types:
+      - postal_code
+    - long_name: '4518'
+      short_name: '4518'
+      types:
+      - postal_code_suffix
+    longitude: -94.7743972
+    name: Harmony Environmental
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ff4b948d09a9464d855cab7f60b48761
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '66062'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-07-26T22:56:38.977380Z'
+    web_domain: harmonyenviro.com
+    website: http://www.harmonyenviro.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document

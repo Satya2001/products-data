@@ -1,0 +1,480 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 0 kgCO2e
+biogenic_embodied_carbon_z: 0.11534296684236972
+box_id: '2026319479164'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.0899029 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
+  pct40_gwp: 334.578825 kgCO2e
+  pct50_gwp: 359.0203617 kgCO2e
+  pct60_gwp: 386.3847185 kgCO2e
+  pct70_gwp: 416.8085524 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 507.1461971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-11-20T07:56:16.507251Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 3000 psi
+concrete_self_consolidating: false
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-10-24T18:27:03.756760Z'
+date_of_issue: '2025-07-03'
+date_validity_ends: '2030-07-03'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m3
+description: "M3270013 is a 3000 PSI air-entrained concrete mix with a slump of 3-5\xBD\
+  \ inches, air content of 2.5-5.5%, and water-cement ratio of 0.49. The mix includes\
+  \ #57 Couch Aggregates, Couch Sand, PLC Cement from Holcim-Theodore, Eco Material\
+  \ Flyash Class F, air entraining admix, water reducing admix, and mid/high range\
+  \ water reducing admix from Sika Corporation. It is designed for exterior applications\
+  \ including concrete sidewalks, curbs, and gutters."
+developer:
+  email: lreynolds@bayouconcretellc.com
+  name: Leighton Reynolds
+  org:
+    address: Madison, MS
+    admin_district: MS
+    admin_district2: Madison
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:38:30.871711Z'
+    email_extensions:
+    - bayouconcretellc.com
+    enterprise: true
+    id: fb9358fa4196456bb6b716e84a8d3eac
+    is_failed: false
+    latitude: 32.46061
+    locality: Madison
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Madison
+      countrySubdivision: MS
+      countrySubdivisionName: Mississippi
+      countryTertiarySubdivision: District 2
+      freeformAddress: Madison, MS
+      municipality: Madison
+    longitude: -90.11182
+    name: Bayou Concrete LLC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fb9358fa4196456bb6b716e84a8d3eac
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2019-12-02T18:19:03.319095Z'
+    web_domain: bayouconcretellc.com
+    website: http://www.bayouconcretellc.com
+doc: buildingtransparency.org/e/ec3mjptbbm
+errors:
+  name:
+  - Tagged for manual fixing
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+file_name: DFB1_32 1600-02_Reviewed 2025-07-11.pdf
+gwp: 0 kgCO2e
+gwp_z: 0.11534296684236972
+id: 70cc402c81d24a8b83a00cbf71e8a2a3
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: true
+jurisdiction:
+- '001'
+lightweight: false
+lowest_plausible_gwp: 0 kgCO2e
+manufacturer:
+  address: Madison, MS
+  admin_district: MS
+  admin_district2: Madison
+  alt_names: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-10T12:38:30.871711Z'
+  email_extensions:
+  - bayouconcretellc.com
+  enterprise: true
+  id: fb9358fa4196456bb6b716e84a8d3eac
+  is_failed: false
+  latitude: 32.46061
+  locality: Madison
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Madison
+    countrySubdivision: MS
+    countrySubdivisionName: Mississippi
+    countryTertiarySubdivision: District 2
+    freeformAddress: Madison, MS
+    municipality: Madison
+  longitude: -90.11182
+  name: Bayou Concrete LLC
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fb9358fa4196456bb6b716e84a8d3eac
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2019-12-02T18:19:03.319095Z'
+  web_domain: bayouconcretellc.com
+  website: http://www.bayouconcretellc.com
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 4c5ed0c7b6ec4708ba1820ed496f9946
+my_capabilities: 1
+name: '#not_an_epd M3270013'
+not_an_epd: false
+open_xpd_uuid: ec3mjptb
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3mjptb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- US-AL
+plant_or_group:
+  address: 3151 Hamilton Blvd, Theodore, AL 36582, USA
+  address_line: 3151 Hamilton Blvd
+  admin_district: AL
+  admin_district2: Mobile County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2023-09-20T20:05:23.182732Z'
+  id: 224921d625d540349e60e6ead8d990e6
+  is_failed: false
+  latitude: 30.54916059999999
+  locality: Theodore
+  location:
+  - long_name: '3151'
+    short_name: '3151'
+    types:
+    - street_number
+  - long_name: Hamilton Boulevard
+    short_name: Hamilton Blvd
+    types:
+    - route
+  - long_name: Alligator Bayou
+    short_name: Alligator Bayou
+    types:
+    - neighborhood
+    - political
+  - long_name: Theodore
+    short_name: Theodore
+    types:
+    - locality
+    - political
+  - long_name: Mobile County
+    short_name: Mobile County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Alabama
+    short_name: AL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '36582'
+    short_name: '36582'
+    types:
+    - postal_code
+  longitude: -88.11330269999999
+  name: THEODORE PLANT
+  openepd_id: 862HGVXP+MM.bayouconcretellc.com
+  owned_by:
+    address: Madison, MS
+    admin_district: MS
+    admin_district2: Madison
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:38:30.871711Z'
+    email_extensions:
+    - bayouconcretellc.com
+    enterprise: true
+    id: fb9358fa4196456bb6b716e84a8d3eac
+    is_failed: false
+    latitude: 32.46061
+    locality: Madison
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Madison
+      countrySubdivision: MS
+      countrySubdivisionName: Mississippi
+      countryTertiarySubdivision: District 2
+      freeformAddress: Madison, MS
+      municipality: Madison
+    longitude: -90.11182
+    name: Bayou Concrete LLC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fb9358fa4196456bb6b716e84a8d3eac
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2019-12-02T18:19:03.319095Z'
+    web_domain: bayouconcretellc.com
+    website: http://www.bayouconcretellc.com
+  postal_code: '36582'
+  total_epds: 22
+  type: Plant
+  updated_on: '2025-10-27T20:00:42.669731Z'
+plant_specific: false
+plc: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Madison, MS
+  admin_district: MS
+  admin_district2: Madison
+  alt_names: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-10T12:51:04.041542Z'
+  email_extensions:
+  - mmcmaterials.com
+  enterprise: true
+  id: 801ed83f0bd349f0a3d57b30d76bd0f1
+  is_failed: false
+  latitude: 32.46061
+  locality: Madison
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Madison
+    countrySubdivision: MS
+    countrySubdivisionName: Mississippi
+    countryTertiarySubdivision: District 2
+    freeformAddress: Madison, MS
+    municipality: Madison
+  longitude: -90.11182
+  name: MMC Materials, Inc.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/801ed83f0bd349f0a3d57b30d76bd0f1
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2019-12-02T18:19:44.643676Z'
+  web_domain: mmcmaterials.com
+  website: http://www.mmcmaterials.com
+program_operator_fkey: 32 1600-2
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3mjptbbm
+standard_deviation: 0 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0 kgCO2e
+uncertainty_factor: 1.0970726408945384
+updated_on: '2025-10-27T18:36:28.519071Z'
+use_stored_carbon: false
+verifier:
+  email: twilson@mmcmaterials.com
+  name: Taylor Wilson
+  org:
+    address: Madison, MS
+    admin_district: MS
+    admin_district2: Madison
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:51:04.041542Z'
+    email_extensions:
+    - mmcmaterials.com
+    enterprise: true
+    id: 801ed83f0bd349f0a3d57b30d76bd0f1
+    is_failed: false
+    latitude: 32.46061
+    locality: Madison
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Madison
+      countrySubdivision: MS
+      countrySubdivisionName: Mississippi
+      countryTertiarySubdivision: District 2
+      freeformAddress: Madison, MS
+      municipality: Madison
+    longitude: -90.11182
+    name: MMC Materials, Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/801ed83f0bd349f0a3d57b30d76bd0f1
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2019-12-02T18:19:44.643676Z'
+    web_domain: mmcmaterials.com
+    website: http://www.mmcmaterials.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+white_cement: false

@@ -1,0 +1,669 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 6.287302286 kgCO2e
+biogenic_embodied_carbon_z: 0.25670995305986877
+box_id: '1731367485061'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.56 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.161773448 kgCO2e
+  pct20_gwp: 2.826833427 kgCO2e
+  pct30_gwp: 3.371672829 kgCO2e
+  pct40_gwp: 4.209539511 kgCO2e
+  pct50_gwp: 5.404156868 kgCO2e
+  pct60_gwp: 6.928031479 kgCO2e
+  pct70_gwp: 8.914929053 kgCO2e
+  pct80_gwp: 11.81690411 kgCO2e
+  pct90_gwp: 16.63461223 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-11-20T07:57:34.086071Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 9.752697714 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-15T12:36:08.881318Z'
+date_of_issue: '2024-05-14'
+date_validity_ends: '2029-05-14'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: 'Mineral wool insulation is used to promote energy efficiency and comes
+  in a variety of forms and sizes.  It resists mold, fungi and bacteria growth, offers
+  protection again moisture infiltration and is not corrosive and contains no chemicals
+  that can degrade pipes and wires.
+
+
+  Mineral board materials are used in: curtain walls, commercial roofs, basement walls,
+  floor over unheated or open spaces and other building envelope applications. Further,
+  the greater density of mineral wool insulation allows the materials to achieve higher
+  R-values and insulating power.  This results in increased year-round comfort and
+  significant energy savings.
+
+
+  The fibrous composition of mineral wool insulation provides a flexibility and versatility
+  not found in most other insulations.  Mineral wool batt and board insulation comes
+  in a wide variety of densities, sizes, and thicknesses with applications including
+  but not limited to:
+
+
+  - Residential (thermal, acoustical, foundation drainage systems).
+
+  - Commercial (thermal, fire stopping and containment, and acoustical applications).
+
+  - Industrial (thermal, fire stopping and containment, acoustical, emissions control,
+  pipe and mechanical systems, fillers).
+
+
+  This EPD covers Johns Manville heavy density mineral wool insulation board products;
+  that is, those mineral wool insulation boards with a density greater than or equal
+  to
+
+  4 pounds per cubic foot (PC;).'
+developer:
+  org:
+    address: 1465 17th Ave, McPherson, KS 67460, USA
+    address_line: 1465 17th Ave
+    admin_district: KS
+    admin_district2: McPherson County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/johns-manville
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-20T10:01:12.142160Z'
+    email_extensions:
+    - naima.org
+    enterprise: true
+    id: 9fe766e3e20f479aa452017db69ec8b5
+    is_failed: false
+    latitude: 38.3850886
+    locality: McPherson
+    location:
+    - long_name: '1465'
+      short_name: '1465'
+      types:
+      - street_number
+    - long_name: 17th Avenue
+      short_name: 17th Ave
+      types:
+      - route
+    - long_name: McPherson
+      short_name: McPherson
+      types:
+      - locality
+      - political
+    - long_name: McPherson
+      short_name: McPherson
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: McPherson County
+      short_name: McPherson County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Kansas
+      short_name: KS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '67460'
+      short_name: '67460'
+      types:
+      - postal_code
+    - long_name: '2200'
+      short_name: '2200'
+      types:
+      - postal_code_suffix
+    longitude: -97.6144716
+    name: Johns Manville
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fe766e3e20f479aa452017db69ec8b5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67460'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:50:31.923144Z'
+    web_domain: jm.com
+    website: https://www.jm.com/
+doc: smartepd.com/epd-library/65c58873d38caeef149f2a2c
+excluded: false
+externally_verified: true
+file_name: Johns Manville Mineral Wool Insulation Heavy Density Board Product .pdf
+gwp: 8.02 kgCO2e
+gwp_per_category_declared_unit: 8.02 kgCO2e
+gwp_per_kg: 1.860788863 kgCO2e
+gwp_z: 0.25670995305986877
+id: 735ae7255880490ebe6cb29b1cd38ba7
+image: https://smartepd.com/api/epd-library/65c58873d38caeef149f2a2c/gallery/product_image
+impacts: {}
+includes: []
+industry_standards: []
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '021'
+- US-AL
+language: en
+lowest_plausible_gwp: 6.287302286 kgCO2e
+manufacturer:
+  address: 1465 17th Ave, McPherson, KS 67460, USA
+  address_line: 1465 17th Ave
+  admin_district: KS
+  admin_district2: McPherson County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/johns-manville
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-20T10:01:12.142160Z'
+  email_extensions:
+  - naima.org
+  enterprise: true
+  id: 9fe766e3e20f479aa452017db69ec8b5
+  is_failed: false
+  latitude: 38.3850886
+  locality: McPherson
+  location:
+  - long_name: '1465'
+    short_name: '1465'
+    types:
+    - street_number
+  - long_name: 17th Avenue
+    short_name: 17th Ave
+    types:
+    - route
+  - long_name: McPherson
+    short_name: McPherson
+    types:
+    - locality
+    - political
+  - long_name: McPherson
+    short_name: McPherson
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: McPherson County
+    short_name: McPherson County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Kansas
+    short_name: KS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '67460'
+    short_name: '67460'
+    types:
+    - postal_code
+  - long_name: '2200'
+    short_name: '2200'
+    types:
+    - postal_code_suffix
+  longitude: -97.6144716
+  name: Johns Manville
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fe766e3e20f479aa452017db69ec8b5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '67460'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:50:31.923144Z'
+  web_domain: jm.com
+  website: https://www.jm.com/
+manufacturer_specific: true
+manufacturing_image: https://smartepd.com/api/epd-library/65c58873d38caeef149f2a2c/gallery/product_flow_diagram
+mass_per_declared_unit: 4.31 kg
+matched_plants_count: 0
+material_id: f0dbfed92bfb438f8e04607bc2e76e35
+my_capabilities: 1
+name: Johns Manville Mineral Wool Insulation Heavy Density Board Product
+not_an_epd: false
+open_xpd_uuid: ec342dmf
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec342dmf
+output_flows: {}
+owner:
+  name: Anna Lasso
+  user_id: anna.lasso@smartepd.com
+pcr:
+  alt_names:
+  - 'Part B: Building Envelope Thermal Insulation EPD requirements'
+  - 'Part B: Building Thermal Insulation EPD Requirements UL 10010-1(2nd edition,
+    April 10, 2018)'
+  - 'PCR for preparing an EPD for Product Group: Building Envelope Thermal Insulation'
+  - PCR for Building Envelope Thermal Insulation
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.470071Z'
+  date_of_issue: '2023-04-06'
+  date_validity_ends: '2024-04-06'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34197
+  id: af1087300982459398cb8bd7734ce08d
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 4
+    IPCC AR5:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Building Envelope Thermal Insulation Products'
+  open_xpd_uuid: ec3qgwtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qgwtt
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qgwttac
+  short_name: 'Part B: Building Envelope Thermal Insulation'
+  status: Expired
+  updated_on: '2025-11-20T18:20:04.425461Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 9.752697714 kgCO2e
+plant_geography:
+- US-AL
+plant_or_group:
+  address: Phenix City, AL, USA
+  admin_district: AL
+  admin_district2: Russell County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-02-08T16:43:38.759906Z'
+  id: 710568f615d747f5962a775821575858
+  is_failed: false
+  latitude: 32.4709761
+  locality: Phenix City
+  location:
+  - long_name: Phenix City
+    short_name: Phenix City
+    types:
+    - locality
+    - political
+  - long_name: Russell County
+    short_name: Russell County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Alabama
+    short_name: AL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -85.0007653
+  name: Johns Manville
+  openepd_id: 864PFXCX+9M.jm.com
+  owned_by:
+    address: 1465 17th Ave, McPherson, KS 67460, USA
+    address_line: 1465 17th Ave
+    admin_district: KS
+    admin_district2: McPherson County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/johns-manville
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-20T10:01:12.142160Z'
+    email_extensions:
+    - naima.org
+    enterprise: true
+    id: 9fe766e3e20f479aa452017db69ec8b5
+    is_failed: false
+    latitude: 38.3850886
+    locality: McPherson
+    location:
+    - long_name: '1465'
+      short_name: '1465'
+      types:
+      - street_number
+    - long_name: 17th Avenue
+      short_name: 17th Ave
+      types:
+      - route
+    - long_name: McPherson
+      short_name: McPherson
+      types:
+      - locality
+      - political
+    - long_name: McPherson
+      short_name: McPherson
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: McPherson County
+      short_name: McPherson County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Kansas
+      short_name: KS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '67460'
+      short_name: '67460'
+      types:
+      - postal_code
+    - long_name: '2200'
+      short_name: '2200'
+      types:
+      - postal_code_suffix
+    longitude: -97.6144716
+    name: Johns Manville
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fe766e3e20f479aa452017db69ec8b5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67460'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:50:31.923144Z'
+    web_domain: jm.com
+    website: https://www.jm.com/
+  total_epds: 6
+  type: Plant
+  updated_on: '2025-10-31T22:00:02.936822Z'
+plant_specific: true
+private: false
+product_classes:
+  Masterformat:
+  - 07 21 13.19
+product_specific: true
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec342dmfmz
+sku: Heavy Density Mineral Wool Board Insulation
+standard_deviation: 2.058813824 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 9.752697714 kgCO2e
+uncertainty_factor: 1.2160470964951855
+updated_on: '2025-01-07T01:05:54.269294Z'
+use_stored_carbon: false
+verifier:
+  email: lindita.bushi@athenasmi.org
+  name: Lindita Bushi
+  org:
+    address: Herndon, VA 20170, USA
+    admin_district: VA
+    admin_district2: Fairfax County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-11-14T14:43:39.418085Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+    id: bf9d0aaa64de490bbd874ae435e9945e
+    image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+    is_failed: false
+    latitude: 38.9695545
+    locality: Herndon
+    location:
+    - long_name: Herndon
+      short_name: Herndon
+      types:
+      - locality
+      - political
+    - long_name: Fairfax County
+      short_name: Fairfax County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Virginia
+      short_name: VA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '20170'
+      short_name: '20170'
+      types:
+      - postal_code
+    longitude: -77.3860976
+    name: Smart EPD LLC
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '20170'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-01-22T21:59:42.873726Z'
+    web_domain: smartepd.com
+    website: www.smartepd.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Verifier is not employee of verifier org

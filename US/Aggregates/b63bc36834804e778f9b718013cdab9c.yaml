@@ -1,0 +1,597 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 135.7725091 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '1585168146966'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:55:06.380561Z'
+  declared_unit: 1 kg
+  default_distance: 65.98294 km
+  default_transport_mode: truck, unspecified
+  description: Construction Aggregates, including sand, gravel, crushed stone, etc.
+    for use as bases, ballasts, or as a component in concrete or asphalt
+  display_name: Aggregates
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: f4b20196cf844933b4222809f51386fa
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 10 00 Bases Ballasts and Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Aggregates
+  no_statistics: false
+  obsolete: false
+  openepd: Aggregates
+  openepd_name: Aggregates
+  parents: []
+  pct10_gwp: 0.001332641195 kgCO2e
+  pct20_gwp: 0.001883952008 kgCO2e
+  pct30_gwp: 0.002605018508 kgCO2e
+  pct40_gwp: 0.004098406937 kgCO2e
+  pct50_gwp: 0.00576135918 kgCO2e
+  pct60_gwp: 0.007870153955 kgCO2e
+  pct70_gwp: 0.01494783105 kgCO2e
+  pct80_gwp: 0.04106154999 kgCO2e
+  pct90_gwp: 0.0747351572 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Aggregates
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111800'
+  updated_on: '2025-11-20T07:55:57.623427Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 194.2274909 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-07-09T16:50:45.996673Z'
+date_of_issue: '2020-07-01'
+date_validity_ends: '2025-07-01'
+declaration_type: Product EPD
+declared_unit: 92.9 m^2
+density: 2650 kg / m^3
+description: M2Tech Type X Gypsum Board is a moisture and mold resistant gypsum board
+  designed for use on interior walls and ceilings to provide enhanced moisture and
+  mold resistance for fire-rated assemblies. It is comprised of a specially formulated
+  moisture resistant core and encased in 100% recycled content moisture and mold resistant
+  light violet colored face paper and bronze colored back paper.
+developer:
+  org:
+    address: 18 Avenue d'Alsace, Courbevoie, 92400
+    address_line: 18 Avenue d'Alsace
+    admin_district: "\xCEle-de-France"
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - SaintGobain
+    - Saint Gobain
+    - Saint-Gobain Construction Products Hungary Kft.
+    - Saint-Gobain Sweden AB
+    - Saint-Gobain Finland Oy
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/saint-gobain
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-04-15T14:25:13.561528Z'
+    email_extensions:
+    - saint-gobain.com
+    enterprise: true
+    id: 8129e5aa88864790af51341dfa8076c7
+    image: https://static.buildingtransparency.org/images/877cae43-df5e-40f7-8f0e-eac944d3e6c0
+    is_failed: false
+    latitude: 48.89101
+    locality: Courbevoie
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Hauts-de-Seine
+      countrySubdivision: "\xCEle-de-France"
+      freeformAddress: 18 Avenue d'Alsace, Courbevoie, 92400
+      localName: Courbevoie
+      municipality: Courbevoie
+      municipalitySubdivision: Courbevoie
+      postalCode: '92400'
+      streetName: Avenue d'Alsace
+      streetNumber: '18'
+    longitude: 2.24947
+    name: Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8129e5aa88864790af51341dfa8076c7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92400'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:12:24.919350Z'
+    web_domain: saint-gobain.com
+    website: www.saint-gobain.com
+doc: buildingtransparency.org/e/ec3a4bazdk
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP values from multiple LCIA methods are more different than expected.
+  program_operator:
+  - Missing link
+file_name: 111.1-CertainTeed-Gypsum-EPD-M2Tech-TypeX-Five-Eighths-Inch-Gypsum-Board-Nashville-AR.pdf
+gwp: 165 kgCO2e
+gwp_per_kg: 0.1611328125 kgCO2e
+gwp_z: 0.2104756517984919
+id: 8f8ed7224c054a57815180da14ad93bc
+image: https://static.buildingtransparency.org/images/a7881a6116044d67abffd7e88173f23f.png
+impacts: {}
+is_downloadable: true
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 135.7725091 kgCO2e
+manufacturer:
+  address: 20 Moores Rd, Malvern, PA 19355, USA
+  address_line: 20 Moores Rd
+  admin_district: PA
+  admin_district2: Chester County
+  alt_names:
+  - CertainTeed Gypsum, Inc
+  - CertainTeed Insulation Group
+  - CertainTeed
+  - CertainTeed Ceilings
+  - CertainTeed Gypsum Canada
+  - CertainTeed Gypsum
+  - CertainTeed Gypsum, Inc.
+  - Certainteed Gypsum
+  - CertainTeed Insulation
+  - CertainTeed Roofing
+  - CertainTeed Saint-Gobain
+  attachments:
+    Ecomedes: https://saintgobain.ecomedes.com/
+    TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:09.590285Z'
+  currency: USD
+  email_extensions:
+  - certainteed.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+  id: 4f0f4939d54945a08051f4c048ac71c0
+  image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+  is_failed: false
+  latitude: 40.0539584
+  legal_name: CertainTeed
+  locality: Malvern
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Moores Road
+    short_name: Moores Rd
+    types:
+    - route
+  - long_name: Malvern
+    short_name: Malvern
+    types:
+    - locality
+    - political
+  - long_name: East Whiteland Township
+    short_name: East Whiteland Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chester County
+    short_name: Chester County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19355'
+    short_name: '19355'
+    types:
+    - postal_code
+  - long_name: '1114'
+    short_name: '1114'
+    types:
+    - postal_code_suffix
+  longitude: -75.5576008
+  name: CertainTeed Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: true
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-06-10T22:47:30.631306Z'
+  web_domain: certainteed.com
+  website: www.certainteed.com
+manufacturer_specific: true
+mass_per_declared_unit: 1024 kg
+matched_plants_count: 0
+material_id: b63bc36834804e778f9b718013cdab9c
+my_capabilities: 1
+name: "M2 Tech Type X 5/8\u201D Gypsum Board"
+not_an_epd: false
+open_xpd_uuid: ec3a4baz
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3a4baz
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF/ASTM 1126-23 PCR for Construction Aggregates
+  - NSF International PCR For Construction Aggregates
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2024-03-05T22:37:24.097525Z'
+  date_of_issue: '2023-12-01'
+  date_validity_ends: '2027-09-30'
+  declared_units:
+  - 1 tonne
+  doc: '#broken-link cqd.io/p/ec3fpg6nuk'
+  id: 982982aa41a84c23a3943121f2773896
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NSF/ASTM 1126-23 PCR for Construction Aggregates
+  open_xpd_uuid: ec3fpg6n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3fpg6n
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3fpg6nuk
+  short_name: Construction Aggregates
+  updated_on: '2024-07-20T16:22:31.259924Z'
+  version: '2'
+plant_geography:
+- US-AR
+plant_or_group:
+  address: 794 AR-369, Nashville, AR 71852, USA
+  address_line: 794 AR-369
+  admin_district: AR
+  admin_district2: Howard County
+  alt_names: []
+  carbon_intensity: 858.369 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T03:24:41.341521Z'
+  id: cb639567ccd7473694fb35b0bc14df2c
+  is_failed: false
+  latitude: 34.080617
+  locality: Nashville
+  location:
+  - long_name: '794'
+    short_name: '794'
+    types:
+    - street_number
+  - long_name: Arkansas 369
+    short_name: AR-369
+    types:
+    - route
+  - long_name: Nashville
+    short_name: Nashville
+    types:
+    - locality
+    - political
+  - long_name: Muddy Fork Township
+    short_name: Muddy Fork Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Howard County
+    short_name: Howard County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arkansas
+    short_name: AR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '71852'
+    short_name: '71852'
+    types:
+    - postal_code
+  longitude: -93.8588932
+  name: Nashville, AR
+  openepd_id: 866834JR+6C.certainteed.com
+  owned_by:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-10T22:47:30.631306Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+  postal_code: '71852'
+  total_epds: 6
+  type: Plant
+  units: SI
+  updated_on: '2024-07-09T18:00:01.902635Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator_fkey: 4789532059.111.1
+reference_service_life: 75 year
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3a4bazdk
+standard_deviation: 34.72848255 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 194.2274909 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-07-09T16:51:01.385954Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link

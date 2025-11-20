@@ -1,0 +1,598 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/pacific-steel
+best_practice: 807.5624413 kgCO2e
+biogenic_embodied_carbon_z: 0.07244998274671982
+box_id: '522465087951'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 521.4991161 kgCO2e
+  pct20_gwp: 694.6503556 kgCO2e
+  pct30_gwp: 763.7966119 kgCO2e
+  pct40_gwp: 816.3412036 kgCO2e
+  pct50_gwp: 882.7302894 kgCO2e
+  pct60_gwp: 940.5757397 kgCO2e
+  pct70_gwp: 1080.065663 kgCO2e
+  pct80_gwp: 1455.354582 kgCO2e
+  pct90_gwp: 2948.429061 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2025-11-20T07:56:44.822971Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 912.4375587 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-12T11:26:19.037590Z'
+date_of_issue: '2017-01-19'
+date_validity_ends: '2022-01-18'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7850 kg / m3
+description: "This EPD is for reinforcing bar fabricated by Pacific Steel Group\u2019\
+  s facilities, located in Bloomington, California and Napa, California. Fabricated\
+  \ reinforcing bar is a steel bar used in the reinforcement of concrete. The rebar\
+  \ surface is rolled with a deformed pattern in order to form an improved mechanical\
+  \ bond with the concrete. Mechanical properties, sizes, and deformation dimensions\
+  \ are specified by ASTM standards A615 and A706. Fabricated rebar is rebar that\
+  \ has been cut and bent as necessary to form shapes according to the needs of a\
+  \ particular project. Rebar sizes range from #3 through #18. In accordance with\
+  \ the PCR, the declared unit and product density is shown in Table 1. Table 1. Declared\
+  \ unit for fabricated reinforcing bar and the approximate density. Parameter Value\
+  \ Declared Unit 1 metric ton Density 7,850 kg/m3 MATERIAL CONTENT The representative\
+  \ reinforcing bar products contain approximately 95.4% recycled scrap steel content\
+  \ with 4.5% alloys and additives. In general, ASTM A615 and A706 reinforcing bar\
+  \ will contain 95-99% recycled iron, < 2% Manganese, < 1% Carbon, < 1% Chromium,\
+  \ <1% Silicon, and a total of < 1.5% Nickel, Sulfur, Vanadium, Phosphorous, Molybdenum,\
+  \ and other alloying elements. Reinforcing bar products under normal conditions\
+  \ do not present inhalation, ingestion, or contact health hazards. These products,\
+  \ when used inside the building envelope, do not include materials or substances\
+  \ that have a potential route of exposure to humans or flora/fauna in the environment."
+developer:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+doc: buildingtransparency.org/e/ec382fg8gy
+en_standards: []
+epd_degraded: false
+epoxy_coated: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-04345_Pacific-Steel-Group_022018.pdf
+galvanized: false
+gwp: 860 kgCO2e
+gwp_per_category_declared_unit: 860 kgCO2e
+gwp_per_kg: 0.86 kgCO2e
+gwp_z: 0.07244998274671982
+id: 9a7a0342dc3a40be8a0b24df14a6993c
+image: https://static.buildingtransparency.org/images/7d7f627b88ad4d1ea07c79ef0712a1b0.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  The representative reinforcing bar products contain approximately 95.4% recycled
+  scrap steel content with 4.5% alloys and additives. In general, ASTM A615 and A706
+  reinforcing bar will contain 95-99% recycled iron, < 2% Manganese, < 1% Carbon,
+  < 1% Chromium, <1% Silicon, and a total of < 1.5% Nickel, Sulfur, Vanadium, Phosphorous,
+  Molybdenum, and other alloying elements. Reinforcing bar products under normal conditions
+  do not present inhalation, ingestion, or contact health hazards. These products,
+  when used inside the building envelope, do not include materials or substances that
+  have a potential route of exposure to humans or flora/fauna in the environment.
+
+
+  ## Source Data Notes
+
+  PCR review, was conducted by'
+lowest_plausible_gwp: 807.5624413 kgCO2e
+manufacturer:
+  address: "Calle David Sotelo Rosa 858, 39406 Acapulco de Ju\xE1rez"
+  address_line: 858 Calle David Sotelo Rosa
+  admin_district: Guerrero
+  alt_names:
+  - Pacific Steel
+  - Pacific Steel (NZ) Limited
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/pacific-steel
+  confirmable_fields: []
+  confirmed_fields: []
+  country: MX
+  cqd_sync_unlocked: true
+  created_on: '2019-09-12T11:26:19.536281Z'
+  email_extensions:
+  - pacificsteelgroup.com
+  enterprise: true
+  id: 9122bc5799fb40c0ab57627b410cb1f5
+  is_failed: false
+  latitude: 16.9004
+  locality: "Acapulco de Ju\xE1rez"
+  location:
+    country: Mexico
+    countryCode: MX
+    countryCodeISO3: MEX
+    countrySubdivision: Guerrero
+    freeformAddress: "Calle David Sotelo Rosa 858, 39406 Acapulco de Ju\xE1rez"
+    municipality: "Acapulco de Ju\xE1rez"
+    municipalitySubdivision: Pie de la Cuesta
+    postalCode: '39406'
+    streetName: Calle David Sotelo Rosa
+    streetNumber: '858'
+  longitude: -99.94579
+  name: Pacific Steel Group
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9122bc5799fb40c0ab57627b410cb1f5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '39406'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:04:53.895710Z'
+  web_domain: pacificsteelgroup.com
+  website: PacificSteelGroup.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 18bb3f86bb4347ee94a00d371df7776f
+my_capabilities: 1
+name: Fabricated Reinforcing Bar (ASTM A615, A706)
+not_an_epd: false
+open_xpd_uuid: ec382fg8
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec382fg8
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - North American Product Category Rule for  Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS Global Services
+  - North American PCR for Designated Steel Construction Products (SCS, 2015)
+  - 'SCS Global: North American Product Category Rule for Designated Steel Construction
+    Products'
+  - North American PCR for Designated Steel Construction Products
+  - North American Product Category Rule for Designated Steel Construction Products
+  - SCS Services. (2015). North American PCR for Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Products
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - North American Product Category Rule for Designated Steel Construction Products
+    Reference PCR by SCS Global Services, May 5, 2015 V.1.O
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015.
+  - North American PCR for Designated Steel Construction Products, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Projects, v1.0, May 2015
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015
+  - North American Product Category Rule for Designated Steel Construction Products,
+    v1.0
+  - SCS PCR for Designated Steel Construction Products v1 2015
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-04T10:19:19.700479Z'
+  date_of_issue: '2015-05-05'
+  date_validity_ends: '2020-05-05'
+  declared_units:
+  - 1 tonne
+  doc: https://cdn.scsglobalservices.com/files/standards/scs_pcr_steel-products_050515_final.pdf
+  id: b1aba1a033844da19a8b22ca146b5125
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: North American PCR for Designated Steel Construction Products
+  open_xpd_uuid: ec3spn6n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3spn6n
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3spn6nw2
+  short_name: Designated Steel Construction Products
+  status: Sunset
+  updated_on: '2025-08-11T20:22:04.833912Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 912.4375587 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 2755 South Willow Avenue, Bloomington, CA 92316
+  address_line: 2755 South Willow Avenue
+  admin_district: CA
+  admin_district2: San Bernardino
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-26T22:16:14.765213Z'
+  id: 9d33dbd0ed8743b0b7b72bd8d46d66e5
+  is_failed: false
+  latitude: 34.05167
+  locality: Bloomington, Rialto
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: San Bernardino
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: San Bernardino
+    extendedPostalCode: '923163260'
+    freeformAddress: 2755 South Willow Avenue, Bloomington, CA 92316
+    localName: Bloomington
+    municipality: Bloomington, Rialto
+    municipalitySubdivision: Bloomington, Rialto
+    postalCode: '92316'
+    streetName: South Willow Avenue
+    streetNumber: '2755'
+  longitude: -117.37342
+  name: Bloomington, CA
+  openepd_id: 85643J2G+MJ.pacificsteelgroup.com
+  owned_by:
+    address: "Calle David Sotelo Rosa 858, 39406 Acapulco de Ju\xE1rez"
+    address_line: 858 Calle David Sotelo Rosa
+    admin_district: Guerrero
+    alt_names:
+    - Pacific Steel
+    - Pacific Steel (NZ) Limited
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/pacific-steel
+    confirmable_fields: []
+    confirmed_fields: []
+    country: MX
+    cqd_sync_unlocked: true
+    created_on: '2019-09-12T11:26:19.536281Z'
+    email_extensions:
+    - pacificsteelgroup.com
+    enterprise: true
+    id: 9122bc5799fb40c0ab57627b410cb1f5
+    is_failed: false
+    latitude: 16.9004
+    locality: "Acapulco de Ju\xE1rez"
+    location:
+      country: Mexico
+      countryCode: MX
+      countryCodeISO3: MEX
+      countrySubdivision: Guerrero
+      freeformAddress: "Calle David Sotelo Rosa 858, 39406 Acapulco de Ju\xE1rez"
+      municipality: "Acapulco de Ju\xE1rez"
+      municipalitySubdivision: Pie de la Cuesta
+      postalCode: '39406'
+      streetName: Calle David Sotelo Rosa
+      streetNumber: '858'
+    longitude: -99.94579
+    name: Pacific Steel Group
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9122bc5799fb40c0ab57627b410cb1f5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '39406'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:04:53.895710Z'
+    web_domain: pacificsteelgroup.com
+    website: PacificSteelGroup.com
+  postal_code: '92316'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2020-03-29T03:46:33.044544Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-04345
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec382fg8gy
+stainless: false
+standard_deviation: 62.30698516 kgCO2e
+steel_fabricated: true
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 912.4375587 kgCO2e
+uncertainty_factor: 1.0609739054796394
+updated_on: '2025-01-14T02:20:24.498441Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified

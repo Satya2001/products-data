@@ -1,0 +1,577 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/graniterock
+best_practice: 266.7203105 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+box_id: '522642553571'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.0899029 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
+  pct40_gwp: 334.578825 kgCO2e
+  pct50_gwp: 359.0203617 kgCO2e
+  pct60_gwp: 386.3847185 kgCO2e
+  pct70_gwp: 416.8085524 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 507.1461971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-11-20T07:56:16.507251Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.25
+  ggbs: 0.0
+concrete_aggregate_size_max: 0.5 in
+concrete_air_entrain: true
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 24.1 MPa
+concrete_min_pipeline_size: 2 in
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 322.4396895 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-10-10T13:43:13.681025Z'
+date_of_issue: '2015-01-09'
+date_validity_ends: '2020-01-09'
+declaration_type: Product EPD
+declared_unit: "1 m\xB3"
+density: 2400 kg / m^3
+description: 6 Sack, 25% FA, 1/2" crushed
+developer:
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+doc: buildingtransparency.org/e/ec3x9u1ba2
+excluded: false
+externally_verified: true
+file_name: Graniterock_Ready Mix III EPD.pdf
+gwp: 294.58 kgCO2e
+gwp_per_category_declared_unit: 294.58 kgCO2e
+gwp_per_kg: 0.1227416667 kgCO2e
+gwp_z: 0.11237437430304116
+id: 8625eabf26b84545b0d41abffbe1a4ae
+image: https://static.buildingtransparency.org/images/22e32f1234b040f09ce35902dc1e4834.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "\n\n## LCA Notes\nThis EPD is intended for use in Business to Business\
+  \ (B-to-B) communication. The scope of this EPD is cradle-to-gate and considers\
+  \ the following life cycle stages. \u2022 Al Raw Material Supply: Includes all upstream\
+  \ process related to extraction, handling, and processing of the raw - materials\
+  \ and intermediate component products as well as fuels, cement, supplementary cementitious\
+  \ materials, aggregate (coarse and fine), water, admixtures and other materials\
+  \ or chemicals used in concrete mixtures. \u2022 A2 Transportation: Accounts for\
+  \ the transportation of all input materials and fuels from the supplier to the gate\
+  \ of - the concrete plant. \u2022 A3 Manufacturing Core Processes: Includes all\
+  \ core process and the energy and water used to store, move, - - batch and mix the\
+  \ concrete and operate the concrete plant as well as the transportation and processing\
+  \ of wastes from these core processes.\n\n## Source Data Notes\nAmerican Concrete\
+  \ Institute (ACI) 211: Standard Practice for Selecting Proportions for Normal, Heavyweight,\
+  \ and Mass Concrete American Concrete Institute (ACI) 318: Building Code Requirements\
+  \ for Structural Concrete ASTM International (ASTM) C94: Standard Specification\
+  \ for Ready-Mixed Concrete Athena Sustainable Materials Institute: A Cradle-to-Gate\
+  \ Life Cycle Assessment of Ready-Mixed Concrete Manufacture by NRMCA Members; Prepaared\
+  \ by the Athena Sustainable Materials Institute for the National Ready-Mixed Concrete\
+  \ Associ- ation; October 2014 Carbon Leadership Forum (2013). Product Category Rules\
+  \ (PCR) for ISO 14025 Type III Environmental Product Declara- tions (EPDs) of Concrete\
+  \ v1.1. Clarification 1 (April 10, 2014) was also cited in the preparation of this\
+  \ EPD. Construction Specifications Institute (CSI) MasterFormat Division 03-30-00\
+  \ Cast-in-Place Concrete EN 15804:2012 Sustainability of construction works - Environmental\
+  \ product declarations - Core rules for the product category of construction products.\
+  \ European Federation of Concrete Admixture Associations (2006). EFCA Environmental\
+  \ Declarations for Admixtures. http://www.efca.info/publications.html ISO 21930:\
+  \ 2007 Building construction - Sustainability in building construction - Environmental\
+  \ declaration of building products. ISO 14025: 2006 Environmental labeling and declarations\
+  \ -Type III environmental declarations - Principles and proce- dures. ISO 14044:\
+  \ 2006 Environmental management - Life cycle assessment - Requirements and guidelines.\
+  \ ISO 14040: 2006 Environmental management - Life cycle assessment - Principles\
+  \ and framework. National Ready Mixed Concrete Association 2013. Program Operator\
+  \ Instructions For Environmental Product Declarations v1 2. National Renewable Energy\
+  \ Laboratory 2014. U.S. Life Cycle Inventory Database. https://www.lcacommons.gov/nrel/search."
+lightweight: false
+lowest_plausible_gwp: 266.7203105 kgCO2e
+manufacturer:
+  address: Watsonville, CA
+  admin_district: CA
+  admin_district2: Santa Cruz
+  alt_names: []
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/graniterock
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-10T12:45:31.114012Z'
+  email_extensions:
+  - graniterock.com
+  enterprise: true
+  id: 8ee9eda809f84386a724753f17846ded
+  is_failed: false
+  latitude: 36.91023
+  locality: Watsonville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Santa Cruz
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Watsonville
+    freeformAddress: Watsonville, CA
+    municipality: Watsonville
+  longitude: -121.75687
+  name: Graniterock
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8ee9eda809f84386a724753f17846ded
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:43:34.023726Z'
+  web_domain: graniterock.com
+  website: http://www.graniterock.com
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 618a76bf3eb644d589b2e611532f3528
+my_capabilities: 1
+name: '72609'
+not_an_epd: false
+open_xpd_uuid: ec3x9u1b
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3x9u1b
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules (PCR) for ISO 14025:2006 Type III Environmental Product
+    Declarations (EPDs) of Concrete
+  - "North American Product Category Rules (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - "North American Product Category Rules v1 (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - Product Category Rules (PCR) for ISO 14025 Type III Environmental Product Declarations
+    (EPDs) Concrete Version 1.1
+  - 'CLF PCR for ISO14025 Type III Environmental Product Declarations for Concrete
+    meeting hte requirement of one of the following:  C90, ASTM C90, CSA A23.1/A23.2,
+    UNSPC code 30111500, Version 1.1, Dec 4, 2013 Clarifications 1,2, and 3'
+  - PCR for ISO 14025:2006 Type III EPD of Concrete
+  - Carbon Leadership Forum (CLF) Product Category Rules (PCR) for ISO 14025 Type
+    III Environmental Product Declarations (EPDs) for Concrete v1.1 (December 2013)
+  - 'The Carbon Leadership Forum PCR: PCR for ISO 14025 Type III EPD for Concrete'
+  - '""The Carbon Leadership Forum PCR: Product Category Rules (PCR) for ISO 14025
+    Type III Environmental Product Declarations (EPDs) for Concrete, Version 1.1 dated
+    12/4/2013, serves as the PCR for this EPD. http://www.carbonleadershipforum.org""'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:48.524245Z'
+  date_of_issue: '2013-12-04'
+  date_validity_ends: '2018-12-04'
+  declared_units:
+  - 1 m3
+  doc: https://app.box.com/file/292552692203
+  id: 64e661dd8d894db3a1bb327f08edae1f
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American PCR for Concrete
+  open_xpd_uuid: ec37zjz1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37zjz1
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec37zjz1ws
+  short_name: Concrete
+  status: Sunset
+  updated_on: '2023-12-05T00:02:02.009988Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 322.4396895 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 303 Coral Street, Santa Cruz, CA 95060
+  address_line: 303 Coral Street
+  admin_district: CA
+  admin_district2: Santa Cruz
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-07-14T03:01:44.839069Z'
+  id: 7862740110e141b6ab7016b8a0808290
+  is_failed: false
+  latitude: 36.98374
+  locality: Santa Cruz
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Santa Cruz
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    extendedPostalCode: 95060-2106
+    freeformAddress: 303 Coral Street, Santa Cruz, CA 95060
+    localName: Santa Cruz
+    municipality: Santa Cruz
+    postalCode: '95060'
+    streetName: Coral Street
+    streetNumber: '303'
+  longitude: -122.03204
+  name: Santa Cruz, CA
+  openepd_id: 848VXXM9+F5.graniterock.com
+  owned_by:
+    address: Watsonville, CA
+    admin_district: CA
+    admin_district2: Santa Cruz
+    alt_names: []
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/graniterock
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:45:31.114012Z'
+    email_extensions:
+    - graniterock.com
+    enterprise: true
+    id: 8ee9eda809f84386a724753f17846ded
+    is_failed: false
+    latitude: 36.91023
+    locality: Watsonville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Santa Cruz
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: Watsonville
+      freeformAddress: Watsonville, CA
+      municipality: Watsonville
+    longitude: -121.75687
+    name: Graniterock
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8ee9eda809f84386a724753f17846ded
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:43:34.023726Z'
+    web_domain: graniterock.com
+    website: http://www.graniterock.com
+  postal_code: '95060'
+  total_epds: 30
+  type: Plant
+  units: USA
+  updated_on: '2020-12-17T16:37:49.460060Z'
+plant_specific: true
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: 900 Spring Street, Silver Spring, MD 20910
+  address_line: 900 Spring Street
+  admin_district: MD
+  admin_district2: Montgomery
+  alt_names:
+  - National Ready Mixed Concrete Association
+  - The National Ready Mixed Concrete Association
+  - NRMCA
+  - National Ready Mix Concrete Association
+  - National Ready-Mix Concrete Association
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/national-ready-mixed-concrete-assoc
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-25T01:07:49.604571Z'
+  currency: USD
+  email: servicerequest@nrmca.org
+  email_extensions:
+  - nrmca.org
+  enterprise: true
+  id: 1812a81e62a1424b8f27738be33fe023
+  image: https://static.buildingtransparency.org/images/0449ac39-6fff-4aca-a07f-36c94f3a3b63.png
+  is_failed: false
+  latitude: 38.99884
+  legal_name: National Ready Mixed Concrete Association
+  locality: Silver Spring
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Montgomery
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 13
+    extendedPostalCode: '209104017'
+    freeformAddress: 900 Spring Street, Silver Spring, MD 20910
+    localName: Silver Spring
+    municipality: Silver Spring
+    municipalitySubdivision: Silver Spring
+    postalCode: '20910'
+    streetName: Spring Street
+    streetNumber: '900'
+  longitude: -77.02468
+  name: NRMCA
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1812a81e62a1424b8f27738be33fe023
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20910'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-06-06T00:35:46.621058Z'
+  web_domain: nrmca.org
+  website: http://www.nrmca.org/sustainability/
+program_operator_fkey: NRMCAEPD:10006
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3x9u1ba2
+standard_deviation: 33.10324318 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 322.4396895 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2024-09-25T16:53:16Z'
+use_stored_carbon: false
+verifier:
+  email: morin@pre-sustainability.com
+  name: "Ren\xE9e Morin"
+  org:
+    address: "Le Pr\xE9 Nouveau & Rue Jean Morin, Gahard, 35490"
+    address_line: " Le Pr\xE9 Nouveau, D23 & Rue Jean Morin, D92"
+    admin_district: Bretagne
+    admin_district2: Ille-et-Vilaine
+    alt_names:
+    - PRe Sustainability   morin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2019-09-02T15:50:25.278344Z'
+    email_extensions:
+    - pre-sustainability.com
+    enterprise: true
+    id: 20014c66ecef4ca7b62492dfea21f45b
+    is_failed: false
+    latitude: 48.29485
+    locality: Gahard
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Ille-et-Vilaine
+      countrySubdivision: Bretagne
+      freeformAddress: "Le Pr\xE9 Nouveau & Rue Jean Morin, Gahard, 35490"
+      municipality: Gahard
+      postalCode: '35490'
+      streetName: "Le Pr\xE9 Nouveau, D23 & Rue Jean Morin, D92"
+    longitude: -1.51323
+    name: PRe Sustainability
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/20014c66ecef4ca7b62492dfea21f45b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '35490'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-22T04:06:41.181567Z'
+    web_domain: pre-sustainability.com
+    website: www.pre-sustainability.com
+warnings:
+  concrete_max_slump:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+white_cement: false

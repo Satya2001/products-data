@@ -1,0 +1,579 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/jj-flooring-group
+best_practice: 46.81418483 kgCO2e
+biogenic_embodied_carbon_z: 0.1777638883463118
+box_id: '344659730012'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.066509501 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 5.834202189 kgCO2e
+  pct20_gwp: 7.369800903 kgCO2e
+  pct30_gwp: 8.234196495 kgCO2e
+  pct40_gwp: 9.125277292 kgCO2e
+  pct50_gwp: 10.68592731 kgCO2e
+  pct60_gwp: 12.00669255 kgCO2e
+  pct70_gwp: 13.64533131 kgCO2e
+  pct80_gwp: 16.0441221 kgCO2e
+  pct90_gwp: 21.64449993 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2025-11-20T07:57:01.911459Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 63.28581517 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-06-15T11:29:51.314506Z'
+date_of_issue: '2013-06-07'
+date_validity_ends: '2018-06-07'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Innovative textile composite flooring tile product comprised of PET/Polyethylene\
+  \ blended backing and PET\n         face fibers. Can be used in applications ranging\
+  \ from traditional carpet to resilient flooring. Product contains\n         both\
+  \ pre-consumer and post-consumer recycled content for a total of 60% recycled content.\
+  \ Product is made in\n         the United States."
+developer:
+  email: brad@wapsustainability.com
+  name: Brad McAllister
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: buildingtransparency.org/e/ec3cxrzfuj
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD_Kinetex.pdf
+gwp: 55.05 kgCO2e
+gwp_per_category_declared_unit: 55.05 kgCO2e
+gwp_per_kg: 302.0123761 kgCO2e
+gwp_z: 0.1777638883463118
+gypsum_specific_density: 0.1822772984 kg / m^2
+id: 658373c99a224ce5a2a843420343e904
+image: https://static.buildingtransparency.org/images/d19e72aba5cf4160b3f337af47dcb3e7.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  PET Yarn Pile Material (Solution Dyed) Primary Backing PE Recycled PET Secondary
+  Backing Virgin PET
+
+
+  ## LCA Notes
+
+  Kinetex LCA Report: Fiscal year 2012 Basis LCA'
+lowest_plausible_gwp: 46.81418483 kgCO2e
+manufacturer:
+  address: 818 J & J Drive, Dalton, GA 30721
+  address_line: 818 J & J Drive
+  admin_district: GA
+  admin_district2: Whitfield
+  alt_names:
+  - J&J Flooring
+  - INVISION
+  - Templeton Hospitality
+  - J+J Flooring Group
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/jj-flooring-group
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-05T15:12:32.907550Z'
+  email_extensions:
+  - jjflooringgroup.com
+  enterprise: true
+  id: 9eed8cf1135f465a87cb81dc183b9e0a
+  is_failed: false
+  latitude: 34.78665
+  legal_name: J&J Flooring Group LLC
+  locality: Dalton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Whitfield
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Dalton
+    freeformAddress: 818 J & J Drive, Dalton, GA 30721
+    localName: Dalton
+    municipality: Dalton
+    municipalitySubdivision: Dalton
+    postalCode: '30721'
+    streetName: J & J Drive
+    streetNumber: '818'
+  longitude: -84.94676
+  name: J+J Flooring
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9eed8cf1135f465a87cb81dc183b9e0a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30721'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:50:03.378008Z'
+  web_domain: jjflooringgroup.com
+  website: www.jjflooringgroup.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.18227729842496723 kg
+matched_plants_count: 0
+material_id: c47b2babff0d41faa911000cffed53e9
+my_capabilities: 1
+name: "Kinetex\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3cxrzf
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3cxrzf
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF PCR for Flooring Carpet, Resilient, Laminate, Ceramic and Wood
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and W ood)
+  - USA NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - 'NSF  Reference PCR Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - NSF PCR for Flooring PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - NSF PCR for Flooring PCR - Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:57.344402Z'
+  date_of_issue: '2012-05-22'
+  date_validity_ends: '2017-05-22'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: 59a08bc797e84eb78fe7ab5ff3e40852
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3e6jsg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e6jsg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e6jsgyf
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-11-20T18:20:04.372724Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 63.28581517 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: Phoenix, AZ
+  admin_district: AZ
+  admin_district2: Maricopa
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-01-27T03:06:42.555243Z'
+  id: 79d71ebf54074c18ac238b9eb71c1738
+  is_failed: false
+  latitude: 33.4482
+  locality: Phoenix
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Maricopa
+    countrySubdivision: AZ
+    countrySubdivisionName: Arizona
+    countryTertiarySubdivision: Phoenix
+    freeformAddress: Phoenix, AZ
+    municipality: Phoenix
+  longitude: -112.07258
+  name: Phoenix, AZ
+  openepd_id: 8559CWXG+7X.jjflooringgroup.com
+  owned_by:
+    address: 818 J & J Drive, Dalton, GA 30721
+    address_line: 818 J & J Drive
+    admin_district: GA
+    admin_district2: Whitfield
+    alt_names:
+    - J&J Flooring
+    - INVISION
+    - Templeton Hospitality
+    - J+J Flooring Group
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/jj-flooring-group
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-05T15:12:32.907550Z'
+    email_extensions:
+    - jjflooringgroup.com
+    enterprise: true
+    id: 9eed8cf1135f465a87cb81dc183b9e0a
+    is_failed: false
+    latitude: 34.78665
+    legal_name: J&J Flooring Group LLC
+    locality: Dalton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Whitfield
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Dalton
+      freeformAddress: 818 J & J Drive, Dalton, GA 30721
+      localName: Dalton
+      municipality: Dalton
+      municipalitySubdivision: Dalton
+      postalCode: '30721'
+      streetName: J & J Drive
+      streetNumber: '818'
+    longitude: -84.94676
+    name: J+J Flooring
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9eed8cf1135f465a87cb81dc183b9e0a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30721'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:50:03.378008Z'
+    web_domain: jjflooringgroup.com
+    website: www.jjflooringgroup.com
+  total_epds: 1
+  type: Plant
+  updated_on: '2022-01-27T03:06:49.117696Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10003
+resilient_flooring_form_factor: Other
+resilient_flooring_material: Composite
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3cxrzfuj
+specific_density: "0.1822772984 kg/m\xB2"
+standard_deviation: 9.785902053 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 63.28581517 kgCO2e
+uncertainty_factor: 1.149606088432256
+updated_on: '2025-01-14T18:42:52.661826Z'
+use_stored_carbon: false
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

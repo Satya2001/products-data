@@ -1,0 +1,788 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+asphalt_gradation: Dense-graded
+asphalt_gtr: false
+asphalt_mix_type: HMA
+asphalt_pmb: true
+asphalt_ppa: false
+asphalt_sbr: false
+asphalt_sbs: false
+best_practice: 48.40826268 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '718247399345'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:31.880547Z'
+  declared_unit: 1 kg
+  default_distance: 51.49888 km
+  default_transport_mode: truck, single unit
+  description: General category for asphalt mixtures
+  display_name: Asphalt
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: aa61ba9aeb2a4566942554362bb496d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 12 16 Asphalt Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Asphalt
+  no_statistics: false
+  obsolete: false
+  openepd: Asphalt
+  openepd_name: Asphalt
+  parents: []
+  pct10_gwp: 0.05482551228 kgCO2e
+  pct20_gwp: 0.05982888239 kgCO2e
+  pct30_gwp: 0.06403185433 kgCO2e
+  pct40_gwp: 0.06789398122 kgCO2e
+  pct50_gwp: 0.07156570503 kgCO2e
+  pct60_gwp: 0.07547954634 kgCO2e
+  pct70_gwp: 0.07945215405 kgCO2e
+  pct80_gwp: 0.08491742796 kgCO2e
+  pct90_gwp: 0.09532260428 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Asphalt
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30121601'
+  updated_on: '2025-11-20T07:57:55.742450Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 68.99173732 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-01T15:04:27.582696Z'
+date_of_issue: '2020-09-11'
+date_validity_ends: '2025-09-10'
+declaration_type: Product EPD
+declared_unit: 1 short ton
+density: 2400 kg / m3
+description: "The product system includes the cradle-to-gate impacts of All American\
+  \ Asphalt\u2019s hot mix asphalt product, described below. The product is produced\
+  \ from coarse aggregates mixed and reacted with asphalt binders and other additives\
+  \ including post-consumer recycled asphalt paving material. Polymer at approximately\
+  \ 2% blended with Asphalt Binder at the refinery. The \"Polymer Binder\" is mixed\
+  \ with a dense graded aggregate Blend at approximately 5% of the total mix. The\
+  \ resulting Polymer Modified Asphalt Concrete has extremely high strength Properties\
+  \ as well as enhanced Tensile Strength Values. The reference flow for the product\
+  \ system is defined as one short ton of asphalt mixture The hot mix asphalt product\
+  \ is manufactured at All American Asphalt\u2019s facility in Corona, California\
+  \ using components materials from multiple suppliers. The products are produced\
+  \ from coarse aggregates mixed and reacted with asphalt binders and other additives\
+  \ including post-consumer recycled asphalt paving material. Aggregate materials\
+  \ are sourced on-site while other materials are sourced regionally. Manufacturing\
+  \ data, including electricity and resource use, at the production facility were\
+  \ provided for calendar year 2019. PRODUCT CHARACTERISTICS The product is manufactured\
+  \ at a temperature range of 149 C (300 F) to 163 C (325 F). PRODUCT APPLICATION\
+  \ All American\u2019s asphalt mixtures are used in various road paving and surfacing\
+  \ applications PRODUCT FLOW DIAGRAM A flow diagram illustrating the production processes\
+  \ and life cycle phases included in the scope of the EPD is provided below."
+developer:
+  email: gmansell@scsglobalservices.com
+  name: Gerard Mansell
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec3262n0s3
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-06405_AllAmericanAsphalt_Polymer-Mix_091120.pdf
+gwp: 58.7 kgCO2e
+gwp_per_category_declared_unit: 0.06470567395 kgCO2e
+gwp_per_kg: 0.06470567395 kgCO2e
+gwp_z: 0.2083266665599966
+id: 092ffa67338b466aadb8bac71688cae6
+image: https://static.buildingtransparency.org/images/b1af8c04a1ac41e9bf4644434ff76ec9.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nof the product, there are no renewable\
+  \ energy resources used as raw materials in the product system. \u25AA Use of non-renewable\
+  \ primary energy excluding non-renewable primary energy resources used as raw materials\
+  \ (NRPRE). While no classification scheme is available in openLCA for energy resources\
+  \ used as raw materials, since the non-renewable primary energy resources used as\
+  \ raw materials are negligible, this parameter is equal to the total primary non-renewable\
+  \ resources used in the product system. \u25AA Use of non-renewable primary energy\
+  \ resources used as raw materials (NRPR M). Although no classification scheme is\
+  \ available in openLCA for energy resources used as raw materials, based on the\
+  \ component materials, there are negligible non-renewable primary energy resources\
+  \ used as raw materials. \u25AA Use of secondary material (SM). The products contain\
+  \ recycled materials and this parameter is reported as the secondary material used\
+  \ in the product system. \u25AA Use of renewable and nonrenewable secondary fuels\
+  \ (RSF/NRSF). The main consumption of any secondary fuel in the product system is\
+  \ the combustion of municipal solid waste, used to generate electricity in some\
+  \ regions. This parameter is assumed negligible for the current assessment. \u25AA\
+  \ Net use of fresh water (FW). There are insufficient data in the US LCI life cycle\
+  \ inventories to quantify this parameter for upstream processes. There is no water\
+  \ consumption at the production facility. Indicator not assessed for upstream processes.\
+  \ \u25AA Hazardous waste disposed (HWD). There are insufficient data in the US LCI\
+  \ life cycle inventories to quantify this parameter for upstream processes. There\
+  \ is no hazardous waste disposed at the production facility. Indicator not assessed\
+  \ for upstream processes. \u25AA Non-hazardous waste disposed (NHWD). This includes\
+  \ all wastes produced across all life cycle stages included in the study scope.\
+  \ Flows of non-hazardous waste included in the full LCI were aggregated into a single\
+  \ result for total non-hazardous waste disposal. \u25AA Radioactive wastes disposed\
+  \ (HLRW/ILLRW). There are insufficient data in the US LCI life cycle inventories\
+  \ to quantify this parameter. Indicator not assessed. \u25AA Components for re-use\
+  \ (CRU). There are no components of the product which can be reused, or recycled,\
+  \ at the end-of-life and this parameter is reported as zero. \u25AA Materials for\
+  \ recycling (MR). The product end-of-life is not considered as the product system\
+  \ scope is cradle-to- gate. Indicator not assessed. \u25AA Materials for energy\
+  \ recovery (MER). The\n\n## LCA Notes\nLife Cycle Impact Assessment ..........................................................................\
+  \ 7 Supporting Technical Information ..................................................................\
+  \ 7 References..........................................................................................................10\n\
+  \n## Source Data Notes\n10 Disclaimers: This EPD conforms to ISO 14025, 14040 and\
+  \ 14044. Scope of Results Reported: The PCR requirements limit the scope of the\
+  \ LCA metrics such that the results exclude environmental and social performance\
+  \ benchmarks and thresholds, and exclude impacts from the depletion of natural resources,\
+  \ land use ecological impacts, ocean impacts related to greenhouse gas emissions,\
+  \ risks from hazardous wastes and impacts linked to hazardous chemical emissions.\
+  \ Accuracy of Results: Due to PCR constraints, this EPD provides estimations of\
+  \ potential impacts that are inherently limited in terms of accuracy. Comparability:\
+  \ The PCR this EPD was based on was not written to support comparative assertions.\
+  \ EPDs based on different PCRs, or different calculation models, may not be comparable.\
+  \ When attempting to compare EPDs or life cycle impacts of products from different\
+  \ companies, the user should be aware of the uncertainty in the final results, due\
+  \ to and not limited to, the practitioner\u2019s assumptions, the source of the\
+  \ data used in the study, and the specifics of the product modeled. \u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \xA9 2020 SCSglobalServices.com\
+  \ 1 All American Asphalt | Environmental Product Declaration Polymer modified hot\
+  \ mix asphalt All American Asphalt All American Asphalt (AAA) is an asphalt concrete\
+  \ producer and general contractor. AAA owns one quarry that supplies our six asphalt\
+  \ plants. AAA is a leader in the Industry in the utilization of recycled products.\
+  \ Our plants are equipped with the best available technology for asphalt concrete\
+  \ production as well as safety and environmental standards. Product PRODUCT DESCRIPTION\
+  \ The product system includes the cradle-to-gate impacts of All American Asphalt\u2019\
+  s hot mix asphalt product, described below. The product is produced from coarse\
+  \ aggregates mixed and reacted with asphalt binders and other additives including\
+  \ post-consumer recycled asphalt paving material. Polymer at approximately 2% blended\
+  \ with Asphalt Binder at the refinery. The \"Polymer Binder\" is mixed with a dense\
+  \ graded aggregate Blend at approximately 5% of the total mix. The resulting Polymer\
+  \ Modified Asphalt Concrete has extremely high strength Properties as well as enhanced\
+  \ Tensile Strength Values. The reference flow for the product system is defined\
+  \ as one short ton of asphalt mixture The hot mix asphalt product is manufactured\
+  \ at All American Asphalt\u2019s facility in Corona, California using components\
+  \ materials from multiple suppliers. The products are produced from coarse aggregates\
+  \ mixed and reacted with asphalt binders and other additives including post-consumer\
+  \ recycled asphalt paving material. Aggregate materials are sourced on-site while\
+  \ other materials are sourced regionally. Manufacturing data, including electricity\
+  \ and resource use, at the production facility were provided for calendar year 2019.\
+  \ PRODUCT CHARACTERISTICS The product is manufactured at a temperature range of\
+  \ 149 C (300 F) to 163 C (325 F). PRODUCT APPLICATION All American\u2019s asphalt\
+  \ mixtures are used in various road paving and surfacing applications PRODUCT FLOW\
+  \ DIAGRAM A flow diagram illustrating the production processes and life cycle phases\
+  \ included in the scope of the EPD is provided below. \u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 2 All American Asphalt\
+  \ | Environmental Product Declaration Polymer modified hot mix asphalt MATERIAL\
+  \ CONTENT Table 1. Material component summary for the polymer modified hot mix asphalt\
+  \ product as a percentage of total mass (per declared unit). Material Percentage\
+  \ Aggregate 80.4% Asphalt Binder 4.6% Recycled Asphalt Pavement 15.0% Total 100%\
+  \ Life Cycle Assessment Stages and Reported EPD Information The EPD represents the\
+  \ potential environmental impacts from the production of the asphalt mixture (i.e.,\
+  \ cradle-to-gate). The production stage of the product life cycle includes: \u25AA\
+  \ A1 - The extraction and processing of raw materials and the manufacture of material\
+  \ components (e.g., aggregate, asphalt binder). \u25AA A2 - The transportation of\
+  \ raw materials from source to manufacturing site. \u25AA A3 - The manufacturing\
+  \ of hot mix asphalt. An overview of the life cycle stages included is shown in\
+  \ the figure below. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \ \xA9 2020 SCSglobalServices.com 3 All American Asphalt | Environmental Product\
+  \ Declaration Polymer modified hot mix asphalt Figure 1. Flow diagram representing\
+  \ the major processes in the production stage of the polymer modified hot mix asphalt\
+  \ product. Processes within the dotted lines (A1, A2 and A3) are included in the\
+  \ system boundaries. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026 4 All American Asphalt | Environmental Product Declaration\
+  \ Polymer modified hot mix asphalt Life Cycle Inventory In accordance with the PCR,\
+  \ the following aggregated inventory flows are included in the LCA: \u25AA Use of\
+  \ renewable primary energy excluding renewable primary energy resources used as\
+  \ raw materials (RPR E). Since there are no renewable energy resources used as raw\
+  \ materials, this parameter equals the total consumption of renewable primary energy\
+  \ resources. \u25AA Use of renewable primary energy resources used as raw materials\
+  \ (RPR M). Although no classification scheme is available in openLCA for this parameter,\
+  \ based on the material content of the product, there are no renewable energy resources\
+  \ used as raw materials in the product system. \u25AA Use of non-renewable primary\
+  \ energy excluding non-renewable primary energy resources used as raw materials\
+  \ (NRPRE). While no classification scheme is available in openLCA for energy resources\
+  \ used as raw materials, since the non-renewable primary energy resources used as\
+  \ raw materials are negligible, this parameter is equal to the total primary non-renewable\
+  \ resources used in the product system. \u25AA Use of non-renewable primary energy\
+  \ resources used as raw materials (NRPR M). Although no classification scheme is\
+  \ available in openLCA for energy resources used as raw materials, based on the\
+  \ component materials, there are negligible non-renewable primary energy resources\
+  \ used as raw materials. \u25AA Use of secondary material (SM). The products contain\
+  \ recycled materials and this parameter is reported as the secondary material used\
+  \ in the product system. \u25AA Use of renewable and nonrenewable secondary fuels\
+  \ (RSF/NRSF). The main consumption of any secondary fuel in the product system is\
+  \ the combustion of municipal solid waste, used to generate electricity in some\
+  \ regions. This parameter is assumed negligible for the current assessment. \u25AA\
+  \ Net use of fresh water (FW). There are insufficient data in the US LCI life cycle\
+  \ inventories to quantify this parameter for upstream processes. There is no water\
+  \ consumption at the production facility. Indicator not assessed for upstream processes.\
+  \ \u25AA Hazardous waste disposed (HWD). There are insufficient data in the US LCI\
+  \ life cycle inventories to quantify this parameter for upstream processes. There\
+  \ is no hazardous waste disposed at the production facility. Indicator not assessed\
+  \ for upstream processes. \u25AA Non-hazardous waste disposed (NHWD). This includes\
+  \ all wastes produced across all life cycle stages included in the study scope.\
+  \ Flows of non-hazardous waste included in the full LCI were aggregated into a single\
+  \ result for total non-hazardous waste disposal. \u25AA Radioactive wastes disposed\
+  \ (HLRW/ILLRW). There are insufficient data in the US LCI life cycle inventories\
+  \ to quantify this parameter. Indicator not assessed. \u25AA Components for re-use\
+  \ (CRU). There are no components of the product which can be reused, or recycled,\
+  \ at the end-of-life and this parameter is reported as zero. \u25AA Materials for\
+  \ recycling (MR). The product end-of-life is not considered as the product system\
+  \ scope is cradle-to- gate. Indicator not assessed. \u25AA Materials for energy\
+  \ recovery (MER). The production of materials for energy recovery crossing the system\
+  \ boundaries is negligible. \u25AA Recovered energy (RE). The recovered energy crossing\
+  \ the system boundaries is negligible. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026 \xA9 2020 SCSglobalServices.com 5 All American Asphalt | Environmental\
+  \ Product Declaration Polymer modified hot mix asphalt \u25AA Exported energy (EE).\
+  \ The exported energy crossing the system boundaries is negligible. All results\
+  \ are calculated using the OpenLCA v1.10 model using primary and secondary inventory\
+  \ data, as prescribed by the PCR. Table 2. Results for resource use, wastes, and\
+  \ output flows for the declared unit for Polymer modified hot mix asphalt. Raw Material\
+  \ Transportation Manufacturing Impact Category Units Total Extraction & of Raw of\
+  \ the Product Processing Materials Resources Renewable primary resources used as\
+  \ energy MJ 1.10 0.987 7.96x10-2 3.51x10-2 carrier (RPRE) % 100% 90% 7.2% 3.2% Renewable\
+  \ primary resources with energy MJ 0.00 0.00 0.00 0.00 content used as material\
+  \ (RPRM) % 0.00 0.00 0.00 0.00 Non-renewable primary resources used as an MJ 3,400\
+  \ 2,890 233 278 energy carrier (NRPRE) % 100% 85% 6.8% 8.2% Non-renewable primary\
+  \ resources with energy MJ Neg. Neg. Neg. Neg. content used as material (NRPRM)\
+  \ kg 136 136 0.00 0.00 Secondary materials (SM) % 100% 100% 0% 0% Renewable / Non-renewable\
+  \ secondary fuels MJ 0.00 0.00 0.00 0.00 (RSF/NRSF) Recovered energy (RE) MJ 0.00\
+  \ 0.00 0.00 0.00 Total water gallons INA INA INA 0.00 Wastes Hazardous waste disposed\
+  \ (HWD) kg INA INA INA 0.00 kg 2.61 2.28 0.181 0.149 Non-hazardous waste disposed\
+  \ (NHWD) % 100% 87% 6.9% 5.7% High-level radioactive waste, conditioned, to kg INA\
+  \ INA INA INA final repository (HLRW) Intermediate- and low-level radioactive waste,\
+  \ kg INA INA INA INA conditioned, to final repository (ILLRW) Components for re-use\
+  \ (CRU) kg 0.00 0.00 0.00 0.00 Materials for recycling (MR) Kg INA INA INA INA Materials\
+  \ for energy recovery (MER) kg Neg. Neg. Neg. Neg. Recovered energy exported from\
+  \ the product"
+lowest_plausible_gwp: 48.40826268 kgCO2e
+manufacturer:
+  address: 400 E 6th St, Corona, CA 92879, USA
+  address_line: 400 E 6th St
+  admin_district: CA
+  admin_district2: Riverside County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-12-06T16:08:07.635692Z'
+  enterprise: false
+  id: cc1db8964bd04078b04dea4da1fe34ca
+  is_failed: false
+  latitude: 33.8746771
+  locality: Corona
+  location:
+  - long_name: '400'
+    short_name: '400'
+    types:
+    - street_number
+  - long_name: East 6th Street
+    short_name: E 6th St
+    types:
+    - route
+  - long_name: Corona
+    short_name: Corona
+    types:
+    - locality
+    - political
+  - long_name: Riverside County
+    short_name: Riverside County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '92879'
+    short_name: '92879'
+    types:
+    - postal_code
+  - long_name: '1521'
+    short_name: '1521'
+    types:
+    - postal_code_suffix
+  longitude: -117.562505
+  name: All American Asphalt
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/cc1db8964bd04078b04dea4da1fe34ca
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '92879'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-12-06T16:08:07.635702Z'
+  web_domain: allamericanasphalt.com
+  website: http://www.allamericanasphalt.com/
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: 3cf9f6456ca5433680c5cd3212326735
+my_capabilities: 1
+name: Polymer modified hot mix asphalt
+not_an_epd: false
+open_xpd_uuid: ec3262n0
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3262n0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NAPA Product Category Rules (PCR) For Asphalt Mixtures
+  - Product Category Rules for Asphalt Mixtures Version 1.0 dated 1/1/2017, www.AsphaltPavement.org/PCR
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:56.966357Z'
+  date_of_issue: '2017-01-31'
+  date_validity_ends: '2022-01-31'
+  declared_units:
+  - 1 tonne
+  doc: http://www.asphaltpavement.org/PDFs/EPD_Program/NAPA_Product_Category_Rules_%20final.pdf
+  id: 102825d8adb74ce7a094c407aed27bc6
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: NAPA PCR For Asphalt Mixtures
+  open_xpd_uuid: ec3ygf1b
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ygf1b
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3ygf1bgq
+  short_name: Asphalt Mixtures
+  status: Expired
+  updated_on: '2025-08-03T18:32:26.833221Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.0760503724 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 1776 All American Way, Corona, CA 92879, USA
+  address_line: 1776 All American Way
+  admin_district: CA
+  admin_district2: Riverside County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-12-06T16:08:59.074517Z'
+  id: 1fe5a3f3bfe443c2905d7cbdcf189729
+  is_failed: false
+  latitude: 33.8684203
+  locality: Corona
+  location:
+  - long_name: '1776'
+    short_name: '1776'
+    types:
+    - street_number
+  - long_name: All American Way
+    short_name: All American Way
+    types:
+    - route
+  - long_name: Corona
+    short_name: Corona
+    types:
+    - locality
+    - political
+  - long_name: Riverside County
+    short_name: Riverside County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '92879'
+    short_name: '92879'
+    types:
+    - postal_code
+  - long_name: '2070'
+    short_name: '2070'
+    types:
+    - postal_code_suffix
+  longitude: -117.5236713
+  name: AAA Corona
+  openepd_id: 8554VF9G+9G.allamericanasphalt.com
+  owned_by:
+    address: 400 E 6th St, Corona, CA 92879, USA
+    address_line: 400 E 6th St
+    admin_district: CA
+    admin_district2: Riverside County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-12-06T16:08:07.635692Z'
+    enterprise: false
+    id: cc1db8964bd04078b04dea4da1fe34ca
+    is_failed: false
+    latitude: 33.8746771
+    locality: Corona
+    location:
+    - long_name: '400'
+      short_name: '400'
+      types:
+      - street_number
+    - long_name: East 6th Street
+      short_name: E 6th St
+      types:
+      - route
+    - long_name: Corona
+      short_name: Corona
+      types:
+      - locality
+      - political
+    - long_name: Riverside County
+      short_name: Riverside County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: California
+      short_name: CA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '92879'
+      short_name: '92879'
+      types:
+      - postal_code
+    - long_name: '1521'
+      short_name: '1521'
+      types:
+      - postal_code_suffix
+    longitude: -117.562505
+    name: All American Asphalt
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/cc1db8964bd04078b04dea4da1fe34ca
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92879'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-12-06T16:08:07.635702Z'
+    web_domain: allamericanasphalt.com
+    website: http://www.allamericanasphalt.com/
+  postal_code: '92879'
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2021-12-06T16:08:59.074525Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-06405
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3262n0s3
+standard_deviation: 12.22877533 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 68.99173732 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T01:30:15.744837Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

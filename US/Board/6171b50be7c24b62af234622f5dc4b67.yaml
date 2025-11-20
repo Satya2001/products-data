@@ -1,0 +1,590 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 1.074663771 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '754814897793'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.56 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.161773448 kgCO2e
+  pct20_gwp: 2.826833427 kgCO2e
+  pct30_gwp: 3.371672829 kgCO2e
+  pct40_gwp: 4.209539511 kgCO2e
+  pct50_gwp: 5.404156868 kgCO2e
+  pct60_gwp: 6.928031479 kgCO2e
+  pct70_gwp: 8.914929053 kgCO2e
+  pct80_gwp: 11.81690411 kgCO2e
+  pct90_gwp: 16.63461223 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-11-19T07:58:03.237339Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.885336229 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-01-04T09:06:07.604107Z'
+date_of_issue: '2015-08-19'
+date_validity_ends: '2020-08-18'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+density: 165 kg / m^3
+description: "FOAMGLAS\xAE is an insulating material made of foamed glass for building\
+  \ construction and industrial installations. It is used to manufacture dimensionallyaccurate\
+  \ slabs, boards, pipe shells, segments and other special elements. FOAMGLAS\xAE\
+  \ slabs and elements are largely manufactured from high-quality recycled glass (e.g.\
+  \ windscreens) and mineral base materials such as sand and without the use of binding\
+  \ agents. They display a closed-cell structure. The product FOAMGLAS\xAE\uFFFDF\
+  \ is declared with a gross density of 165 kg/m\xB3 (\xB1 15 %). The products are\
+  \ supplied in thicknesses of 40 mm to 160 mm, e.g. as slabs with high compressive\
+  \ strength. The use of coated or uncoated FOAMGLAS\xAE is application-dependent.\
+  \ The uncoated slab is frequently used for interior insulation, and then coated\
+  \ with various types of plaster. For roofs, FOAMGLAS\xAE is either coated with hot\
+  \ bitumen before the waterproofing membranes are applied, or special boards are\
+  \ used, for example FOAMGLAS\xAE READY BOARD. This ex-works coating 2 is a thin\
+  \ bitumen coating combined with foil or nonwoven fabric. The products by Pittsburgh\
+  \ Corning Europe NV are produced in the Tessenderlo plant (Belgium)."
+developer:
+  email: info@bau-umwelt.com
+  name: Institut Bauen und Umwelt e.V. Staff
+  org:
+    address: Via Giotto, 20071 Vermezzo con Zelo
+    address_line: ' Via Giotto'
+    admin_district: Lombardia
+    admin_district2: Milano
+    alt_names:
+    - DAW ITALIA GMBH & CO KG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-12-02T11:35:31.062730Z'
+    enterprise: true
+    id: 486e8fdf2f26499b9053b4d7c39fc7f9
+    is_failed: false
+    latitude: 45.39759
+    locality: Vermezzo con Zelo
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Milano
+      countrySubdivision: Lombardia
+      freeformAddress: Via Giotto, 20071 Vermezzo con Zelo
+      localName: Vermezzo con Zelo
+      municipality: Vermezzo con Zelo
+      municipalitySubdivision: Vermezzo
+      postalCode: '20071'
+      streetName: Via Giotto
+    longitude: 8.98038
+    name: DAW Italia
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/486e8fdf2f26499b9053b4d7c39fc7f9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20071'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:45.976987Z'
+    web_domain: dawitalia.it
+    website: https://www.dawitalia.it/
+doc: buildingtransparency.org/e/ec32sx40uy
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: EPD-FOAMGLAS-F-2015-en_89bc70509b01420b992d8d0831ce2d79.pdf
+gwp: 1.48 kgCO2e
+gwp_per_kg: 1.48 kgCO2e
+gwp_z: 0.32542280190545964
+id: 83cea6c8cf6b4e51932b90e9177f5400
+image: https://static.buildingtransparency.org/images/e92aa752245540859d303a021d83c27a.png
+impacts: {}
+insulating_material: Other
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nDeclared unit 1 kg Gross density\
+  \ 165 kg/m3 3.2 System boundary Type of EPD: cradle to gate The LCA addresses the\
+  \ life cycle stage of production. The product stage comprises Modules A1 (Raw material\
+  \ supply), A2 (Transport) and A3 (Production). The following individual processes\
+  \ were included in the product stage A1-A3 of production: \xB7 Processes for providing\
+  \ preliminary products and energy \xB7 Transporting the raw materials and preliminary\
+  \ materials to the plant \xB7 Manufacturing process in the plant including energy-\
+  \ related expenses, disposal of residual materials and emissions \xB7 Production\
+  \ of packaging The packaging material volumes considered involve annual consumption\
+  \ / annual purchase volumes. Module A4 takes account of transportation to the construction\
+  \ site. The utilisation of the packaging materials is assigned to Module A5. Environmental\
+  \ effects caused by installation losses are not included in the LCA results, since\
+  \ these depend on the construction project and thus vary. To calculate the additional\
+  \ environmental burdens caused by the production and disposal of these installation\
+  \ losses, the LCA results for a specific installation loss can be calculated (e.g.\
+  \ installation loss 3%, multiplication of the LCA results by 1.03). Landfilling\
+  \ with residual materials is assigned to Module C4. Credits based on the thermal\
+  \ utilisation of the residual materials are assigned to Module D. 3.3 Estimates\
+  \ and assumptions In the product system, external cullet or waste glass is used\
+  \ as a neutral preliminary product within the framework of the LCA. This recycled\
+  \ glass is regarded as a waste product and is therefore calculated as input without\
+  \ loads. According to Pittsburgh Corning Europe NV, the average transportation distance\
+  \ was defined as 350 km. 3.4 Cut-off criteria All operating data was taken into\
+  \ consideration in the analysis. Processes whose entire contribution towards the\
+  \ final manufacturing result in terms of mass and less than 1% were ignored. It\
+  \ can be assumed that the processes ignored would each have contributed less than\
+  \ 5 % to the impact categories under review. Machinery, plants and infrastructure\
+  \ required in the manufacturing process were not considered. 3.5 Background data\
+  \ \"GaBi 6\" - the software system for comprehensive analysis (GaBi 6) developed\
+  \ by thinkstep AG - was used to model the FOAMGLAS\xAE life cycle. The data sets\
+  \ contained in the GaBi data base are documented in the online GaBi documentation\
+  \ (GaBi 6 Doku). The basic data in the GaBi data base was applied for energy, transport,\
+  \ preliminary products and auxiliaries. No data records from other data bases were\
+  \ used. The Life Cycle Assessment was drawn up for Belgium as a reference area.\
+  \ This means that apart from the production processes under these marginal conditions,\
+  \ the upstream stages also of relevance for Belgium such as provision of energy\
+  \ carriers were used. Pittsburgh Corning Europe NV procures electricity from Norwegian\
+  \ run-of-river power stations, for which the hydropower mix for 2009 was used. 3.6\
+  \ Data quality All of the background data sets of relevance for the LCA were taken\
+  \ from the GaBi 6 software data base. The background data used for the LCA was last\
+  \ revised less than 4 years ago. 7 Environmental Product Declaration Pittsburgh\
+  \ Corning Europe NV - FOAMGLAS\xAE F Pittsburgh Corning Europe NV supplied current\
+  \ primary production data for 2013. This production data was examined for plausibility.\
+  \ According to the manufacturer, there is very good representativity of the declared\
+  \ product. The corresponding data sets were available in the data base for al preliminary\
+  \ products used. The data quality can be regarded as very good. 3.7 Period under\
+  \ review The data in this LCA are based on primary data on FOAMGLAS\xAE F production\
+  \ in 2013 supplied by Pittsburgh Corning Europe NV. The volumes of raw materials,\
+  \ energy, auxiliaries and consumables used are considered as average annual values.\
+  \ 3.8 Allocation The plastic waste incurred is burned in a waste incineration p"
+lowest_plausible_gwp: 1.074663771 kgCO2e
+manufacturer:
+  address: 3060 Bertem (Korbeek-Dijle)
+  admin_district: Flemish Region
+  admin_district2: Flemish Brabant
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-10-15T19:24:35.379823Z'
+  email_extensions: []
+  enterprise: true
+  id: 1067618b705f4e5d9fe763c183fc4538
+  is_failed: false
+  latitude: 50.86253
+  locality: Bertem
+  location:
+    country: Belgium
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: Flemish Brabant
+    countrySubdivision: Flemish Region
+    countryTertiarySubdivision: Leuven
+    freeformAddress: 3060 Bertem (Korbeek-Dijle)
+    municipality: Bertem
+    municipalitySubdivision: Korbeek-Dijle
+    postalCode: '3060'
+  longitude: 4.62917
+  name: Pittsburgh Corning Europe NV
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1067618b705f4e5d9fe763c183fc4538
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '3060'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-06-23T09:46:55.297147Z'
+  web_domain: foamglas.com
+  website: www.foamglas.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 6171b50be7c24b62af234622f5dc4b67
+my_capabilities: 1
+name: "FOAMGLAS\xAE F"
+not_an_epd: false
+open_xpd_uuid: ec32sx40
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32sx40
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:56.250471Z'
+  date_of_issue: '2013-04-11'
+  date_validity_ends: '2013-07-08'
+  declared_units:
+  - 1.0 kg
+  doc: https://epd-online.com/Pcr/PdfDownload/5338
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 56e569c51cbf4f0b95a627ae461208e5
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Mineral insulating materials'
+  open_xpd_uuid: ec34ff8q
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec34ff8q
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec34ff8qp9
+  short_name: Mineral insulating materials
+  status: Sunset
+  updated_on: '2023-10-17T11:30:11.941671Z'
+  version: 1.0/1.0/1.0
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Willows, CA 95988, USA
+  admin_district: CA
+  admin_district2: Glenn County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-08-02T14:41:27.639653Z'
+  id: 1d65e4b0babd4fda91eb64c7d6db972e
+  is_failed: false
+  latitude: 39.5243265
+  locality: Willows
+  location:
+  - long_name: Willows
+    short_name: Willows
+    types:
+    - locality
+    - political
+  - long_name: Glenn County
+    short_name: Glenn County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '95988'
+    short_name: '95988'
+    types:
+    - postal_code
+  longitude: -122.1935931
+  name: the facility over the temporal scope
+  openepd_id: 84FVGRF4+PH.foamglas.com
+  owned_by:
+    address: 3060 Bertem (Korbeek-Dijle)
+    admin_district: Flemish Region
+    admin_district2: Flemish Brabant
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-10-15T19:24:35.379823Z'
+    email_extensions: []
+    enterprise: true
+    id: 1067618b705f4e5d9fe763c183fc4538
+    is_failed: false
+    latitude: 50.86253
+    locality: Bertem
+    location:
+      country: Belgium
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: Flemish Brabant
+      countrySubdivision: Flemish Region
+      countryTertiarySubdivision: Leuven
+      freeformAddress: 3060 Bertem (Korbeek-Dijle)
+      municipality: Bertem
+      municipalitySubdivision: Korbeek-Dijle
+      postalCode: '3060'
+    longitude: 4.62917
+    name: Pittsburgh Corning Europe NV
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1067618b705f4e5d9fe763c183fc4538
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '3060'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-23T09:46:55.297147Z'
+    web_domain: foamglas.com
+    website: www.foamglas.com
+  postal_code: '95988'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-20T22:00:08.458251Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-PCE-20150041-IBA1-EN
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32sx40uy
+standard_deviation: 0.4816257468 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.885336229 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-06-20T20:48:29.207501Z'
+use_stored_carbon: false
+verifier:
+  email: info@thinkstep.com
+  name: Thinkstep Staff
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Verifier is not employee of verifier org

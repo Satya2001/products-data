@@ -1,0 +1,546 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  Datasheet: https://res.cloudinary.com/knauf-insulation/image/upload/Knauf%20Insulation/Blowing%20Insulation/JetSpray%20Thermal/Literature/knauf-jetspray-data-sheet.pdf
+  TransparencyCatalogURL: https://transparencycatalog.com/company/knauf-insulation
+best_practice: 1.591617495 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '522447168800'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-12-23T15:54:26Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Spray-on insulation, such as spray-on cellulose.  Foaming sprays are
+    categorized separately under foamed-in-place.
+  display_name: Sprayed
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d06e93dfb8844dd68a6646bd936991d5
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.516 kg
+  massless: false
+  masterformat: 07 21 29 Sprayed Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: SprayedInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> SprayedInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> SprayedInsulation
+  parents: []
+  pct10_gwp: 0.2921864718 kgCO2e
+  pct20_gwp: 1.114688391 kgCO2e
+  pct30_gwp: 2.277168569 kgCO2e
+  pct40_gwp: 2.884236333 kgCO2e
+  pct50_gwp: 3.321651706 kgCO2e
+  pct60_gwp: 3.652368022 kgCO2e
+  pct70_gwp: 3.922702734 kgCO2e
+  pct80_gwp: 4.199445952 kgCO2e
+  pct90_gwp: 5.090668645 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Sprayed
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-11-20T07:57:33.081867Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 2.268382505 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-12T10:06:27.130865Z'
+date_of_issue: '2018-12-03'
+date_validity_ends: '2023-12-03'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "JetSpray Thermal Insulation is a high-performance, spray-on insulation\
+  \ system withan adhesive added. Knauf Insulation\u2019sstabilized fiber technology\
+  \ allows theJetSpray spray-on insulation system to beapplied in a net-less, side\
+  \ wall application\u2014creating a custom insulation solution forevery project."
+doc: buildingtransparency.org/e/ec3zju7es7
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: JetSpray-2018_EPD_Knauf-Insulation_03222019.pdf
+gwp: 1.93 kgCO2e
+gwp_per_category_declared_unit: 1.93 kgCO2e
+gwp_per_kg: 1.892156863 kgCO2e
+gwp_z: 0.2083266665599966
+id: add823e06a1c4bcba9a036475fbf924c
+image: https://static.buildingtransparency.org/images/5d65936433864d22862e240b8b7c8c91.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Fiberglass
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## LCA Notes\nSpray-on insulation system installed in North America\
+  \ using a blowing wool machine and water pump, used to activate the powdered adhesive.\
+  \ It is sprayed onto exterior and interior cavity walls for thermal and acoustical\
+  \ performance. Insulation is delivered to the installation site as one packaged\
+  \ bag containing varying amounts of product.\n\n## Source Data Notes\nLCA Background\
+  \ Report Knauf Insulation and Manson Insulation Products LCA Background Report (public\
+  \ version), Knauf 2018. GaBi 7, GaBi 2017 database. PCRs ISO 21930:2017 serves as\
+  \ the core PCR along with EN 15804 and UL Part A. ULE PCR Part A: Life Cycle Assessment\
+  \ Calculation Rules and Report Requirements v3.1 May 2, 2018. Technical Advisory\
+  \ Panel members reviewed and provided feedback on content written by UL Environment\
+  \ and USGBC. Past and present members of the Technical Advisory Panel are listed\
+  \ in the PCR. ULE PCR Part B: Building Envelope Thermal Insulation Version 2.0,\
+  \ April 2018. PCR review conducted by Thomas Gloria, PhD (chair, t.gloria@industrial-ecology.com);\
+  \ Andre Desjarlais; and Christoph Koffler, PhD. ULE General Program Instructions\
+  \ v2.1, April 2017 ISO 14025, \u201CSustainability in buildings and civil engineering\
+  \ works -- Core rules for environmental product declarations of construction products\
+  \ and services\u201D, ISO21930:2017 Download PDF"
+lowest_plausible_gwp: 1.591617495 kgCO2e
+manufacturer:
+  address: 1 Knauf Dr, Shelbyville, IN 46176, USA
+  address_line: 1 Knauf Dr
+  admin_district: IN
+  admin_district2: Shelby County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-11-23T21:31:18.421189Z'
+  enterprise: false
+  id: 46ff5de60a574131ab2b3d235b3e0815
+  is_failed: false
+  latitude: 39.5335616
+  locality: Shelbyville
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: Knauf Drive
+    short_name: Knauf Dr
+    types:
+    - route
+  - long_name: Shelbyville
+    short_name: Shelbyville
+    types:
+    - locality
+    - political
+  - long_name: Addison Township
+    short_name: Addison Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Shelby County
+    short_name: Shelby County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Indiana
+    short_name: IN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '46176'
+    short_name: '46176'
+    types:
+    - postal_code
+  - long_name: '8626'
+    short_name: '8626'
+    types:
+    - postal_code_suffix
+  longitude: -85.7753948
+  name: Knauf Insulation North America
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/46ff5de60a574131ab2b3d235b3e0815
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '46176'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:52:24.741018Z'
+  web_domain: knaufinsulation.us
+  website: knaufinsulation.us
+manufacturer_specific: true
+mass_per_declared_unit: 1.02 kg
+matched_plants_count: 0
+material_id: e2c84fe73acd4e1bbeaabe3661006b33
+my_capabilities: 1
+name: JetSpray Thermal Spray-On Insulation System
+not_an_epd: false
+open_xpd_uuid: ec3zju7e
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zju7e
+output_flows: {}
+owner:
+  name: cqd.io Script
+  user_id: script@cqd.io
+pcr:
+  alt_names:
+  - 'Part B: Building Envelope Thermal Insulation EPD requirements'
+  - 'Part B: Building Thermal Insulation EPD Requirements UL 10010-1(2nd edition,
+    April 10, 2018)'
+  - 'PCR for preparing an EPD for Product Group: Building Envelope Thermal Insulation'
+  - PCR for Building Envelope Thermal Insulation
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.470071Z'
+  date_of_issue: '2023-04-06'
+  date_validity_ends: '2024-04-06'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34197
+  id: af1087300982459398cb8bd7734ce08d
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 4
+    IPCC AR5:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Building Envelope Thermal Insulation Products'
+  open_xpd_uuid: ec3qgwtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qgwtt
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qgwttac
+  short_name: 'Part B: Building Envelope Thermal Insulation'
+  status: Expired
+  updated_on: '2025-11-20T20:50:04.713284Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2.268382505 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Shasta Lake, CA, United States
+  admin_district: CA
+  admin_district2: Shasta County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-11-23T21:31:18.432207Z'
+  id: 39c40ba6eded4af2aff9c164b6d5b732
+  is_failed: false
+  latitude: 40.681068420410156
+  locality: Shasta Lake
+  location:
+    adminDistrict: CA
+    adminDistrict2: Shasta County
+    countryRegion: United States
+    countryRegionIso2: US
+    formattedAddress: Shasta Lake, CA
+    locality: Shasta Lake
+  longitude: -122.3705825805664
+  name: Shasta Lake, CA
+  openepd_id: 84GVMJJH+CQ.knaufinsulation.us
+  owned_by:
+    address: 1 Knauf Dr, Shelbyville, IN 46176, USA
+    address_line: 1 Knauf Dr
+    admin_district: IN
+    admin_district2: Shelby County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-11-23T21:31:18.421189Z'
+    enterprise: false
+    id: 46ff5de60a574131ab2b3d235b3e0815
+    is_failed: false
+    latitude: 39.5335616
+    locality: Shelbyville
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Knauf Drive
+      short_name: Knauf Dr
+      types:
+      - route
+    - long_name: Shelbyville
+      short_name: Shelbyville
+      types:
+      - locality
+      - political
+    - long_name: Addison Township
+      short_name: Addison Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Shelby County
+      short_name: Shelby County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Indiana
+      short_name: IN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '46176'
+      short_name: '46176'
+      types:
+      - postal_code
+    - long_name: '8626'
+      short_name: '8626'
+      types:
+      - postal_code_suffix
+    longitude: -85.7753948
+    name: Knauf Insulation North America
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/46ff5de60a574131ab2b3d235b3e0815
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '46176'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:52:24.741018Z'
+    web_domain: knaufinsulation.us
+    website: knaufinsulation.us
+  total_epds: 10
+  type: Plant
+  updated_on: '2021-11-23T21:31:22.325165Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Broadway, Cambridge, MA 02139
+  address_line: ' Broadway'
+  admin_district: MA
+  admin_district2: Middlesex
+  alt_names:
+  - Sustainable Minds LLC.
+  - sminds
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-12T10:00:38.592854Z'
+  email_extensions:
+  - sustainableminds.com
+  - ebsqart.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
+  id: 321e5dc991904465af04913936fd75c8
+  image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+  is_failed: false
+  latitude: 42.36484
+  locality: Cambridge
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Middlesex
+    countrySubdivision: MA
+    countrySubdivisionName: Massachusetts
+    countryTertiarySubdivision: Cambridge
+    freeformAddress: Broadway, Cambridge, MA 02139
+    municipality: Cambridge
+    municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+    postalCode: 02139
+    streetName: Broadway
+  longitude: -71.08975
+  name: Sustainable Minds
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: 02139
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: true
+  updated_on: '2025-07-22T02:03:03.572846Z'
+  web_domain: sustainableminds.com
+  website: https://www.sustainableminds.com
+program_operator_fkey: "KNA \u2013 11072017 \u2013 002"
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zju7es7
+standard_deviation: 0.4020704665 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 36.6 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.268382505 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T05:42:57.725436Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 789 North Dixboro Road, Ann Arbor, MI 48105
+    address_line: 789 North Dixboro Road
+    admin_district: MI
+    admin_district2: Washtenaw
+    alt_names:
+    - NSF
+    - NSF Certification LLC
+    - NSF Certification
+    attachments:
+      Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-08-01T22:31:34.491119Z'
+    email_extensions:
+    - nsf.org
+    enterprise: true
+    id: a44683606c014062ac954e094362582e
+    image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+    is_failed: false
+    latitude: 42.28365
+    legal_name: NSF International
+    locality: Ann Arbor
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Washtenaw
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+      freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+      localName: Ann Arbor
+      municipality: Ann Arbor
+      municipalitySubdivision: Ann Arbor
+      postalCode: '48105'
+      streetName: North Dixboro Road
+      streetNumber: '789'
+    longitude: -83.67447
+    name: NSF International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:00:07.818662Z'
+    web_domain: nsf.org
+    website: https://www.nsf.org/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  verifier:
+  - Missing link

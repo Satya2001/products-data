@@ -1,0 +1,740 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+best_practice: 0.7413803774 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '977571437318'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-10-27T08:03:27.931027Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Premanufactured membrane roofing sheets consisting of asphalt, reinforcing
+    layers, and in some cases a surfacing.
+  display_name: Bituminous Roofing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: a9fd6c7eca5a4d5382ece6423f0326ec
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 9.0711 kg
+  massless: false
+  masterformat: 07 50 00 Membrane Roofing
+  may_contain_trusted_vendor_declarations: false
+  name: BituminousRoofing
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> MembraneRoofing >> BituminousRoofing
+  openepd_name: ThermalMoistureProtection >> MembraneRoofing >> BituminousRoofing
+  parents: []
+  pct10_gwp: 2.522890441 kgCO2e
+  pct20_gwp: 3.21194098 kgCO2e
+  pct30_gwp: 3.859360503 kgCO2e
+  pct40_gwp: 4.535099772 kgCO2e
+  pct50_gwp: 5.095973769 kgCO2e
+  pct60_gwp: 6.082432757 kgCO2e
+  pct70_gwp: 7.415598056 kgCO2e
+  pct80_gwp: 9.339157353 kgCO2e
+  pct90_gwp: 10.75919875 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Bituminous
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-11-20T07:57:39.113396Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.056619623 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-06-29T09:50:36.549486Z'
+date_of_issue: '2020-04-01'
+date_validity_ends: '2025-04-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: 'Commercial Roofing systems for low-slope roofing are asphalt based systems
+  with a base sheet and a cap sheet.
+
+  Roof systems may consist of one or multiple materials depending on the desired performance,
+  warranty, and cost (see
+
+  Figure 1). CertainTeed offers over forty roll good products, which equates to hundreds
+  of system configurations and
+
+  specification options. This EPD is specific to the
+
+  BUR Non-Modified Asphalt Commercial Roofing
+
+  products. BUR Non-modified asphalt products
+
+  are manufactured using an extra strength
+
+  fiberglass reinforced mat that receives a coating
+
+  of weathering grade asphalt and is then lightly
+
+  surfaced with a mineral release agent. BUR Non-
+
+  Modified Asphalt products provide additional
+
+  strength and moisture resistance.
+
+  Reinforcement mats serve as the structure to
+
+  asphalt based low-slope roll goods. The
+
+  fiberglass mats are impregnated and coated with
+
+  asphalt. Fiberglass stands up well to heat and
+
+  tension. Its inherently high melting point affords
+
+  superior fire resistance. Fiberglass-reinforced
+
+  products applied in hot asphalt retain excellent
+
+  dimensional stability. Additionally, fiberglass has
+
+  superior tensile strength.
+
+  CertainTeed BUR Non-Modified Asphalt                            Figure 1: Diagram
+  of Commercial Roofing System
+
+  Commercial Roofing systems are available only
+
+  in a Hot Asphalt applied application. Hot asphalt application is proven, durable,
+  and cost-effective, but is limited by
+
+  fumes/odor, burn risk, and require the availability of trained labor and appropriate
+  equipment.
+
+  The BUR Non-Modified Asphalt Commercial Roofing Base Sheets and Cap Sheets included
+  in this EPD and the
+
+  underlying Life Cycle Assessment Study are shown in Table 1.'
+developer:
+  email: epd@ul.com
+  name: UL Peer Review Panel
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+doc: buildingtransparency.org/e/ec3fm0qpa4
+epd_degraded: true
+excluded: false
+externally_verified: true
+felt_backing: false
+file_name: BURNon-ModifiedAsphaltRoofing_6d1a0c645685a66a5e615fd824ad40b74ad96d71.pdf
+gwp: 0.899 kgCO2e
+gwp_per_category_declared_unit: 0.899 kgCO2e
+gwp_per_kg: 0.7969858156 kgCO2e
+gwp_z: 0.2083266665599966
+id: 3d3f302f14484c65b84f8c162cc395db
+image: https://static.buildingtransparency.org/images/b2aa592cbca6445e83775f995ac19a62.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.7413803774 kgCO2e
+manufacturer:
+  address: 20 Moores Rd, Malvern, PA 19355, USA
+  address_line: 20 Moores Rd
+  admin_district: PA
+  admin_district2: Chester County
+  alt_names:
+  - CertainTeed Gypsum, Inc
+  - CertainTeed Insulation Group
+  - CertainTeed
+  - CertainTeed Ceilings
+  - CertainTeed Gypsum Canada
+  - CertainTeed Gypsum
+  - CertainTeed Gypsum, Inc.
+  - Certainteed Gypsum
+  - CertainTeed Insulation
+  - CertainTeed Roofing
+  - CertainTeed Saint-Gobain
+  attachments:
+    Ecomedes: https://saintgobain.ecomedes.com/
+    TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:09.590285Z'
+  currency: USD
+  email_extensions:
+  - certainteed.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+  id: 4f0f4939d54945a08051f4c048ac71c0
+  image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+  is_failed: false
+  latitude: 40.0539584
+  legal_name: CertainTeed
+  locality: Malvern
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Moores Road
+    short_name: Moores Rd
+    types:
+    - route
+  - long_name: Malvern
+    short_name: Malvern
+    types:
+    - locality
+    - political
+  - long_name: East Whiteland Township
+    short_name: East Whiteland Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chester County
+    short_name: Chester County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19355'
+    short_name: '19355'
+    types:
+    - postal_code
+  - long_name: '1114'
+    short_name: '1114'
+    types:
+    - postal_code_suffix
+  longitude: -75.5576008
+  name: CertainTeed Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: true
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-06-10T22:47:30.631306Z'
+  web_domain: certainteed.com
+  website: www.certainteed.com
+manufacturer_specific: true
+mass_per_declared_unit: 1.1279999999999997 kg
+matched_plants_count: 0
+material_id: 6aba10f6d8ab4e408b79240c87af7db0
+membrane_roofing_reinforcement: Fiberglass
+my_capabilities: 1
+name: BUR Non-Modified Asphalt Base Sheets (40 mils)
+not_an_epd: false
+nsf347: false
+open_xpd_uuid: ec3fm0qp
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fm0qp
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - ASTM PCR for asphalt shingles, built-up asphalt membrane roofing and modified
+    bituminous membrand roofing
+  - PCR Asphalt Shingles, Built-up Asphalt Membrane Roofing and Modified Bituminous
+    Membrane Roofing, v1.0, ASTM International, July 2014
+  - 'ASTM: Asphalt shingles, built-up and modified bituminous membrane roofing. 2014'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:55:55.690433Z'
+  date_of_issue: '2014-07-01'
+  date_validity_ends: '2019-06-01'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://www.astm.org/CERTIFICATION/DOCS/260.PCR_for_Asphalt_Shingles_Built-up_Asphalt_Membrane_Roofing_and_Modified_Bituminous_Membrane_Roofing.pdf'
+  id: 3aab2b3f750a4840931665b47b0ee100
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: Asphalt Shingles, Built-up Asphalt and Modified Bituminous Membrane Roofing
+  open_xpd_uuid: ec314m1y
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec314m1y
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec314m1y4j
+  short_name: Asphalt Shingles, Built-up Asphalt and Modified Bituminous Membrane
+    Roofing
+  status: Sunset
+  updated_on: '2025-11-20T18:20:03.907050Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 1.056619623 kgCO2e
+plant_geography:
+- US-AR
+plant_or_group:
+  address: 2701 E Roosevelt Rd, Little Rock, AR 72206, USA
+  address_line: 2701 E Roosevelt Rd
+  admin_district: AR
+  admin_district2: Pulaski County
+  carbon_intensity: 858.369 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:17:49.560510Z'
+  id: 9983d59a8bcf4c278277d82f8f7d26c4
+  is_failed: false
+  latitude: 34.7212495
+  locality: Little Rock
+  location:
+  - long_name: '2701'
+    short_name: '2701'
+    types:
+    - street_number
+  - long_name: East Roosevelt Road
+    short_name: E Roosevelt Rd
+    types:
+    - route
+  - long_name: Little Rock
+    short_name: Little Rock
+    types:
+    - locality
+    - political
+  - long_name: Big Rock Township
+    short_name: Big Rock Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Pulaski County
+    short_name: Pulaski County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arkansas
+    short_name: AR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '72206'
+    short_name: '72206'
+    types:
+    - postal_code
+  - long_name: '2521'
+    short_name: '2521'
+    types:
+    - postal_code_suffix
+  longitude: -92.2419645
+  name: Little Rock, AR
+  openepd_id: 8669PQC5+F6.certainteed.com
+  owned_by:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-10T22:47:30.631306Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+  postal_code: '72206'
+  total_epds: 6
+  type: Plant
+  updated_on: '2025-04-01T18:00:26.010777Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4789064623.102.
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fm0qpa4
+standard_deviation: 0.1872856732 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness: 40 mil
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.056619623 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T02:32:34.085361Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

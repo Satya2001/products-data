@@ -1,0 +1,622 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+astm_standards: []
+best_practice: 2488.04557 kgCO2e
+biogenic_embodied_carbon_z: 0.07681145747868609
+box_id: '1210392686925'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-02-26T17:50:11Z'
+  declared_unit: 1 t
+  description: 'Cold formed steel elements such as studs and framing, typically made
+    from coil or sheet steel
+
+    and used within walls and ceilings.'
+  display_name: Cold Formed Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 5102ecc070414ff0a4b7c104ddecef45
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 40 00 COLD-FORMED METAL FRAMING
+  may_contain_trusted_vendor_declarations: false
+  name: ColdFormedFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> ColdFormedFraming
+  openepd_name: Steel >> ColdFormedSteel >> ColdFormedFraming
+  parents: []
+  pct10_gwp: 1828.28175 kgCO2e
+  pct20_gwp: 1953.771181 kgCO2e
+  pct30_gwp: 2129.666881 kgCO2e
+  pct40_gwp: 2267.443941 kgCO2e
+  pct50_gwp: 2491.268183 kgCO2e
+  pct60_gwp: 2673.58129 kgCO2e
+  pct70_gwp: 2859.635188 kgCO2e
+  pct80_gwp: 3006.014245 kgCO2e
+  pct90_gwp: 3262.571519 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2025-11-20T07:56:49.166692Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2831.95443 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-05-10T09:19:54.176168Z'
+date_of_issue: '2023-05-03'
+date_validity_ends: '2028-05-02'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7870 kg / m3
+description: The steel framing products in this study are used primarily for structural
+  or non-structural framing in construction products. Descriptions, specifications,
+  and pictures of each product can be found in Table 1. The products conform generally
+  to the UNSPSC product code 30103600 for structural products.
+developer:
+  email: tgarvey@scsglobalservices.com
+  name: Tess Garvey
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: https://www.scsglobalservices.com/certified-green-products-guide?pd_pid=68403
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: ViperStud%C2%AEInteriorFraming_756ece48bfbdade4c42a90b4047358d6d1ac7f39.pdf
+galvanized: false
+gwp: 2660 kgCO2e
+gwp_per_category_declared_unit: 2660 kgCO2e
+gwp_per_kg: 2.66 kgCO2e
+gwp_z: 0.07681145747868609
+id: adc5b4d7095a4c9eac058b4af6863dc3
+image: https://static.buildingtransparency.org/images/2e49fcc5f5f04837baa1b9e04dc40a8f.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "*Italic text is default guidance and should be deleted before publication.\
+  \  This field uses [Markdown formatting](https://en.wikipedia.org/wiki/Markdown)*\n\
+  # Packaging\nPackaging for the steel framing products includes lumber, plastic banding\
+  \ and metal banding.\n\n# Product Installation\n*A description of the type of processing,\
+  \ machinery, tools, dust extraction equipment, auxiliary materials, etc. to be used\
+  \ during installation shall be included. Information on industrial and environmental\
+  \ protection may be included in this section. Any waste treatment included within\
+  \ the system boundary of installation waste should be specified.*\n\n# Use Conditions\n\
+  *Use-stage environmental impacts of flooring products during building operations\
+  \ depend on product cleaning assumptions. Information on cleaning frequency and\
+  \ cleaning products shall be provided based on the manufacturer\u2019s recommendations.\
+  \ In the absence of primary data, cleaning assumptions shall be documented.*\n\n\
+  # Re-Use\n*The possibilities of re-use, recycling and energy recovery shall be described.\
+  \ If an Extended Producer Responsibility initiative such as a product take-back\
+  \ program exists, this may be included.*\n\n# Disposal\n*The possible disposal channels\
+  \ shall be indicated in accordance with disposal routes and waste classification.*\n\
+  \n# Cut-Off Criteria\nThe cut-off criteria for including or excluding materials,\
+  \ energy, and emissions data from the study are in accordance with the PCR and are\
+  \ listed below.\n\nAll inputs and outputs to a unit process are included in the\
+  \ LCA calculation for which data are available. Any data gaps are filled with representative\
+  \ data. Assumptions used for filling data gaps are documented in the LCA report.\
+  \ \n\nWhere there is a data gap or insufficient data, criteria for exclusion of\
+  \ inputs and outputs is 1% of primary energy usage (renewable and non-renewable\
+  \ energy) and 1% on a mass basis for the specific unit process. The maximum criteria\
+  \ for exclusion of inputs and outputs is 5% of primary energy usage and mass across\
+  \ all modules included in the LCA.\n\nIf a flow meets the above criteria for exclusion\
+  \ but is considered to have a significant potential environmental impact, it is\
+  \ included. \n\n\n# Allocation\nThis study follows the allocation guidelines of\
+  \ ISO 14044 and allocation rules specified in the PCR and minimized the use of allocation\
+  \ wherever possible. \n\nMass allocation was deemed the most accurate and reproducible\
+  \ way of calculating the energy and material requirements for the manufacture of\
+  \ steel framing product and its useful byproducts. Primary data for resource use\
+  \ (e.g., electricity, natural gas, water), waste/byproducts, and emissions released,\
+  \ are allocated on a mass-basis as a fraction of total annual production. \n\nThe\
+  \ transportation from primary producer of material components to the CEMCO facilities\
+  \ are based on primary data provided by CEMCO, including modes, distances, and amount\
+  \ of steel transported. Transportation was allocated based on the mass and distance\
+  \ the material was transported.\n\n\n# LCA Interpretation\nThe main contributions\
+  \ to indicator results for the steel framing product are the Raw Material Extraction\
+  \ and Processing (A1) stage, contributing 85-99% of the impact in most cases. \n\
+  \n# Environment and Health during Manufacturing\n*Measures relating to environmental\
+  \ and health protection during the product manufacturing process extending beyond\
+  \ national guidelines (of the production country) may be described, e.g. reference\
+  \ to a product safety data sheet (SDS), description of Environmental Management\
+  \ Systems or similar, programs addressing air emissions, wastewater, noise, etc*\n\
+  # Environment and Health during Installation\n*Information should be provided in\
+  \ this section on the relationship between the product, the environment and health,\
+  \ including possible harmful substances or emissions e.g. reference to a product\
+  \ safety data sheet (SDS). Any recommendations concerning cleaning, maintenance,\
+  \ etc. of the declared product should be listed in \u201CTechnical information on\
+  \ scenarios\u201D.*\n# Extraordinary Effects - Fire, Water, Mechanical Destruction\n\
+  ## FIRE\n*Information should be included on the product\u2019s fire performance\
+  \ and possible impacts on the environment e.g. reaction-to-fire, other relevant\
+  \ fire tests as applicable, and emissions to air.*\n\n## WATER\n*Information should\
+  \ be included on the product\u2019s performance and possible impacts on the environment\
+  \ following unforeseeable influence of water, e.g. flooding.*\n\n## MECHANICAL DESTRUCTION\n\
+  *Information should be included on the product\u2019s performance and possible impacts\
+  \ on the environment following unforeseeable mechanical destruction.*\n\n# Delayed\
+  \ Emissions\n*If a manufacturer wishes to declare quantitative or qualitative information\
+  \ on delayed emissions used to calculate Global Warming Potential within the EPD,\
+  \ information may be provided here.*\n\n# Environmental Activities and Certifications\n\
+  *Other environmental activities, such as participation in recycling or recovery\
+  \ programs along with the details of these programs and contact information, may\
+  \ be provided.\nFor certifications applied to the product and listed in the EPD,\
+  \ a statement shall be included on where an interested party can find details of\
+  \ the certification program.*"
+lowest_plausible_gwp: 2488.04557 kgCO2e
+manufacturer:
+  address: 13191 Crossroads Parkway North, Industry, CA 91746
+  address_line: 13191 Crossroads Parkway North
+  admin_district: CA
+  admin_district2: Los Angeles
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/cemco
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-26T23:45:19.251335Z'
+  email_extensions:
+  - cemcosteel.com
+  enterprise: true
+  id: fa80ec34c6bf41988218b4b43c627451
+  image: https://static.buildingtransparency.org/images/dff92274-ba27-46aa-882d-2dbbc3a6ad59.png
+  is_failed: false
+  latitude: 34.03008
+  legal_name: California Expanded Metal Products Co.
+  locality: Industry, La Puente
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: East San Gabriel Valley
+    extendedPostalCode: 9174634,917463403,917463408,917463410,917463421,917463424,917463425,917463426,917463433,917463434,917463435,917463436,917463437,917463438,917463439,917463441,917463442,917463443,917463462,917463473,917463474,917463476,917463487,917463488,917463489,917463490,917463493,917463495,917463508,917463509
+    freeformAddress: 13191 Crossroads Parkway North, Industry, CA 91746
+    municipality: Industry, La Puente
+    municipalitySubdivision: Industry, City of Industry
+    postalCode: '91746'
+    streetName: Crossroads Parkway North
+    streetNumber: '13191'
+  longitude: -118.01358
+  name: CEMCO
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa80ec34c6bf41988218b4b43c627451
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91746'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:28:17.218503Z'
+  web_domain: cemcosteel.com
+  website: http://cemcosteel.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 4608e885440540849d5758ea964a5ff2
+my_capabilities: 1
+name: Cold formed Steel Framing and Accessory Products
+not_an_epd: false
+open_xpd_uuid: ec370des
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec370des
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-fossil
+      - gwp
+      - gwp-biogenic
+      - gwp-luluc
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - ep-fresh
+      - ep-terrestrial
+      - pocp
+      - ep-marine
+      - ep
+      - odp
+      - ap
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2025-09-18T05:33:14.263756Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2831.95443 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: North Covina Lane, Industry, CA 91746
+  address_line: ' North Covina Lane'
+  admin_district: CA
+  admin_district2: Los Angeles
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-26T23:48:00.013203Z'
+  id: e27e752a2bf74e7da7de41654682c70a
+  is_failed: false
+  latitude: 34.05585
+  locality: Industry, La Puente, Baldwin Park
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: East San Gabriel Valley
+    extendedPostalCode: 917461410,917461484
+    freeformAddress: North Covina Lane, Industry, CA 91746
+    municipality: Industry, La Puente, Baldwin Park
+    municipalitySubdivision: Industry, La Puente
+    postalCode: '91746'
+    streetName: North Covina Lane
+  longitude: -118.00027
+  name: Industry, CA
+  openepd_id: 85633X4X+8V.cemcosteel.com
+  owned_by:
+    address: 13191 Crossroads Parkway North, Industry, CA 91746
+    address_line: 13191 Crossroads Parkway North
+    admin_district: CA
+    admin_district2: Los Angeles
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/cemco
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-26T23:45:19.251335Z'
+    email_extensions:
+    - cemcosteel.com
+    enterprise: true
+    id: fa80ec34c6bf41988218b4b43c627451
+    image: https://static.buildingtransparency.org/images/dff92274-ba27-46aa-882d-2dbbc3a6ad59.png
+    is_failed: false
+    latitude: 34.03008
+    legal_name: California Expanded Metal Products Co.
+    locality: Industry, La Puente
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Los Angeles
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: East San Gabriel Valley
+      extendedPostalCode: 9174634,917463403,917463408,917463410,917463421,917463424,917463425,917463426,917463433,917463434,917463435,917463436,917463437,917463438,917463439,917463441,917463442,917463443,917463462,917463473,917463474,917463476,917463487,917463488,917463489,917463490,917463493,917463495,917463508,917463509
+      freeformAddress: 13191 Crossroads Parkway North, Industry, CA 91746
+      municipality: Industry, La Puente
+      municipalitySubdivision: Industry, City of Industry
+      postalCode: '91746'
+      streetName: Crossroads Parkway North
+      streetNumber: '13191'
+    longitude: -118.01358
+    name: CEMCO
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa80ec34c6bf41988218b4b43c627451
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91746'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:28:17.218503Z'
+    web_domain: cemcosteel.com
+    website: http://cemcosteel.com
+  postal_code: '91746'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2021-06-08T22:03:32.963583Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-08938
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec370desdc
+stainless: false
+standard_deviation: 204.3184769 kgCO2e
+steel_astm_marking: C645, C955, C847, C1047
+steel_recycled_content: 0.0
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2831.95443 kgCO2e
+uncertainty_factor: 1.0646445226140622
+updated_on: '2024-04-08T18:22:34.050204Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

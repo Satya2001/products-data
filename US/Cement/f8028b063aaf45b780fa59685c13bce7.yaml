@@ -1,0 +1,630 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 901.3556871 kgCO2e
+biogenic_embodied_carbon_z: 0.03162277660168379
+box_id: '2023134772447'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 410.612522 kgCO2e
+  pct20_gwp: 639.5752694 kgCO2e
+  pct30_gwp: 727.2744129 kgCO2e
+  pct40_gwp: 775.5038757 kgCO2e
+  pct50_gwp: 817.5094329 kgCO2e
+  pct60_gwp: 857.9622687 kgCO2e
+  pct70_gwp: 907.1005252 kgCO2e
+  pct80_gwp: 962.8060311 kgCO2e
+  pct90_gwp: 1050.450141 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2025-11-20T07:56:25.802562Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 950.6443129 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-10-21T23:06:25.998388Z'
+date_of_issue: '2025-04-09'
+date_validity_ends: '2030-04-09'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 1440 kg / m3
+description: 'Portland cement Type I/II/V is a hydraulic cement produced by pulverizing
+  clinker, consisting essentially of crystalline hydraulic calcium silicates, and
+  usually containing one or more of the following: water, calcium sulfate, up to 5%
+  limestone, and processing additions. Type I/II/V is designated with a combined type
+  classification, indicating that the cement meets the requirements of Types I, II,
+  and V and is suitable for use when any of these types is desired. Type I is for
+  use when special properties are not required. Type II is for general use, especially
+  when moderate sulfate resistance is desired. Type V is for use when high sulfate
+  resistance is desired. Drake Cement Type I/II/V conforms to ASTM C-150 for Types
+  I, II, and V, low alkali cements, as well as ASTM C 1157 for types GU, MS, and HS
+  cement. It can be used in any general construction application, including those
+  with exposure to moderate or high levels of sulfates in soils and/or water, and
+  reduces the potential for damage due to alkali-silica reactivity (ASR).'
+developer:
+  email: info@athenasmi.org
+  name: Athena Sustainable Materials Institute Staff
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+doc: buildingtransparency.org/e/ec3ucg3ben
+excluded: false
+externally_verified: true
+file_name: UNACEM Drake Cement EPD 2025 04 08.pdf
+gwp: 926 kgCO2e
+gwp_per_category_declared_unit: 926 kgCO2e
+gwp_per_kg: 0.926 kgCO2e
+gwp_z: 0.03162277660168379
+id: 2125687c3ed145aa9805c1686d30e793
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 901.3556871 kgCO2e
+manufacturer:
+  address: '21803 N Scottsdale Rd #220, Scottsdale, AZ 85250, USA'
+  address_line: 21803 N Scottsdale Rd
+  admin_district: AZ
+  admin_district2: Maricopa County
+  alt_names:
+  - Unacem
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2025-10-21T23:19:51.884393Z'
+  email_extensions:
+  - unacem.pe
+  - drakeus.com
+  enterprise: false
+  id: 817e6a7976fc456e9cc1dd3cec584316
+  is_failed: false
+  latitude: 33.6846349
+  locality: Scottsdale
+  location:
+  - long_name: '220'
+    short_name: '220'
+    types:
+    - subpremise
+  - long_name: '21803'
+    short_name: '21803'
+    types:
+    - street_number
+  - long_name: North Scottsdale Road
+    short_name: N Scottsdale Rd
+    types:
+    - route
+  - long_name: North Scottsdale
+    short_name: North Scottsdale
+    types:
+    - neighborhood
+    - political
+  - long_name: Scottsdale
+    short_name: Scottsdale
+    types:
+    - locality
+    - political
+  - long_name: Maricopa County
+    short_name: Maricopa County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arizona
+    short_name: AZ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '85250'
+    short_name: '85250'
+    types:
+    - postal_code
+  longitude: -111.924755
+  name: UNACEM North America
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/817e6a7976fc456e9cc1dd3cec584316
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '85250'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-10-21T23:40:40.310632Z'
+  web_domain: tehacem.us
+  website: https://tehacem.us/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: f8028b063aaf45b780fa59685c13bce7
+my_capabilities: 1
+name: Type I/II/V Portland Cement
+not_an_epd: false
+open_xpd_uuid: ec3ucg3b
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ucg3b
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-21T22:10:11.844929Z'
+  date_of_issue: '2021-09-01'
+  declared_units:
+  - 1 kg
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/pcr_portland_cement_v3.2.pdf
+  id: d64035a29e8a47c08b6250257908c8b9
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR for Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements
+  open_xpd_uuid: ec36f35r
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36f35r
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec36f35rk0
+  short_name: Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements
+  updated_on: '2025-05-30T23:36:15.971730Z'
+  version: '3.2'
+pct80_gwp_per_category_declared_unit: 950.6443129 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: Drake Rd, Arizona 86334, USA
+  address_line: Drake Rd
+  admin_district: AZ
+  admin_district2: Yavapai County
+  carbon_intensity: 1027.548 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2025-10-21T23:26:09.739525Z'
+  id: 13a6786cd57a4ed59ff97f93391fc3fa
+  is_failed: false
+  latitude: 35.0024498
+  location:
+  - long_name: Drake Road
+    short_name: Drake Rd
+    types:
+    - route
+  - long_name: Yavapai County
+    short_name: Yavapai County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arizona
+    short_name: AZ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '86334'
+    short_name: '86334'
+    types:
+    - postal_code
+  longitude: -112.3876018
+  name: Drake
+  openepd_id: 85792J26+XX.tehacem.us
+  owned_by:
+    address: '21803 N Scottsdale Rd #220, Scottsdale, AZ 85250, USA'
+    address_line: 21803 N Scottsdale Rd
+    admin_district: AZ
+    admin_district2: Maricopa County
+    alt_names:
+    - Unacem
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2025-10-21T23:19:51.884393Z'
+    email_extensions:
+    - unacem.pe
+    - drakeus.com
+    enterprise: false
+    id: 817e6a7976fc456e9cc1dd3cec584316
+    is_failed: false
+    latitude: 33.6846349
+    locality: Scottsdale
+    location:
+    - long_name: '220'
+      short_name: '220'
+      types:
+      - subpremise
+    - long_name: '21803'
+      short_name: '21803'
+      types:
+      - street_number
+    - long_name: North Scottsdale Road
+      short_name: N Scottsdale Rd
+      types:
+      - route
+    - long_name: North Scottsdale
+      short_name: North Scottsdale
+      types:
+      - neighborhood
+      - political
+    - long_name: Scottsdale
+      short_name: Scottsdale
+      types:
+      - locality
+      - political
+    - long_name: Maricopa County
+      short_name: Maricopa County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Arizona
+      short_name: AZ
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '85250'
+      short_name: '85250'
+      types:
+      - postal_code
+    longitude: -111.924755
+    name: UNACEM North America
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/817e6a7976fc456e9cc1dd3cec584316
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '85250'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-10-21T23:40:40.310632Z'
+    web_domain: tehacem.us
+    website: https://tehacem.us/
+  postal_code: '86334'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2025-10-22T00:01:14.326758Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 953
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ucg3ben
+standard_deviation: 29.28269113 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 950.6443129 kgCO2e
+uncertainty_factor: 1.026613728787977
+updated_on: '2025-10-21T23:26:12.689856Z'
+use_stored_carbon: false
+verifier:
+  email: tgloria@industrial-ecology.com
+  name: Thomas P. Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  pcr:
+  - PCR validity dates not found

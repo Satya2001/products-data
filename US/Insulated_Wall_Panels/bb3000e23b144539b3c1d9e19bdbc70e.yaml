@@ -1,0 +1,556 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 3141.358463 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-05-12T14:34:34Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Insulated metal panel (IMP) for exterior wall applications
+  display_name: Insulated Wall Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8eb6a511c7d94f4f89e673b6e9badd3c
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 12.695 kg
+  massless: false
+  masterformat: 07 42 00 Wall Panels
+  may_contain_trusted_vendor_declarations: false
+  name: InsulatedWallPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding >> InsulatedWallPanels
+  openepd_name: Cladding >> InsulatedWallPanels
+  parents: []
+  pct10_gwp: 20.74620432 kgCO2e
+  pct20_gwp: 33.65800215 kgCO2e
+  pct30_gwp: 35.30723615 kgCO2e
+  pct40_gwp: 41.9930359 kgCO2e
+  pct50_gwp: 46.04632089 kgCO2e
+  pct60_gwp: 50.52835995 kgCO2e
+  pct70_gwp: 56.15487006 kgCO2e
+  pct80_gwp: 63.0473009 kgCO2e
+  pct90_gwp: 69.06065344 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulated Wall Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151800'
+  updated_on: '2025-11-20T07:57:54.241615Z'
+  use_stored_carbon: ABSENT
+cladding_facing_material: Steel
+cladding_insulating_material: Polyiso
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5158.641537 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-11-13T19:09:06.225021Z'
+date_of_issue: '2025-06-04'
+date_validity_ends: '2030-06-03'
+declaration_type: Product EPD
+declared_unit: 100 m^2
+description: "Insulated metal panels are comprised of a rigid foam core sandwiched\
+  \ between two metal sheets and cut to shape and size as requested by the customer.\
+  \ Interior and exterior insulated metal panels offer many advantages in the construction\
+  \ of wall and roofing systems. AWIP\u2019s Insulated Metal Wall Panels are ideal\
+  \ for architectural, commercial, industrial, institutional, and cold storage applications.\
+  \ They are also available in numerous colors and applied finishes. Products included\
+  \ in this study are: 2\", 2.5\",3\",4\",5\",6\" and 8\" PVC Membrane"
+developer:
+  email: manasa@wapsustainability.com
+  name: Manasa Rao
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: cqd.io/e/ec3gnyteeu
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  manufacturer:
+  - Missing link
+gwp: 4150 kgCO2e
+gwp_per_category_declared_unit: 41.5 kgCO2e
+gwp_per_kg: 2.912280702 kgCO2e
+gwp_z: 0.28879058156387305
+id: da1711caa05748ac917cbe26438abaf1
+image: https://static.epd.world/images/5745f852a6604473830de0be8fc5a4fc.jpg
+impacts: {}
+is_downloadable: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 3141.358463 kgCO2e
+manufacturer:
+  address: 929 Aldridge Rd, Vacaville, CA 95688, USA
+  address_line: 929 Aldridge Rd
+  admin_district: CA
+  admin_district2: Solano County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-05-26T12:45:41.958582Z'
+  email_extensions:
+  - awipanels.com
+  enterprise: true
+  id: 781de3be16f64d26b5452ee51f1d6b0d
+  is_failed: false
+  latitude: 38.401759
+  locality: Vacaville
+  location:
+  - long_name: '929'
+    short_name: '929'
+    types:
+    - street_number
+  - long_name: Aldridge Road
+    short_name: Aldridge Rd
+    types:
+    - route
+  - long_name: Vacaville
+    short_name: Vacaville
+    types:
+    - locality
+    - political
+  - long_name: Solano County
+    short_name: Solano County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '95688'
+    short_name: '95688'
+    types:
+    - postal_code
+  longitude: -121.9531769
+  name: All Weather Insulated Panels
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/781de3be16f64d26b5452ee51f1d6b0d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '95688'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-03-27T00:48:24.510090Z'
+  web_domain: awipanels.com
+  website: https://www.awipanels.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1425 kg
+matched_plants_count: 1
+material_id: bb3000e23b144539b3c1d9e19bdbc70e
+my_capabilities: 1
+name: Insulated Metal Roof Deck Panels - RD1 5", 22 / 26 ga Polyvinyl Chloride Roof
+  membrane
+not_an_epd: false
+open_xpd_uuid: cqdee282
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/cqdee282
+output_flows: {}
+owner:
+  name: Phil Northcott
+  user_id: phil.northcott@c-change-labs.com
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-07-17T17:27:58.006052Z'
+  date_of_issue: '2018-10-23'
+  date_validity_ends: '2024-12-31'
+  declared_units:
+  - 100 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=35063
+  id: f484898e30ac4ca58e17be4880b755e1
+  is_failed: false
+  name: 'Part B: Insulated Metal Panels, Metal Composite Panels, and Metal Cladding'
+  open_xpd_uuid: ec3gg00r
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3gg00r
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3gg00rf7
+  short_name: 'Part B: Insulated Metal Panels, Metal Composite Panels, and Metal Cladding'
+  status: Expired
+  updated_on: '2025-10-01T17:35:21.247544Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 51.58641537 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-02-15T20:45:32.000396Z'
+  id: d50062da99fd42bdae8b38266202353c
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Vacaville, Little Rock, East Stroudsburg
+  owned_by:
+    address: 929 Aldridge Rd, Vacaville, CA 95688, USA
+    address_line: 929 Aldridge Rd
+    admin_district: CA
+    admin_district2: Solano County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-05-26T12:45:41.958582Z'
+    email_extensions:
+    - awipanels.com
+    enterprise: true
+    id: 781de3be16f64d26b5452ee51f1d6b0d
+    is_failed: false
+    latitude: 38.401759
+    locality: Vacaville
+    location:
+    - long_name: '929'
+      short_name: '929'
+      types:
+      - street_number
+    - long_name: Aldridge Road
+      short_name: Aldridge Rd
+      types:
+      - route
+    - long_name: Vacaville
+      short_name: Vacaville
+      types:
+      - locality
+      - political
+    - long_name: Solano County
+      short_name: Solano County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: California
+      short_name: CA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '95688'
+      short_name: '95688'
+      types:
+      - postal_code
+    longitude: -121.9531769
+    name: All Weather Insulated Panels
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/781de3be16f64d26b5452ee51f1d6b0d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '95688'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-03-27T00:48:24.510090Z'
+    web_domain: awipanels.com
+    website: https://www.awipanels.com/
+  plants_count: 3
+  total_epds: 56
+  type: PlantGroup
+  updated_on: '2025-11-13T22:00:49.802369Z'
+plant_specific: false
+private: false
+product_classes:
+  EC3: Cladding >> InsulatedWallPanels
+  io.cqd.ec3: Cladding >> InsulatedWallPanels
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-10439
+reference_service_life: 75 year
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/cqdee282ww
+standard_deviation: 1198.480913 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5158.641537 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-11-13T19:09:07.260228Z'
+use_stored_carbon: false
+verifier:
+  email: user_aaf9694988f34f84968d46ab4ca2ce59@cqd.io
+  name: Beth Cassese
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

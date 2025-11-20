@@ -1,0 +1,554 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/assa-abloy
+best_practice: 8.228636914 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '977583263232'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:46.691849Z'
+  declared_unit: 1 unit
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Door hardware, including automatic and security door hardware
+  display_name: Doors Hardware
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ca54e842c0fc4bf2b4f3a8564c3b1a4d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2.18 kg
+  massless: false
+  masterformat: 08 70 00 Doors Hardware
+  may_contain_trusted_vendor_declarations: false
+  name: DoorsHardware
+  no_statistics: false
+  obsolete: false
+  openepd: Accessories >> DoorsHardware
+  openepd_name: Accessories >> DoorsHardware
+  parents: []
+  pct10_gwp: 2.704905428 kgCO2e
+  pct20_gwp: 6.990470809 kgCO2e
+  pct30_gwp: 8.704985141 kgCO2e
+  pct40_gwp: 9.321804941 kgCO2e
+  pct50_gwp: 11.32362171 kgCO2e
+  pct60_gwp: 13.76255562 kgCO2e
+  pct70_gwp: 16.20235452 kgCO2e
+  pct80_gwp: 21.49450899 kgCO2e
+  pct90_gwp: 29.56772023 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Doors Hardware
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '46171500'
+  updated_on: '2025-11-20T07:57:22.034852Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 11.77136309 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-06-29T10:05:48.340449Z'
+date_of_issue: '2020-10-01'
+date_validity_ends: '2025-10-01'
+declaration_type: Product EPD
+declared_unit: 1 piece
+description: "The HES 9000 series are windstorm rated, surface mounted electric strikes\
+  \ designed to accommodate various rim exit\ndevices including 1/2\"-3/4\" throw\
+  \ pullman latchbolts, SecureBolt\u2122/SquareBolt\xAE and starwheel latches. All\
+  \ components are\ncompletely encased within its 3/4\" thick stainless steel housing,\
+  \ so no cutting on the frame is required for installation. It is\nfield selectable\
+  \ for fail secure and fail safe operation, and for 12 or 24VDC."
+developer:
+  email: info@sustainablesolutionscorporation.com
+  name: Sustainable Solutions Corporation Staff
+  org:
+    address: 155 Railroad Plaza, Royersford, PA 19468
+    address_line: 155 Railroad Plaza
+    admin_district: PA
+    admin_district2: Montgomery
+    alt_names:
+    - Sustainable Solutions Corp.
+    - Sustainable Solutions Corp
+    - SSC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T23:56:56.916735Z'
+    email_extensions:
+    - greencirclecertified.com
+    - sustainablesolutionscorporation.com
+    enterprise: true
+    id: a091acc71c3a403884e36e1cdac9db39
+    image: https://static.buildingtransparency.org/images/d03f2259-a454-477f-8fa6-f25858a3ca7b.png
+    is_failed: false
+    latitude: 40.186058
+    legal_name: Sustainable Solutions Corporation
+    locality: Royersford
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.188496,-75.543354
+        southWest: 40.183033,-75.546312
+      buildingNumber: '155'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Montgomery
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Royersford
+      extendedPostalCode: '194681942'
+      freeformAddress: 155 Railroad Plaza, Royersford, PA 19468
+      municipality: Royersford
+      municipalitySubdivision: Royersford
+      postalCode: '19468'
+      routeNumbers: []
+      street: Railroad Plaza
+      streetName: Railroad Plaza
+      streetNameAndNumber: 155 Railroad Plaza
+      streetNumber: '155'
+    longitude: -75.544975
+    name: Sustainable Solutions Corporation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a091acc71c3a403884e36e1cdac9db39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19468'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T11:45:28.981304Z'
+    web_domain: sustainablesolutionscorporation.com
+    website: www.sustainablesolutionscorporation.com
+doc: https://spot.ul.com/main-appproducts/detail/5fd21bf155b0e8371015544b
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: HES9000SeriesSurfaceMountedElectricStrikes_0bbe7f9f2e23ffab7bc9084437af7f31cca25c71.pdf
+gwp: 10 kgCO2e
+gwp_per_category_declared_unit: 10 kgCO2e
+gwp_per_kg: 6.802721088 kgCO2e
+gwp_z: 0.2104756517984919
+id: 01f2f82a301841cc9a7f7cd779c8adad
+image: https://static.buildingtransparency.org/images/0b5c0c0bccea485188f289abe111749c.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 8.228636914 kgCO2e
+manufacturer:
+  address: 110 Sargent Drive, New Haven, CT 06511
+  address_line: 110 Sargent Drive
+  admin_district: CT
+  admin_district2: New Haven
+  alt_names:
+  - ASSA ABLOY Door Group
+  - ASSA ABLOY DSS
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/assa-abloy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-11-22T18:21:33.825228Z'
+  email_extensions:
+  - assaabloy.com
+  enterprise: true
+  id: 93131c9e230146ceb225950a1b31052c
+  image: https://static.buildingtransparency.org/images/b2d1cb5f680b45dbb23a3b76bb78e955.png
+  is_failed: false
+  latitude: 41.291
+  legal_name: ASSA ABLOY Group
+  locality: New Haven
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: New Haven
+    countrySubdivision: CT
+    countrySubdivisionName: Connecticut
+    countryTertiarySubdivision: New Haven
+    extendedPostalCode: 065115907,065115955,065115966,065116111
+    freeformAddress: 110 Sargent Drive, New Haven, CT 06511
+    municipality: New Haven
+    municipalitySubdivision: New Haven, Long Wharf
+    postalCode: '06511'
+    streetName: Sargent Drive
+    streetNumber: '110'
+  longitude: -72.92268
+  name: ASSA ABLOY
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/93131c9e230146ceb225950a1b31052c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '06511'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:22:21.844260Z'
+  web_domain: assaabloy.com
+  website: www.assaabloy.com
+manufacturer_specific: true
+mass_per_declared_unit: 1.47 kg
+matched_plants_count: 0
+material_id: 930ee3c434034c66bae7490e8daf6c90
+my_capabilities: 1
+name: HES 9000 Series Surface Mounted Electric Strikes
+not_an_epd: false
+open_xpd_uuid: ec3s9qms
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3s9qms
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-11T23:29:51.252349Z'
+  date_of_issue: '2019-11-15'
+  date_validity_ends: '2024-11-01'
+  declared_units:
+  - 1 unit
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=36494
+  id: a0972f45927343828700db8bce0a4efa
+  is_failed: false
+  issuer_doc_id: "UL 10010\u201313"
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Builders Hardware'
+  open_xpd_uuid: ec3r9h5n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3r9h5n
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3r9h5ndx
+  short_name: 'Part B: Builders Hardware'
+  status: Expired
+  updated_on: '2024-11-02T00:10:38.746999Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 11.77136309 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: AZ, United States
+  admin_district: AZ
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-04-26T17:13:34.416371Z'
+  id: 2ea1e11223d24c0f810eff826f4467bb
+  is_failed: false
+  latitude: 34.2930793762207
+  location:
+    adminDistrict: AZ
+    countryRegion: United States
+    countryRegionIso2: US
+    formattedAddress: Arizona
+  longitude: -111.6646957397461
+  name: Phoenix, AZ
+  openepd_id: 856C78VP+64.assaabloy.com
+  owned_by:
+    address: 110 Sargent Drive, New Haven, CT 06511
+    address_line: 110 Sargent Drive
+    admin_district: CT
+    admin_district2: New Haven
+    alt_names:
+    - ASSA ABLOY Door Group
+    - ASSA ABLOY DSS
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/assa-abloy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-11-22T18:21:33.825228Z'
+    email_extensions:
+    - assaabloy.com
+    enterprise: true
+    id: 93131c9e230146ceb225950a1b31052c
+    image: https://static.buildingtransparency.org/images/b2d1cb5f680b45dbb23a3b76bb78e955.png
+    is_failed: false
+    latitude: 41.291
+    legal_name: ASSA ABLOY Group
+    locality: New Haven
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: New Haven
+      countrySubdivision: CT
+      countrySubdivisionName: Connecticut
+      countryTertiarySubdivision: New Haven
+      extendedPostalCode: 065115907,065115955,065115966,065116111
+      freeformAddress: 110 Sargent Drive, New Haven, CT 06511
+      municipality: New Haven
+      municipalitySubdivision: New Haven, Long Wharf
+      postalCode: '06511'
+      streetName: Sargent Drive
+      streetNumber: '110'
+    longitude: -72.92268
+    name: ASSA ABLOY
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/93131c9e230146ceb225950a1b31052c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '06511'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:22:21.844260Z'
+    web_domain: assaabloy.com
+    website: www.assaabloy.com
+  total_epds: 5
+  type: Plant
+  updated_on: '2022-06-29T15:25:37.787840Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4789198858.136.
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3s9qmsx8
+standard_deviation: 2.104756518 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 11.77136309 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-05-31T17:26:05.489605Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B4_years are empty
+  - B6_years are empty

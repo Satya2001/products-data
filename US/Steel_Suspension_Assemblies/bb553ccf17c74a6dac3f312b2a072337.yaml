@@ -1,0 +1,562 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+best_practice: 1781.895257 kgCO2e
+biogenic_embodied_carbon_z: 0.30967725134404045
+box_id: '705995011535'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-09-10T11:28:49.082078Z'
+  declared_unit: 1 t
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Steel suspension assemblies for suspended (e.g. acoustical) ceiling
+    systems
+  display_name: Steel Suspension Assemblies
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 403a3d004f25416eac881a89f40e90a8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 09 53 00 Suspension Assemblies
+  may_contain_trusted_vendor_declarations: false
+  name: SteelSuspensionAssembly
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
+  openepd_name: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
+  parents: []
+  pct10_gwp: 2694.888287 kgCO2e
+  pct20_gwp: 3179.848063 kgCO2e
+  pct30_gwp: 3406.980068 kgCO2e
+  pct40_gwp: 3451.951661 kgCO2e
+  pct50_gwp: 3514.761708 kgCO2e
+  pct60_gwp: 3667.270908 kgCO2e
+  pct70_gwp: 3833.289583 kgCO2e
+  pct80_gwp: 4063.720433 kgCO2e
+  pct90_gwp: 4332.332679 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Suspension Assemblies
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: ''
+  updated_on: '2025-11-20T07:56:49.130308Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3038.104743 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-08-12T18:21:33.395139Z'
+date_of_issue: '2016-10-07'
+date_validity_ends: '2021-10-07'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 8050 kg / m3
+description: "Armstrong\xAE Suprafine XL\xAE Suspension Systems are hot-dipped galvanized\
+  \ steel 15/16\" suspension systems that offer high recycled content for improved\
+  \ LEED\xAE credits. Suprafine XL is manufactured by Armstrong World Industries in\
+  \ Aberdeen, Maryland (21001), Benton Harbor, Michigan (49022), and Las Vegas, Nevada\
+  \ (89031)."
+doc: buildingtransparency.org/e/ec36gxe8xa
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: epd-Armstrong suprafine-xl-suspension-systems_11b5c11266e64ae4a8e1033d79750ef0.pdf
+galvanized: true
+gwp: 2410 kgCO2e
+gwp_per_category_declared_unit: 2410 kgCO2e
+gwp_per_kg: 2.41 kgCO2e
+gwp_z: 0.30967725134404045
+id: 5ca1ea81e9a24638b9b474d4ccd34d5c
+image: https://static.buildingtransparency.org/images/ff1a18e6ccd54d20b895b0b00f8eb01e.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1781.895257 kgCO2e
+manufacturer:
+  address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+  address_line: 2300 Columbia Ave
+  admin_district: PA
+  admin_district2: Lancaster County
+  alt_names:
+  - Armstrong World Industries
+  - Armstrong World Industries, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-08T13:15:28.906027Z'
+  email_extensions:
+  - armstrongceilings.com
+  - armstrongceiling.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+  id: 3625052d06964ba2accc90930766b552
+  image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+  is_failed: false
+  latitude: 40.0396801
+  legal_name: Armstrong World Industries, Inc.
+  locality: Lancaster
+  location:
+  - long_name: '2300'
+    short_name: '2300'
+    types:
+    - street_number
+  - long_name: Columbia Avenue
+    short_name: Columbia Ave
+    types:
+    - route
+  - long_name: Lancaster
+    short_name: Lancaster
+    types:
+    - locality
+    - political
+  - long_name: Manor Township
+    short_name: Manor Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Lancaster County
+    short_name: Lancaster County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '17603'
+    short_name: '17603'
+    types:
+    - postal_code
+  - long_name: '4108'
+    short_name: '4108'
+    types:
+    - postal_code_suffix
+  longitude: -76.36606739999999
+  name: Armstrong World Industries, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '17603'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-07-12T17:35:39.941724Z'
+  web_domain: armstrongceilings.com
+  website: www.armstrongceilings.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 1
+material_id: bb553ccf17c74a6dac3f312b2a072337
+my_capabilities: 1
+name: "Suprafine XL\xAE \u2013 Suspension System"
+not_an_epd: false
+open_xpd_uuid: ec36gxe8
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36gxe8
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - North American Product Category Rule for  Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS Global Services
+  - North American PCR for Designated Steel Construction Products (SCS, 2015)
+  - 'SCS Global: North American Product Category Rule for Designated Steel Construction
+    Products'
+  - North American PCR for Designated Steel Construction Products
+  - North American Product Category Rule for Designated Steel Construction Products
+  - SCS Services. (2015). North American PCR for Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Products
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - North American Product Category Rule for Designated Steel Construction Products
+    Reference PCR by SCS Global Services, May 5, 2015 V.1.O
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015.
+  - North American PCR for Designated Steel Construction Products, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Projects, v1.0, May 2015
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015
+  - North American Product Category Rule for Designated Steel Construction Products,
+    v1.0
+  - SCS PCR for Designated Steel Construction Products v1 2015
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-04T10:19:19.700479Z'
+  date_of_issue: '2015-05-05'
+  date_validity_ends: '2020-05-05'
+  declared_units:
+  - 1 tonne
+  doc: https://cdn.scsglobalservices.com/files/standards/scs_pcr_steel-products_050515_final.pdf
+  id: b1aba1a033844da19a8b22ca146b5125
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: North American PCR for Designated Steel Construction Products
+  open_xpd_uuid: ec3spn6n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3spn6n
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3spn6nw2
+  short_name: Designated Steel Construction Products
+  status: Sunset
+  updated_on: '2025-08-11T20:22:04.833912Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 3038.104743 kgCO2e
+plant_geography:
+- US-CA
+- US-GA
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-05T14:16:48.755623Z'
+  id: 77de9b396f1b44869ec205ca1e518883
+  is_failed: false
+  jurisdiction:
+  - US-CA
+  - US-GA
+  name: Armstrong (Georgia, California)
+  owned_by:
+    address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+    address_line: 2300 Columbia Ave
+    admin_district: PA
+    admin_district2: Lancaster County
+    alt_names:
+    - Armstrong World Industries
+    - Armstrong World Industries, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-08T13:15:28.906027Z'
+    email_extensions:
+    - armstrongceilings.com
+    - armstrongceiling.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+    id: 3625052d06964ba2accc90930766b552
+    image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+    is_failed: false
+    latitude: 40.0396801
+    legal_name: Armstrong World Industries, Inc.
+    locality: Lancaster
+    location:
+    - long_name: '2300'
+      short_name: '2300'
+      types:
+      - street_number
+    - long_name: Columbia Avenue
+      short_name: Columbia Ave
+      types:
+      - route
+    - long_name: Lancaster
+      short_name: Lancaster
+      types:
+      - locality
+      - political
+    - long_name: Manor Township
+      short_name: Manor Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lancaster County
+      short_name: Lancaster County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '17603'
+      short_name: '17603'
+      types:
+      - postal_code
+    - long_name: '4108'
+      short_name: '4108'
+      types:
+      - postal_code_suffix
+    longitude: -76.36606739999999
+    name: Armstrong World Industries, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '17603'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-07-12T17:35:39.941724Z'
+    web_domain: armstrongceilings.com
+    website: www.armstrongceilings.com
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2020-10-05T14:16:50.562383Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4787532757.105.1
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36gxe8xa
+stainless: false
+standard_deviation: 746.3221757 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3038.104743 kgCO2e
+uncertainty_factor: 1.2606243747311445
+updated_on: '2025-01-14T17:59:48.938313Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

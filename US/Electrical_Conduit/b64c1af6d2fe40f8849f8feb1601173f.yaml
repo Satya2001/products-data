@@ -1,0 +1,502 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 31.09014486 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1936912574340'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 m
+  description: Tubing used to protect and route electrical wiring in a building or
+    structure
+  display_name: Electrical Conduit
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: d85e5bb386ba42f7bce0b32f61fbaed0
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.059 kg
+  massless: false
+  masterformat: 26 05 33.13 Electrical Conduit
+  may_contain_trusted_vendor_declarations: false
+  name: ElectricalConduit
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricalConduit
+  openepd_name: Electrical >> ElectricalConduit
+  parents: []
+  pct10_gwp: 0.1765704463 kgCO2e
+  pct20_gwp: 0.3223867564 kgCO2e
+  pct30_gwp: 0.5290050571 kgCO2e
+  pct40_gwp: 0.8496085806 kgCO2e
+  pct50_gwp: 1.554472908 kgCO2e
+  pct60_gwp: 3.741524871 kgCO2e
+  pct70_gwp: 8.788949341 kgCO2e
+  pct80_gwp: 17.357736 kgCO2e
+  pct90_gwp: 41.26010778 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Conduit
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2025-11-20T07:58:20.383309Z'
+  use_stored_carbon: ABSENT
+conduit_inner_diameter: 41.20 mm
+conduit_material: Aluminum
+conduit_nominal_diameter: 48.30 mm
+conduit_outer_diameter: 50.20 mm
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 44.30985514 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-10-23T20:42:00.063211Z'
+date_of_issue: '2024-12-01'
+date_validity_ends: '2029-12-01'
+declaration_type: Product EPD
+declared_unit: 1 m
+description: "Ocal\xAE PVC-coated conduit provide corrosion protection that helps\
+  \ extend the life of the electrical raceway system of the customer"
+doc: buildingtransparency.org/e/ec3pdqynb1
+document_version: '01.01'
+excluded: false
+externally_verified: true
+gwp: 37.7 kgCO2e
+gwp_per_category_declared_unit: 37.7 kgCO2e
+gwp_per_kg: 15.92733418 kgCO2e
+gwp_z: 0.2083266665599966
+id: 991263c401b3494f9c2bcdce826834dc
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 31.09014486 kgCO2e
+manufacturer:
+  address: Via Luciano Lama, 33, 20099 Sesto San Giovanni MI, Italy
+  address_line: 33 Via Luciano Lama
+  admin_district: Lombardia
+  admin_district2: MI
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2023-07-04T15:53:36.877953Z'
+  enterprise: false
+  id: 52876a261129423cb4e7b4bf79a877a9
+  is_failed: false
+  latitude: 45.5234985
+  locality: Sesto San Giovanni
+  location:
+  - long_name: '33'
+    short_name: '33'
+    types:
+    - street_number
+  - long_name: Via Luciano Lama
+    short_name: Via Luciano Lama
+    types:
+    - route
+  - long_name: Sesto San Giovanni
+    short_name: Sesto San Giovanni
+    types:
+    - locality
+    - political
+  - long_name: Sesto San Giovanni
+    short_name: Sesto San Giovanni
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "Citt\xE0 Metropolitana di Milano"
+    short_name: MI
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Lombardia
+    short_name: Lombardia
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '20099'
+    short_name: '20099'
+    types:
+    - postal_code
+  longitude: 9.232328599999999
+  name: ABB S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/52876a261129423cb4e7b4bf79a877a9
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '20099'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-07-04T15:53:36.877960Z'
+  web_domain: abb.com
+  website: http://www.abb.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2.367 kg
+matched_plants_count: 0
+material_id: b64c1af6d2fe40f8849f8feb1601173f
+my_capabilities: 1
+name: PVC-coated conduit light products ELL11/2SA-G
+not_an_epd: false
+open_xpd_uuid: ec3as35c
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3as35c
+output_flows: {}
+owner:
+  name: Parser
+  user_id: epd.parser@buildingtransparency.org
+pcr:
+  alt_names:
+  - PSR-0003 - Cable management solutions
+  - PSR-0003-ed2.1-EN-2023 12 08
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-05-16T15:26:45.877520Z'
+  date_of_issue: '2023-10-19'
+  date_validity_ends: '2028-10-01'
+  declared_units:
+  - 1 unit
+  - 1 m
+  doc: http://www.pep-ecopassport.org/create-a-pep/produce-a-lca/
+  id: 2dc769105d8b447490c06e21a14fc2fe
+  is_failed: false
+  issuer_doc_id: PSR-0003-ed1.1-EN-2015 10 16
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Specific Rules for Cable Management Solutions
+  open_xpd_uuid: ec3ujc9c
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ujc9c
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3ujc9ctj
+  short_name: PSR-0003 Cable Management Solutions
+  status: Published
+  updated_on: '2025-09-18T07:26:14.190393Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 44.30985514 kgCO2e
+plant_geography:
+- US-AR
+plant_or_group:
+  address: W Highland Dr, Jonesboro, AR 72401, USA
+  address_line: W Highland Dr
+  admin_district: AR
+  admin_district2: Craighead County
+  carbon_intensity: 858.369 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2025-10-22T22:49:02.707470Z'
+  id: 703e84d5dedc4842bbb15e522f75b6ea
+  is_failed: false
+  latitude: 35.8207297
+  locality: Jonesboro
+  location:
+  - long_name: West Highland Drive
+    short_name: W Highland Dr
+    types:
+    - route
+  - long_name: Jonesboro
+    short_name: Jonesboro
+    types:
+    - locality
+    - political
+  - long_name: Craighead County
+    short_name: Craighead County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arkansas
+    short_name: AR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '72401'
+    short_name: '72401'
+    types:
+    - postal_code
+  longitude: -90.7135551
+  name: Highland , AR
+  openepd_id: 867FR7CP+7H.abb.com
+  owned_by:
+    address: Via Luciano Lama, 33, 20099 Sesto San Giovanni MI, Italy
+    address_line: 33 Via Luciano Lama
+    admin_district: Lombardia
+    admin_district2: MI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2023-07-04T15:53:36.877953Z'
+    enterprise: false
+    id: 52876a261129423cb4e7b4bf79a877a9
+    is_failed: false
+    latitude: 45.5234985
+    locality: Sesto San Giovanni
+    location:
+    - long_name: '33'
+      short_name: '33'
+      types:
+      - street_number
+    - long_name: Via Luciano Lama
+      short_name: Via Luciano Lama
+      types:
+      - route
+    - long_name: Sesto San Giovanni
+      short_name: Sesto San Giovanni
+      types:
+      - locality
+      - political
+    - long_name: Sesto San Giovanni
+      short_name: Sesto San Giovanni
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Citt\xE0 Metropolitana di Milano"
+      short_name: MI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Lombardia
+      short_name: Lombardia
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '20099'
+      short_name: '20099'
+      types:
+      - postal_code
+    longitude: 9.232328599999999
+    name: ABB S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/52876a261129423cb4e7b4bf79a877a9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20099'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-07-04T15:53:36.877960Z'
+    web_domain: abb.com
+    website: http://www.abb.com/
+  postal_code: '72401'
+  total_epds: 54
+  type: Plant
+  units: SI
+  updated_on: '2025-10-23T22:00:03.708513Z'
+plant_specific: true
+private: false
+product_classes:
+  PEP Ecopassport:
+  - "Installation wiring devices for electric power and communication networks (\u2264\
+    \ 63 amperes) -> Cable management systems -> Trunking Systems and Conduit Systems\
+    \ -> Conduit systems"
+product_specific: true
+program_operator:
+  address: 17 Rue de l'Amiral Hamelin, Paris, 75116
+  address_line: 17 Rue de l'Amiral Hamelin
+  admin_district: "\xCEle-de-France"
+  admin_district2: Paris
+  alt_names:
+  - 'P.E.P. '
+  - P.E.P. Association
+  - PEP Ecopassport
+  - PEP ECOPASSPORT
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2020-03-20T16:26:04.700448Z'
+  email_extensions:
+  - pep-ecopassport.org
+  enterprise: true
+  id: deed9ea7ead94df4b981dc9983a0fd67
+  is_failed: false
+  latitude: 48.86705
+  locality: Paris
+  location:
+    country: France
+    countryCode: FR
+    countryCodeISO3: FRA
+    countrySecondarySubdivision: Paris
+    countrySubdivision: "\xCEle-de-France"
+    freeformAddress: 17 Rue de l'Amiral Hamelin, Paris, 75116
+    localName: Paris
+    municipality: Paris
+    municipalitySubdivision: "16\xE8me Arrondissement"
+    postalCode: '75116'
+    streetName: Rue de l'Amiral Hamelin
+    streetNumber: '17'
+  longitude: 2.29208
+  name: Association P.E.P
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/deed9ea7ead94df4b981dc9983a0fd67
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - FR
+  postal_code: '75116'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-05-16T14:29:39.996215Z'
+  web_domain: pep-ecopassport.org
+  website: http://www.pep-ecopassport.org/
+program_operator_fkey: ABBG-00691-V01.01-EN
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3as35cwr
+standard_deviation: 7.853915329 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 44.30985514 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-10-27T06:45:57.382979Z'
+use_stored_carbon: false
+verifier:
+  email: jorgelet@ddemain.com
+  name: Julie Orgelet
+  org:
+    address: Grenoble, France
+    admin_district: "Auvergne-Rh\xF4ne-Alpes"
+    admin_district2: Isere
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2021-08-10T19:10:01.593601Z'
+    enterprise: false
+    id: 17f67f96319645f88c651015736a4c15
+    is_failed: false
+    latitude: 45.188529
+    locality: Grenoble
+    location:
+    - long_name: Grenoble
+      short_name: Grenoble
+      types:
+      - locality
+      - political
+    - long_name: Isere
+      short_name: Isere
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Auvergne-Rh\xF4ne-Alpes"
+      short_name: "Auvergne-Rh\xF4ne-Alpes"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    longitude: 5.724524
+    name: DDemain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/17f67f96319645f88c651015736a4c15
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-08-10T19:10:22.146202Z'
+    web_domain: ddemain.com
+    website: https://ddemain.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

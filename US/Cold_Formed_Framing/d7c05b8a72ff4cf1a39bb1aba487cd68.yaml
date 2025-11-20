@@ -1,0 +1,491 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+best_practice: 1404.813688 kgCO2e
+biogenic_embodied_carbon_z: 0.30967725134404045
+box_id: '493010391572'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-02-26T17:50:11Z'
+  declared_unit: 1 t
+  description: 'Cold formed steel elements such as studs and framing, typically made
+    from coil or sheet steel
+
+    and used within walls and ceilings.'
+  display_name: Cold Formed Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 5102ecc070414ff0a4b7c104ddecef45
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 40 00 COLD-FORMED METAL FRAMING
+  may_contain_trusted_vendor_declarations: false
+  name: ColdFormedFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> ColdFormedFraming
+  openepd_name: Steel >> ColdFormedSteel >> ColdFormedFraming
+  parents: []
+  pct10_gwp: 1828.28175 kgCO2e
+  pct20_gwp: 1953.771181 kgCO2e
+  pct30_gwp: 2129.666881 kgCO2e
+  pct40_gwp: 2267.443941 kgCO2e
+  pct50_gwp: 2491.268183 kgCO2e
+  pct60_gwp: 2673.58129 kgCO2e
+  pct70_gwp: 2859.635188 kgCO2e
+  pct80_gwp: 3006.014245 kgCO2e
+  pct90_gwp: 3262.571519 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2025-11-20T07:56:49.166692Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2395.186312 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-07-19T14:39:18.060936Z'
+date_of_issue: '2016-07-30'
+date_validity_ends: '2021-07-29'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7850 kg / m3
+description: Light Gauge Steel Framing and Accessories
+doc: buildingtransparency.org/e/ec32sjj69s
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-04103_MBA-BuildingSupplies_080116.pdf
+galvanized: false
+gwp: 1900 kgCO2e
+gwp_per_category_declared_unit: 1900 kgCO2e
+gwp_per_kg: 1.9 kgCO2e
+gwp_z: 0.30967725134404045
+id: cc550ab23ed540eb804852e98c4fa980
+image: https://static.buildingtransparency.org/images/cd575de7173b42f49f463fc3acdac952.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  Carbon Steel 90% to 99%
+
+  Metallic Coating*1% to 10%
+
+
+  ## Source Data Notes
+
+  SimaPro 8.1'
+lowest_plausible_gwp: 1404.813688 kgCO2e
+manufacturer:
+  address: 2200 Tempel Drive, Libertyville, IL 60048
+  address_line: 2200 Tempel Drive, White Boulevard
+  admin_district: IL
+  admin_district2: Lake
+  alt_names:
+  - MBA Studs
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/mba-building-supplies
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:40:00.097816Z'
+  email_extensions:
+  - mbastuds.com
+  enterprise: true
+  id: 2f3622073a1142578cc88630e299f9d0
+  is_failed: false
+  latitude: 42.31166
+  locality: Libertyville, Grayslake
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Lake
+    countrySubdivision: IL
+    countrySubdivisionName: Illinois
+    countryTertiarySubdivision: Fremont
+    extendedPostalCode: '600489735'
+    freeformAddress: 2200 Tempel Drive, Libertyville, IL 60048
+    localName: Libertyville
+    municipality: Libertyville, Grayslake
+    municipalitySubdivision: Libertyville
+    postalCode: '60048'
+    streetName: Tempel Drive, White Boulevard
+    streetNumber: '2200'
+  longitude: -88.00828
+  name: MBA Building Supplies
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f3622073a1142578cc88630e299f9d0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '60048'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:57:44.960199Z'
+  web_domain: mbastuds.com
+  website: www.mbastuds.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 1
+material_id: d7c05b8a72ff4cf1a39bb1aba487cd68
+my_capabilities: 1
+name: MBA Metal Framing
+not_an_epd: false
+open_xpd_uuid: ec32sjj6
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32sjj6
+output_flows: {}
+owner:
+  name: cqd.io Script
+  user_id: script@cqd.io
+pcr:
+  alt_names:
+  - North American Product Category Rule for  Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS Global Services
+  - North American PCR for Designated Steel Construction Products (SCS, 2015)
+  - 'SCS Global: North American Product Category Rule for Designated Steel Construction
+    Products'
+  - North American PCR for Designated Steel Construction Products
+  - North American Product Category Rule for Designated Steel Construction Products
+  - SCS Services. (2015). North American PCR for Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Products
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - North American Product Category Rule for Designated Steel Construction Products
+    Reference PCR by SCS Global Services, May 5, 2015 V.1.O
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015.
+  - North American PCR for Designated Steel Construction Products, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Projects, v1.0, May 2015
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015
+  - North American Product Category Rule for Designated Steel Construction Products,
+    v1.0
+  - SCS PCR for Designated Steel Construction Products v1 2015
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-04T10:19:19.700479Z'
+  date_of_issue: '2015-05-05'
+  date_validity_ends: '2020-05-05'
+  declared_units:
+  - 1 tonne
+  doc: https://cdn.scsglobalservices.com/files/standards/scs_pcr_steel-products_050515_final.pdf
+  id: b1aba1a033844da19a8b22ca146b5125
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: North American PCR for Designated Steel Construction Products
+  open_xpd_uuid: ec3spn6n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3spn6n
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3spn6nw2
+  short_name: Designated Steel Construction Products
+  status: Sunset
+  updated_on: '2025-08-11T20:22:04.833912Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 2395.186312 kgCO2e
+plant_geography:
+- US-TX
+- US-AL
+- US-PA
+- US
+- US-IL
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-11-25T19:54:43.308748Z'
+  id: ebe121361e9e43938899253e8af922c5
+  is_failed: false
+  jurisdiction:
+  - US
+  name: US Plants
+  owned_by:
+    address: 2200 Tempel Drive, Libertyville, IL 60048
+    address_line: 2200 Tempel Drive, White Boulevard
+    admin_district: IL
+    admin_district2: Lake
+    alt_names:
+    - MBA Studs
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/mba-building-supplies
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:40:00.097816Z'
+    email_extensions:
+    - mbastuds.com
+    enterprise: true
+    id: 2f3622073a1142578cc88630e299f9d0
+    is_failed: false
+    latitude: 42.31166
+    locality: Libertyville, Grayslake
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Lake
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Fremont
+      extendedPostalCode: '600489735'
+      freeformAddress: 2200 Tempel Drive, Libertyville, IL 60048
+      localName: Libertyville
+      municipality: Libertyville, Grayslake
+      municipalitySubdivision: Libertyville
+      postalCode: '60048'
+      streetName: Tempel Drive, White Boulevard
+      streetNumber: '2200'
+    longitude: -88.00828
+    name: MBA Building Supplies
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f3622073a1142578cc88630e299f9d0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60048'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:57:44.960199Z'
+    web_domain: mbastuds.com
+    website: www.mbastuds.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2020-11-25T19:54:44.996627Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-04103
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32sjj69s
+standard_deviation: 588.3867776 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2395.186312 kgCO2e
+uncertainty_factor: 1.2606243747311445
+updated_on: '2025-01-14T03:04:58.110728Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

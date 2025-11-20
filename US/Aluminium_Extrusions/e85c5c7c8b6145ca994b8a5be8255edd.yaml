@@ -1,0 +1,538 @@
+also_shown_in: []
+anodized: false
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/kawneer
+best_practice: 3.253178274 kgCO2e
+biogenic_embodied_carbon_z: 0.5330487782557991
+box_id: '528566184095'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:48.160699Z'
+  declared_unit: 1 kg
+  default_distance: 856.16888 km
+  default_transport_mode: truck, unspecified
+  description: Extruded aluminum products used in construction with of a range of
+    finish options including mill finish, painted, and anodized.
+  display_name: Aluminium Extrusions
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 973c3b55a5704f6e9cf5a2ad3d0d875b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: AluminiumExtrusions
+  no_statistics: false
+  obsolete: false
+  openepd: Aluminium >> AluminiumExtrusions
+  openepd_name: Aluminium >> AluminiumExtrusions
+  parents: []
+  pct10_gwp: 3.230664751 kgCO2e
+  pct20_gwp: 4.31274206 kgCO2e
+  pct30_gwp: 5.1148648 kgCO2e
+  pct40_gwp: 5.859076195 kgCO2e
+  pct50_gwp: 7.534312657 kgCO2e
+  pct60_gwp: 9.051847714 kgCO2e
+  pct70_gwp: 11.24737644 kgCO2e
+  pct80_gwp: 13.18254733 kgCO2e
+  pct90_gwp: 16.24105178 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Extrusions
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '31111501'
+  updated_on: '2025-11-20T07:57:11.168107Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 8.546821726 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-10-28T19:57:19.980494Z'
+date_of_issue: '2015-11-16'
+date_validity_ends: '2020-11-16'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: "2700 kg/m\xB3"
+description: 'This EPD covers the production of extruded aluminum with the following
+  finishing options: anodizing, painted and mill-finish. The results for each product
+  type are calculated for the production-weighted average from all Kawneer production
+  sites in North America'
+doc: buildingtransparency.org/e/ec3mqxrbeu
+excluded: false
+externally_verified: true
+file_name: EPD47868332121.106_kawneer aluminum extrusions.pdf
+gwp: 5.9 kgCO2e
+gwp_per_category_declared_unit: 5.9 kgCO2e
+gwp_per_kg: 5.9 kgCO2e
+gwp_z: 0.5330487782557991
+id: aca081d82e6a4f2fa50c21cfcf16e7a2
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 3.253178274 kgCO2e
+manufacturer:
+  address: 555 Guthridge Ct NW, Norcross, GA 30092, USA
+  address_line: 555 Guthridge Ct NW
+  admin_district: GA
+  admin_district2: Gwinnett County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/kawneer
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:04:14.092099Z'
+  email_extensions:
+  - kawneer.com
+  enterprise: true
+  id: c50815559c954fde9275e587d697831d
+  is_failed: false
+  latitude: 33.9594197
+  locality: Norcross
+  location:
+  - long_name: '555'
+    short_name: '555'
+    types:
+    - street_number
+  - long_name: Guthridge Court Northwest
+    short_name: Guthridge Ct NW
+    types:
+    - route
+  - long_name: Norcross
+    short_name: Norcross
+    types:
+    - locality
+    - political
+  - long_name: Gwinnett County
+    short_name: Gwinnett County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30092'
+    short_name: '30092'
+    types:
+    - postal_code
+  - long_name: '3503'
+    short_name: '3503'
+    types:
+    - postal_code_suffix
+  longitude: -84.2210869
+  name: Kawneer
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c50815559c954fde9275e587d697831d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30092'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:51:26.966795Z'
+  web_domain: kawneer.com
+  website: www.kawneer.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: e85c5c7c8b6145ca994b8a5be8255edd
+my_capabilities: 1
+name: Aluminum Extrusions - Mill Finish
+not_an_epd: false
+open_xpd_uuid: ec3mqxrb
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3mqxrb
+output_flows: {}
+owner:
+  name: Brook Waldman
+  user_id: brook@waldmanlca.com
+painted: false
+pcr:
+  alt_names:
+  - 'PCR Guidance-Texts for Building-Related Products and Services From the range
+    of Environmental Product Declarations of Institute Construction and Environment
+    e.V. (IBU) Part B: Requirements on the EPD for Products of aluminium and aluminium
+    alloys'
+  - 'Part B: Requirements on the EPD for Products of aluminium and aluminium alloys'
+  - 'Part B: Products of aluminium and aluminium alloys'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:41.676689Z'
+  date_of_issue: '2013-04-11'
+  date_validity_ends: '2013-07-08'
+  declared_units:
+  - 1 tonne
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5368
+  id: 1684afbd5baa4f11bd4b2a88d380ca79
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Products of Aluminum and Aluminum Alloys'
+  open_xpd_uuid: ec30nhen
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec30nhen
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec30nhen25
+  short_name: Products of Aluminum and Aluminum Alloys
+  status: Sunset
+  updated_on: '2025-11-20T20:50:04.726035Z'
+  version: 1.0/1.0/1.0
+pct80_gwp_per_category_declared_unit: 8.546821726 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 7200 West Doe Avenue, Visalia, CA 93291
+  address_line: 7200 West Doe Avenue
+  admin_district: CA
+  admin_district2: Tulare
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-23T22:37:27.555840Z'
+  id: 90dd9f8bffb64b26a06de4c0f217e2d7
+  is_failed: false
+  latitude: 36.34647
+  locality: Visalia
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Tulare
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Visalia
+    extendedPostalCode: '932919287'
+    freeformAddress: 7200 West Doe Avenue, Visalia, CA 93291
+    localName: Visalia
+    municipality: Visalia
+    municipalitySubdivision: Visalia
+    postalCode: '93291'
+    streetName: West Doe Avenue
+    streetNumber: '7200'
+  longitude: -119.37092
+  name: Visalia, CA
+  openepd_id: 85828JWH+HJ.kawneer.com
+  owned_by:
+    address: 555 Guthridge Ct NW, Norcross, GA 30092, USA
+    address_line: 555 Guthridge Ct NW
+    admin_district: GA
+    admin_district2: Gwinnett County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/kawneer
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:04:14.092099Z'
+    email_extensions:
+    - kawneer.com
+    enterprise: true
+    id: c50815559c954fde9275e587d697831d
+    is_failed: false
+    latitude: 33.9594197
+    locality: Norcross
+    location:
+    - long_name: '555'
+      short_name: '555'
+      types:
+      - street_number
+    - long_name: Guthridge Court Northwest
+      short_name: Guthridge Ct NW
+      types:
+      - route
+    - long_name: Norcross
+      short_name: Norcross
+      types:
+      - locality
+      - political
+    - long_name: Gwinnett County
+      short_name: Gwinnett County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30092'
+      short_name: '30092'
+      types:
+      - postal_code
+    - long_name: '3503'
+      short_name: '3503'
+      types:
+      - postal_code_suffix
+    longitude: -84.2210869
+    name: Kawneer
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c50815559c954fde9275e587d697831d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30092'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:51:26.966795Z'
+    web_domain: kawneer.com
+    website: www.kawneer.com
+  postal_code: '93291'
+  total_epds: 3
+  type: Plant
+  units: SI
+  updated_on: '2019-09-23T22:37:27.555848Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 47868332121.106.1
+recycled_content: 0.0
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3mqxrbeu
+standard_deviation: 3.144987792 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thermally_improved: false
+third_party_verified: true
+uncertainty_adjusted_gwp: 8.546821726 kgCO2e
+uncertainty_factor: 1.4486138517800806
+updated_on: '2025-01-14T06:14:35.158998Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

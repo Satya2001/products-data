@@ -1,0 +1,621 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 4.684963208 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1819830056423'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-10-05T09:06:11Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Thermoplastic Polyolefin (TPO) membrane.
+  display_name: Single-Ply TPO
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: db8d5fc34f304dd69cf4829d456d3c69
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.68 kg
+  massless: false
+  masterformat: 07 50 00 Membrane Roofing
+  may_contain_trusted_vendor_declarations: false
+  name: SinglePlyTPO
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> MembraneRoofing >> SinglePlyTPO
+  openepd_name: ThermalMoistureProtection >> MembraneRoofing >> SinglePlyTPO
+  parents: []
+  pct10_gwp: 2.221333687 kgCO2e
+  pct20_gwp: 2.927442678 kgCO2e
+  pct30_gwp: 3.559816814 kgCO2e
+  pct40_gwp: 3.946370343 kgCO2e
+  pct50_gwp: 4.418122435 kgCO2e
+  pct60_gwp: 5.0327065 kgCO2e
+  pct70_gwp: 5.541673074 kgCO2e
+  pct80_gwp: 6.020169405 kgCO2e
+  pct90_gwp: 7.509910822 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: TPO
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-11-20T07:57:40.121732Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 6.677036792 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-10-31T19:40:29.184808Z'
+date_of_issue: '2025-02-24'
+date_validity_ends: '2030-02-24'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: JM TPO 80 mils is a thermoplastic polyolefin (TPO) single-ply roofing
+  membrane reinforced with a polyester fabric and manufactured with an ultraviolet-resistant
+  thermoplastic polyolefin formulation. The membrane provides extreme pliability,
+  flexibility and weldability during installation. It is typically utilized in mechanically
+  attached commercial roofing systems and provides excellent long term weatherability,
+  hail resistance and repairability.
+developer:
+  email: info@sphera.com
+  name: Sphera staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3ad206bh
+excluded: false
+externally_verified: true
+gwp: 5.681 kgCO2e
+gwp_per_category_declared_unit: 5.681 kgCO2e
+gwp_per_kg: 2.784803922 kgCO2e
+gwp_z: 0.2083266665599966
+id: e58cbec870264dbca68d52e487b36776
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 4.684963208 kgCO2e
+manufacturer:
+  address: 1465 17th Ave, McPherson, KS 67460, USA
+  address_line: 1465 17th Ave
+  admin_district: KS
+  admin_district2: McPherson County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/johns-manville
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-20T10:01:12.142160Z'
+  email_extensions:
+  - naima.org
+  enterprise: true
+  id: 9fe766e3e20f479aa452017db69ec8b5
+  is_failed: false
+  latitude: 38.3850886
+  locality: McPherson
+  location:
+  - long_name: '1465'
+    short_name: '1465'
+    types:
+    - street_number
+  - long_name: 17th Avenue
+    short_name: 17th Ave
+    types:
+    - route
+  - long_name: McPherson
+    short_name: McPherson
+    types:
+    - locality
+    - political
+  - long_name: McPherson
+    short_name: McPherson
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: McPherson County
+    short_name: McPherson County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Kansas
+    short_name: KS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '67460'
+    short_name: '67460'
+    types:
+    - postal_code
+  - long_name: '2200'
+    short_name: '2200'
+    types:
+    - postal_code_suffix
+  longitude: -97.6144716
+  name: Johns Manville
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fe766e3e20f479aa452017db69ec8b5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '67460'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:50:31.923144Z'
+  web_domain: jm.com
+  website: https://www.jm.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2.04 kg
+matched_plants_count: 0
+material_id: cdb856928b1948f996afd5e84f06bb74
+my_capabilities: 1
+name: JM TPO 80 mils
+not_an_epd: false
+open_xpd_uuid: ec3ad206
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ad206
+output_flows: {}
+owner:
+  name: Parser
+  user_id: epd.parser@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-06-26T00:57:47.980894Z'
+  date_of_issue: '2019-10-11'
+  date_validity_ends: '2024-10-11'
+  declared_units:
+  - 1 m2
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/astm_single_ply_roofing_membranes.pdf
+  id: d15fec8bc7bf4dd7ad4c2db6ddaf75cd
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '002'
+      - '142'
+      - AQ
+      - '150'
+      - 009
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: PCR for Single Ply Roofing Membranes
+  open_xpd_uuid: ec382xbg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec382xbg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec382xbgcm
+  short_name: Single Ply Roofing Membranes
+  status: Expired
+  updated_on: '2025-08-13T17:56:10.883183Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 6.677036792 kgCO2e
+plant_geography:
+- US-AL
+plant_or_group:
+  address: Phenix City, AL, USA
+  admin_district: AL
+  admin_district2: Russell County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-02-08T16:43:38.759906Z'
+  id: 710568f615d747f5962a775821575858
+  is_failed: false
+  latitude: 32.4709761
+  locality: Phenix City
+  location:
+  - long_name: Phenix City
+    short_name: Phenix City
+    types:
+    - locality
+    - political
+  - long_name: Russell County
+    short_name: Russell County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Alabama
+    short_name: AL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -85.0007653
+  name: Johns Manville
+  openepd_id: 864PFXCX+9M.jm.com
+  owned_by:
+    address: 1465 17th Ave, McPherson, KS 67460, USA
+    address_line: 1465 17th Ave
+    admin_district: KS
+    admin_district2: McPherson County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/johns-manville
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-20T10:01:12.142160Z'
+    email_extensions:
+    - naima.org
+    enterprise: true
+    id: 9fe766e3e20f479aa452017db69ec8b5
+    is_failed: false
+    latitude: 38.3850886
+    locality: McPherson
+    location:
+    - long_name: '1465'
+      short_name: '1465'
+      types:
+      - street_number
+    - long_name: 17th Avenue
+      short_name: 17th Ave
+      types:
+      - route
+    - long_name: McPherson
+      short_name: McPherson
+      types:
+      - locality
+      - political
+    - long_name: McPherson
+      short_name: McPherson
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: McPherson County
+      short_name: McPherson County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Kansas
+      short_name: KS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '67460'
+      short_name: '67460'
+      types:
+      - postal_code
+    - long_name: '2200'
+      short_name: '2200'
+      types:
+      - postal_code_suffix
+    longitude: -97.6144716
+    name: Johns Manville
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fe766e3e20f479aa452017db69ec8b5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67460'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:50:31.923144Z'
+    web_domain: jm.com
+    website: https://www.jm.com/
+  total_epds: 6
+  type: Plant
+  updated_on: '2025-10-31T22:00:02.936822Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4791137694.101.1
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3ad206bh
+standard_deviation: 1.183503793 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 6.677036792 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-10-31T20:02:00.632339Z'
+use_stored_carbon: false
+verifier:
+  email: cooper.mccollum@ul.com
+  name: Cooper McCollum
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - CA
+    - US
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

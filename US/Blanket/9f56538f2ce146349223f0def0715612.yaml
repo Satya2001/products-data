@@ -1,0 +1,462 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 6.252438773 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '705915756967'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9734917272 kgCO2e
+  pct20_gwp: 1.281107218 kgCO2e
+  pct30_gwp: 1.542048564 kgCO2e
+  pct40_gwp: 1.927537465 kgCO2e
+  pct50_gwp: 2.495220755 kgCO2e
+  pct60_gwp: 3.260207571 kgCO2e
+  pct70_gwp: 3.925594593 kgCO2e
+  pct80_gwp: 4.890311356 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-11-20T07:57:35.089809Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 10.26756123 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-02-20T21:45:16.390810Z'
+date_of_issue: '2018-12-03'
+date_validity_ends: '2023-12-03'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "External insulation on commercial or residential heating or air conditioning\
+  \ ducts in North America. It is suitable for the exterior of rectangular or round\
+  \ sheet metal ducts and spaces or surfaces where temperature and condensation must\
+  \ be controlled. ALLEY WRAP\u2122 B  is used as thermal and/or acoustical insulation\
+  \ in the appliance, equipment, industrial, commercial, and marine markets. ALLEY\
+  \ WRAP\u2122 B  has been successfully used as a Red List free and  formaldehyde-free\
+  \ core in double wall duct systems. Insulation is delivered to the installation\
+  \ site as one packaged bag containing varying amounts of product."
+doc: buildingtransparency.org/e/ec363ghykk
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: "Manson_Insulation_ALLEY-WRAP\u2122-B-_EPD_DEC18 (1)_ef6bac7cd4034e01b7cbe7514141327f.pdf"
+gwp: 8.26 kgCO2e
+gwp_per_category_declared_unit: 8.26 kgCO2e
+gwp_per_kg: 13.34410339 kgCO2e
+gwp_z: 0.28879058156387305
+id: 0cc0233036174e8e95eb1599b19ebd59
+image: https://static.buildingtransparency.org/images/9111140062ff437a932f0c26d4a00eeb.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Mineral Wool
+insulation_intended_application:
+- Duct
+- Wall & General
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## LCA Notes
+
+  Published thickness (0.320 m) is assumed to be in error.'
+lowest_plausible_gwp: 6.252438773 kgCO2e
+manufacturer:
+  address: Shelbyville, IN
+  admin_district: IN
+  admin_district2: Shelby
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/manson-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-12-11T16:27:56.589297Z'
+  email_extensions:
+  - imanson.com
+  enterprise: true
+  id: 0f8c0e14b0634fa7b96e5e34882e3196
+  image: https://static.buildingtransparency.org/images/1e20612d-46ae-4d71-a6b5-e066ba3647eb.png
+  is_failed: false
+  latitude: 39.52295
+  locality: Shelbyville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Shelby
+    countrySubdivision: IN
+    countrySubdivisionName: Indiana
+    countryTertiarySubdivision: Addison
+    freeformAddress: Shelbyville, IN
+    municipality: Shelbyville
+  longitude: -85.77701
+  name: Manson Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/0f8c0e14b0634fa7b96e5e34882e3196
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:57:00.760394Z'
+  web_domain: imanson.com
+  website: http://www.imanson.com/pages/en/products/products-by-category.php?cid=2&pid=2
+manufacturer_specific: true
+mass_per_declared_unit: 0.619 kg
+matched_plants_count: 1
+material_id: 9f56538f2ce146349223f0def0715612
+my_capabilities: 1
+name: "ALLEY WRAP\u2122 B"
+not_an_epd: false
+open_xpd_uuid: ec3cjm1s
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3cjm1s
+output_flows: {}
+owner:
+  name: Kim Hammer
+  user_id: kim@sustainableminds.com
+pcr:
+  alt_names:
+  - 'Part B: Building Envelope Thermal Insulation EPD requirements'
+  - 'Part B: Building Thermal Insulation EPD Requirements UL 10010-1(2nd edition,
+    April 10, 2018)'
+  - 'PCR for preparing an EPD for Product Group: Building Envelope Thermal Insulation'
+  - PCR for Building Envelope Thermal Insulation
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.470071Z'
+  date_of_issue: '2023-04-06'
+  date_validity_ends: '2024-04-06'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34197
+  id: af1087300982459398cb8bd7734ce08d
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 4
+    IPCC AR5:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Building Envelope Thermal Insulation Products'
+  open_xpd_uuid: ec3qgwtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qgwtt
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qgwttac
+  short_name: 'Part B: Building Envelope Thermal Insulation'
+  status: Expired
+  updated_on: '2025-11-20T18:20:04.425461Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 10.26756123 kgCO2e
+plant_geography:
+- US-IN
+- US-CA
+- US-AL
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-11-18T14:51:56.793606Z'
+  id: adbee44e8a9f448294bb0b0fa3833c33
+  is_failed: false
+  jurisdiction:
+  - US-IN
+  - US-CA
+  - US-AL
+  name: Shelbyville, IN; Lanett, AL; and Shasta Lake, CA
+  owned_by:
+    address: Shelbyville, IN
+    admin_district: IN
+    admin_district2: Shelby
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/manson-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-12-11T16:27:56.589297Z'
+    email_extensions:
+    - imanson.com
+    enterprise: true
+    id: 0f8c0e14b0634fa7b96e5e34882e3196
+    image: https://static.buildingtransparency.org/images/1e20612d-46ae-4d71-a6b5-e066ba3647eb.png
+    is_failed: false
+    latitude: 39.52295
+    locality: Shelbyville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Shelby
+      countrySubdivision: IN
+      countrySubdivisionName: Indiana
+      countryTertiarySubdivision: Addison
+      freeformAddress: Shelbyville, IN
+      municipality: Shelbyville
+    longitude: -85.77701
+    name: Manson Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0f8c0e14b0634fa7b96e5e34882e3196
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:57:00.760394Z'
+    web_domain: imanson.com
+    website: http://www.imanson.com/pages/en/products/products-by-category.php?cid=2&pid=2
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2020-11-18T14:51:58.804165Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Broadway, Cambridge, MA 02139
+  address_line: ' Broadway'
+  admin_district: MA
+  admin_district2: Middlesex
+  alt_names:
+  - Sustainable Minds LLC.
+  - sminds
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-12T10:00:38.592854Z'
+  email_extensions:
+  - sustainableminds.com
+  - ebsqart.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
+  id: 321e5dc991904465af04913936fd75c8
+  image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+  is_failed: false
+  latitude: 42.36484
+  locality: Cambridge
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Middlesex
+    countrySubdivision: MA
+    countrySubdivisionName: Massachusetts
+    countryTertiarySubdivision: Cambridge
+    freeformAddress: Broadway, Cambridge, MA 02139
+    municipality: Cambridge
+    municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+    postalCode: 02139
+    streetName: Broadway
+  longitude: -71.08975
+  name: Sustainable Minds
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: 02139
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: true
+  updated_on: '2025-07-22T02:03:03.572846Z'
+  web_domain: sustainableminds.com
+  website: https://www.sustainableminds.com
+program_operator_fkey: "MAN \u2013 20181203 \u2013 004"
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3cjm1sjr
+standard_deviation: 2.385410204 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 51.49999999999999 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 10.26756123 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T21:14:00.266817Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 789 North Dixboro Road, Ann Arbor, MI 48105
+    address_line: 789 North Dixboro Road
+    admin_district: MI
+    admin_district2: Washtenaw
+    alt_names:
+    - NSF
+    - NSF Certification LLC
+    - NSF Certification
+    attachments:
+      Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-08-01T22:31:34.491119Z'
+    email_extensions:
+    - nsf.org
+    enterprise: true
+    id: a44683606c014062ac954e094362582e
+    image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+    is_failed: false
+    latitude: 42.28365
+    legal_name: NSF International
+    locality: Ann Arbor
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Washtenaw
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+      freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+      localName: Ann Arbor
+      municipality: Ann Arbor
+      municipalitySubdivision: Ann Arbor
+      postalCode: '48105'
+      streetName: North Dixboro Road
+      streetNumber: '789'
+    longitude: -83.67447
+    name: NSF International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:00:07.818662Z'
+    web_domain: nsf.org
+    website: https://www.nsf.org/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  verifier:
+  - Missing link

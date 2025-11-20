@@ -1,0 +1,571 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+best_practice: 1326.80956 kgCO2e
+biogenic_embodied_carbon_z: 0.30967725134404045
+box_id: '1450989433519'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-03-27T13:26:45Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: Corrugated Decking made from cold-formed sheet steel. Often filled
+    with concrete.
+  display_name: Composite and Form Decks
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 05d49f750eed4648b7f72e3bbfc8b8e4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 31 00 Steel Decking
+  may_contain_trusted_vendor_declarations: false
+  name: DeckingSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> DeckingSteel
+  openepd_name: Steel >> ColdFormedSteel >> DeckingSteel
+  parents: []
+  pct10_gwp: 1859.939114 kgCO2e
+  pct20_gwp: 2001.531703 kgCO2e
+  pct30_gwp: 2109.483101 kgCO2e
+  pct40_gwp: 2236.311779 kgCO2e
+  pct50_gwp: 2308.24722 kgCO2e
+  pct60_gwp: 2404.07533 kgCO2e
+  pct70_gwp: 2607.882323 kgCO2e
+  pct80_gwp: 2824.020109 kgCO2e
+  pct90_gwp: 3006.541494 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Decking
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30264204'
+  updated_on: '2025-11-20T07:56:49.085066Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2262.19044 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-27T23:16:02.972510Z'
+date_of_issue: '2023-06-29'
+date_validity_ends: '2028-06-29'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 1 kg / m^3
+description: 'Steel deck is typically manufactured by rolling or otherwise forming
+  light gage steel coils into specific shapes. The coils are
+
+  either galvanized or uncoated steel to which a coating of paint may be applied.
+  Deck in this EPD represents product
+
+  manufactured in North America.'
+developer:
+  org:
+    address: Charlotte, NC 28211
+    admin_district: NC
+    admin_district2: Mecklenburg
+    alt_names:
+    - Nucor Corporation
+    - Nucor Steel Seattle, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T15:02:42.684523Z'
+    currency: USD
+    email_extensions:
+    - nucor.com
+    enterprise: true
+    id: 625c7af38bd0492d9fbdd186f1cea21a
+    image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+    is_failed: false
+    iso14001_certified: true
+    iso9001_certified: true
+    latitude: 35.159332
+    locality: Charlotte
+    location:
+      boundingBox:
+        entity: position
+        northEast: 35.159382,-80.834303
+        southWest: 35.159260,-80.834970
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Mecklenburg
+      countrySubdivision: NC
+      countrySubdivisionName: North Carolina
+      countryTertiarySubdivision: Township 1 Charlotte
+      freeformAddress: Charlotte, NC 28211
+      municipality: Charlotte
+      municipalitySubdivision: Charlotte, Barclay Downs
+      postalCode: '28211'
+      routeNumbers: []
+    longitude: -80.834694
+    name: Nucor
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28211'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:02:58.846698Z'
+    web_domain: nucor.com
+    website: http://www.nucor.com/
+doc: buildingtransparency.org/e/ec3d9mwe4e
+document_version: 'null'
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: "Fabricated Steel Roof and Floor Deck \u2013 Verco_c7105771d8bb48718680000cd40af251.pdf"
+galvanized: false
+gwp: 1794.5 kgCO2e
+gwp_per_category_declared_unit: 1794.5 kgCO2e
+gwp_per_kg: 1.7945 kgCO2e
+gwp_z: 0.30967725134404045
+id: 345c3b43c6c74ca197530115dbac643b
+image: https://static.buildingtransparency.org/images/b10b3f90a9184eba9e39afd864e4c7e9.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1326.80956 kgCO2e
+manufacturer:
+  address: Charlotte, NC 28211
+  admin_district: NC
+  admin_district2: Mecklenburg
+  alt_names:
+  - Nucor Corporation
+  - Nucor Steel Seattle, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T15:02:42.684523Z'
+  currency: USD
+  email_extensions:
+  - nucor.com
+  enterprise: true
+  id: 625c7af38bd0492d9fbdd186f1cea21a
+  image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+  is_failed: false
+  iso14001_certified: true
+  iso9001_certified: true
+  latitude: 35.159332
+  locality: Charlotte
+  location:
+    boundingBox:
+      entity: position
+      northEast: 35.159382,-80.834303
+      southWest: 35.159260,-80.834970
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Mecklenburg
+    countrySubdivision: NC
+    countrySubdivisionName: North Carolina
+    countryTertiarySubdivision: Township 1 Charlotte
+    freeformAddress: Charlotte, NC 28211
+    municipality: Charlotte
+    municipalitySubdivision: Charlotte, Barclay Downs
+    postalCode: '28211'
+    routeNumbers: []
+  longitude: -80.834694
+  name: Nucor
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28211'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:02:58.846698Z'
+  web_domain: nucor.com
+  website: http://www.nucor.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 1302849fbbcb49d18f17ae23de7b0013
+my_capabilities: 1
+name: Fabricated Steel Roof and Floor Deck
+not_an_epd: false
+open_xpd_uuid: ec3d9mwe
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3d9mwe
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-fossil
+      - gwp
+      - gwp-biogenic
+      - gwp-luluc
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - ep-fresh
+      - ep-terrestrial
+      - pocp
+      - ep-marine
+      - ep
+      - odp
+      - ap
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2025-09-18T05:33:14.263756Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2262.19044 kgCO2e
+plant_geography:
+- US-AZ
+plant_or_group:
+  address: 4340 North 42nd Avenue, Phoenix, AZ 85019
+  address_line: 4340 North 42nd Avenue
+  admin_district: AZ
+  admin_district2: Maricopa
+  carbon_intensity: 1027.548 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-09T09:26:06.879517Z'
+  id: 783934de729b4a949ea4400d2346e94f
+  is_failed: false
+  latitude: 33.5
+  locality: Phoenix
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Maricopa
+    countrySubdivision: AZ
+    countrySubdivisionName: Arizona
+    countryTertiarySubdivision: Phoenix
+    extendedPostalCode: '850193302'
+    freeformAddress: 4340 North 42nd Avenue, Phoenix, AZ 85019
+    municipality: Phoenix
+    municipalitySubdivision: Phoenix
+    postalCode: '85019'
+    streetName: North 42nd Avenue
+    streetNumber: '4340'
+  longitude: -112.14959
+  name: Verco Decking - Decking
+  openepd_id: 8559GV22+25.nucor.com
+  owned_by:
+    address: Charlotte, NC 28211
+    admin_district: NC
+    admin_district2: Mecklenburg
+    alt_names:
+    - Nucor Corporation
+    - Nucor Steel Seattle, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T15:02:42.684523Z'
+    currency: USD
+    email_extensions:
+    - nucor.com
+    enterprise: true
+    id: 625c7af38bd0492d9fbdd186f1cea21a
+    image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+    is_failed: false
+    iso14001_certified: true
+    iso9001_certified: true
+    latitude: 35.159332
+    locality: Charlotte
+    location:
+      boundingBox:
+        entity: position
+        northEast: 35.159382,-80.834303
+        southWest: 35.159260,-80.834970
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Mecklenburg
+      countrySubdivision: NC
+      countrySubdivisionName: North Carolina
+      countryTertiarySubdivision: Township 1 Charlotte
+      freeformAddress: Charlotte, NC 28211
+      municipality: Charlotte
+      municipalitySubdivision: Charlotte, Barclay Downs
+      postalCode: '28211'
+      routeNumbers: []
+    longitude: -80.834694
+    name: Nucor
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28211'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:02:58.846698Z'
+    web_domain: nucor.com
+    website: http://www.nucor.com/
+  postal_code: '85019'
+  total_epds: 1
+  type: Plant
+  updated_on: '2019-07-15T08:54:05.654129Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-09143
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3d9mwe4e
+stainless: false
+standard_deviation: 555.7158275 kgCO2e
+steel_recycled_content: 0.0
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2262.19044 kgCO2e
+uncertainty_factor: 1.2606243747311445
+updated_on: '2024-04-11T19:29:46.047256Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Crown Point, IN 46307, USA
+    admin_district: IN
+    admin_district2: Lake County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2023-05-22T16:15:51.822784Z'
+    enterprise: false
+    id: 0ce4f791e7384e65aa4b34171ff02b13
+    is_failed: false
+    latitude: 41.4169806
+    locality: Crown Point
+    location:
+    - long_name: Crown Point
+      short_name: Crown Point
+      types:
+      - locality
+      - political
+    - long_name: Center Township
+      short_name: Center Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lake County
+      short_name: Lake County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Indiana
+      short_name: IN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '46307'
+      short_name: '46307'
+      types:
+      - postal_code
+    longitude: -87.3653135
+    name: Beth Steffens Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0ce4f791e7384e65aa4b34171ff02b13
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '46307'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-22T16:15:51.822789Z'
+    web_domain: bethsteffens.com
+    website: www.bethsteffens.com
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Missing link

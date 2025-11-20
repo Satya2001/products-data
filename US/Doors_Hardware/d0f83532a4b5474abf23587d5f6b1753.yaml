@@ -1,0 +1,625 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/assa-abloy
+best_practice: 4.37076307 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '627984282990'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:46.691849Z'
+  declared_unit: 1 unit
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Door hardware, including automatic and security door hardware
+  display_name: Doors Hardware
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ca54e842c0fc4bf2b4f3a8564c3b1a4d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2.18 kg
+  massless: false
+  masterformat: 08 70 00 Doors Hardware
+  may_contain_trusted_vendor_declarations: false
+  name: DoorsHardware
+  no_statistics: false
+  obsolete: false
+  openepd: Accessories >> DoorsHardware
+  openepd_name: Accessories >> DoorsHardware
+  parents: []
+  pct10_gwp: 2.704905428 kgCO2e
+  pct20_gwp: 6.990470809 kgCO2e
+  pct30_gwp: 8.704985141 kgCO2e
+  pct40_gwp: 9.321804941 kgCO2e
+  pct50_gwp: 11.32362171 kgCO2e
+  pct60_gwp: 13.76255562 kgCO2e
+  pct70_gwp: 16.20235452 kgCO2e
+  pct80_gwp: 21.49450899 kgCO2e
+  pct90_gwp: 29.56772023 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Doors Hardware
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '46171500'
+  updated_on: '2025-11-20T07:57:22.034852Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 6.22923693 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-04-02T15:11:26.570798Z'
+date_of_issue: '2017-06-19'
+date_validity_ends: '2022-06-19'
+declaration_type: Product EPD
+declared_unit: 1 unit
+description: "Product name: Pemko Acoustic Automatic Door Bottom Product characteristic:\
+  \ Automatic Door Bottom The Pemko PDB-Series Acoustic Automatic Door Bottom creates\
+  \ uniform seal pressure across the entire door bottom resulting in superior acoustic\
+  \ performance. Addtional features include: - Durable, high quality PemkoPrene\xAE\
+  \ gasket - Designed to have a maximum drop of 0.5\" - \"Sealed-in-place\" type performance\
+  \ on certain STC openings - Fire Rated - Smoke Rated - GREENGUARD Gold Certified\
+  \ - Fully Mortised into door's bottom rail - Operates with 5lbs of force or less\
+  \ - Full Mortise application complies with ADA and ADAAG guidelines regarding protrusions\
+  \ from the door face and operating force - Patented design - United States Patent\
+  \ No. 8,925,250 B2 - Product contains several small screws for installation, as\
+  \ well as paper instructions. Otherwise, no other accessory materials are required\
+  \ for installation or use Application The Pemko Acoustic Automatic Door Bottom is\
+  \ ideal for a wide range of applications, including but not limited to high traffic\
+  \ areas, hotels, offices, public buildings, hospitals, institutions, educational\
+  \ facilities, and retail spaces Technical Data For the declared product, the following\
+  \ technical data in the delivery status must be provided with reference to the test\
+  \ standard: Technical Data Length 36\" (Various Lengths Available) Width 0.5625\"\
+  \ Height 1.375\" Metal Finish Multiple Finishes Gasket PemkoPrene\xAE, available\
+  \ in black"
+doc: buildingtransparency.org/e/ec35347s91
+epd_degraded: false
+excluded: false
+externally_verified: false
+file_name: 134.1_ASSA ABLOY_EPD_Pemko PDB411E Door Bottom.pdf
+gwp: 5.3 kgCO2e
+gwp_per_category_declared_unit: 5.3 kgCO2e
+gwp_per_kg: 6.162790698 kgCO2e
+gwp_z: 0.2083266665599966
+id: 09d814c7148f4a848fdb705581f3a272
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "## LCA Notes\nThis is a cradle to gate with options Environmental\
+  \ Product Declaration. The following life cycle phases were considered: Benefits\
+  \ and Construction Loads Beyond Product Stage Use Stage End of Life Stage* Process\
+  \ Stage the System Boundaries Deconstruction gate to the site Transport from Refurbishment\
+  \ Manufacturing Construction/ Replacement Raw material Maintenance Operational Operational\
+  \ energy use /demolition processing installation Recovery- Recycling water use Transport\
+  \ Transport Disposal potential process Reuse- Repair supply Waste Use A1 A2 A3 A4\
+  \ A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D X X X X X MND MND MND MND MND MND MND MND\
+  \ X X X X Description of the System Boundary Stages Corresponding to the PCR (X\
+  \ = Included; MND = Module Not Declared) *This includes provision of all materials,\
+  \ products and energy, packaging processing and its transport, as well as waste\
+  \ processing up to the end-of waste state or disposal of final residues.\n\n## Source\
+  \ Data Notes\nused are complete and representative of North America in terms of\
+  \ the geographic and technological coverage and are a recent vintage (i.e. less\
+  \ than ten years old). The data used for primary data are based on direct information\
+  \ sources of the manufacturer. Secondary data sets were used for raw materials extraction\
+  \ and processing, end of life, transportation, and energy production flows. Wherever\
+  \ secondary data is used, the study adopts critically reviewed data for consistency,\
+  \ precision, and reproducibility to limit uncertainty. Period Under Review The period\
+  \ under review is the full calendar year of 2015. Allocation Allocation was determined\
+  \ on a per unit basis. Comparability A comparison or an evaluation of EPD data is\
+  \ only possible if all data sets to be compared were created according to EN 15804\
+  \ and the building context, respectively the product-specific characteristics of\
+  \ performance, are taken into account. Environmental delarations from different\
+  \ programs may not be comparable. Full conformance with the PCR for North American\
+  \ Builders Hardware products allows EPD comparability only when all stages of a\
+  \ Builders Hardware product's life cycle have been considered. However, variations\
+  \ and deviations are possible. LCA: Modeling Scenarios and Additional Technical\
+  \ Information The following technical information is a basis for the declared modules\
+  \ or can be used for developing specific scenarios in the context of a building\
+  \ assessment if modules are not declared. Installation into the building (A5) Reference\
+  \ Service Life Name Value Unit Name Value Unit Auxiliary - kg Reference Service\
+  \ Life 5 years Water consumption - m3 Other resources - kg End of life (C1-C4) Electricity\
+  \ consumption - kWh Name Value Unit Other energy carriers - MJ Collected separately\
+  \ 0.7659 kg Material loss - kg Collected as mixed construction waste 0.0943 kg Output\
+  \ substance following waste treatment Reuse 0.0627 kg 0.13 kg on-site Recycling\
+  \ 0.7429 kg Dust in the air - kg Energy recovery - kg VOC in the air - kg Landfilling\
+  \ 0.0627 kg Environment 7 of 10 Environmental Product Declaration According Pemko\
+  \ PDB411E Acoustic Automatic Door Bottom to Door Hardware ISO 14025 LCA Results\
+  \ Results shown below were calculated using TRACI 2.1 Methodology. TRACI 2.1 Impact\
+  \ Assessment Parameter Parameter Unit A1-A3 A4 A5 C2 C3 C4 D GWP Global warming\
+  \ potential kg CO2-Eq. 5.3E+00 6.4E-02 2.5E-02 4.0E-03 3.0E-03 5.6E-03 -9.9E-01\
+  \ Depletion potential of the ODP kg CFC-11 Eq. 4.0E-10 2.4E-12 5.7E-14 1.5E-13 1.1E-13\
+  \ 6.6E-15 3.4E-08 stratospheric ozone layer Acidification potential for air AP Air\
+  \ kg SO2-Eq. 2.9E-02 3.8E-04 1.3E-04 2.4E-05 1.9E-05 2.6E-05 -2.4E-03 emissions\
+  \ EP Eutrophication potential kg N-Eq. 6.3E-04 2.1E-05 2.3E-05 1.3E-06 9.0E-07 9.6E-06\
+  \ -1.8E-05 SP Smog formation potential kg O3-Eq. 2.6E-01 1.1E-02 1.2E-03 6.6E-04\
+  \ 4.5E-04 1.0E-04 -2.3E-02 FFD Fossil Fuel Depletion MJ-surplus 5.2E+00 1.1E-01\
+  \ 8.0E-03 7.1E-03 5.0E-03 8.6E-04 1.2E-01 Results shown below were calculated using\
+  \ CML 2001 - April 2013 Methodology. CML 4.1 Impact Assessment Parameter Parameter\
+  \ Unit A1-A3 A4 A5 C2 C3 C4 D GWP Global warming potential kg CO2-Eq. 5.3E+00 6.4E-02\
+  \ 1.4E-01 4.0E-03 3.0E-03 6.4E-03 -9.9E-01 Depletion potential of the ODP kg CFC-11\
+  \ Eq. 3.8E-10 2.4E-12 5.5E-14 1.5E-13 1.0E-13 6.2E-15 3.1E-08 stratospheric ozone\
+  \ layer Acidification potential for air AP Air kg SO2-Eq. 3.0E-02 3.1E-04 8.8E-05\
+  \ 2.0E-05 1.6E-05 9.9E-06 -2.3E-03 emissions 3 EP Eutrophication potential kg(PO4)\
+  \ -Eq. 1.6E-03 5.6E-05 3.2E-05 3.5E-06 2.4E-06 1.1E-05 -6.7E-05 Formation potential\
+  \ of POCP tropospheric ozone kg ethane-Eq. 1.7E-03 3.7E-05 1.9E-05 2.3E-06 1.9E-06\
+  \ 2.6E-06 -5.0E-04 photochemical oxidants Abiotic depletion potential for non- ADPE\
+  \ kg Sb-Eq. 1.2E-04 2.7E-11 4.6E-09 1.7E-12 5.3E-12 2.7E-10 -9.8E-06 fossil resources\
+  \ Abiotic depletion potential for ADPF MJ 5.9E+01 8.1E-01 6.8E-02 5.0E-02 3.9E-02\
+  \ 6.8E-03 -1.0E+01 fossil resources Results below contain the resource use throughout\
+  \ the life cycle of the product. Resource Use Parameter Parameter Unit A1-A3 A4\
+  \ A5 C2 C3 C4 D Renewable primary energy as PERE MJ 2.3E+01 0.0E+00 8.8E-03 0.0E+00\
+  \ 0.0E+00 5.8E-04 5.2E-01 energy carrier Renewable primary energy PERM resources\
+  \ as material MJ 2.4E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 utilization\
+  \ Total use of renewable PERT MJ 2.5E+01 0.0E+00 8.8E-03 0.0E+00 0.0E+00 5.8E-04\
+  \ 5.2E-01 primary energy resources Nonrenewable primary energy PENRE MJ 6.2E+01\
+  \ 8.1E-01 7.3E-02 5.1E-02 4.1E-02 7.1E-03 -9.3E+00 as energy carrier Nonrenewable\
+  \ primary energy PENRM MJ 2.4E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00\
+  \ as material utilization Total use of nonrenewable PENRT MJ 6.4E+01 8.1E-01 7.3E-02\
+  \ 5.1E-02 4.1E-02 7.1E-03 -9.3E+00 primary energy resources SM Use of secondary\
+  \ material MJ 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 Use of renewable\
+  \ secondary RSF MJ 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 fuels\
+  \ Use of nonrenewable NRSF MJ 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00\
+  \ secondary fuels FW Use of net fresh water m3 2.5E+01 0.0E+00 4.6E-03 0.0E+00 0.0E+00\
+  \ 3.1E-04 -2.1E-03 Environment 8 of 10 Environmental Product Declaration According\
+  \ Pemko PDB411E Acoustic Automatic Door Bottom to Door Hardware ISO 14025 Results\
+  \ below contain the output flows and wastes throughout the life cycle of the product.\
+  \ Output Flows and Waste Categories Parameter Parameter Unit A1-A3 A4 A5 C2 C3 C4\
+  \ D HWD Hazardous waste disposed kg 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00\
+  \ -5.1E-04 Non-hazardous waste NHWD kg 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00\
+  \ 2.4E-02 disposed RWD Radioactive waste disposed kg 1.2E-03 0.0E+00 1.7E-06 0.0E+00\
+  \ 0.0E+00 1.2E-07 3.2E-04 CRU Components for re-use kg 0.0E+00 0.0E+00 0.0E+00 0.0E+00\
+  \ 0.0E+00 0.0E+00 0.0E+00 MFR Materials for recycling kg 3.0E-01 0.0E+00 1.3E-01\
+  \ 0.0E+00 3.0E-02 0.0E+00 4.9E-03 MER Materials for energy recovery kg 0.0E+00 0.0E+00\
+  \ 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 EEE Exported electrical energy MJ 0.0E+00\
+  \ 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 0.0E+00 EEE Exported thermal energy MJ\
+  \ 0.0E+00 0.0E+00 1.2E-01 0.0E+00 0.0E+00 2.0E-03 0.0E+00 The production life cycle\
+  \ stage (A1-A3) dominates the impacts across all impact categories, with the exception\
+  \ of ozone depletion. This is due to the upstream production of metals used in the\
+  \ product, along with electricity use in the manufacturing of the product. Potential\
+  \ benefits in the global warming, acidification, eutrophication, and smog impact\
+  \ categories are due to the potential avoided burden of recycled materials after\
+  \ disposal. 100% 80% D 60% C4 C3 40% C2 20% A5 A4 0% A1-A3 -20% GWP ODP AP Air EP\
+  \ SP FFD Environment 9 of 10 Environmental Product Declaration According Pemko PDB411E\
+  \ Acoustic Automatic Door Bottom to Door Hardware ISO 14025 References - PCR Part\
+  \ A UL Environment and Institut Bauen und Umwelt e.V., K\xF6nigswinter (pub.): Product\
+  \ Category Rules for Construction Products from the range of Environmental Product\
+  \ Declarations of Institut Bauen und Umwelt (IBU), Part A: Calculation Rules for\
+  \ the Life Cycle Assessment and Requirements on the Background Report. July 2014,\
+  \ version 1.3 - PCR Part B UL Environment and Institut Bauen und Umwelt e.V. (IBU).\
+  \ Product Category Rules Part B: Requirements on the Environmental Product Declaration\
+  \ for Locks and Fittings. - GaBi 6 thinkstep.one: GaBi Software-System and Databases\
+  \ for Life Cycle Engineering. version 6.110. Copyright, TM. Stuttgart, Echterdingen.\
+  \ 1992-2015 - ISO 14025 ISO 14025:2011-10, Environmental labels and declarations\
+  \ - Type III environmental declarations - Principles and procedures. - ISO 14040\
+  \ ISO 14040:2009-11, Environmental management - Life cycle assessment - Principles\
+  \ and framework. - ISO 14044 ISO 14044:2006-10, Environmental management - Life\
+  \ cycle assessment - Requirements and guidelines. - EN 15804 EN 15804:2012-04: Sustainability\
+  \ of construction works - Environmental Product Declarations - Core rules for the\
+  \ product category of construction product - ULE 2013 UL Environment, General Program\
+  \ Instructions, 2013. - TRACI 2.1 US EPA, Tool for the Reduction and Assessment\
+  \ of Chemical and Other Environmental Impacts (TRACI) - CML 2001 Center of Environmental\
+  \ Science of Leiden University impact categories and characterisation methods for\
+  \ impact assessment (CML) - ADAAG-2010 Americans with Disabilities Act Accessibility\
+  \ Guidelines - ICC/ANSI Accessible and Usable Buildings and Facilities A117.1 -\
+  \ ANSI S12.60- American National Standard Acoustical Performance Criteria, Design\
+  \ Requirements, and 2002 Guidelines for Schools - ANSI/BHMA Standard for Door Gasketing\
+  \ Systems - ASTM E90 Standard Test Method for Laboratory Measurement of Airborne\
+  \ Sound Transmission Loss of Building Partitions and Elements - ASTM E283 Standard\
+  \ Test Method for Determining Rate of Air Leakage Through Exterior Windows, Curtain\
+  \ Walls, and Doors Under Specified Pressure Differences Across the Specimen - NFPA\
+  \ 105 Standard for the Installation of Smoke Door Assemblies and Other Opening Protectives\
+  \ - UL 10(b) Standards for Fire Tests for Door Assemblies - UL 10(c) Standards for\
+  \ Positive Pressure Fire Tests for Door Assemblies - UL 1784 Standard for Air Leakage\
+  \ Tests of Door Assemblies and Other Opening Protectives - UL 2818 GREENGUARD Certification\
+  \ Program for Chemical Emissions for Building Materials, Finishes and Furnishings"
+lowest_plausible_gwp: 4.37076307 kgCO2e
+manufacturer:
+  address: 110 Sargent Drive, New Haven, CT 06511
+  address_line: 110 Sargent Drive
+  admin_district: CT
+  admin_district2: New Haven
+  alt_names:
+  - ASSA ABLOY Door Group
+  - ASSA ABLOY DSS
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/assa-abloy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-11-22T18:21:33.825228Z'
+  email_extensions:
+  - assaabloy.com
+  enterprise: true
+  id: 93131c9e230146ceb225950a1b31052c
+  image: https://static.buildingtransparency.org/images/b2d1cb5f680b45dbb23a3b76bb78e955.png
+  is_failed: false
+  latitude: 41.291
+  legal_name: ASSA ABLOY Group
+  locality: New Haven
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: New Haven
+    countrySubdivision: CT
+    countrySubdivisionName: Connecticut
+    countryTertiarySubdivision: New Haven
+    extendedPostalCode: 065115907,065115955,065115966,065116111
+    freeformAddress: 110 Sargent Drive, New Haven, CT 06511
+    municipality: New Haven
+    municipalitySubdivision: New Haven, Long Wharf
+    postalCode: '06511'
+    streetName: Sargent Drive
+    streetNumber: '110'
+  longitude: -72.92268
+  name: ASSA ABLOY
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/93131c9e230146ceb225950a1b31052c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '06511'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:22:21.844260Z'
+  web_domain: assaabloy.com
+  website: www.assaabloy.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.86 kg
+matched_plants_count: 0
+material_id: d0f83532a4b5474abf23587d5f6b1753
+my_capabilities: 1
+name: Pemko PDB411E Acoustic Automatic Door Bottom
+not_an_epd: false
+open_xpd_uuid: ec35347s
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec35347s
+output_flows: {}
+owner:
+  name: Data Entry
+  user_id: data_entry@buildingtransparency.org
+pcr:
+  alt_names:
+  - Builders Hardware UL 9004
+  - PCR for preparing an EPD for Product Group, Builders Hardware UL9004, April 2014
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:58.256736Z'
+  date_of_issue: '2014-04-23'
+  date_validity_ends: '2019-04-23'
+  declared_units:
+  - 1 unit
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=35810
+  id: ddc5c81cffea4a77be6a5c859aaec5b4
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: Builders Hardware
+  open_xpd_uuid: ec38mxbj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec38mxbj
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec38mxbjyp
+  short_name: Builders Hardware
+  status: Sunset
+  updated_on: '2024-04-24T00:03:54.769927Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 6.22923693 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Ventura, CA, United States
+  admin_district: CA
+  admin_district2: Ventura County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-04-02T15:11:19.905259Z'
+  id: af2ff5d0feaa40cfae0f9e0987db08d7
+  is_failed: false
+  latitude: 34.280818939208984
+  locality: Ventura
+  location:
+    adminDistrict: CA
+    adminDistrict2: Ventura County
+    countryRegion: United States
+    countryRegionIso2: US
+    formattedAddress: Ventura, CA
+    locality: Ventura
+  longitude: -119.29232025146484
+  name: Ventura, CA
+  openepd_id: 85627PJ5+83.assaabloy.com
+  owned_by:
+    address: 110 Sargent Drive, New Haven, CT 06511
+    address_line: 110 Sargent Drive
+    admin_district: CT
+    admin_district2: New Haven
+    alt_names:
+    - ASSA ABLOY Door Group
+    - ASSA ABLOY DSS
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/assa-abloy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-11-22T18:21:33.825228Z'
+    email_extensions:
+    - assaabloy.com
+    enterprise: true
+    id: 93131c9e230146ceb225950a1b31052c
+    image: https://static.buildingtransparency.org/images/b2d1cb5f680b45dbb23a3b76bb78e955.png
+    is_failed: false
+    latitude: 41.291
+    legal_name: ASSA ABLOY Group
+    locality: New Haven
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: New Haven
+      countrySubdivision: CT
+      countrySubdivisionName: Connecticut
+      countryTertiarySubdivision: New Haven
+      extendedPostalCode: 065115907,065115955,065115966,065116111
+      freeformAddress: 110 Sargent Drive, New Haven, CT 06511
+      municipality: New Haven
+      municipalitySubdivision: New Haven, Long Wharf
+      postalCode: '06511'
+      streetName: Sargent Drive
+      streetNumber: '110'
+    longitude: -72.92268
+    name: ASSA ABLOY
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/93131c9e230146ceb225950a1b31052c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '06511'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:22:21.844260Z'
+    web_domain: assaabloy.com
+    website: www.assaabloy.com
+  total_epds: 3
+  type: Plant
+  units: SI
+  updated_on: '2020-04-02T15:11:19.905269Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 478714321.134.1
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec35347s91
+standard_deviation: 1.104131333 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 6.22923693 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T14:57:39.438818Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

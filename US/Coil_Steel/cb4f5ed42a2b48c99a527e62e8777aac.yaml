@@ -1,0 +1,639 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+best_practice: 1094.365909 kgCO2e
+biogenic_embodied_carbon_z: 0.07681145747868609
+box_id: '1331435821704'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-09-13T09:26:53Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: Sheet or strip steel, sold in rolls. Typically, coil steel is cold-formed
+    into light gauge products.
+  display_name: Coil Steel
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 1a894216acf240e3977de4a5c28db7cc
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: CoilSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> CoilSteel
+  openepd_name: Steel >> CoilSteel
+  parents: []
+  pct10_gwp: 1070.948482 kgCO2e
+  pct20_gwp: 1262.544905 kgCO2e
+  pct30_gwp: 1563.665868 kgCO2e
+  pct40_gwp: 1689.180576 kgCO2e
+  pct50_gwp: 2347.401544 kgCO2e
+  pct60_gwp: 2728.719118 kgCO2e
+  pct70_gwp: 2959.122846 kgCO2e
+  pct80_gwp: 3078.951959 kgCO2e
+  pct90_gwp: 3747.808891 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Coil
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-11-20T07:56:53.884269Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1245.634091 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-11T11:59:39.193126Z'
+date_of_issue: '2023-06-23'
+date_validity_ends: '2028-06-23'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7850 kg / m3
+description: "This environmental product declaration (EPD) represents hot-rolled steel\
+  \ coil produced via an electric arc furnace (EAF) from U. S. Steel\u2019s Big River\
+  \ Steel mill.\n\nThe hot-rolled steel coil is produced to a variety of standards.\
+  \ For a full list of standards, please refer to Big River Steel\u2019s website1.\
+  \ In addition, Big River Steel supplies steel to various customer-specific standards.\n\
+  \nThe ASTM Program Operator for Product Category Rules (PCR) and Environmental Product\
+  \ Declarations (EPDs), General Program Instructions, Version: 8.0, Revised 04/29/20,\
+  \ requires the identification of the UNSPSC code and the appropriate Construction\
+  \ Specification Institute (CSI) / Construction Specifications Canadian (CSC) classification\
+  \ for the declared products. Steel product produced by Big River Steel is categorized\
+  \ as follows:\n- CSI MasterFormat Code: 05 00 00 Metals\n- UNSPSC Code: 302640 Carbon\
+  \ Steel Sheets"
+developer:
+  email: lindita.bushi@athenasmi.org
+  name: Lindita Bushi
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+doc: buildingtransparency.org/e/ec3yeebps1
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: USSteelCorporationHot-RolledSteelCoil_da39a3ee5e6b4b0d3255bfef95601890afd80709.pdf
+galvanized: false
+gwp: 1170 kgCO2e
+gwp_per_category_declared_unit: 1170 kgCO2e
+gwp_per_kg: 1.17 kgCO2e
+gwp_z: 0.07681145747868609
+id: e1b2ab2cc2a54ab5a7138a69486871fb
+image: https://static.buildingtransparency.org/images/5f4d55a7d336459eb1160ecb11801c76.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1094.365909 kgCO2e
+manufacturer:
+  address: 600 Grant Street, Pittsburgh, PA 15219
+  address_line: 600 Grant Street
+  admin_district: PA
+  admin_district2: Allegheny
+  alt_names:
+  - USS
+  - U. S. Steel
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/u.-s.-steel
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-06T21:01:09.875347Z'
+  email_extensions:
+  - ussteel.com
+  enterprise: true
+  id: 36e65b5943dd44c9a9892a81df86be15
+  image: https://static.buildingtransparency.org/images/23c7142e-985c-4ecf-895a-70cc82da2065.png
+  is_failed: false
+  latitude: 40.44152
+  legal_name: United States Steel Corporation
+  locality: Pittsburgh
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Allegheny
+    countrySubdivision: PA
+    countrySubdivisionName: Pennsylvania
+    countryTertiarySubdivision: Pittsburgh
+    extendedPostalCode: '152194404'
+    freeformAddress: 600 Grant Street, Pittsburgh, PA 15219
+    municipality: Pittsburgh
+    municipalitySubdivision: Pittsburgh, Downtown Pittsburgh
+    postalCode: '15219'
+    streetName: Grant Street
+    streetNumber: '600'
+  longitude: -79.99518
+  name: U.S. Steel
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/36e65b5943dd44c9a9892a81df86be15
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '15219'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:22:55.366510Z'
+  web_domain: ussteel.com
+  website: https://www.ussteel.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: cb4f5ed42a2b48c99a527e62e8777aac
+my_capabilities: 1
+name: Hot-Rolled Steel Coil
+not_an_epd: false
+open_xpd_uuid: ec3yeebp
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3yeebp
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-fossil
+      - gwp
+      - gwp-biogenic
+      - gwp-luluc
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - ep-fresh
+      - ep-terrestrial
+      - pocp
+      - ep-marine
+      - ep
+      - odp
+      - ap
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2025-09-18T05:33:14.263756Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 1245.634091 kgCO2e
+plant_geography:
+- US-AR
+plant_or_group:
+  address: 2027 State Hwy 198, Osceola, AR 72370, USA
+  address_line: 2027 State Hwy 198
+  admin_district: AR
+  admin_district2: Mississippi County
+  carbon_intensity: 858.369 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-02-23T14:21:51.381945Z'
+  id: 66b6be9d292043bb8591c6829a2edf40
+  is_failed: false
+  latitude: 35.6537662
+  locality: Osceola
+  location:
+  - long_name: '2027'
+    short_name: '2027'
+    types:
+    - street_number
+  - long_name: State Highway 198
+    short_name: State Hwy 198
+    types:
+    - route
+  - long_name: Osceola
+    short_name: Osceola
+    types:
+    - locality
+    - political
+  - long_name: Mississippi County
+    short_name: Mississippi County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arkansas
+    short_name: AR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '72370'
+    short_name: '72370'
+    types:
+    - postal_code
+  longitude: -89.9515752
+  name: Big River Steel Osceola Works, U.S. Steel Corp.
+  openepd_id: 867GM23X+G9.ussteel.com
+  owned_by:
+    address: 600 Grant Street, Pittsburgh, PA 15219
+    address_line: 600 Grant Street
+    admin_district: PA
+    admin_district2: Allegheny
+    alt_names:
+    - USS
+    - U. S. Steel
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/u.-s.-steel
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-05-06T21:01:09.875347Z'
+    email_extensions:
+    - ussteel.com
+    enterprise: true
+    id: 36e65b5943dd44c9a9892a81df86be15
+    image: https://static.buildingtransparency.org/images/23c7142e-985c-4ecf-895a-70cc82da2065.png
+    is_failed: false
+    latitude: 40.44152
+    legal_name: United States Steel Corporation
+    locality: Pittsburgh
+    location:
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Allegheny
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Pittsburgh
+      extendedPostalCode: '152194404'
+      freeformAddress: 600 Grant Street, Pittsburgh, PA 15219
+      municipality: Pittsburgh
+      municipalitySubdivision: Pittsburgh, Downtown Pittsburgh
+      postalCode: '15219'
+      streetName: Grant Street
+      streetNumber: '600'
+    longitude: -79.99518
+    name: U.S. Steel
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/36e65b5943dd44c9a9892a81df86be15
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '15219'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:22:55.366510Z'
+    web_domain: ussteel.com
+    website: https://www.ussteel.com
+  postal_code: '72370'
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2025-10-07T16:00:02.641273Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 441
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3yeebps1
+stainless: false
+standard_deviation: 89.86940525 kgCO2e
+steel_making_route_eaf: true
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1245.634091 kgCO2e
+uncertainty_factor: 1.0646445226140622
+updated_on: '2025-01-14T21:35:06.804498Z'
+use_stored_carbon: false
+verifier:
+  email: tbrooke@astm.org
+  name: Tim Brooke
+  org:
+    address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+    address_line: 100 Barr Harbor Dr
+    admin_district: PA
+    admin_district2: Montgomery County
+    alt_names:
+    - astm
+    - ASTMInternational
+    attachments:
+      Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-01T05:13:50.328641Z'
+    email_extensions:
+    - astm.org
+    enterprise: true
+    id: 2657c6a84bfa4675a5e4ee785c253a48
+    image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+    is_failed: false
+    latitude: 40.0689574
+    legal_name: ASTM International
+    locality: Conshohocken
+    location:
+    - long_name: '100'
+      short_name: '100'
+      types:
+      - street_number
+    - long_name: Barr Harbor Drive
+      short_name: Barr Harbor Dr
+      types:
+      - route
+    - long_name: Conshohocken
+      short_name: Conshohocken
+      types:
+      - locality
+      - political
+    - long_name: Montgomery County
+      short_name: Montgomery County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19428'
+      short_name: '19428'
+      types:
+      - postal_code
+    - long_name: '2951'
+      short_name: '2951'
+      types:
+      - postal_code_suffix
+    longitude: -75.3083283
+    name: ASTM International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '19428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: true
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-22T20:35:58.976247Z'
+    web_domain: astm.org
+    website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

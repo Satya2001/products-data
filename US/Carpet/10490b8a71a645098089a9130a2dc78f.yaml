@@ -1,0 +1,601 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 4.634658199 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1193581745115'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.357 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.879608306 kgCO2e
+  pct20_gwp: 6.88647569 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.521733535 kgCO2e
+  pct50_gwp: 10.95405437 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.91655384 kgCO2e
+  pct80_gwp: 17.0297323 kgCO2e
+  pct90_gwp: 20.03790399 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-11-20T07:57:02.915919Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 6.605341801 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-04-18T15:26:59.564836Z'
+date_of_issue: '2023-04-01'
+date_validity_ends: '2028-04-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Bentley\u2019s AFIRMA IITM Hardback Tile is a modular hardback tile\
+  \ containing recycled content. These products feature superior Texture Appearance\
+  \ Retention Rating\u2019s (TARR), as well as Green Label Plus, NSF\xAE 140, and\
+  \ Cradle to Cradle certifications. This declaration covers carpet tiles with AFIRMA\
+  \ IITM backing and various pile weights."
+developer:
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: buildingtransparency.org/e/ec3w9qfrra
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: 106.1_EPD_Bentley Mills AFIRMA II Hardback - Solution dye nylon 6_44b22477be8b41be94fca45e0a46677c.pdf
+form_factor: Tiles
+gwp: 5.62 kgCO2e
+gwp_per_category_declared_unit: 5.62 kgCO2e
+gwp_per_kg: 1.734567901 kgCO2e
+gwp_z: 0.2083266665599966
+id: 2f0b59809e0247a49022bf4610483afd
+image: https://static.buildingtransparency.org/images/bd3f58c70e33491391ead55b7c6fd6d0.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 4.634658199 kgCO2e
+manufacturer:
+  address: 14641 Don Julian Road, La Puente, CA 91746
+  address_line: 14641 Don Julian Road
+  admin_district: CA
+  admin_district2: Los Angeles
+  alt_names:
+  - Bentley
+  - Bentley Mills
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/bentley-mills
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-23T15:46:01.864781Z'
+  email_extensions:
+  - bentleymills.com
+  enterprise: true
+  id: 6d186a3d259445a4a79a82c4d28a5fd4
+  is_failed: false
+  latitude: 34.02811
+  locality: Industry, La Puente
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: East San Gabriel Valley
+    extendedPostalCode: '917463103'
+    freeformAddress: 14641 Don Julian Road, La Puente, CA 91746
+    localName: La Puente
+    municipality: Industry, La Puente
+    municipalitySubdivision: City of Industry, Industry
+    postalCode: '91746'
+    streetName: Don Julian Road
+    streetNumber: '14641'
+  longitude: -117.97758
+  name: Bentley Mills, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d186a3d259445a4a79a82c4d28a5fd4
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91746'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:24:10.518079Z'
+  web_domain: bentleymills.com
+  website: http://www.bentleymills.com
+manufacturer_specific: true
+mass_per_declared_unit: 3.24 kg
+matched_plants_count: 0
+material_id: 10490b8a71a645098089a9130a2dc78f
+my_capabilities: 1
+name: AFIRMA IITM Hardback carpet tile with Nylon 6 Yarn - Solution Dyed 14 oz/yd2
+not_an_epd: false
+open_xpd_uuid: ec3w9qfr
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3w9qfr
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2025-09-10T16:49:20.092103Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 6.605341801 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 14641 Don Julian Road, La Puente, CA 91746
+  address_line: 14641 Don Julian Road
+  admin_district: CA
+  admin_district2: Los Angeles
+  alt_names:
+  - 'the City of Industry, California '
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-05T00:57:42.198671Z'
+  id: 80b50dd95a24481d83d09202ed694a42
+  is_failed: false
+  latitude: 34.02811
+  locality: Industry, La Puente
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: East San Gabriel Valley
+    extendedPostalCode: '917463103'
+    freeformAddress: 14641 Don Julian Road, La Puente, CA 91746
+    localName: La Puente
+    municipality: Industry, La Puente
+    municipalitySubdivision: City of Industry, Industry
+    postalCode: '91746'
+    streetName: Don Julian Road
+    streetNumber: '14641'
+  longitude: -117.97758
+  name: City of Industry
+  openepd_id: 856422HC+6X.bentleymills.com
+  owned_by:
+    address: 14641 Don Julian Road, La Puente, CA 91746
+    address_line: 14641 Don Julian Road
+    admin_district: CA
+    admin_district2: Los Angeles
+    alt_names:
+    - Bentley
+    - Bentley Mills
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/bentley-mills
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-23T15:46:01.864781Z'
+    email_extensions:
+    - bentleymills.com
+    enterprise: true
+    id: 6d186a3d259445a4a79a82c4d28a5fd4
+    is_failed: false
+    latitude: 34.02811
+    locality: Industry, La Puente
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Los Angeles
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: East San Gabriel Valley
+      extendedPostalCode: '917463103'
+      freeformAddress: 14641 Don Julian Road, La Puente, CA 91746
+      localName: La Puente
+      municipality: Industry, La Puente
+      municipalitySubdivision: City of Industry, Industry
+      postalCode: '91746'
+      streetName: Don Julian Road
+      streetNumber: '14641'
+    longitude: -117.97758
+    name: Bentley Mills, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d186a3d259445a4a79a82c4d28a5fd4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91746'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:24:10.518079Z'
+    web_domain: bentleymills.com
+    website: http://www.bentleymills.com
+  postal_code: '91746'
+  total_epds: 159
+  type: Plant
+  units: SI
+  updated_on: '2024-08-27T15:51:56.694018Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4790678056.106.1
+reference_service_life: 15 years
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3w9qfrra
+standard_deviation: 1.170795866 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 6.605341801 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T15:34:24.111171Z'
+use_stored_carbon: false
+verifier:
+  email: info@thriveesg.com
+  name: James Mellentine
+  org:
+    address: 1312 17th St, Denver, CO 80202, USA
+    address_line: 1312 17th St
+    admin_district: CO
+    admin_district2: Denver County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-05-07T22:39:03.973231Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/bb5d369335074f9ba40ed53bbe586a71.png
+    id: 170cb26c578848bb94ecee1f5a5f44d7
+    image: https://static.buildingtransparency.org/images/4ac82ea1a716407b84cd31235a7e94e7.png
+    is_failed: false
+    latitude: 39.7503299
+    locality: Denver
+    location:
+    - long_name: '1312'
+      short_name: '1312'
+      types:
+      - street_number
+    - long_name: 17th Street
+      short_name: 17th St
+      types:
+      - route
+    - long_name: Central
+      short_name: Central
+      types:
+      - neighborhood
+      - political
+    - long_name: Denver
+      short_name: Denver
+      types:
+      - locality
+      - political
+    - long_name: Denver County
+      short_name: Denver County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Colorado
+      short_name: CO
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '80202'
+      short_name: '80202'
+      types:
+      - postal_code
+    longitude: -104.9966735
+    name: Thrive ESG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/170cb26c578848bb94ecee1f5a5f44d7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '80202'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-03-27T19:29:29.866418Z'
+    web_domain: thriveesg.com
+    website: http://www.thriveesg.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+yarn_type: Nylon 6
+yarn_weight: 14 oz / yd2
