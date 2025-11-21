@@ -293,9 +293,9 @@ pcr:
   version: '1.11'
 pct80_gwp_per_category_declared_unit: 28.99344901 kgCO2e
 plant_geography:
-- MX
-- '005'
 - '142'
+- '005'
+- MX
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -305,9 +305,9 @@ plant_or_group:
   id: ed66d08508054d0f93db5b1a2cb40c0e
   is_failed: false
   jurisdiction:
-  - MX
-  - '005'
   - '142'
+  - '005'
+  - MX
   name: OTIS Tianjin, China, Singapore, Asia, Dubai, Middle East, Mexico, Latin America
   owned_by:
     address: 31 Av. des Montoires, 45500 Gien, France

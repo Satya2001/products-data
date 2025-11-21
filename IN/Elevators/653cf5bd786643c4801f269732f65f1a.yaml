@@ -170,11 +170,11 @@ industry_standards: []
 is_downloadable: true
 is_failed: true
 jurisdiction:
+- '002'
 - '005'
 - '142'
-- '150'
 - '021'
-- '002'
+- '150'
 language: en
 lowest_plausible_gwp: 0.9370009971 kgCO2e
 manufacturer:
@@ -294,11 +294,11 @@ pcr:
   version: '2020-10-30'
 pct80_gwp_per_category_declared_unit: 1.542999003 kgCO2e
 plant_geography:
+- '002'
 - '005'
 - '142'
-- '150'
 - '021'
-- '002'
+- '150'
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -308,11 +308,11 @@ plant_or_group:
   id: ebe94fad323d4ddca857c4601dceef81
   is_failed: false
   jurisdiction:
+  - '002'
   - '005'
   - '142'
-  - '150'
   - '021'
-  - '002'
+  - '150'
   name: Schindler Management Ltd Europe, North America, South America, Asia, Africa
     markets
   owned_by:

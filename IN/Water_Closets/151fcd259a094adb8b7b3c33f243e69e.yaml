@@ -115,8 +115,8 @@ industry_standards: []
 is_downloadable: false
 is_failed: false
 jurisdiction:
-- '021'
 - '142'
+- '021'
 language: en
 lowest_plausible_gwp: 61.01048003 kgCO2e
 manufacturer:

@@ -1,4 +1,4 @@
-region1,region2,industry_ID,tariff_percent
+region1,region2,category_id,tariff_percent
 IN,US,ca0d30f6f7e04106afbf0124f0ae35f3,30
 IN,US,6daae3d967104f5c8c85199b259f58c8,30
 IN,US,ca0d30f6f7e04106afbf0124f0ae35f3,30

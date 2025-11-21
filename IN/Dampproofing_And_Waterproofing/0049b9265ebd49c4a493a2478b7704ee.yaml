@@ -304,53 +304,53 @@ pcr:
   version: '1'
 pct80_gwp_per_category_declared_unit: 6.906164892 kgCO2e
 plant_geography:
-- YE
-- KM
-- IL
-- OM
-- ET
-- '017'
-- '143'
+- JO
+- BH
+- MG
+- ZM
+- SY
 - QA
-- KE
-- CY
-- 018
+- AM
 - IQ
-- YT
+- KM
+- SO
+- GE
+- RW
+- '017'
+- ER
+- TZ
+- UG
+- ZW
+- '030'
+- DJ
+- '011'
+- AZ
+- '015'
+- PS
+- SA
+- MW
+- SC
+- LB
+- 018
+- IL
+- CY
+- OM
+- RE
+- '150'
+- TF
+- YE
+- '034'
+- MZ
 - '035'
 - KW
-- LB
-- AM
-- GE
-- BI
-- JO
-- '150'
-- '034'
-- AE
-- MG
-- SA
-- BH
-- SO
-- TF
-- RE
-- TZ
-- AZ
-- SY
-- MU
-- DJ
-- UG
-- MW
-- ER
-- '030'
-- RW
-- ZM
-- '015'
-- MZ
+- ET
 - SS
-- SC
-- ZW
-- PS
-- '011'
+- MU
+- YT
+- KE
+- BI
+- '143'
+- AE
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -360,53 +360,53 @@ plant_or_group:
   id: 709c33f4bdc54595aefd37a5f90c9cf1
   is_failed: false
   jurisdiction:
-  - YE
-  - KM
-  - IL
-  - OM
-  - ET
-  - '017'
-  - '143'
+  - JO
+  - BH
+  - MG
+  - ZM
+  - SY
   - QA
-  - KE
-  - CY
-  - 018
   - IQ
-  - YT
+  - AM
+  - KM
+  - SO
+  - RW
+  - GE
+  - '017'
+  - ER
+  - TZ
+  - UG
+  - ZW
+  - '030'
+  - DJ
+  - '011'
+  - AZ
+  - '015'
+  - PS
+  - SA
+  - MW
+  - SC
+  - LB
+  - 018
+  - IL
+  - CY
+  - OM
+  - RE
+  - '150'
+  - TF
+  - YE
+  - '034'
+  - MZ
   - '035'
   - KW
-  - LB
-  - AM
-  - GE
-  - JO
-  - BI
-  - '150'
-  - '034'
-  - AE
-  - MG
-  - SA
-  - BH
-  - SO
-  - TF
-  - RE
-  - TZ
-  - AZ
-  - SY
-  - MU
-  - DJ
-  - UG
-  - MW
-  - ER
-  - '030'
-  - RW
-  - ZM
-  - '015'
-  - MZ
   - SS
-  - SC
-  - ZW
-  - PS
-  - '011'
+  - ET
+  - MU
+  - YT
+  - KE
+  - BI
+  - '143'
+  - AE
   name: EMEA Region (Multiple Plants)
   owned_by:
     address: Watchmead, Welwyn Garden City
