@@ -1,0 +1,31 @@
+uuid,name,gwp,declared_unit,category
+8d82b7f9be98440590f0f44c4cb7b3ee,10 mm PARSOL,38.9 kgCO2e,25 kg,Flat_Glass_Panes
+5cfa1fd8e40a430283fd0f47514bcfbc,10 mm PLANILUX,32.4 kgCO2e,25 kg,Flat_Glass_Panes
+1210eb226e294de8a39173c23521287c,12 mm PARSOL,46.6 kgCO2e,30 kg,Flat_Glass_Panes
+3503dd548d9749c8bd7aedf71189b141,12 mm PLANILUX,38.9 kgCO2e,30 kg,Flat_Glass_Panes
+3695fb6a24db47719524796c0eef7f17,12 mm thickness Float Glass,38.7 kgCO2e,30 kg,Flat_Glass_Panes
+3e1bc82c85b44de5a61fcfb0a3cb0f00,2 mm PLANILUX,6.48 kgCO2e,5 kg,Flat_Glass_Panes
+90f959fcab6e401a91294a34ae5e5b08,3 mm PARSOL,11.7 kgCO2e,7.5 kg,Flat_Glass_Panes
+78318ed228584b2d85e6a2c45925d9ef,3 mm PLANILUX,9.72 kgCO2e,7.5 kg,Flat_Glass_Panes
+81cdf08bed2647ad89add34d6d88b282,3 mm REFLECTASOL on PLANILUX,9.72 kgCO2e,7.5 kg,Flat_Glass_Panes
+ef977774cf3b400e9a3cea4889600eab,3.5 mm PARSOL,13.6 kgCO2e,8.75 kg,Flat_Glass_Panes
+561e5f44406545a2875f2a8b37db1d67,3.5 mm PLANILUX,11.3 kgCO2e,8.75 kg,Flat_Glass_Panes
+a89f9030b89f40d687fdf065757d0631,3.5 mm REFLECTASOL on PARSOL,13.6 kgCO2e,8.75 kg,Flat_Glass_Panes
+c4dd6312afce4ffa9759d2dada2a4180,3.5 mm thickness Float Glass,11.3 kgCO2e,8.75 kg,Flat_Glass_Panes
+7b094cbda8454aa2aab587dc624b4cf0,4 mm PARSOL,15.5 kgCO2e,10 kg,Flat_Glass_Panes
+b9be41a09e1f4bce8fb6a545f1adbc1f,4 mm PLANILUX,13 kgCO2e,10 kg,Flat_Glass_Panes
+88ddf6aa56e84559a1e14c21141ca2f8,4 mm thickness Float Glass,12.9 kgCO2e,10 kg,Flat_Glass_Panes
+0969ba40f81d4b3a98101c703812ec2d,5 mm PARSOL,19.4 kgCO2e,12.5 kg,Flat_Glass_Panes
+0efb678cd502441894e251fb7bec8bc2,5 mm PLANILUX,16.2 kgCO2e,12.5 kg,Flat_Glass_Panes
+c77455787920418086339a01f753797b,5 mm REFLECTASOL on PARSOL,19.4 kgCO2e,12.5 kg,Flat_Glass_Panes
+5c5860e270a44ff1939c3c90a6361a39,5 mm thickness Float Glass,16.1 kgCO2e,12.5 kg,Flat_Glass_Panes
+cab19f9be1b44e4ebb509a5517846ccc,6 mm PARSOL,23.3 kgCO2e,15 kg,Flat_Glass_Panes
+fa051c35428f41998a3d6de2ee5f1479,6 mm PLANILUX,19.4 kgCO2e,15 kg,Flat_Glass_Panes
+33a6db0aa1b64f0e820445a38ba23aa6,6 mm REFLECTASOL on PARSOL,23.3 kgCO2e,15 kg,Flat_Glass_Panes
+556796157a3a40fe8e078cfa1db05dbe,6 mm thickness Float Glass,19.3 kgCO2e,15 kg,Flat_Glass_Panes
+0ece1b52e51345069c50995a09661cd1,8 mm PARSOL,31.1 kgCO2e,20 kg,Flat_Glass_Panes
+3f23ac2a385448a686e482d981254065,8 mm PLANILUX,25.9 kgCO2e,20 kg,Flat_Glass_Panes
+c64c8edee39340bf9e7c27e6e6461874,8 mm thickness Float Glass,25.8 kgCO2e,20 kg,Flat_Glass_Panes
+c44c5c72450e4456b041a0840942c603,S-P-09223 SGG PARSOL® 6 mm,20.5 kgCO2e,1.0 m2,Flat_Glass_Panes
+18465b44938f407aa6b832f7fa769a2a,S-P-09810 Magnetron coated glass On SGG PARSOL 4 mm,15.8 kgCO2e,1.0 m2,Flat_Glass_Panes
+70f573490912470bb530f0f2319b9f10,S-P-09811 Magnetron coated glass on SGG PARSOL 6 mm,22.7 kgCO2e,1.0 m2,Flat_Glass_Panes
