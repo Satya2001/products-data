@@ -1,0 +1,6 @@
+uuid,name,gwp,declared_unit,category
+fe50bd77c8cf4b9487d350379dc69a04,Double Tee,275 kgCO2e,1 t,Structural_Precast_Concrete
+0c37aacd72c54bc1830669fbf213479a,Gravity Beam,342 kgCO2e,1 t,Structural_Precast_Concrete
+2053560989ec4deba0871cd780580521,Gravity Column,431 kgCO2e,1 t,Structural_Precast_Concrete
+bb7914b99757496ca695bef38dda549a,Hollowcore,243 kgCO2e,1 t,Structural_Precast_Concrete
+a6b103075e3a43b387fe2951f4f29709,Spandrel,268 kgCO2e,1 t,Structural_Precast_Concrete

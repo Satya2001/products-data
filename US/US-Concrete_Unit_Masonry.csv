@@ -1,0 +1,121 @@
+uuid,name,gwp,declared_unit,category
+88b4706d75cf4ac9aba6028c32e00712,#name_is_not_extracted,,1 m3,Concrete_Unit_Masonry
+89ed4133976b4786b87dd043fc81b952,8x6x16 Slump Block CMU,281 kgCO2e,1 yd3,Concrete_Unit_Masonry
+1b5672285a804c96ba1d902f1f660a1e,8x8x16 CMU Medium Weight,294 kgCO2e,1 yd3,Concrete_Unit_Masonry
+507c35cf26a74925a4cd05a54893c34d,8x8x16 HSR CMU,411 kgCO2e,1 yd3,Concrete_Unit_Masonry
+763b15bc888643609d92903ad855af37,8x8x16 Splitface CMU,287 kgCO2e,1 yd3,Concrete_Unit_Masonry
+843545b43ebd4265a50e6208be56d71e,CarbonBuiltCMU,203.7918454 kgCO2e,1 m^3,Concrete_Unit_Masonry
+27248a6b8a884f75bf39e5e4de7cba78,CarbonBuiltCMU,230.3414475 kgCO2e,1 m^3,Concrete_Unit_Masonry
+2666dcfbc0db4a9f9ee1d4b9db01db37,G-Mix 004 Opal,190.769673 kgCO2e,1 m^3,Concrete_Unit_Masonry
+fa2cfdae0199475899aeeddf59f85490,LEED Slump,454 kgCO2e,1 m3,Concrete_Unit_Masonry
+2dc643dcd19b47a4a3aa28d1c4b0af47,Lightweight Concrete Masonry Units,279 kgCO2e,1 m3,Concrete_Unit_Masonry
+3eda376c000345e992795ac6543a9743,Lightweight Concrete Masonry Units,291 kgCO2e,1 m3,Concrete_Unit_Masonry
+f2135d9ac9954cec8713bb82eebe0f29,Lightweight Concrete Masonry Units,244 kgCO2e,1 m3,Concrete_Unit_Masonry
+ab97736c0d994555b9c90a4129d0e9c4,Lightweight Concrete Masonry Units,310 kgCO2e,1 m3,Concrete_Unit_Masonry
+14beeb7d4bdf46108a17f0985af2dbb2,Lightweight Concrete Masonry Units,292 kgCO2e,1 m3,Concrete_Unit_Masonry
+11790f9fa0b14cbbb1c66ffdeb4f6b62,Lightweight High Stress Concrete Masonry Units,317 kgCO2e,1 m3,Concrete_Unit_Masonry
+c92527cd5dac44a78b681ebc6d918b96,Lightweight High Stress Concrete Masonry Units,311 kgCO2e,1 m3,Concrete_Unit_Masonry
+bdd77c5607fb419a9f8cde308c84be56,Lightweight High Stress Concrete Masonry Units,333 kgCO2e,1 m3,Concrete_Unit_Masonry
+4a24636819b548b298b40de5491a75d2,Lightweight High Stress Concrete Masonry Units,337 kgCO2e,1 m3,Concrete_Unit_Masonry
+04e90088c8c54d1eb5e8420d3eb3ae61,Lightweight LEED 2000 PSI,740 kgCO2e,1 m3,Concrete_Unit_Masonry
+ccd3174419374375a54a5562b12a4fa5,Lightweight LEED 2800 PSI,776 kgCO2e,1 m3,Concrete_Unit_Masonry
+06dc1dd7881e4c9c9b7ba3e044fa8d46,Lightweight LEED 3750 PSI,805 kgCO2e,1 m3,Concrete_Unit_Masonry
+34eed94cac9c4bf98717dc5a8725076a,Lightweight LEED w/ pumice,566 kgCO2e,1 m3,Concrete_Unit_Masonry
+d841fde664f04dabade456bab595c5c5,MW CMU,311.9037543 kgCO2e,1 m^3,Concrete_Unit_Masonry
+c9ef972d84374bbcb86f2efc3cb73a68,Medium Weight Concrete Masonry Units,222 kgCO2e,1 m3,Concrete_Unit_Masonry
+eb1a2ad70e7e4da785cbae7e52ba3520,Medium Weight Concrete Masonry Units,201 kgCO2e,1 m3,Concrete_Unit_Masonry
+117544eff0a349e399bb1546c7e9682b,Medium Weight Concrete Masonry Units,208 kgCO2e,1 m3,Concrete_Unit_Masonry
+6bf2fa0ea5f64ab5b236a60818bf41e5,Medium Weight Concrete Masonry Units,197 kgCO2e,1 m3,Concrete_Unit_Masonry
+b91486a602564f28808bca7e08c90a27,Medium Weight Concrete Masonry Units,217 kgCO2e,1 m3,Concrete_Unit_Masonry
+303b3d1f31a14ea0ada4d85b51e201c7,Medium Weight High Stress Concrete Masonry Units,286 kgCO2e,1 m3,Concrete_Unit_Masonry
+d24ea92c309b48358a6dfba23ab25694,Medium Weight High Stress Concrete Masonry Units,273 kgCO2e,1 m3,Concrete_Unit_Masonry
+c59f16172d414ee9ba376c5646d545e0,Medium Weight High Stress Concrete Masonry Units,234 kgCO2e,1 m3,Concrete_Unit_Masonry
+403b6c26583c430db788734194893d79,Medium Weight High Stress Concrete Masonry Units,278 kgCO2e,1 m3,Concrete_Unit_Masonry
+19c5abdd5f404c7490c4c1ea0a73d7a6,Medium Weight High Stress Concrete Masonry Units,247 kgCO2e,1 m3,Concrete_Unit_Masonry
+f50d11b714b44baaa92108cb7e029c90,Medium Weight LEED 2000 PSI,506 kgCO2e,1 m3,Concrete_Unit_Masonry
+81a4d8ba1bc34ee1ba60893888fc4c1d,Medium Weight LEED 2800 PSI,533 kgCO2e,1 m3,Concrete_Unit_Masonry
+0cabc3fb255c468d96420e39d1996d20,Medium Weight LEED 3750 PSI,575 kgCO2e,1 m3,Concrete_Unit_Masonry
+bff75597e82e4d2a98181c5afee2731b,Medium Weight White Concrete Masonry Units,293 kgCO2e,1 m3,Concrete_Unit_Masonry
+b62ba3f92d9945f0972a65c747f096cd,Mix 08-08-16,331 kgCO2e,1 m3,Concrete_Unit_Masonry
+87702a85da4e4d5dbb50d88e18676ab9,Mix 1671-MW,424 kgCO2e,1 m3,Concrete_Unit_Masonry
+1de0504ee320402b811c3878baf0c6fe,Mix 2011-SF-LW,635 kgCO2e,1 m3,Concrete_Unit_Masonry
+a069d8cb040b4c50a889675e482ec4d1,Mix 221-LW,460 kgCO2e,1 m3,Concrete_Unit_Masonry
+c56bc00287b3436b9f528b66b1b9d913,Mix 2211-SF-LW-P,473 kgCO2e,1 m3,Concrete_Unit_Masonry
+13c365ec89e84292a0e4672118c24fce,Mix 225-LW,396 kgCO2e,1 m3,Concrete_Unit_Masonry
+5f89da82fa42482ba77ecd7bc4759b5f,Mix 225-LW-HS,442 kgCO2e,1 m3,Concrete_Unit_Masonry
+7ba96a1eb5ff45f0a781f309b92a34b8,Mix 225-LW-UHS,504 kgCO2e,1 m3,Concrete_Unit_Masonry
+6d7d5f60c79149edada5d29156b3cdab,Mix 2421-SF-MW,468 kgCO2e,1 m3,Concrete_Unit_Masonry
+bb9fe1327c2d4b26904ae85e68807c84,Mix 625-MW,371 kgCO2e,1 m3,Concrete_Unit_Masonry
+6762c3f7d16640d7a580d99b3db1a793,Mix 625-MW-HS,447 kgCO2e,1 m3,Concrete_Unit_Masonry
+c02a746e1a374a15b6fbcbd273d8a3cf,Mix 625-MW-UHS,507 kgCO2e,1 m3,Concrete_Unit_Masonry
+ebd0ab046f314d7cbc702750cf961b10,Mix 7021-SF-LW-HS,663 kgCO2e,1 m3,Concrete_Unit_Masonry
+3313dd6f9a9f40f28ac81c14c03e0301,Mix 7111-SF-MW-UHS,626 kgCO2e,1 m3,Concrete_Unit_Masonry
+d0c6c85fb1bc4a22b59cdbd710056f12,Mix 725-NW,353 kgCO2e,1 m3,Concrete_Unit_Masonry
+943e40ebe3614436954259db5b9d5265,Mix 725-NW-HS,399 kgCO2e,1 m3,Concrete_Unit_Masonry
+6fe9eb57a08348069db0afed98fccd93,Mix 725-NW-UHS,460 kgCO2e,1 m3,Concrete_Unit_Masonry
+5b5108eebad54fbb8110db8d1ca4614e,Mix 825-LW,358 kgCO2e,1 m3,Concrete_Unit_Masonry
+ec89835b3fb84dae97c92d641fc232b4,Mix 825-LW-UHS,460 kgCO2e,1 m3,Concrete_Unit_Masonry
+37d27ecc50df4e35ad1841238d1d12e0,Mix ACB,394 kgCO2e,1 m3,Concrete_Unit_Masonry
+4b145c0e445d4df7ae049d59c31d30d7,Mix Fence,405 kgCO2e,1 m3,Concrete_Unit_Masonry
+7727f53a82ed4187820f7d874e0fab4f,Mix G-Mix CB12 LTW,533 kgCO2e,1 m3,Concrete_Unit_Masonry
+7a4798f00fed42b287f6907e1ee5c4eb,Mix G-Mix CB12 NW,166 kgCO2e,1 m3,Concrete_Unit_Masonry
+7b9e7df191e24e129accad732d8348ec,Mix G-Mix CB16 LTW,595 kgCO2e,1 m3,Concrete_Unit_Masonry
+8ed2bc417ca7486f852412d890febb9f,Mix G-Mix CB8 NW,137 kgCO2e,1 m3,Concrete_Unit_Masonry
+22b356ab6f7e4cde849883bc30a61655,Mix G-Mix Diamond,246 kgCO2e,1 m3,Concrete_Unit_Masonry
+0297dfae3750406988fa58e1c1974555,Mix G-Mix Diamond Pro,277 kgCO2e,1 m3,Concrete_Unit_Masonry
+b089d4a1eda54e4f940c3c4d78f8f229,Mix G-Mix Duragreen,352 kgCO2e,1 m3,Concrete_Unit_Masonry
+cbcb2048622a4016add468696c258eec,Mix G-Mix LTW 100% CMU,451 kgCO2e,1 m3,Concrete_Unit_Masonry
+bb5d079e92434c56b22ba6ddbe167ad6,Mix G-Mix LTW CMU,312 kgCO2e,1 m3,Concrete_Unit_Masonry
+8bd9ee4ae7ff47a8babf21ff72f410b1,Mix G-Mix MW CMU,142 kgCO2e,1 m3,Concrete_Unit_Masonry
+1dda5af26ec346c281fb76a0f31dcb7a,Mix G-Mix NW 2HR CMU,156 kgCO2e,1 m3,Concrete_Unit_Masonry
+70339717afca453badb96e4973fc1b5e,Mix G-Mix NW Ground Face,156 kgCO2e,1 m3,Concrete_Unit_Masonry
+a689b52f10bb4962b3bd4fabc6f4a5ab,Mix G-Mix NW Polished,156 kgCO2e,1 m3,Concrete_Unit_Masonry
+9b4902e3a44d4f28a5deac81c7ebcff4,Mix G-Mix NW STD CMU,129 kgCO2e,1 m3,Concrete_Unit_Masonry
+a9853874fa3b47c0a419f73534c5b835,Mix G-Mix NW Smooth Face,147 kgCO2e,1 m3,Concrete_Unit_Masonry
+9d423eff9c9f4984b9c89e2068f26253,Mix G-Mix NW Split Face,147 kgCO2e,1 m3,Concrete_Unit_Masonry
+f449b9df55b74116b57e1105d84352ba,Mix G-Mix Pumice MW CMU,187 kgCO2e,1 m3,Concrete_Unit_Masonry
+9bb25de093cf4c96bd020f21e0274cc6,Mix G-Mix White NW CMU,216 kgCO2e,1 m3,Concrete_Unit_Masonry
+15bc5b44aea84eec8f1010139d8cd363,Mix GS,399 kgCO2e,1 m3,Concrete_Unit_Masonry
+6f4c900b656a4bdda7193241a0be5cd1,Mix JNB,394 kgCO2e,1 m3,Concrete_Unit_Masonry
+f572bc8752f9411ea44832160b775357,Mix JNB,391 kgCO2e,1 m3,Concrete_Unit_Masonry
+d6c3d7d59b9c44838992b27fe236df62,Mix LW,523 kgCO2e,1 m3,Concrete_Unit_Masonry
+d87060d3cdb349b4825bb04bcb853727,Mix LW-HS,594 kgCO2e,1 m3,Concrete_Unit_Masonry
+99d6abade3174f8d9d86dc39ac82f094,Mix Lightweight CMU,471 kgCO2e,1 m3,Concrete_Unit_Masonry
+ee89b3038ad54e84b80ee70f3e156727,Mix MW,371 kgCO2e,1 m3,Concrete_Unit_Masonry
+e7802550f9c14976ae406d461061f0fb,Mix MW,367 kgCO2e,1 m3,Concrete_Unit_Masonry
+71793dc8821d4e3b88025604185f254b,Mix MW,464 kgCO2e,1 m3,Concrete_Unit_Masonry
+244d72b69f52457083adc4ade0821b5a,Mix MW-HS,518 kgCO2e,1 m3,Concrete_Unit_Masonry
+fd7b9ecd48884ba48461f7a8ebe347c5,Mix MW-HS,429 kgCO2e,1 m3,Concrete_Unit_Masonry
+6f4eede263ee4afc876c32f3393cdb19,Mix MW-HS,415 kgCO2e,1 m3,Concrete_Unit_Masonry
+820fae5d33cc456291cefc6d9506ef02,Mix MW-HS,411 kgCO2e,1 m3,Concrete_Unit_Masonry
+b5e65ec3ef154a6e8e859ec4d2a304b9,Mix MW-P,346 kgCO2e,1 m3,Concrete_Unit_Masonry
+70df139699f64da6a967b9b2847e30f7,Mix MW-RC,451 kgCO2e,1 m3,Concrete_Unit_Masonry
+9802a6391fad4addb9599e6911966c93,Mix MW-RC,365 kgCO2e,1 m3,Concrete_Unit_Masonry
+942adc08a5a34a238341928fce767e81,Mix MW-RC,359 kgCO2e,1 m3,Concrete_Unit_Masonry
+1b13585d3f1242b189ae1b59638f9dea,Mix MW-W,343 kgCO2e,1 m3,Concrete_Unit_Masonry
+909d94366cd04f54b0793193dd6759f9,Mix NW,292 kgCO2e,1 m3,Concrete_Unit_Masonry
+4abf349f33164a739d71105548e58411,Mix NW,421 kgCO2e,1 m3,Concrete_Unit_Masonry
+06e541d66ead4254ae13985a2809f0bc,Mix NW,319 kgCO2e,1 m3,Concrete_Unit_Masonry
+dab961ac82ac460ea28e96d238428637,Mix NW,329 kgCO2e,1 m3,Concrete_Unit_Masonry
+db55bcf44aa44f749e6c2a128935b78e,Mix NW-HS,378 kgCO2e,1 m3,Concrete_Unit_Masonry
+d52d2728ee924a89979147ea5ec32551,Mix NW-HS,382 kgCO2e,1 m3,Concrete_Unit_Masonry
+7a2247d1ea004aaf8405f0bf462c0b29,Mix NW-HS,406 kgCO2e,1 m3,Concrete_Unit_Masonry
+53278cbd427f49faa0e2e59ab59c209f,Mix SRW,351 kgCO2e,1 m3,Concrete_Unit_Masonry
+b647bf8e09914fef80c1a4829ff33c1d,Mix Slump,409 kgCO2e,1 m3,Concrete_Unit_Masonry
+2c60435a9a8e466eaab9193294a0f257,Mix Slump,404 kgCO2e,1 m3,Concrete_Unit_Masonry
+cc980ff9c0bb4826aad7adb71bb57796,Mix Slump,487 kgCO2e,1 m3,Concrete_Unit_Masonry
+c2ef27fc71544f0ea09105e7d8b8d5f7,Mix Slump,436 kgCO2e,1 m3,Concrete_Unit_Masonry
+c0d767e6db63426696bd56de23bf8e8b,Mix White NW CMU,301 kgCO2e,1 m3,Concrete_Unit_Masonry
+5351cd7bfe254a94a08f5f3068e0572d,Normal Weight CMU,211.1304744 kgCO2e,1 m^3,Concrete_Unit_Masonry
+e0f2b33946434e6fbba32329fcff9c22,Normal Weight Concrete Masonry Units,186 kgCO2e,1 m3,Concrete_Unit_Masonry
+bc3a6d1c253241b892a5c8e9f0cd27d6,Normal Weight Concrete Masonry Units,177 kgCO2e,1 m3,Concrete_Unit_Masonry
+0678048fe02d4fc59eb22e0f652aae11,Normal Weight Concrete Masonry Units,185 kgCO2e,1 m3,Concrete_Unit_Masonry
+a30b08adbd2643b188bd2329091f91c0,Normal Weight Concrete Masonry Units,176 kgCO2e,1 m3,Concrete_Unit_Masonry
+2c42528efbe5448aab8700d887fb07fa,Normal Weight Concrete Masonry Units,200 kgCO2e,1 m3,Concrete_Unit_Masonry
+c2b8ed15d1c34e01b246ab2b1d176531,Normal Weight Concrete Masonry Units,168 kgCO2e,1 m3,Concrete_Unit_Masonry
+cbe4263c7a8b4d36af20e38c66177618,Normal Weight LEED 2000 PSI,478 kgCO2e,1 m3,Concrete_Unit_Masonry
+b316160310034ce2b61933f44f18e31e,Normal Weight LEED 2800 PSI,505 kgCO2e,1 m3,Concrete_Unit_Masonry
+235c184bad014dc88328bd42143c3656,Normal Weight LEED 3750 PSI,547 kgCO2e,1 m3,Concrete_Unit_Masonry
+bbfb8c52633445fba554df32021d8cd6,Standard Lightweight 2000PSI,597 kgCO2e,1 m3,Concrete_Unit_Masonry
+7da61415a02948fa9ffbae3a3101b5f7,Standard Medium Weight 2000PSI,507 kgCO2e,1 m3,Concrete_Unit_Masonry
+2e06982bd720472ea48b915f5f070535,Standard Normal Weight 2000 PSI,497 kgCO2e,1 m3,Concrete_Unit_Masonry
