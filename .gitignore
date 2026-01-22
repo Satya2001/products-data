@@ -1,0 +1,46 @@
+**/myconfig.py
+**/env
+**/__pycache__
+**/output.log
+**/pull/US
+**/crm/account/
+**/node_modules
+
+azure-db-config.template.json
+azure-db-config.json
+*.config.json
+
+# Backup configuration files
+azure-db-config.json.bak
+*.config.json.bak
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+
+# Log files
+*.log
+logs/
+
+# Azure CLI cache
+.azure/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+*.pid
+*.seed
+*.pid.lock
