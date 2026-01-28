@@ -1,4 +1,4 @@
-uuid,name,gwp,declared_unit,category
-bfc5c56740214bd2a8dcf023dbabd3ec,FUNCTIONAL UNIT OF AQD6 Series Power Supplies,33 kgCO2e,1 piece,Metal_Doors_and_Frames
-b9222010a8be4528865d52905eebaaab,FUNCTIONAL UNIT OF Concealed Electrical Power Transfer (CEPT) Device,2 kgCO2e,1 piece,Metal_Doors_and_Frames
-a29b3161f3b54c41b6437258b4f3aaad,FUNCTIONAL UNIT OF Stiles Steel Stiffened Fiberglass Door,150 kgCO2e,1 piece,Metal_Doors_and_Frames
+ID,name,gwp,declared_unit,category
+ec3yfxff,FUNCTIONAL UNIT OF AQD6 Series Power Supplies,33 kgCO2e,1 piece,Metal_Doors_and_Frames
+ec3s831k,FUNCTIONAL UNIT OF Concealed Electrical Power Transfer (CEPT) Device,2 kgCO2e,1 piece,Metal_Doors_and_Frames
+ec3b19fn,FUNCTIONAL UNIT OF Stiles Steel Stiffened Fiberglass Door,150 kgCO2e,1 piece,Metal_Doors_and_Frames

@@ -1,5 +1,5 @@
-uuid,name,gwp,declared_unit,category
-06d841cde5754a208035d03fb0f4e8ae,Advanced High Strength Steel (AHSS) Products STRENX® & HARDOX®,1099 kgCO2e,1 metric ton,Structural_Steel
-2a212780f21d49a296a99d4c6b163c2f,Merchant Bar,854 kgCO2e,1 t,Structural_Steel
-c479ba6ff49548ba9d70b7911e746457,Merchant Bar Sections,854 kgCO2e,1 t,Structural_Steel
-2eca6a01435548acb875ad0a9e9e2246,Primary Structural Steel Frame Components,1410 kgCO2e,1 metric ton,Structural_Steel
+ID,name,gwp,declared_unit,category
+ec3ue4ae,Advanced High Strength Steel (AHSS) Products STRENX® & HARDOX®,1099 kgCO2e,1 metric ton,Structural_Steel
+ec3mtme4,Merchant Bar,854 kgCO2e,1 t,Structural_Steel
+ec3sxgng,Merchant Bar Sections,854 kgCO2e,1 t,Structural_Steel
+ec31zw5h,Primary Structural Steel Frame Components,1410 kgCO2e,1 metric ton,Structural_Steel

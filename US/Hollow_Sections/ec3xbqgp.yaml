@@ -1,0 +1,622 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/66ce143bf2233f890c338a07
+best_practice: 1519.095453 kgCO2e
+biogenic_embodied_carbon_z: 0.08084553172563094
+box_id: '1636204821014'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-11-04T15:08:09Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hollow cross section steel shape, typically referred to as hollow structural
+    section (HSS)
+  display_name: Hollow Sections
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: e96e409053534524b18ca57b992bb328
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: HollowSections
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> HollowSections
+  openepd_name: Steel >> StructuralSteel >> HollowSections
+  parents: []
+  pct10_gwp: 1314.981566 kgCO2e
+  pct20_gwp: 1532.380667 kgCO2e
+  pct30_gwp: 1686.700564 kgCO2e
+  pct40_gwp: 1805.098675 kgCO2e
+  pct50_gwp: 1929.075635 kgCO2e
+  pct60_gwp: 2120.163034 kgCO2e
+  pct70_gwp: 2242.274264 kgCO2e
+  pct80_gwp: 2442.963977 kgCO2e
+  pct90_gwp: 2953.7688 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Hollow Sections
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30104000'
+  updated_on: '2025-11-20T07:56:47.916939Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1740.904547 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-08-31T08:15:14.638625Z'
+date_of_issue: '2024-08-14'
+date_validity_ends: '2029-08-14'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 7870 kg / m3
+description: Cold-formed, welded hollow structural sections (HSS) produced in round,
+  square, and rectangular shapes using the single seam Electric Resistance Welded
+  (ERW) process. These steel tubes can be used in welded or bolted construction and
+  various manufactured products.
+developer:
+  email: wap.sustainability@wapsustainability.com
+  name: WAP Sustainability Staff
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: https://spot.ul.com/main-appproducts/detail/66ce143bf2233f890c338a07
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: Hollow%20Structural%20Sections%20%28HSS%29%20-%20Blytheville%2C%20AR_94bf34f03a2cf2cf8f9f46209232a8b48e84d6b2.pdf
+galvanized: false
+gwp: 1630 kgCO2e
+gwp_per_category_declared_unit: 1630 kgCO2e
+gwp_per_kg: 1.63 kgCO2e
+gwp_z: 0.08084553172563094
+id: be2e3db2084449d09383547484924d53
+image: https://static.buildingtransparency.org/images/72ab09db2d9c46969fd7581e37b534ab.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 1519.095453 kgCO2e
+manufacturer:
+  address: 1855 East 122nd Street, Chicago, IL 60633
+  address_line: 1855 East 122nd Street
+  admin_district: IL
+  admin_district2: Cook
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-07-09T23:37:50.513268Z'
+  enterprise: true
+  id: 9fa71c31d63442179d99f92d4e6ca131
+  image: https://static.buildingtransparency.org/images/f525d27ccb3d4a28bb0f27bb0340dd7d.png
+  is_failed: false
+  latitude: 41.67357
+  locality: Chicago
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cook
+    countrySubdivision: IL
+    countrySubdivisionName: Illinois
+    extendedPostalCode: '606332362'
+    freeformAddress: 1855 East 122nd Street, Chicago, IL 60633
+    localName: Chicago
+    municipality: Chicago
+    municipalitySubdivision: South Deering
+    postalCode: '60633'
+    streetName: East 122nd Street
+    streetNumber: '1855'
+  longitude: -87.57793
+  name: Atlas Tube
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fa71c31d63442179d99f92d4e6ca131
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '60633'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-11-08T02:45:57.797882Z'
+  web_domain: atlastube.com
+  website: https://www.atlastube.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 711178259a9249dcb8b36f50aab9d934
+my_capabilities: 1
+name: "Fabricated HSS - Blytheville, AR \u2013 AVERAGE STEEL SUPPLY MIX"
+not_an_epd: false
+open_xpd_uuid: ec3xbqgp
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xbqgp
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-fossil
+      - gwp
+      - gwp-biogenic
+      - gwp-luluc
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - ep-fresh
+      - ep-terrestrial
+      - pocp
+      - ep-marine
+      - ep
+      - odp
+      - ap
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2025-09-18T05:33:14.263756Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 1740.904547 kgCO2e
+plant_geography:
+- US-AR
+plant_or_group:
+  address: 5661 E State Hwy 137, Blytheville, AR 72315, USA
+  address_line: 5661 E State Hwy 137
+  admin_district: AR
+  admin_district2: Mississippi County
+  carbon_intensity: 858.369 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-08T02:48:53.523963Z'
+  id: 0628fddb08474768ab1a0f211b79dea2
+  is_failed: false
+  latitude: 35.9438769
+  locality: Blytheville
+  location:
+  - long_name: '5661'
+    short_name: '5661'
+    types:
+    - street_number
+  - long_name: East State Highway 137
+    short_name: E State Hwy 137
+    types:
+    - route
+  - long_name: Blytheville
+    short_name: Blytheville
+    types:
+    - locality
+    - political
+  - long_name: Mississippi County
+    short_name: Mississippi County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Arkansas
+    short_name: AR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '72315'
+    short_name: '72315'
+    types:
+    - postal_code
+  longitude: -89.7845912
+  name: Blytheville, AR
+  openepd_id: 867GW6V8+H5.atlastube.com
+  owned_by:
+    address: 1855 East 122nd Street, Chicago, IL 60633
+    address_line: 1855 East 122nd Street
+    admin_district: IL
+    admin_district2: Cook
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-07-09T23:37:50.513268Z'
+    enterprise: true
+    id: 9fa71c31d63442179d99f92d4e6ca131
+    image: https://static.buildingtransparency.org/images/f525d27ccb3d4a28bb0f27bb0340dd7d.png
+    is_failed: false
+    latitude: 41.67357
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      extendedPostalCode: '606332362'
+      freeformAddress: 1855 East 122nd Street, Chicago, IL 60633
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: South Deering
+      postalCode: '60633'
+      streetName: East 122nd Street
+      streetNumber: '1855'
+    longitude: -87.57793
+    name: Atlas Tube
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fa71c31d63442179d99f92d4e6ca131
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60633'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-11-08T02:45:57.797882Z'
+    web_domain: atlastube.com
+    website: https://www.atlastube.com/
+  postal_code: '72315'
+  total_epds: 7
+  type: Plant
+  units: SI
+  updated_on: '2025-09-22T18:00:50.161806Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4791401279.105.1
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xbqgpu9
+stainless: false
+standard_deviation: 131.7782167 kgCO2e
+steel_fabricated: true
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1740.904547 kgCO2e
+uncertainty_factor: 1.068039599500291
+updated_on: '2025-06-25T01:00:24.623588Z'
+use_stored_carbon: false
+verifier:
+  email: info@thriveesg.com
+  name: James Mellentine
+  org:
+    address: 1312 17th St, Denver, CO 80202, USA
+    address_line: 1312 17th St
+    admin_district: CO
+    admin_district2: Denver County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-05-07T22:39:03.973231Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/bb5d369335074f9ba40ed53bbe586a71.png
+    id: 170cb26c578848bb94ecee1f5a5f44d7
+    image: https://static.buildingtransparency.org/images/4ac82ea1a716407b84cd31235a7e94e7.png
+    is_failed: false
+    latitude: 39.7503299
+    locality: Denver
+    location:
+    - long_name: '1312'
+      short_name: '1312'
+      types:
+      - street_number
+    - long_name: 17th Street
+      short_name: 17th St
+      types:
+      - route
+    - long_name: Central
+      short_name: Central
+      types:
+      - neighborhood
+      - political
+    - long_name: Denver
+      short_name: Denver
+      types:
+      - locality
+      - political
+    - long_name: Denver County
+      short_name: Denver County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Colorado
+      short_name: CO
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '80202'
+      short_name: '80202'
+      types:
+      - postal_code
+    longitude: -104.9966735
+    name: Thrive ESG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/170cb26c578848bb94ecee1f5a5f44d7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '80202'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-03-27T19:29:29.866418Z'
+    web_domain: thriveesg.com
+    website: http://www.thriveesg.com/
+warnings:
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

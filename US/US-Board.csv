@@ -1,8 +1,8 @@
-uuid,name,gwp,declared_unit,category
-6171b50be7c24b62af234622f5dc4b67,FOAMGLAS® F,1.48 kgCO2e,1.0 kg,Board
-f0dbfed92bfb438f8e04607bc2e76e35,Johns Manville Mineral Wool Insulation Heavy Density Board Product,8.02 kgCO2e,1 m2,Board
-99f23fbd5f51480284f8e743fdb9c4fb,Johns Manville Mineral Wool Insulation Light Density Board Product,2.9 kgCO2e,1 m2,Board
-e8d97cf9a0004e8c9331795e69802e3f,Neopor® Plus (GPS)  - Type I,1.74 kgCO2e,1 m2,Board
-9bebe2a25b1e41f082659cca8442d88c,Neopor® Plus (GPS)  - Type II,2.8 kgCO2e,1 m2,Board
-f867cf6a844b4a159c7e88e1574b3be2,Neopor® Plus (GPS)  - Type VIII,2.23 kgCO2e,1 m2,Board
-5ff89bc36daa401d880b620939a93846,Neopor® Plus (GPS) - Type IX,3.58 kgCO2e,1 m2,Board
+ID,name,gwp,declared_unit,category
+ec32sx40,FOAMGLAS® F,1.48 kgCO2e,1.0 kg,Board
+ec342dmf,Johns Manville Mineral Wool Insulation Heavy Density Board Product,8.02 kgCO2e,1 m2,Board
+ec372uwh,Johns Manville Mineral Wool Insulation Light Density Board Product,2.9 kgCO2e,1 m2,Board
+ec3g36js,Neopor® Plus (GPS)  - Type I,1.74 kgCO2e,1 m2,Board
+ec3zw6d6,Neopor® Plus (GPS)  - Type II,2.8 kgCO2e,1 m2,Board
+ec39xkr0,Neopor® Plus (GPS)  - Type VIII,2.23 kgCO2e,1 m2,Board
+ec38bp9n,Neopor® Plus (GPS) - Type IX,3.58 kgCO2e,1 m2,Board

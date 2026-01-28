@@ -1,0 +1,584 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-flooring
+best_practice: 9.473388175 kgCO2e
+biogenic_embodied_carbon_z: 0.1777638883463118
+box_id: '493035768525'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.066509501 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 5.834202189 kgCO2e
+  pct20_gwp: 7.369800903 kgCO2e
+  pct30_gwp: 8.234196495 kgCO2e
+  pct40_gwp: 9.125277292 kgCO2e
+  pct50_gwp: 10.68592731 kgCO2e
+  pct60_gwp: 12.00669255 kgCO2e
+  pct70_gwp: 13.64533131 kgCO2e
+  pct80_gwp: 16.0441221 kgCO2e
+  pct90_gwp: 21.64449993 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2025-11-20T07:57:01.911459Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 12.80661183 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-07-19T06:32:35.870696Z'
+date_of_issue: '2014-10-26'
+date_validity_ends: '2019-10-26'
+declaration_type: Product EPD
+declared_unit: 1 ft2
+description: "This declaration covers a Homogeneous Sheet Flooring manufactured by\
+  \ Armstrong World Industries. Homogeneous sheet flooring has a uniform structure\
+  \ and composition throughout the entire thickness of the floor, creating a true\
+  \ through- pattern construction. The durable performance of Armstrong homogeneous\
+  \ sheet flooring resists indentation from heavy static and rolling loads (750 psi\
+  \ rating), and offers superior gouge and abrasion resistance. In aseptic spaces\
+  \ that require infection control protocols, heat welding and flash coving is recommended.\
+  \ In non-aseptic spaces, our Armstrong S-761 Seam Sealing System can be used with\
+  \ homogeneous flooring material. With over a 100 product designs the homogenous\
+  \ sheet collection offers soft tonal steps and contrasting chip visual in a complete\
+  \ range of neutrals and colors. Homogenous Sheet products are manufactured in an\
+  \ ISO 14001 facility, FloorScore\xAE certified for low VOC emissions and offer low\
+  \ maintenance options which can provide lower cost of ownership and lower life-cycle\
+  \ cost assessments."
+doc: buildingtransparency.org/e/ec3c3ss7ub
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 243.EPD_for_Armstrong_Homogeneous_Vinyl_Sheet.pdf
+gwp: 11.14 kgCO2e
+gwp_per_category_declared_unit: 119.909962 kgCO2e
+gwp_per_kg: 36.11690589 kgCO2e
+gwp_z: 0.1777638883463118
+gypsum_specific_density: 3.32 kg / m^2
+id: f69f3071794a4bae9806ecea6475eba6
+image: https://static.buildingtransparency.org/images/0ff1aae0178a4e5182e5f33d652dbd78.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\n\u2022 Limestone (Calcium Carbonate)\
+  \ - An abundant mineral used as an inert filler.\n\u2022 Polyvinyl Chloride (PVC)\
+  \ - A synthetic resin made from the polymerization of vinyl chloride.\n\u2022 Plasticizer\
+  \ - Makes vinyl soft and flexible.\n\u2022 Titanium Dioxide - An abundant mineral\
+  \ used as a pigment for whitening.\n\u2022 Pigments - Coloring agents\n\u2022 Stabilizer\
+  \ - Prevents degradation associated with direct or indirect impacts of heat and\
+  \ ultraviolet light.\n\n## LCA Notes\nISO 14025:2006 Environmental labels and declarations\
+  \ - Type III - environmental declarations - Principles and procedures\nISO 14040:2006\
+  \ Environmental management - Life cycle assessment - Principles and framework\n\
+  ISO 14044:2006 Environmental management - Life cycle assessment - Requirements and\
+  \ guidelines\nISO 10581:2011 Resilient Floor Coverings - Homogeneous poly(vinyl\
+  \ chloride) floor covering - Specifications\nASTM C423-09a Standard Test Method\
+  \ for Sound Absorption and Sound Absorption Coefficients by the Reverberation Room\
+  \ Method\nASTM C518-10 Standard Test Method for Steady-State Thermal Transmission\
+  \ Properties by Means of the Heat Flow Meter Apparatus\nASTM E648-14c Standard Test\
+  \ Method for Critical Radiant Flux of Floor-Covering Systems Using a Radiant Heat\
+  \ Energy Source\nASTM E662-14 Standard Test Method for Specific Optical Density\
+  \ of Smoke Generated by Solid Materials\nASTM F1913-04 (2010) Standard Specification\
+  \ for Sheet Homogeneous Vinyl Sheet Floor Covering\nCAN/ULC-S102, 2010-2017. Standard\
+  \ Method of Test for Surface Burning Characteristics of Building Materials and Assemblies\
+  \ and\nMiscellaneous Material and Assemblies\n2010 Standard Method for the Testing\
+  \ and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using\
+  \ Environmental\nChambers - Version 1.1 - California\nThe waste shown in Table 10\
+  \ accounts for the waste generated at Armstrong\xAE manufacturing facility (\u201C\
+  Production\u201D). The \u201CUse\u201D phase waste\naccounts for the disposal of\
+  \ the packaging and scrap materials generated during installation; the quantity\
+  \ of flooring disposed of following\nremoval from a building is shown in the \u201C\
+  End of Life\u201D phase. These waste values do not include the waste generated in\
+  \ the upstream processes.\nOther waste categories specified in the PCR were excluded\
+  \ due to data quality.\nThe life cycle of this product consumes water during production\
+  \ while producing non-hazardous wastes. The quantities are separated into\ncontribution\
+  \ per life cycle stage as shown in Table 10 for 1 m2 of 2.0 mm Homogeneous Vinyl\
+  \ Sheet.\nTable 10: Resources and Wastes for Homogeneous Vinyl Sheet (1 m2)\nRESOURCES\
+  \ AND WASTES                   UNIT SOURCING /          PRODUCTION INSTALLATION\
+  \               USE PHASE        END-OF-LIFE       TOTAL\n                     \
+  \                       EXTRACTION                                             \
+  \   (1 YR)\nNon Renewable Material Sources         kg     10.40             11.20\
+  \            0.60                 0.40             0.40              23.00\nWater\
+  \ Use                              kg     1566              4381             207\
+  \                  148              35                6337\nHazardous Waste Production\
+  \             kg     0.01              0.01             0.00                 0.00\
+  \             0.00              0.02\nNon Hazardous Waste Production         kg\
+  \     7.22              10.90            0.49                 0.42             3.77\
+  \              22.80\nSecondary Fuels (Net)                  MJ     0.00       \
+  \       0.00             0.00                 0.00             0.00            \
+  \  0.00\n\n## Source Data Notes\nISO 14025:2006 Environmental labels and declarations\
+  \ - Type III - environmental declarations - Principles and procedures\nISO 14040:2006\
+  \ Environmental management - Life cycle assessment - Principles and framework\n\
+  ISO 14044:2006 Environmental management - Life cycle assessment - Requirements and\
+  \ guidelines\nISO 10581:2011 Resilient Floor Coverings - Homogeneous poly(vinyl\
+  \ chloride) floor covering - Specifications\nASTM C423-09a Standard Test Method\
+  \ for Sound Absorption and Sound Absorption Coefficients by the Reverberation Room\
+  \ Method\nASTM C518-10 Standard Test Method for Steady-State Thermal Transmission\
+  \ Properties by Means of the Heat Flow Meter Apparatus\nASTM E648-14c Standard Test\
+  \ Method for Critical Radiant Flux of Floor-Covering Systems Using a Radiant Heat\
+  \ Energy Source\nASTM E662-14 Standard Test Method for Specific Optical Density\
+  \ of Smoke Generated by Solid Materials\nASTM F1913-04 (2010) Standard Specification\
+  \ for Sheet Homogeneous Vinyl Sheet Floor Covering\nCAN/ULC-S102, 2010-2017. Standard\
+  \ Method of Test for Surface Burning Characteristics of Building Materials and Assemblies\
+  \ and\nMiscellaneous Material and Assemblies\n2010 Standard Method for the Testing\
+  \ and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using\
+  \ Environmental\nChambers - Version 1.1 - California"
+lowest_plausible_gwp: 9.473388175 kgCO2e
+manufacturer:
+  address: Columbia Avenue, Lancaster, PA 17603
+  address_line: ' Columbia Avenue'
+  admin_district: PA
+  admin_district2: Lancaster
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-flooring
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-23T13:54:34.367501Z'
+  email_extensions:
+  - armstrongflooring.com
+  enterprise: true
+  id: eaf167a9c4ef42a1a7534cddbb706bac
+  image: https://static.buildingtransparency.org/images/4b6242ea-3d87-4b99-bf5c-36202d7cb80a
+  is_failed: false
+  latitude: 40.03787
+  legal_name: Armstrong Flooring, Inc.
+  locality: Lancaster
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Lancaster
+    countrySubdivision: PA
+    countrySubdivisionName: Pennsylvania
+    countryTertiarySubdivision: Manor
+    extendedPostalCode: 176034529,176034552,176034553,176034554,176034582
+    freeformAddress: Columbia Avenue, Lancaster, PA 17603
+    municipality: Lancaster
+    municipalitySubdivision: Lancaster
+    postalCode: '17603'
+    streetName: Columbia Avenue
+  longitude: -76.34762
+  name: Armstrong Flooring
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/eaf167a9c4ef42a1a7534cddbb706bac
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '17603'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:21:39.091383Z'
+  web_domain: armstrongflooring.com
+  website: https://www.armstrongflooring.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.3084428116 kg
+matched_plants_count: 0
+material_id: 6f4e7101859e45ed93d8bdef7f2d3d85
+my_capabilities: 1
+name: 2mm Homogeneous Vinyl Sheet
+not_an_epd: false
+open_xpd_uuid: ec3c3ss7
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3c3ss7
+output_flows: {}
+owner:
+  name: cqd.io Script
+  user_id: script@cqd.io
+pcr:
+  alt_names:
+  - NSF PCR for Flooring Carpet, Resilient, Laminate, Ceramic and Wood
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and W ood)
+  - USA NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - 'NSF  Reference PCR Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - NSF PCR for Flooring PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - NSF PCR for Flooring PCR - Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:57.344402Z'
+  date_of_issue: '2012-05-22'
+  date_validity_ends: '2017-05-22'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: 59a08bc797e84eb78fe7ab5ff3e40852
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3e6jsg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e6jsg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e6jsgyf
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-11-20T20:50:04.657976Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 137.8492224 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 5037 Patata Street, South Gate, CA 90280
+  address_line: 5037 Patata Street
+  admin_district: CA
+  admin_district2: Los Angeles
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-28T14:33:29.628206Z'
+  id: 6259326908a545a6934d22ceec76dd74
+  is_failed: false
+  latitude: 33.95565
+  locality: South Gate
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: South Gate-East Los Angeles
+    extendedPostalCode: '902803549'
+    freeformAddress: 5037 Patata Street, South Gate, CA 90280
+    localName: South Gate
+    municipality: South Gate
+    municipalitySubdivision: South Gate
+    postalCode: '90280'
+    streetName: Patata Street
+    streetNumber: '5037'
+  longitude: -118.17649
+  name: South Gate, CA
+  openepd_id: 8553XR4F+7C.armstrongflooring.com
+  owned_by:
+    address: Columbia Avenue, Lancaster, PA 17603
+    address_line: ' Columbia Avenue'
+    admin_district: PA
+    admin_district2: Lancaster
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-flooring
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-23T13:54:34.367501Z'
+    email_extensions:
+    - armstrongflooring.com
+    enterprise: true
+    id: eaf167a9c4ef42a1a7534cddbb706bac
+    image: https://static.buildingtransparency.org/images/4b6242ea-3d87-4b99-bf5c-36202d7cb80a
+    is_failed: false
+    latitude: 40.03787
+    legal_name: Armstrong Flooring, Inc.
+    locality: Lancaster
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Lancaster
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Manor
+      extendedPostalCode: 176034529,176034552,176034553,176034554,176034582
+      freeformAddress: Columbia Avenue, Lancaster, PA 17603
+      municipality: Lancaster
+      municipalitySubdivision: Lancaster
+      postalCode: '17603'
+      streetName: Columbia Avenue
+    longitude: -76.34762
+    name: Armstrong Flooring
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/eaf167a9c4ef42a1a7534cddbb706bac
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '17603'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:21:39.091383Z'
+    web_domain: armstrongflooring.com
+    website: https://www.armstrongflooring.com
+  postal_code: '90280'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2020-08-26T20:48:59.131262Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD-0005
+reference_service_life: 30 year
+resilient_flooring_form_factor: Sheet
+resilient_flooring_material: Vinyl
+resource_uses: {}
+sanitizable: true
+sheet_construction: Homogeneous
+short_link: buildingtransparency.org/e/ec3c3ss7ub
+specific_density: "3.32 kg/m\xB2"
+standard_deviation: 1.980289716 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 12.80661183 kgCO2e
+uncertainty_factor: 1.149606088432256
+updated_on: '2025-01-14T03:02:42.780130Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously greater than category's typical values

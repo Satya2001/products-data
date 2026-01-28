@@ -1,16 +1,16 @@
-uuid,name,gwp,declared_unit,category
-51ac119db1ba4634a2fb01172c0c39d8,AMEX Odyssey DC Architectural Insulated Wall,232.5602 kgCO2e,1 t,Precast_Concrete
-0d08dd136cc14782ade518f63fad4a98,AMEX Odyssey DC Beams,247.57854 kgCO2e,1 t,Precast_Concrete
-a7fac94ecaf143a6ac51a3637c9dcda1,AMEX Odyssey DC Column,308.2114 kgCO2e,1 t,Precast_Concrete
-99f2f137177c463380d3700a5a789832,AMEX Odyssey DC Double Tee,238.98299 kgCO2e,1 t,Precast_Concrete
-54110552a2ae4aeba95cf6f75ceb5797,AMEX Odyssey DC PC Slab,226.41597 kgCO2e,1 t,Precast_Concrete
-c1c4a88e89084641aa2534db75fec4d3,AMEX Odyssey DC PC Stairs,243.19232 kgCO2e,1 t,Precast_Concrete
-13039653d3aa4b88924e2b9968e0d6a8,AMEX Odyssey DC Solid PC Walls,241.6772 kgCO2e,1 t,Precast_Concrete
-f19a1d48519d4f7e99bc4035f6088948,Beams,255.2484 kgCO2e,1 t,Precast_Concrete
-4d5cee2cb57d43e08fafce140069dcdc,Columns,238.92775 kgCO2e,1 t,Precast_Concrete
-5d009f4849fc41388a48edbc609d1402,Double Tees,241.76164 kgCO2e,1 t,Precast_Concrete
-811d14808e3b410599b2c022599c106e,Insulated Wall,232.02658 kgCO2e,1 t,Precast_Concrete
-d46474769472468384cb67963974536d,Mix G-Mix NW Shot Blast,156 kgCO2e,1 m3,Precast_Concrete
-c4f526262f8e4df5955b132c53baf5c1,Mix Normal Wt Concrete,157 kgCO2e,1 m3,Precast_Concrete
-864be4c15d1a46489896b60d8ceac713,Spandrel,249.6199 kgCO2e,1 t,Precast_Concrete
-6910b56cc7394884aa25d25683abe96e,Wall,226.04913 kgCO2e,1 t,Precast_Concrete
+ID,name,gwp,declared_unit,category
+wap901td,AMEX Odyssey DC Architectural Insulated Wall,232.5602 kgCO2e,1 t,Precast_Concrete
+wapyd7g5,AMEX Odyssey DC Beams,247.57854 kgCO2e,1 t,Precast_Concrete
+wapzae1j,AMEX Odyssey DC Column,308.2114 kgCO2e,1 t,Precast_Concrete
+waphb0t9,AMEX Odyssey DC Double Tee,238.98299 kgCO2e,1 t,Precast_Concrete
+wapa8crn,AMEX Odyssey DC PC Slab,226.41597 kgCO2e,1 t,Precast_Concrete
+wap4b5pq,AMEX Odyssey DC PC Stairs,243.19232 kgCO2e,1 t,Precast_Concrete
+wap2wu6n,AMEX Odyssey DC Solid PC Walls,241.6772 kgCO2e,1 t,Precast_Concrete
+ec3pf5k1,Beams,255.2484 kgCO2e,1 t,Precast_Concrete
+ec37j39c,Columns,238.92775 kgCO2e,1 t,Precast_Concrete
+ec3a7rbb,Double Tees,241.76164 kgCO2e,1 t,Precast_Concrete
+ec3318ph,Insulated Wall,232.02658 kgCO2e,1 t,Precast_Concrete
+ec30cbpr,Mix G-Mix NW Shot Blast,156 kgCO2e,1 m3,Precast_Concrete
+ec3d4q8s,Mix Normal Wt Concrete,157 kgCO2e,1 m3,Precast_Concrete
+ec3szzst,Spandrel,249.6199 kgCO2e,1 t,Precast_Concrete
+ec3nwc89,Wall,226.04913 kgCO2e,1 t,Precast_Concrete

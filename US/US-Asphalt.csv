@@ -1,393 +1,393 @@
-uuid,name,gwp,declared_unit,category
-973f72a58c644935b4cb2a08c69c60c3,074-22 12.5mm Surface,61.85 kgCO2e,1 metric ton,Asphalt
-b0b806db74744b7c95a43315e73b82ac,076-22 12.5mm Surface RAP,53.5 kgCO2e,1 metric ton,Asphalt
-af94e545891e40f48d9139234bb654e2,"1"" Binder",59.16 kgCO2e,1 metric ton,Asphalt
-be5968dedde1437488d49a812c43ff4d,"1"" Binder",55.78 kgCO2e,1 metric ton,Asphalt
-b557b761a80e4eb0b8a659d1e6f27e8c,"1"" Binder A/B C/D E",53.75 kgCO2e,1 metric ton,Asphalt
-1603ec2540144576995c2c4df3020e1d,"1"" Binder A/B C/D E",53.75 kgCO2e,1 metric ton,Asphalt
-0d95da35627245698f04cf0ad4552d24,"1"" Private",47.3 kgCO2e,1 metric ton,Asphalt
-14ab8a44dbf1494a9d3450c69fceb981,"1"" Private",47.08 kgCO2e,1 metric ton,Asphalt
-3ebc7dfa6b60490d9be61a564c0b07ff,1-23-12 (MAG14),71.93 kgCO2e,1 metric ton,Asphalt
-fee3bcc7a8224709815b509de779a5fd,"1-23-34 (MAG 3/4"")",71.92 kgCO2e,1 metric ton,Asphalt
-41cf7abaf2294d0abdd827f824418fa5,"1/2"" ALDOT Seal",68.96 kgCO2e,1 metric ton,Asphalt
-b56a1f9e904e48f08d22e3da057322e1,"1/2"" Leveling A/B C/D",60.87 kgCO2e,1 metric ton,Asphalt
-20b05cfeb1434a4e838b345ffd4f1e24,"1/2"" Leveling A/B C/D",60.87 kgCO2e,1 metric ton,Asphalt
-b97d0e6013254fa69c2e0a79be49737a,"1/2"" Private",54.2 kgCO2e,1 metric ton,Asphalt
-a60bb3467d5d4ab3830926bc3b9fd67e,"1/2"" Private",54.42 kgCO2e,1 metric ton,Asphalt
-9679a6611bef4a1489898ae5b3a42bf8,1154000 37.5MM Base,67.09 kgCO2e,1 metric ton,Asphalt
-ac55f4dbcdc548caa40a6e3182dfcfc5,1154000 37.5MM Base,66.79 kgCO2e,1 metric ton,Asphalt
-b17ca6704f1d4e189f3d40b37e98e632,1154000 37.5MM Base,67.09 kgCO2e,1 metric ton,Asphalt
-1b75b11466574c6ea44741d1f776b69e,119 65gyr PG64-28 LCP 119.20,58.65 kgCO2e,1 metric ton,Asphalt
-04b8d6e329b247d9b3a006babd444a4b,12.5mm 65gyr FMR2 PG64-28ETCop 114.20,62.07 kgCO2e,1 metric ton,Asphalt
-40016753b593426a859d23cb91e8c015,12.5mm 65gyr FMR2 PG64-28ETCop 114.20,62.1 kgCO2e,1 metric ton,Asphalt
-5e7593d22e45404cb86ef35e83b44c88,12.5mm 65gyr FMR2 PG64-28ETMA 114.20,63.8 kgCO2e,1 metric ton,Asphalt
-8de4cc4afdcb477f858b8dbae06338c2,12.5mm 65gyr FMR2 PG64-28ETMA 114.20,63.76 kgCO2e,1 metric ton,Asphalt
-a31f69eba3314061871b3475efbf59e1,12.5mm 65gyr FMR2 PG64-28NH 114.20,57.71 kgCO2e,1 metric ton,Asphalt
-7b99ddf01f6042babfc637911ff069d8,12.5mm 65gyr FMR2 PG64-28NH 114.20,57.71 kgCO2e,1 metric ton,Asphalt
-9bcd78925aca40ccba78808a4b408e81,12.5mm 65gyr FMR2 PG64-28NH 114.20 Zyco,57.71 kgCO2e,1 metric ton,Asphalt
-4d648cde9a7045c58debb6283c2e0580,12.5mm 65gyr FMR2 PG64-28NH 114.20 Zyco,57.68 kgCO2e,1 metric ton,Asphalt
-e92ea724f5254a41bc5a24a1120c0330,12.5mm 65gyr FMR2 PG64-28SP 114.20,57.06 kgCO2e,1 metric ton,Asphalt
-3a224c6d8d1849c3a4e8bbd0ae1b488b,12.5mm 65gyr FMR3 PG64-28ET Cop 114.20Zy,60.79 kgCO2e,1 metric ton,Asphalt
-cbb0a2516c9d4675814d9b50c44a22fa,12.5mm 65gyr FMR3 PG64-28ET Cop 114.20Zy,60.76 kgCO2e,1 metric ton,Asphalt
-e1d0ad5a63ee4f1b8aaf559809252a01,12.5mm 65gyr FMR3 PG64-28ETMA 114.20Zyco,62.47 kgCO2e,1 metric ton,Asphalt
-724d3346193645d1947488e7974a86b6,12.5mm 65gyr FMR3 PG64-28ETMA 114.20Zyco,62.5 kgCO2e,1 metric ton,Asphalt
-fd76c02bb9504f63b9c930da88ba64ad,12.5mm 65gyr FMR3 PG64-28NH 114.20,56.28 kgCO2e,1 metric ton,Asphalt
-3613e0039c7c4a9d880c37cf347c75d5,12.5mm 65gyr FMR3 PG64-28NH 114.20-1Zy,56.35 kgCO2e,1 metric ton,Asphalt
-b896a233a1614cc3bd5a2a42ebdda906,12.5mm 65gyr FMR3 PG64-28NH 114.20-1Zy,56.32 kgCO2e,1 metric ton,Asphalt
-d7e02586861841e3be3f47447a9eebcc,12.5mm 65gyr FMR3 PG64-28SP 114.20,55.66 kgCO2e,1 metric ton,Asphalt
-d9e04ae94de84e309824d1b00ac2401e,12.5mm 65gyr PG64-22 114.20,55.75 kgCO2e,1 metric ton,Asphalt
-637d98d3fd234a6e916624d7b5f51b3b,12.5mm 65gyr PG64-28 114.20,53.72 kgCO2e,1 metric ton,Asphalt
-5de78419335c4484beea4bccd8dbdf38,12.5mm 65gyr PG64-28 114.20-1,56.27 kgCO2e,1 metric ton,Asphalt
-6d39a9d8569e4367bbf22efa2846074a,12.5mm 65gyr PG64-28 114.20-1Zy,56.34 kgCO2e,1 metric ton,Asphalt
-b0957a172c1a4f9bbe24d164924836ca,12.5mm 65gyr PG64-28 114.20-2ZyETAs,62.49 kgCO2e,1 metric ton,Asphalt
-1ba44ff20f194049bd0388b97b2c6861,12.5mm 65gyr PG64-28 114.20-3ZyETCop,60.78 kgCO2e,1 metric ton,Asphalt
-024271a0a46f43bba2ef20b443bc32fe,12.5mm 75gyr FMR2 PG64-28SP 124.20,53.38 kgCO2e,1 metric ton,Asphalt
-ae0cb73403c54877a2a7215f4d5a2c87,120831,79.53 kgCO2e,1 metric ton,Asphalt
-2d98f80aebb74c29be90b82c475b5d10,120833,60.01 kgCO2e,1 metric ton,Asphalt
-c1abf0ae28904183b95b12be4c9d042d,120833R20,53.14 kgCO2e,1 metric ton,Asphalt
-fb4535850de249dfb3d7441e530572c1,120933,59.3 kgCO2e,1 metric ton,Asphalt
-902e84e8a4734ec48e02439d0f543e92,1209331BStaff,59.61 kgCO2e,1 metric ton,Asphalt
-694acd8d966c4f73a127b64638c8ca7a,120933R20,51.82 kgCO2e,1 metric ton,Asphalt
-251ccc615f01418787de3be568d4a7e9,120933R201BStaff,52.56 kgCO2e,1 metric ton,Asphalt
-f0b1c30b9e3b467a9cda0b07037d314c,120933R20Staff,53.67 kgCO2e,1 metric ton,Asphalt
-2491c8ff72644c6897360c35cfb1e863,120933Staff,61.33 kgCO2e,1 metric ton,Asphalt
-66198a87df9c494fbf6a36dc57a50089,121231,78.82 kgCO2e,1 metric ton,Asphalt
-d4d1ec393d8342a8bc226b9c0da00daf,121427,61.19 kgCO2e,1 metric ton,Asphalt
-857baad3651a429c95d2d71b15e9b73b,121427L,61.6 kgCO2e,1 metric ton,Asphalt
-f8a7a068259348ebb01cc2210e1bbf20,121427R20,54.47 kgCO2e,1 metric ton,Asphalt
-6a38e6cb0fa547758fcdee13079ef972,121427R20L,54.99 kgCO2e,1 metric ton,Asphalt
-2b8e844c12c047b68ccdf9a3360b8329,121627,63.14 kgCO2e,1 metric ton,Asphalt
-e1158d81af3e4e6da648af6e34b2cf15,121627R20,56.42 kgCO2e,1 metric ton,Asphalt
-bbc2f77b5f5b49fabf0edb88a49c8eb6,1252000 25.0MM Binder,68.31 kgCO2e,1 metric ton,Asphalt
-2d5da45e677c4f2db87fd721ea2a43af,1252000 25.0MM Binder,68.31 kgCO2e,1 metric ton,Asphalt
-49fb10d04a024cb78d65ae548d7d083a,1252000 25.0MM Binder,68.01 kgCO2e,1 metric ton,Asphalt
-092531a0f18640f997483e3ec76f6dc4,1252501 25.0MM Binder,63.18 kgCO2e,1 metric ton,Asphalt
-c2f3d40bf8e14e1d8839434c29f07595,1252501 25.0MM Binder,63.48 kgCO2e,1 metric ton,Asphalt
-f385552c53514db580ef6c6a09a24cd1,1252501 25.0MM Binder,63.48 kgCO2e,1 metric ton,Asphalt
-31136b9f5ae6496a83d05c9bfb663a1a,1254000 25MM Binder,66.7 kgCO2e,1 metric ton,Asphalt
-1c09b0c7c8934a5695b1adf34c365b91,1254000 25MM Binder,67.01 kgCO2e,1 metric ton,Asphalt
-a480ec8c1784453796bb1b72f8077320,1254000 25MM Binder,67.01 kgCO2e,1 metric ton,Asphalt
-0cf0d90a22004c78bdcc9b7ab7bcd407,13195,61.7 kgCO2e,1 metric ton,Asphalt
-7249a200175441ea9dde64741ce8cbc3,13208,61.92 kgCO2e,1 metric ton,Asphalt
-9eb02c5a12914ef394f763c27cc36691,13328,67.67 kgCO2e,1 metric ton,Asphalt
-cb6fe5237b5e45aa8ecd52206d419f3b,13330,67.17 kgCO2e,1 metric ton,Asphalt
-07ea8856d73d4059aa8d4dcd47f57ea5,13331,67.17 kgCO2e,1 metric ton,Asphalt
-b3283e2d1f4a48c1a8ad147e9097322c,13332,59.92 kgCO2e,1 metric ton,Asphalt
-b1f07508c45e474e8fb08897e760f54b,13333,59.49 kgCO2e,1 metric ton,Asphalt
-e85635a849184e9ab589df95df9de97e,13334,66.6 kgCO2e,1 metric ton,Asphalt
-151ad90dca4c4b7a9908336949e4d63d,13335,63.18 kgCO2e,1 metric ton,Asphalt
-3608ad172d2f40708c326ee99311123a,13337,65.75 kgCO2e,1 metric ton,Asphalt
-ff1789bb2d2640899bbe10c9db767909,1343013,67.09 kgCO2e,1 metric ton,Asphalt
-18149106ccf34b3a8c6fc1b6c2f90ea7,"1343013, an asphalt mix.",67.09 kgCO2e,1 tonne,Asphalt
-0f747a2dd2024810bb1a054d26ef627e,1352501 12.5MM Surface,80.43 kgCO2e,1 metric ton,Asphalt
-2ede2b68078d424eba6dbb8c97311fbb,1352501 12.5MM Surface,80.73 kgCO2e,1 metric ton,Asphalt
-38ed04e254764208b0f09c13a9211a58,1352501 12.5MM Surface,80.73 kgCO2e,1 metric ton,Asphalt
-9abd81d41a0c408eb4c39b914e49f3cb,1352501 12.5MM Surface,80.73 kgCO2e,1 metric ton,Asphalt
-bd046cdc316e483b8f3d3de033b5702a,1354003 12.5MM Surface,74.16 kgCO2e,1 metric ton,Asphalt
-5a582cf32d804b5785161e282dc8ff29,1354003 12.5MM Surface,74.16 kgCO2e,1 metric ton,Asphalt
-f6d39f1ce1a541a9b7733d3b713f0dae,1354003 12.5MM Surface,73.86 kgCO2e,1 metric ton,Asphalt
-1213eed42f4e462fb50fb7b71fbdf58c,1354503 12.5MM Surface,69.76 kgCO2e,1 metric ton,Asphalt
-9f11d625aff1463a96045b3d2a35acf0,1354503 12.5MM Surface,69.46 kgCO2e,1 metric ton,Asphalt
-7740955eb5834f5c9c81c970f42063ba,1354503 12.5MM Surface,69.76 kgCO2e,1 metric ton,Asphalt
-0ec32b58efd7456cb57ba781e1b535fb,1354503 12.5MM Surface,69.76 kgCO2e,1 metric ton,Asphalt
-f22096e4a0d348d989e8ac2225f0ff1b,1356000 12.5MM Surface,72.21 kgCO2e,1 metric ton,Asphalt
-5d18196e9a2f458aaca2bcbc3b0a1f87,1356000 12.5MM Surface,72.21 kgCO2e,1 metric ton,Asphalt
-5b111e057be843269ffa7c8e25d9be3a,1356000 12.5MM Surface,71.91 kgCO2e,1 metric ton,Asphalt
-ced23f9bc9f54fd581292440e2aa9a92,1356501 12.5MM Surface,69.16 kgCO2e,1 metric ton,Asphalt
-0f1bcb97f8904824b00a692a630c7349,1356501 12.5MM Surface,69.47 kgCO2e,1 metric ton,Asphalt
-d845d13025714bbda77951dbf6834421,1356501 12.5MM Surface,69.47 kgCO2e,1 metric ton,Asphalt
-d6cc6c1ddbdd4f2d804c1744813b6e88,1356501 12.5MM Surface,69.47 kgCO2e,1 metric ton,Asphalt
-c85f40d06eb147d783b28fd7b3261f61,13629,67.08 kgCO2e,1 metric ton,Asphalt
-af2f7668ce7c4a4da5f9e24d9292f038,13700,69.51 kgCO2e,1 metric ton,Asphalt
-c9cf305062034f338c0b0b563bb9b458,13954,67.16 kgCO2e,1 metric ton,Asphalt
-7c34b8368b4943a7b2228c3ba139f452,14151,61.88 kgCO2e,1 metric ton,Asphalt
-e8525a7e47eb497e8f4b8e80ea55c4f2,14152,66.51 kgCO2e,1 metric ton,Asphalt
-32303f8514fb480fa869b5d22725ab5e,14153,67.9 kgCO2e,1 metric ton,Asphalt
-25cd1ea1ddb246dfad4fab636097a844,14154,60.02 kgCO2e,1 metric ton,Asphalt
-2738845fbc354cec82c696874c2a2792,14155,63 kgCO2e,1 metric ton,Asphalt
-b9f347bc80e64c878a217e2d30fa599f,14156,63.81 kgCO2e,1 metric ton,Asphalt
-16df25ed42f248e4a85815c12e942582,14157,71.03 kgCO2e,1 metric ton,Asphalt
-0bc614edb29b488a9bce75c7df6b9c62,14158,71.18 kgCO2e,1 metric ton,Asphalt
-59d7a790351445509ed8b88b6bf6182a,14159,69.02 kgCO2e,1 metric ton,Asphalt
-9f37e7dde35e41328e24889a7ac418e1,14276,69.69 kgCO2e,1 metric ton,Asphalt
-16c49f6dba0247069b83ba0099163fbd,1441433,82.72 kgCO2e,1 metric ton,Asphalt
-167b60432f434b1b87d00a8da44174ee,"1441433, an asphalt mix.",82.72 kgCO2e,1 tonne,Asphalt
-cde1b9f9e96e44d9b370371a33790137,1452001 9.2MM Surface,73.85 kgCO2e,1 metric ton,Asphalt
-3cdd92a231bc4ee7acffa88e1e5cf3c8,1452001 9.2MM Surface,73.85 kgCO2e,1 metric ton,Asphalt
-eeea6646100e4282bf13ce6cd4b0d567,1452001 9.2MM Surface,73.55 kgCO2e,1 metric ton,Asphalt
-f2d93cf3be9e49db8f541c969a092344,1452501 9.5MM Surface,72.08 kgCO2e,1 metric ton,Asphalt
-38be80f7bd7544738ebbe851690a1f46,1452501 9.5MM Surface,71.78 kgCO2e,1 metric ton,Asphalt
-670a7fb72cec4bce9e4a90aa51f6efe1,1452501 9.5MM Surface,72.08 kgCO2e,1 metric ton,Asphalt
-dffdeca831c84d4898009a1378207e14,1452501 9.5MM Surface,72.08 kgCO2e,1 metric ton,Asphalt
-c6209fdc387a482c9c9f1d75c3f6f2f5,1454000 9.5MM Surface,74.87 kgCO2e,1 metric ton,Asphalt
-7e404efe7e0e42889225ab552db029b0,1454000 9.5MM Surface,74.87 kgCO2e,1 metric ton,Asphalt
-f1820cd3fad74db4a3f1fb973313dcd8,1454000 9.5MM Surface,74.56 kgCO2e,1 metric ton,Asphalt
-0f4ad794418a4c96b2f28832942cc044,19.0mm 65gyr FR PG64-28NH 112.00,57.69 kgCO2e,1 metric ton,Asphalt
-bc8fee19a6514a8a9a8aec48549aec72,19.0mm 65gyr FR PG64-28SP 112.00,57 kgCO2e,1 metric ton,Asphalt
-c68b2d20c970444a8a49da265c0d8e2c,19.0mm 65gyr FR PG64-28SP 112.20,51.83 kgCO2e,1 metric ton,Asphalt
-091500eb6806441a88705fdedfa2191f,19.0mm 65gyr PG64-22 112.00,56.8 kgCO2e,1 metric ton,Asphalt
-9fa477fb96704d2c8b8398767b1ca3d2,19.0mm 65gyr PG64-28 112.00,57.68 kgCO2e,1 metric ton,Asphalt
-e55f7b53e658486f9cf86785c17f52a0,19.0mm 65gyr PG64-28 112.00,56.97 kgCO2e,1 metric ton,Asphalt
-e1d279c5070741d9bd48d5edc9d7f4bc,19.0mm 65gyr PG64-28 112.20,51.81 kgCO2e,1 metric ton,Asphalt
-f314c6b475c44d8c86807bca1d133ea2,19.0mm 65gyr PG64-28 112.20. all Sidney,50.62 kgCO2e,1 metric ton,Asphalt
-1726070c7fa54b77af17f7e645567eec,19.0mm 65gyr PG64-28NH 112.00 Zyco,57.66 kgCO2e,1 metric ton,Asphalt
-f6cf9423e1b74f0ca65061f802103902,19.0mm 65gyr PG64-28NH 112.00 Zyco,57.7 kgCO2e,1 metric ton,Asphalt
-f8fa9e1d52a24f43963d6877054b880e,19.0mm 75gyr FR PG64-28SP 122.20,49.42 kgCO2e,1 metric ton,Asphalt
-ac6ea72dd55c433e97d92871be21f13e,190233,55.23 kgCO2e,1 metric ton,Asphalt
-4df8093e929144d2a766ad100c27ef93,190233Oaks,57.94 kgCO2e,1 metric ton,Asphalt
-ed1cc0f537954722aca1db2519e9e367,190233R20,48.44 kgCO2e,1 metric ton,Asphalt
-215162fe297f4a4e9c5ecb59a670275b,190233R20Oaks,49.71 kgCO2e,1 metric ton,Asphalt
-98d9399da8014e30a02221a50420a51c,190333,57.85 kgCO2e,1 metric ton,Asphalt
-3edbfe9dc185491e90179da001b5768f,190333R20,50.41 kgCO2e,1 metric ton,Asphalt
-768042894a8949c697265ebf5015dd3f,190333R20Staff,51.21 kgCO2e,1 metric ton,Asphalt
-1291132ee6cf4c5e88b75f7b337c9433,190333Staff,58.19 kgCO2e,1 metric ton,Asphalt
-d20d6689ced948d992143f708827bf50,191327,57.94 kgCO2e,1 metric ton,Asphalt
-55e56a7afe6f42dc8525bb5f2a0abb9e,191327R20,49.91 kgCO2e,1 metric ton,Asphalt
-546e5dae2d314f62a769b2c487022a5a,191527,59.24 kgCO2e,1 metric ton,Asphalt
-6ab9759fc7ce4665aa507080689ea7b9,191527R20,51.21 kgCO2e,1 metric ton,Asphalt
-4bf332dd580e4ec4ab773e8a7df215a7,191631,75.88 kgCO2e,1 metric ton,Asphalt
-70a9bebfb9b9465d9f131a96ea0d0e1e,191931,76.7 kgCO2e,1 metric ton,Asphalt
-63e7abf80d034c359386f6be1de02e2f,2018-TM-004D V55-64-10-R0,38.5 kgCO2e,2000 lbs,Asphalt
-6b94fe11c60d4267ac80e8c20b934cf7,2018-TM-004D-V55-64-10-R15,36.53 kgCO2e,2000 lbs,Asphalt
-332c47d4c9d542589a71e979850ae0cb,211135,70.4 kgCO2e,1 metric ton,Asphalt
-305954e3155f49989deda23bab897f06,211135,70.4 kgCO2e,1 metric ton,Asphalt
-a0e9b29b620a4f96ad126c4501c01686,211145,71.87 kgCO2e,1 metric ton,Asphalt
-6db59b5af76d4d388bef4d2d80f17f08,211145,71.87 kgCO2e,1 metric ton,Asphalt
-5c37c53c4df046e59c05b639e1df4f77,211155,49.29 kgCO2e,1 metric ton,Asphalt
-051e4ab3f54f49688bd91f5b7d08daa8,211155,49.29 kgCO2e,1 metric ton,Asphalt
-7fb9ee47c3a544a293562cf994641c51,250133,54.57 kgCO2e,1 metric ton,Asphalt
-b840e523a8524d17b0d38713c757995c,250133Oaks,57.22 kgCO2e,1 metric ton,Asphalt
-b1562e498f8c4509b2316188ff1f685e,250133R20,47.13 kgCO2e,1 metric ton,Asphalt
-7e7c9333bc8f4805933821540ac4ec9d,250133R20Oaks,48.33 kgCO2e,1 metric ton,Asphalt
-b57631d605a9459fb65749ae2d38382d,250633,53.92 kgCO2e,1 metric ton,Asphalt
-21dc0b219c124d9c8048547290a15c82,250633R20,47.13 kgCO2e,1 metric ton,Asphalt
-6c7af176d79148f9b9551bd6f1081758,250827,55.34 kgCO2e,1 metric ton,Asphalt
-43949ce71b614fae83c7a46cab4d00b5,250827R20,48.61 kgCO2e,1 metric ton,Asphalt
-1a7a71c98954426a9ffca12a09254944,251127,55.34 kgCO2e,1 metric ton,Asphalt
-903661e758174d8a975abd7c5a297fa1,251127R20,48.61 kgCO2e,1 metric ton,Asphalt
-8029905646f24fd6ac4612b183005898,251127R20S,48.04 kgCO2e,1 metric ton,Asphalt
-a3cdb8897def4e76b4b2d72e26594852,251127S,55.41 kgCO2e,1 metric ton,Asphalt
-29d150d7c8064f74b29f948f4cc13580,251131,73.52 kgCO2e,1 metric ton,Asphalt
-86f44fd15768471abc166859129f28d3,251531,73.93 kgCO2e,1 metric ton,Asphalt
-ebed1a9d9e5e47e2a2c1d537197ee829,"3/4"" Versa-Phalt",25.7 kgCO2e,2000 lbs,Asphalt
-6800601eb110475b98e6fa37ccaae08c,304-40332400-V,59.24 kgCO2e,1 metric ton,Asphalt
-bb7e28977e004ed4a09d4302cffc7333,304-40342400-V,61.17 kgCO2e,1 metric ton,Asphalt
-6b3c605236e3400599369e0abaf122c1,304-40342409-V,61.2 kgCO2e,1 metric ton,Asphalt
-77b2b48b35c147ad9cecab1def0b4da6,304-40432400-V,59.24 kgCO2e,1 metric ton,Asphalt
-d9580bd05d1b4f76ad3fa1f61d9ac547,304-40432409-V,59.27 kgCO2e,1 metric ton,Asphalt
-c48526b541564f79a0218e3f08741548,304-40442400-V,61.17 kgCO2e,1 metric ton,Asphalt
-1f5379c12dd74a50afa09bb5f9d13f90,304-40442409-V,61.2 kgCO2e,1 metric ton,Asphalt
-df1394d082dd4a058216e55a2f02aeb4,304-40732400-V,59.24 kgCO2e,1 metric ton,Asphalt
-b9a771807d5a435ea4185519969a2229,304-40742400-V,61.17 kgCO2e,1 metric ton,Asphalt
-ac001af801ff43b38219ba337a01f65c,304-40932400-V,59.24 kgCO2e,1 metric ton,Asphalt
-380db05baea64dccb8bbcceb430b7e63,304-40942400-V,61.17 kgCO2e,1 metric ton,Asphalt
-248042065f8042e497e21e7efb7267c6,3082,81.81 kgCO2e,1 metric ton,Asphalt
-ca69dcb4fb844fd9a9c81111653431da,3252503 340 Ty B,62.98 kgCO2e,1 metric ton,Asphalt
-23e1bc53b441421ab9f793f3672e08cc,3252503 340 Ty B,62.37 kgCO2e,1 metric ton,Asphalt
-5346cbb519c04756a2d1d22f1636b304,3252503 340 Ty B,62.98 kgCO2e,1 metric ton,Asphalt
-a8c4db31ffe7459fa659f087e22d7996,3252503 340 Ty B,62.98 kgCO2e,1 metric ton,Asphalt
-82cc87c691a44a99ac689615a0bc814b,3352519 3076 Ty C,61.67 kgCO2e,1 metric ton,Asphalt
-522532b48dca49a792062c42cf05bd18,3352519 3076 Ty C,61.67 kgCO2e,1 metric ton,Asphalt
-5341f794e28b4f22933e1083aacd408c,3352519 3076 Ty C,61.67 kgCO2e,1 metric ton,Asphalt
-59400635af094e3fb051c84f23f17ac4,3352519 3076 Ty C,61.06 kgCO2e,1 metric ton,Asphalt
-8b6fdc1c40d0408bb244707399570b79,3352520 3077 Ty C,64.25 kgCO2e,1 metric ton,Asphalt
-ed3a33052f64402fb29a3bc89067d09b,3352520 3077 Ty C,64.25 kgCO2e,1 metric ton,Asphalt
-64266b35006044808006f7388ec5e287,3352520 3077 Ty C,64.25 kgCO2e,1 metric ton,Asphalt
-ca62bf0b12844c759573e85844cad2ed,3352520 3077 Ty C,63.64 kgCO2e,1 metric ton,Asphalt
-2578cf6d353d401b8d615662eca36e0a,3354510 3077 Ty C,64.25 kgCO2e,1 metric ton,Asphalt
-1280fa2da496448b873375788dba161d,3354510 3077 Ty C,63.64 kgCO2e,1 metric ton,Asphalt
-713a84e24b804b0693cfdfd2521f6959,3356502 3077 SP C,64.42 kgCO2e,1 metric ton,Asphalt
-d295c0c66d6e4efc9c5f7e93ea78bd7d,3356502 3077 SP C,65.03 kgCO2e,1 metric ton,Asphalt
-eb1423eace5e49b9a869868d8660b628,3356502 3077 SP C,65.03 kgCO2e,1 metric ton,Asphalt
-3b16c1e18ab442aaa4b8026b88c3ccd2,3356502 3077 SP C,65.03 kgCO2e,1 metric ton,Asphalt
-2caa64f112f6420e8b56ffc34b45ce04,3452504 340 D,64.73 kgCO2e,1 metric ton,Asphalt
-62c179fb3a65421b8a3e41b64443aafc,3452504 340 D,64.12 kgCO2e,1 metric ton,Asphalt
-ad875c613de542858ed804660ff82914,3452544 3077 D,67.23 kgCO2e,1 metric ton,Asphalt
-b06bc6c94f4045a78a968fba14bed3f4,3452544 3077 D,67.84 kgCO2e,1 metric ton,Asphalt
-9f5c3f23598a41239ee721dc8cbec942,3454509 3077 D,67.23 kgCO2e,1 metric ton,Asphalt
-02cc58689ec24273b1200e4c00052175,3454509 3077 D,67.84 kgCO2e,1 metric ton,Asphalt
-884833d9ef2d49189e500cb69b4fce83,3456003 SMA D,182.7 kgCO2e,1 metric ton,Asphalt
-ba0db2a3bb0c4bb9865565c5b4af1d70,3456504 3077 D,67.23 kgCO2e,1 metric ton,Asphalt
-822d62632f6749a0aefe17289b393380,3456504 3077 D,67.84 kgCO2e,1 metric ton,Asphalt
-b25079d3cffb4eec8c9c52e71203695c,3508,64.48 kgCO2e,1 metric ton,Asphalt
-afb9b7acc0e841f19a3fca56a5e0b783,351-40232416-V,55.7 kgCO2e,1 metric ton,Asphalt
-e4a3d16def484136a043d382e628fe7b,351-40332407-A,53.12 kgCO2e,1 metric ton,Asphalt
-8d48a9d92e5e4a38a898e7f9b8d30dfb,351-40332428-P,53.35 kgCO2e,1 metric ton,Asphalt
-2a8b1ec29f704ad28e8179893ef6a34d,351-40342407-A,55.03 kgCO2e,1 metric ton,Asphalt
-0f907a0c0a3c4e9294b2286a716f2c5b,351-40342428-P,55.27 kgCO2e,1 metric ton,Asphalt
-42936a93bd094d16807572a0104d3820,351-40932407-A,53.12 kgCO2e,1 metric ton,Asphalt
-10068a62950a4fa28711f40dd2d3cc63,351-40932407-P,53.34 kgCO2e,1 metric ton,Asphalt
-bf3df774e3124e369089d92b50a9b5bc,351-40942407-A,55.03 kgCO2e,1 metric ton,Asphalt
-3db96ca7374b42fbbc0ab41f9c1a2f1d,351-40942407-P,55.26 kgCO2e,1 metric ton,Asphalt
-231b7510ecfe435c915ec246671fa993,351-40942407-V,55.83 kgCO2e,1 metric ton,Asphalt
-d6283820f8ed4a1d89463fb74597bfd0,351-40942428-P,55.28 kgCO2e,1 metric ton,Asphalt
-64054f63c93e45179e50540b72ada211,3552508 3076 F,68.19 kgCO2e,1 metric ton,Asphalt
-95cd2434b16d47c6ab5efb463b2ab312,3552508 3076 F,69.11 kgCO2e,1 metric ton,Asphalt
-f38d81f4cf4743fe8e7fb7d8c68a74e6,370433,51.95 kgCO2e,1 metric ton,Asphalt
-e8ee12ad080d499894cba5a4e3d90e5d,370433Oaks,54.27 kgCO2e,1 metric ton,Asphalt
-b213bccc4ae94f92aea6ef0b0ef7f130,370433R20,44.5 kgCO2e,1 metric ton,Asphalt
-29afb412ab2b451691c55f7910ff3613,370433R20Oaks,45.71 kgCO2e,1 metric ton,Asphalt
-dfe7283d830349cb8358fc761ea7fe4f,370433R30,41.11 kgCO2e,1 metric ton,Asphalt
-8a1374df8ff84aaebd3711725490488a,370433R30Oaks,41.85 kgCO2e,1 metric ton,Asphalt
-8f70e03c5c6e4cc89a1c3f8a69dc25a4,370827,54.04 kgCO2e,1 metric ton,Asphalt
-8dc41204ccaf4dc7bd152767c7698178,370827R20,45.36 kgCO2e,1 metric ton,Asphalt
-88f7bde819144588b4a9f13a95eb2958,370827R20S,45.46 kgCO2e,1 metric ton,Asphalt
-ba97f62b5eec4a00b34f43db09350d00,370827R30,42 kgCO2e,1 metric ton,Asphalt
-3cd17b5bfcb440728f203fb444f12aa9,370827R30S,42.1 kgCO2e,1 metric ton,Asphalt
-727bed3c44fe4ebe840e1aa8821eda3b,370827S,53.52 kgCO2e,1 metric ton,Asphalt
-34ca395b5c1146b89b2255480971ee61,370833,51.29 kgCO2e,1 metric ton,Asphalt
-d96ef664f0ed458d8b3f8f9b39333277,370833R20,44.5 kgCO2e,1 metric ton,Asphalt
-0687497caa2740b9b3a2d00710344d7e,370833R30,41.11 kgCO2e,1 metric ton,Asphalt
-601e2b8c929547eaa139b5a8c41bc819,371127,53.39 kgCO2e,1 metric ton,Asphalt
-74c97c4156ee4987b5fe2f7118ccd78d,371127R20,46.66 kgCO2e,1 metric ton,Asphalt
-50f41aaa1d424ed1a2beadb3d97d51a9,371127R20S,46.78 kgCO2e,1 metric ton,Asphalt
-e118dc11d3e84afeb6371c328e56360c,371127R30,43.3 kgCO2e,1 metric ton,Asphalt
-56573f212b4f4c82878d2ec772cba0df,371127R30S,43.4 kgCO2e,1 metric ton,Asphalt
-ca5d79eea7614fc2b27485baad42d8d1,371127S,53.54 kgCO2e,1 metric ton,Asphalt
-a97879ec32d64b84a1577db502767f3e,371531,71.6 kgCO2e,1 metric ton,Asphalt
-a973ffccf3b6442c829edfc46347aed4,372031,71.44 kgCO2e,1 metric ton,Asphalt
-b0f00f784a0f4157bbe66d73ff16c08b,3776,67.93 kgCO2e,1 metric ton,Asphalt
-8c0bcb1591ba4511ad5cd57bb17ed22e,"424 1"" Binder ABCDE PG67-22 GH-0062-22",53.62 kgCO2e,1 metric ton,Asphalt
-072719b9cbfa450e960ebb8b9a983e3a,"424 1/2"" Binder PG76-22 GH-0208-23",68.72 kgCO2e,1 metric ton,Asphalt
-825194676f2b48c69c6e77455ecb9a4b,"424 1/2"" Surface Esal E PG67-22 GH-0209-23",63.12 kgCO2e,1 metric ton,Asphalt
-38ae342b7b074c8da537a199942ac748,"424 1/2"" Surface Esal E PG67-22 GH-0212-23",69.55 kgCO2e,1 metric ton,Asphalt
-7f0622bf563f4fe0a90ae5a15905ec81,"424 1/2"" Surface PG76-22 GH-0210-23 W- Evotherm",76.1 kgCO2e,1 metric ton,Asphalt
-4e73a92219a94e988b9f18f53112f898,"424 1/2"" Surface PG76-22 GH-0210-23 W- Evotherm",75.96 kgCO2e,1 metric ton,Asphalt
-496546ab71be439a9026c7ac8598b598,"424 1/2"" Surface PG76-22 GH-0211-23",75.31 kgCO2e,1 metric ton,Asphalt
-a203713bff5149058c59a85de71cd68b,"424 1/2"" Surface PG76-22 GH-0213-23 W- Anova 1815",76.09 kgCO2e,1 metric ton,Asphalt
-9ede9e82d9674b8a82de376a65cf275e,"424 1/2"" Surface PG76-22 GH-0213-23 W- Anova 1815",75.99 kgCO2e,1 metric ton,Asphalt
-56662ad56f1448ed8137297a22999888,"424 1/2"" Surface PG76-22 GH-0214-23 W- ACE XP Fiber",82.67 kgCO2e,1 metric ton,Asphalt
-bc176ff2d1e84dcf8c5b6c2bceccbbae,424 1/2” Meta,67.2 kgCO2e,1 metric ton,Asphalt
-2ea2b6f7e9f9488ea4d82dcb6de7acc7,424 1/2” Meta Permanent,70.03 kgCO2e,1 metric ton,Asphalt
-43e8b127624b41d49437420a74582fdc,424 1/2” Private,35.64 kgCO2e,1 metric ton,Asphalt
-3437702a8c8948cfada31d42d8b3b3c2,424 1” Meta,52.69 kgCO2e,1 metric ton,Asphalt
-263e372d0c284bedb4b8cfe3d06ec69b,424 1” Meta Permanent,55.6 kgCO2e,1 metric ton,Asphalt
-576d74e3ec694b0d89776c3cdcdd67f6,"424 3/4"" Binde ABCDE PG67-22 GH-0207-23",60.23 kgCO2e,1 metric ton,Asphalt
-29249d42442944b59df08d5e8f6100e8,"424 3/4"" Meta",56.9 kgCO2e,1 metric ton,Asphalt
-eaf4b8bcf6dc403e86eca91318534fc5,424 3/4” Binder,27.58 kgCO2e,1 metric ton,Asphalt
-d44088ece7c54b96a12d616e8ee46829,424 3/4” Meta,56.91 kgCO2e,1 metric ton,Asphalt
-891cd2d5b0ea4f999797240c16b3244b,424 3/4” Meta Permanent,59.97 kgCO2e,1 metric ton,Asphalt
-929fe782242543e3a496cb3c07501063,630231,82.36 kgCO2e,1 metric ton,Asphalt
-8646b1c62a51491aa1e3c47c07287220,630527,67.68 kgCO2e,1 metric ton,Asphalt
-c87f7fb5d9b3494294e805813a09db3a,630527R20,59.67 kgCO2e,1 metric ton,Asphalt
-8df80995771e49f9acddc0a24e7b31ef,630627,68.33 kgCO2e,1 metric ton,Asphalt
-445b3319127a4cfaabdb03f12bfc8803,630627R20,60.97 kgCO2e,1 metric ton,Asphalt
-b6d7c2940297407f88b2f1d42aa992cb,630633,63.85 kgCO2e,1 metric ton,Asphalt
-782d1b08e75b4bd6bd6178ad7dce8148,630633Oaks,66.46 kgCO2e,1 metric ton,Asphalt
-297b0ab276dc485eb55838393d8802bf,630633R20,56.42 kgCO2e,1 metric ton,Asphalt
-2e891ad89e7a48b9a3c430934ce702c0,630633R20Oaks,59.24 kgCO2e,1 metric ton,Asphalt
-e3c793df0ba248e9934f1e6ece952274,630731,84.04 kgCO2e,1 metric ton,Asphalt
-332254d30a1d4d0b91a1efbf50aab091,630733,65.24 kgCO2e,1 metric ton,Asphalt
-7c46ac58f7874af49eab21ec7c6010be,630733R20,58.41 kgCO2e,1 metric ton,Asphalt
-b9c26909f5d6473ca969db14df3c8138,9.5mm 65gyr FMT PG64-28ETCop 115.20 Zyco,67.7 kgCO2e,1 metric ton,Asphalt
-3888c39e0bf946f1b3f073f8700b76fc,9.5mm 65gyr FMT PG64-28ETCop 115.20 Zyco,67.74 kgCO2e,1 metric ton,Asphalt
-3499370db5a8423982092860ff0c8ef9,9.5mm 65gyr FMT PG64-28ETMA 115.20 Zyco,69.72 kgCO2e,1 metric ton,Asphalt
-af677e6e719a418984208ad3a801982d,9.5mm 65gyr FMT PG64-28ETMA 115.20 Zyco,69.77 kgCO2e,1 metric ton,Asphalt
-a683525cb4ae45c7a30c1632bb0f383f,9.5mm 65gyr FMT PG64-28NH 115.20,62.48 kgCO2e,1 metric ton,Asphalt
-de98d3963b784c2289fa877ce9f212e6,9.5mm 65gyr FMT PG64-28NH 115.20 Zyco,62.45 kgCO2e,1 metric ton,Asphalt
-5d24cc1563d549f98c640e0f90830ecd,9.5mm 65gyr FMT PG64-28NH 115.20 Zyco,62.48 kgCO2e,1 metric ton,Asphalt
-9951ca60535a43b5b9dd68abe637a934,9.5mm 65gyr FMT PG64-28SP 115.20,61.71 kgCO2e,1 metric ton,Asphalt
-c99f3ed469e7462b88a6ac618e067d83,9.5mm 65gyr FT PG64-28ETCop 115.20 Zyco,64.34 kgCO2e,1 metric ton,Asphalt
-c94bae5a2c0c4d099da176e850d558d2,9.5mm 65gyr FT PG64-28ETCop 115.20 Zyco,64.3 kgCO2e,1 metric ton,Asphalt
-e58070a6e7854759923fe87927314330,9.5mm 65gyr FT PG64-28ETMA 115.20 Zyco,66.19 kgCO2e,1 metric ton,Asphalt
-11cd4f44bd8d4fc788b07bf35687cf19,9.5mm 65gyr FT PG64-28ETMA 115.20 Zyco,66.23 kgCO2e,1 metric ton,Asphalt
-1562e2b52b9b4133b7c4d2a9da79e483,9.5mm 65gyr FT PG64-28NH 115.20,59.48 kgCO2e,1 metric ton,Asphalt
-d68169eaabb94c6a97be35efd03b9fff,9.5mm 65gyr FT PG64-28NH 115.20 Zyco,59.48 kgCO2e,1 metric ton,Asphalt
-9bfd02a89e1f4261a54356f610a12567,9.5mm 65gyr FT PG64-28NH 115.20 Zyco,59.45 kgCO2e,1 metric ton,Asphalt
-34ac895bb0814f9284ea676b887a2725,9.5mm 65gyr FT PG64-28SP 115.20,58.76 kgCO2e,1 metric ton,Asphalt
-a78f564df69844cd994986f6a5f6425a,9.5mm 65gyr FTS PG64-28NH 115.20,64.74 kgCO2e,1 metric ton,Asphalt
-04a1b512dc094b898ba9a4274288dfc9,9.5mm 65gyr FTS PG64-28SP 115.20,63.88 kgCO2e,1 metric ton,Asphalt
-802487669f9f46cc80f05cdb33ca4b8e,9.5mm 65gyr PG64-22 115.20,57.12 kgCO2e,1 metric ton,Asphalt
-851174fdc9944add9cf25602e272c374,9.5mm 65gyr PG64-22NH 115.20,57.14 kgCO2e,1 metric ton,Asphalt
-81fb14c367b94a6e9fc7ac2a7cb23e60,9.5mm 65gyr PG64-28 115.20,57.3 kgCO2e,1 metric ton,Asphalt
-02675f11ba8f4bf0b55ab0ac2736cdbb,9.5mm 65gyr PG64-28E 115.20,65.99 kgCO2e,1 metric ton,Asphalt
-b18875e51e014ad0b683e08cce6a223d,9.5mm 75gyr FT PG64-28SP 125.20,57.65 kgCO2e,1 metric ton,Asphalt
-2202eeecf0ce48fd9cec2a49626cc54e,950433,64.59 kgCO2e,1 metric ton,Asphalt
-66b305b4fd2645ac902a7b0fdf4d2fdb,950433Grav,65.66 kgCO2e,1 metric ton,Asphalt
-0d4b6f79cedf48398fec44b0a3987801,950433R20,57.75 kgCO2e,1 metric ton,Asphalt
-3589eccb312f43cb9f62027e1f1df63f,950433R20Grav,58.75 kgCO2e,1 metric ton,Asphalt
-2d48c61cfbad4c6aa7857276d3451bea,950733,63.85 kgCO2e,1 metric ton,Asphalt
-36303a2c034a4aea832310ee2b0edc8e,950733GBlend,64.33 kgCO2e,1 metric ton,Asphalt
-c9f51c1a9e6a4950823e2d0f6529daec,950733Oaks,66.46 kgCO2e,1 metric ton,Asphalt
-ff8b084855b34182be8473b5b915f595,950733OaksT&L,66.79 kgCO2e,1 metric ton,Asphalt
-741e75c8dade4b559d3c40fe775c79ee,950733R20,57.07 kgCO2e,1 metric ton,Asphalt
-f1dc12eb3e0441deaa3d1709a4851603,950733R20GBlend,56.79 kgCO2e,1 metric ton,Asphalt
-f11f2070b0a4404f8b2e2b082fb0bc5e,950733R20Oaks,59.24 kgCO2e,1 metric ton,Asphalt
-86043cfd511545889739d718dbf8e2f5,950733R20OaksT&L,59.9 kgCO2e,1 metric ton,Asphalt
-968e6e3403544cd7a163653ccdcddeb0,950733R20TL Staff,59.01 kgCO2e,1 metric ton,Asphalt
-9ecc575fbda64fd5a9989f1ca26fd9ac,950733TL Staff,66.18 kgCO2e,1 metric ton,Asphalt
-497500ca06c249519e02ccbd51f50305,951133,63.85 kgCO2e,1 metric ton,Asphalt
-80d01556b4a14d41819d65577c77fdad,951133R20,57.07 kgCO2e,1 metric ton,Asphalt
-5c173fd153384877a6dee0024bf7f648,951233,65.17 kgCO2e,1 metric ton,Asphalt
-e0cfbe777e9042a8b56e4ddcd89e5f6b,951233R20,57.73 kgCO2e,1 metric ton,Asphalt
-6b35e225dc4941b680d80cdadcbb8065,951631,83 kgCO2e,1 metric ton,Asphalt
-bbe140c34a4e4eb2811f14a0f27178b6,952031,83.48 kgCO2e,1 metric ton,Asphalt
-ac3c66fe9b064b11bc0498c29dd9b90c,952127,67.68 kgCO2e,1 metric ton,Asphalt
-cdbfad99235a49c19b1a391e7c5418bd,952127R20,60.32 kgCO2e,1 metric ton,Asphalt
-9c6038d42b084574af6c0681439fda3a,952127TL,67.03 kgCO2e,1 metric ton,Asphalt
-9427778a788443d7a711d175eba78cca,952227,68.98 kgCO2e,1 metric ton,Asphalt
-fea705fb1bc14456a11764d822229849,952227R20,67.47 kgCO2e,1 metric ton,Asphalt
-ce4e2b8cfdfd422eb83ffc6808256d89,952527,66.38 kgCO2e,1 metric ton,Asphalt
-dee4bcd9671c47a0acd23c8c4c6c0eb6,952527R20,59.02 kgCO2e,1 metric ton,Asphalt
-63899a38230a4cc9aea4b2049e61888d,952927,67.03 kgCO2e,1 metric ton,Asphalt
-14416353ee1f427d89e257697ca3d571,952927R20,60.32 kgCO2e,1 metric ton,Asphalt
-a217c55618bf40caaf13465bd5b23ab7,Asphalt/Rubber Hot Mix Asphalt,69.8 kgCO2e,1 short ton,Asphalt
-58cebf1134024c078ea22993dd53ecac,BP-2 22-61,46.58 kgCO2e,1 metric ton,Asphalt
-7369fe9ef0d4431f970f608bebfebb3f,BUR Non-Modified Asphalt Roofing,1.83 kgCO2e,1 kg,Asphalt
-d593f61d93194e349745210b06dc434f,GH-0108-21,46.22 kgCO2e,1 metric ton,Asphalt
-6711d66e5dd34a649baff4b86345a5d1,GH-0108-21,46.62 kgCO2e,1 metric ton,Asphalt
-3fe4c4aaa9ae4362921141a4a5967ac9,GH-0161-21,61.9 kgCO2e,1 metric ton,Asphalt
-7d5abbdd5cf141ea89b7f519fdeb6652,GH-0161-21,61.17 kgCO2e,1 metric ton,Asphalt
-1de006171f1f4a59bf24c37742c46700,GH-0161-21,61.67 kgCO2e,1 metric ton,Asphalt
-37efdabd895c4b81b5bd7ed8bdf9ddda,HMA055-21,63.21 kgCO2e,1 metric ton,Asphalt
-8aad33fb54cf4e71a950b0a28d623f1b,"HMA055-21, an asphalt mix.",,1 ton,Asphalt
-a5aeada5c04f415f89c8eb2d2daae5d2,HMA205-20,75.54 kgCO2e,1 metric ton,Asphalt
-4eb45e30a0b848b190f6750605a678ab,PAG 2 HV PG 70-10 W/ RAP WRIGHT,61.21 kgCO2e,1 metric ton,Asphalt
-0cafcb63bd5e4321bfbb8141125deba0,PAG 2 LV PG 70-10 WRIGHT NO RAP,67.62 kgCO2e,1 metric ton,Asphalt
-4ff553d65f814a88a26ba1084051c4a4,PAG 2 LV PG 70-10 WRIGHT W/ RAP,63.71 kgCO2e,1 metric ton,Asphalt
-3cf9f6456ca5433680c5cd3212326735,Polymer modified hot mix asphalt,58.7 kgCO2e,1 short ton,Asphalt
-e5cacfa174bb4338b6f250fb91693a0b,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
-a43aedf595e94ceb8af537ac3e4892f4,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
-cf1782c6c8f14accac1299d760cbd580,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
-e6c0e04d6d4f458fbc5be4abd92e9da7,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
-3feafabf15ec4c4db9688982e58a08ed,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
-69d784d3f6114e26b7aba67d5a9421ad,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
-9bb62ba91fb7487494dd7a3f4352b5cc,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
-2b05ebc18a51401e8bd686f9df0d1b9a,"S21-2-11, an asphalt mix.",92.18 kgCO2e,1 tonne,Asphalt
-9c15143af064407195eabb486941ae77,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
-48f908c7d8494f17ba71dae962565af6,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
-f23a8d4090df4238a5de594703f84d7a,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
-a8d7c3cd3c8c4425a3e1743e9c6481cf,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
-933eb1e97a214c5d81b04bea8ccd6c98,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
-5d400db5da7c4d68b337277f6e7b7a1a,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
-958319e7f1504fe694af09f71198b822,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
-f5e946aa79c543389d262557ca1ad4a3,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
-2def6ee4043143e1a2b50145fa5eaa7a,"S21-2-16W, an asphalt mix.",82.32 kgCO2e,1 tonne,Asphalt
-f7e5fcd3beb04a66bc3bbadbff0452de,S21-2-1LVW,74.65 kgCO2e,1 metric ton,Asphalt
-fd83d5c997bb4abaa583ae75447dbea5,"S21-2-1LVW, an asphalt mix.",74.65 kgCO2e,1 ton,Asphalt
-e037b3ed4f164f189c3f28e41218f06d,S21-2-1W,72.73 kgCO2e,1 metric ton,Asphalt
-cea04a3b5ca94a5aa5c7e883e9557f4d,"S21-2-1W, an asphalt mix.",72.73 kgCO2e,1 tonne,Asphalt
-75cc604091b0455092b06701af58be2a,S21-2-2LVW,75.33 kgCO2e,1 metric ton,Asphalt
-608ee3ac512c41d4af32d7ba2ca09871,"S21-2-2LVW, an asphalt mix.",75.33 kgCO2e,1 tonne,Asphalt
-f1dff5fcda9340e3829268dc2338a43d,S21-2-2W,73.99 kgCO2e,1 metric ton,Asphalt
-e34dc225e1fd47bcbf7a9dd1202de6cc,"S21-2-2W, an asphalt mix.",73.99 kgCO2e,1 tonne,Asphalt
-97907231db244b5b83b333535ff265b1,S21-2-4W,74.22 kgCO2e,1 metric ton,Asphalt
-3abb3b2244514726a62463a1d34f988c,"S21-2-4W, an asphalt mix.",74.22 kgCO2e,1 tonne,Asphalt
-288c5379a359429fa242a546707f3388,S22-2-10HVW,81.15 kgCO2e,1 metric ton,Asphalt
-4fcb75b0e746412886113a31af0db275,"S22-2-10HVW, an asphalt mix.",81.15 kgCO2e,1 tonne,Asphalt
-4f1807f2616c4b159754ee7b06929215,S22-2-10LVW,84.37 kgCO2e,1 metric ton,Asphalt
-c0f13bea1d4c446aa0f9ce441282e9cb,"S22-2-10LVW, an asphalt mix.",84.37 kgCO2e,1 tonne,Asphalt
-5384b7454b5f437a899d234d6ce90198,S22-2-11R,88.81 kgCO2e,1 metric ton,Asphalt
-522d5ad700534741af71ba8fd2977b54,S22-2-11R,92.29 kgCO2e,1 metric ton,Asphalt
-a25743c953c84ec4a87373ba1387767b,S22-2-11R,92.29 kgCO2e,1 metric ton,Asphalt
-64659d53ed4347898a29e9e3fddb30ca,"S22-2-11R, an asphalt mix.",92.29 kgCO2e,1 tonne,Asphalt
-469db91014c04fdebe4f38b1f423fa96,S22-2-11W,92.18 kgCO2e,1 metric ton,Asphalt
-bc26bb0192db4466bfcc9c72ff45b7de,"S22-2-11W, an asphalt mix.",92.18 kgCO2e,1 tonne,Asphalt
-d78753f9fda34587bc6a1325bf5645f5,S22-2-16W,84.49 kgCO2e,1 metric ton,Asphalt
-18db5f8d1c234b9a9e52a41d0b242dda,S22-2-9HVW,80.19 kgCO2e,1 metric ton,Asphalt
-4052b7d98fc24210ad0d1641d62569d6,S22-2-9HVW,80.19 kgCO2e,1 metric ton,Asphalt
-dc35218617b24a5cbd36f53bbbdc30bd,"S22-2-9HVW, an asphalt mix.",80.19 kgCO2e,1 tonne,Asphalt
-33d7cd63cc024eee81c62361f7e1f24a,S22-2-9LVW,83.73 kgCO2e,1 metric ton,Asphalt
-e5f3025e221243fa9009c561881e3fcf,"S22-2-9LVW, an asphalt mix.",83.73 kgCO2e,1 tonne,Asphalt
-178555c7ad7b48e7b2315ac048af8dc4,WMA015-22 25.0mm Binder,56.61 kgCO2e,1 metric ton,Asphalt
-9f1a11ea762347d3a3750ecde178c5c6,WMA020-21 25.0mm Binder RAP,48.89 kgCO2e,1 metric ton,Asphalt
+ID,name,gwp,declared_unit,category
+ec3gtxue,074-22 12.5mm Surface,61.85 kgCO2e,1 metric ton,Asphalt
+ec356zgz,076-22 12.5mm Surface RAP,53.5 kgCO2e,1 metric ton,Asphalt
+ec38j6f2,"1"" Binder",59.16 kgCO2e,1 metric ton,Asphalt
+ec3qaz3k,"1"" Binder",55.78 kgCO2e,1 metric ton,Asphalt
+ec382enc,"1"" Binder A/B C/D E",53.75 kgCO2e,1 metric ton,Asphalt
+ec39je3z,"1"" Binder A/B C/D E",53.75 kgCO2e,1 metric ton,Asphalt
+ec3fx5cq,"1"" Private",47.3 kgCO2e,1 metric ton,Asphalt
+ec3g97y6,"1"" Private",47.08 kgCO2e,1 metric ton,Asphalt
+ec3h1hx6,1-23-12 (MAG14),71.93 kgCO2e,1 metric ton,Asphalt
+ec32784w,"1-23-34 (MAG 3/4"")",71.92 kgCO2e,1 metric ton,Asphalt
+ec3x7wh8,"1/2"" ALDOT Seal",68.96 kgCO2e,1 metric ton,Asphalt
+ec3u2wen,"1/2"" Leveling A/B C/D",60.87 kgCO2e,1 metric ton,Asphalt
+ec3mnurf,"1/2"" Leveling A/B C/D",60.87 kgCO2e,1 metric ton,Asphalt
+ec3r1nju,"1/2"" Private",54.2 kgCO2e,1 metric ton,Asphalt
+ec3802dj,"1/2"" Private",54.42 kgCO2e,1 metric ton,Asphalt
+ec35b5dt,1154000 37.5MM Base,67.09 kgCO2e,1 metric ton,Asphalt
+ec3qqqa4,1154000 37.5MM Base,66.79 kgCO2e,1 metric ton,Asphalt
+ec3gkf28,1154000 37.5MM Base,67.09 kgCO2e,1 metric ton,Asphalt
+ec3dgxrj,119 65gyr PG64-28 LCP 119.20,58.65 kgCO2e,1 metric ton,Asphalt
+ec3k5tz0,12.5mm 65gyr FMR2 PG64-28ETCop 114.20,62.07 kgCO2e,1 metric ton,Asphalt
+ec3ht3fy,12.5mm 65gyr FMR2 PG64-28ETCop 114.20,62.1 kgCO2e,1 metric ton,Asphalt
+ec3s7tkm,12.5mm 65gyr FMR2 PG64-28ETMA 114.20,63.8 kgCO2e,1 metric ton,Asphalt
+ec3uxjda,12.5mm 65gyr FMR2 PG64-28ETMA 114.20,63.76 kgCO2e,1 metric ton,Asphalt
+ec31xk51,12.5mm 65gyr FMR2 PG64-28NH 114.20,57.71 kgCO2e,1 metric ton,Asphalt
+ec32ycd1,12.5mm 65gyr FMR2 PG64-28NH 114.20,57.71 kgCO2e,1 metric ton,Asphalt
+ec3btg7n,12.5mm 65gyr FMR2 PG64-28NH 114.20 Zyco,57.71 kgCO2e,1 metric ton,Asphalt
+ec3jdgqm,12.5mm 65gyr FMR2 PG64-28NH 114.20 Zyco,57.68 kgCO2e,1 metric ton,Asphalt
+ec3w7cds,12.5mm 65gyr FMR2 PG64-28SP 114.20,57.06 kgCO2e,1 metric ton,Asphalt
+ec35p8xg,12.5mm 65gyr FMR3 PG64-28ET Cop 114.20Zy,60.79 kgCO2e,1 metric ton,Asphalt
+ec3cgrrx,12.5mm 65gyr FMR3 PG64-28ET Cop 114.20Zy,60.76 kgCO2e,1 metric ton,Asphalt
+ec3t3h4u,12.5mm 65gyr FMR3 PG64-28ETMA 114.20Zyco,62.47 kgCO2e,1 metric ton,Asphalt
+ec3qx98y,12.5mm 65gyr FMR3 PG64-28ETMA 114.20Zyco,62.5 kgCO2e,1 metric ton,Asphalt
+ec3zx2zp,12.5mm 65gyr FMR3 PG64-28NH 114.20,56.28 kgCO2e,1 metric ton,Asphalt
+ec3ghrh5,12.5mm 65gyr FMR3 PG64-28NH 114.20-1Zy,56.35 kgCO2e,1 metric ton,Asphalt
+ec3ru564,12.5mm 65gyr FMR3 PG64-28NH 114.20-1Zy,56.32 kgCO2e,1 metric ton,Asphalt
+ec38eqh1,12.5mm 65gyr FMR3 PG64-28SP 114.20,55.66 kgCO2e,1 metric ton,Asphalt
+ec3trneq,12.5mm 65gyr PG64-22 114.20,55.75 kgCO2e,1 metric ton,Asphalt
+ec3dm63b,12.5mm 65gyr PG64-28 114.20,53.72 kgCO2e,1 metric ton,Asphalt
+ec3b7201,12.5mm 65gyr PG64-28 114.20-1,56.27 kgCO2e,1 metric ton,Asphalt
+ec3m9e9j,12.5mm 65gyr PG64-28 114.20-1Zy,56.34 kgCO2e,1 metric ton,Asphalt
+ec3s7cx4,12.5mm 65gyr PG64-28 114.20-2ZyETAs,62.49 kgCO2e,1 metric ton,Asphalt
+ec3qk6hn,12.5mm 65gyr PG64-28 114.20-3ZyETCop,60.78 kgCO2e,1 metric ton,Asphalt
+ec361549,12.5mm 75gyr FMR2 PG64-28SP 124.20,53.38 kgCO2e,1 metric ton,Asphalt
+ec3cbnx5,120831,79.53 kgCO2e,1 metric ton,Asphalt
+ec3pbk0j,120833,60.01 kgCO2e,1 metric ton,Asphalt
+ec3a9w2t,120833R20,53.14 kgCO2e,1 metric ton,Asphalt
+ec3pquf3,120933,59.3 kgCO2e,1 metric ton,Asphalt
+ec3711qj,1209331BStaff,59.61 kgCO2e,1 metric ton,Asphalt
+ec3mnbub,120933R20,51.82 kgCO2e,1 metric ton,Asphalt
+ec3rakgn,120933R201BStaff,52.56 kgCO2e,1 metric ton,Asphalt
+ec32gwu9,120933R20Staff,53.67 kgCO2e,1 metric ton,Asphalt
+ec30d8db,120933Staff,61.33 kgCO2e,1 metric ton,Asphalt
+ec3wcw34,121231,78.82 kgCO2e,1 metric ton,Asphalt
+ec3zq2aw,121427,61.19 kgCO2e,1 metric ton,Asphalt
+ec3ucw8p,121427L,61.6 kgCO2e,1 metric ton,Asphalt
+ec3wnzrp,121427R20,54.47 kgCO2e,1 metric ton,Asphalt
+ec3z36jr,121427R20L,54.99 kgCO2e,1 metric ton,Asphalt
+ec35p79h,121627,63.14 kgCO2e,1 metric ton,Asphalt
+ec3d929k,121627R20,56.42 kgCO2e,1 metric ton,Asphalt
+ec3ejyw7,1252000 25.0MM Binder,68.31 kgCO2e,1 metric ton,Asphalt
+ec3smfkt,1252000 25.0MM Binder,68.31 kgCO2e,1 metric ton,Asphalt
+ec3s9xnj,1252000 25.0MM Binder,68.01 kgCO2e,1 metric ton,Asphalt
+ec394nw2,1252501 25.0MM Binder,63.18 kgCO2e,1 metric ton,Asphalt
+ec3u8ap7,1252501 25.0MM Binder,63.48 kgCO2e,1 metric ton,Asphalt
+ec33k3p8,1252501 25.0MM Binder,63.48 kgCO2e,1 metric ton,Asphalt
+ec3hzmeg,1254000 25MM Binder,66.7 kgCO2e,1 metric ton,Asphalt
+ec3p19at,1254000 25MM Binder,67.01 kgCO2e,1 metric ton,Asphalt
+ec3ccwgx,1254000 25MM Binder,67.01 kgCO2e,1 metric ton,Asphalt
+ec39qjxg,13195,61.7 kgCO2e,1 metric ton,Asphalt
+ec3ubaqe,13208,61.92 kgCO2e,1 metric ton,Asphalt
+ec31pjfg,13328,67.67 kgCO2e,1 metric ton,Asphalt
+ec30rtpm,13330,67.17 kgCO2e,1 metric ton,Asphalt
+ec38yugu,13331,67.17 kgCO2e,1 metric ton,Asphalt
+ec36ng27,13332,59.92 kgCO2e,1 metric ton,Asphalt
+ec3pkwz7,13333,59.49 kgCO2e,1 metric ton,Asphalt
+ec3ngwfe,13334,66.6 kgCO2e,1 metric ton,Asphalt
+ec35b1fy,13335,63.18 kgCO2e,1 metric ton,Asphalt
+ec392cr7,13337,65.75 kgCO2e,1 metric ton,Asphalt
+ec3pz5gp,1343013,67.09 kgCO2e,1 metric ton,Asphalt
+ec3mq8g9,"1343013, an asphalt mix.",67.09 kgCO2e,1 tonne,Asphalt
+ec3ckd22,1352501 12.5MM Surface,80.43 kgCO2e,1 metric ton,Asphalt
+ec3613gb,1352501 12.5MM Surface,80.73 kgCO2e,1 metric ton,Asphalt
+ec3mrmcy,1352501 12.5MM Surface,80.73 kgCO2e,1 metric ton,Asphalt
+ec3e2wsz,1352501 12.5MM Surface,80.73 kgCO2e,1 metric ton,Asphalt
+ec34t2ep,1354003 12.5MM Surface,74.16 kgCO2e,1 metric ton,Asphalt
+ec3ccxtf,1354003 12.5MM Surface,74.16 kgCO2e,1 metric ton,Asphalt
+ec3aj4sg,1354003 12.5MM Surface,73.86 kgCO2e,1 metric ton,Asphalt
+ec30efeq,1354503 12.5MM Surface,69.76 kgCO2e,1 metric ton,Asphalt
+ec3fbp3s,1354503 12.5MM Surface,69.46 kgCO2e,1 metric ton,Asphalt
+ec3q0q09,1354503 12.5MM Surface,69.76 kgCO2e,1 metric ton,Asphalt
+ec3rq4bs,1354503 12.5MM Surface,69.76 kgCO2e,1 metric ton,Asphalt
+ec3cm1k9,1356000 12.5MM Surface,72.21 kgCO2e,1 metric ton,Asphalt
+ec3y5gqs,1356000 12.5MM Surface,72.21 kgCO2e,1 metric ton,Asphalt
+ec3ckdtb,1356000 12.5MM Surface,71.91 kgCO2e,1 metric ton,Asphalt
+ec3ru4h5,1356501 12.5MM Surface,69.16 kgCO2e,1 metric ton,Asphalt
+ec39a6f6,1356501 12.5MM Surface,69.47 kgCO2e,1 metric ton,Asphalt
+ec31m9wy,1356501 12.5MM Surface,69.47 kgCO2e,1 metric ton,Asphalt
+ec3eqzgj,1356501 12.5MM Surface,69.47 kgCO2e,1 metric ton,Asphalt
+ec30w8yt,13629,67.08 kgCO2e,1 metric ton,Asphalt
+ec3y54mu,13700,69.51 kgCO2e,1 metric ton,Asphalt
+ec3x557m,13954,67.16 kgCO2e,1 metric ton,Asphalt
+ec3z5ghf,14151,61.88 kgCO2e,1 metric ton,Asphalt
+ec31zfpy,14152,66.51 kgCO2e,1 metric ton,Asphalt
+ec31ghwa,14153,67.9 kgCO2e,1 metric ton,Asphalt
+ec31a8bt,14154,60.02 kgCO2e,1 metric ton,Asphalt
+ec3ds4t8,14155,63 kgCO2e,1 metric ton,Asphalt
+ec356xzg,14156,63.81 kgCO2e,1 metric ton,Asphalt
+ec3nuuj1,14157,71.03 kgCO2e,1 metric ton,Asphalt
+ec3a968j,14158,71.18 kgCO2e,1 metric ton,Asphalt
+ec3as1jd,14159,69.02 kgCO2e,1 metric ton,Asphalt
+ec3010gy,14276,69.69 kgCO2e,1 metric ton,Asphalt
+ec3arrzk,1441433,82.72 kgCO2e,1 metric ton,Asphalt
+ec3sr29m,"1441433, an asphalt mix.",82.72 kgCO2e,1 tonne,Asphalt
+ec3w2u20,1452001 9.2MM Surface,73.85 kgCO2e,1 metric ton,Asphalt
+ec3fbty9,1452001 9.2MM Surface,73.85 kgCO2e,1 metric ton,Asphalt
+ec3t24j1,1452001 9.2MM Surface,73.55 kgCO2e,1 metric ton,Asphalt
+ec3xb5s5,1452501 9.5MM Surface,72.08 kgCO2e,1 metric ton,Asphalt
+ec35hrsf,1452501 9.5MM Surface,71.78 kgCO2e,1 metric ton,Asphalt
+ec3mcfrb,1452501 9.5MM Surface,72.08 kgCO2e,1 metric ton,Asphalt
+ec3fxtd8,1452501 9.5MM Surface,72.08 kgCO2e,1 metric ton,Asphalt
+ec3xsn0q,1454000 9.5MM Surface,74.87 kgCO2e,1 metric ton,Asphalt
+ec3wt4y3,1454000 9.5MM Surface,74.87 kgCO2e,1 metric ton,Asphalt
+ec320djz,1454000 9.5MM Surface,74.56 kgCO2e,1 metric ton,Asphalt
+ec3b8uk2,19.0mm 65gyr FR PG64-28NH 112.00,57.69 kgCO2e,1 metric ton,Asphalt
+ec3146k7,19.0mm 65gyr FR PG64-28SP 112.00,57 kgCO2e,1 metric ton,Asphalt
+ec3mfcdm,19.0mm 65gyr FR PG64-28SP 112.20,51.83 kgCO2e,1 metric ton,Asphalt
+ec312ejb,19.0mm 65gyr PG64-22 112.00,56.8 kgCO2e,1 metric ton,Asphalt
+ec3tyj4j,19.0mm 65gyr PG64-28 112.00,57.68 kgCO2e,1 metric ton,Asphalt
+ec3bbtrb,19.0mm 65gyr PG64-28 112.00,56.97 kgCO2e,1 metric ton,Asphalt
+ec3fn2ec,19.0mm 65gyr PG64-28 112.20,51.81 kgCO2e,1 metric ton,Asphalt
+ec33g1pn,19.0mm 65gyr PG64-28 112.20. all Sidney,50.62 kgCO2e,1 metric ton,Asphalt
+ec3b7sdm,19.0mm 65gyr PG64-28NH 112.00 Zyco,57.66 kgCO2e,1 metric ton,Asphalt
+ec3gpser,19.0mm 65gyr PG64-28NH 112.00 Zyco,57.7 kgCO2e,1 metric ton,Asphalt
+ec3j9879,19.0mm 75gyr FR PG64-28SP 122.20,49.42 kgCO2e,1 metric ton,Asphalt
+ec3qp0er,190233,55.23 kgCO2e,1 metric ton,Asphalt
+ec3wydzz,190233Oaks,57.94 kgCO2e,1 metric ton,Asphalt
+ec35jqq6,190233R20,48.44 kgCO2e,1 metric ton,Asphalt
+ec395fdm,190233R20Oaks,49.71 kgCO2e,1 metric ton,Asphalt
+ec31k1bf,190333,57.85 kgCO2e,1 metric ton,Asphalt
+ec36gs2g,190333R20,50.41 kgCO2e,1 metric ton,Asphalt
+ec3ggtkw,190333R20Staff,51.21 kgCO2e,1 metric ton,Asphalt
+ec3bg28c,190333Staff,58.19 kgCO2e,1 metric ton,Asphalt
+ec332tam,191327,57.94 kgCO2e,1 metric ton,Asphalt
+ec364r8s,191327R20,49.91 kgCO2e,1 metric ton,Asphalt
+ec3tr7ne,191527,59.24 kgCO2e,1 metric ton,Asphalt
+ec3xzc1m,191527R20,51.21 kgCO2e,1 metric ton,Asphalt
+ec325ahq,191631,75.88 kgCO2e,1 metric ton,Asphalt
+ec3xz7uj,191931,76.7 kgCO2e,1 metric ton,Asphalt
+ec3schbw,2018-TM-004D V55-64-10-R0,38.5 kgCO2e,2000 lbs,Asphalt
+ec3mqxsp,2018-TM-004D-V55-64-10-R15,36.53 kgCO2e,2000 lbs,Asphalt
+ec35k6ms,211135,70.4 kgCO2e,1 metric ton,Asphalt
+ec3frdg5,211135,70.4 kgCO2e,1 metric ton,Asphalt
+ec3t2sbf,211145,71.87 kgCO2e,1 metric ton,Asphalt
+ec3nrbcn,211145,71.87 kgCO2e,1 metric ton,Asphalt
+ec3dmtwf,211155,49.29 kgCO2e,1 metric ton,Asphalt
+ec361tta,211155,49.29 kgCO2e,1 metric ton,Asphalt
+ec3qwprh,250133,54.57 kgCO2e,1 metric ton,Asphalt
+ec3tgh19,250133Oaks,57.22 kgCO2e,1 metric ton,Asphalt
+ec388897,250133R20,47.13 kgCO2e,1 metric ton,Asphalt
+ec3cq9d8,250133R20Oaks,48.33 kgCO2e,1 metric ton,Asphalt
+ec3aqqzf,250633,53.92 kgCO2e,1 metric ton,Asphalt
+ec3wwjxc,250633R20,47.13 kgCO2e,1 metric ton,Asphalt
+ec3dfgsh,250827,55.34 kgCO2e,1 metric ton,Asphalt
+ec33txcq,250827R20,48.61 kgCO2e,1 metric ton,Asphalt
+ec37pbb9,251127,55.34 kgCO2e,1 metric ton,Asphalt
+ec3c0wb2,251127R20,48.61 kgCO2e,1 metric ton,Asphalt
+ec3gnqf5,251127R20S,48.04 kgCO2e,1 metric ton,Asphalt
+ec32r6cj,251127S,55.41 kgCO2e,1 metric ton,Asphalt
+ec3paj66,251131,73.52 kgCO2e,1 metric ton,Asphalt
+ec3xzgum,251531,73.93 kgCO2e,1 metric ton,Asphalt
+ec3zp0z6,"3/4"" Versa-Phalt",25.7 kgCO2e,2000 lbs,Asphalt
+ec3em9by,304-40332400-V,59.24 kgCO2e,1 metric ton,Asphalt
+ec30dd18,304-40342400-V,61.17 kgCO2e,1 metric ton,Asphalt
+ec352y7t,304-40342409-V,61.2 kgCO2e,1 metric ton,Asphalt
+ec37zatq,304-40432400-V,59.24 kgCO2e,1 metric ton,Asphalt
+ec3kx79k,304-40432409-V,59.27 kgCO2e,1 metric ton,Asphalt
+ec3t7r8s,304-40442400-V,61.17 kgCO2e,1 metric ton,Asphalt
+ec3but6u,304-40442409-V,61.2 kgCO2e,1 metric ton,Asphalt
+ec39maek,304-40732400-V,59.24 kgCO2e,1 metric ton,Asphalt
+ec3pdk5m,304-40742400-V,61.17 kgCO2e,1 metric ton,Asphalt
+ec35kenb,304-40932400-V,59.24 kgCO2e,1 metric ton,Asphalt
+ec3qaq7x,304-40942400-V,61.17 kgCO2e,1 metric ton,Asphalt
+ec3n5ch7,3082,81.81 kgCO2e,1 metric ton,Asphalt
+ec3m6qmq,3252503 340 Ty B,62.98 kgCO2e,1 metric ton,Asphalt
+ec3fx5t4,3252503 340 Ty B,62.37 kgCO2e,1 metric ton,Asphalt
+ec3r2h7b,3252503 340 Ty B,62.98 kgCO2e,1 metric ton,Asphalt
+ec3zu1wm,3252503 340 Ty B,62.98 kgCO2e,1 metric ton,Asphalt
+ec3j1edn,3352519 3076 Ty C,61.67 kgCO2e,1 metric ton,Asphalt
+ec3uznm7,3352519 3076 Ty C,61.67 kgCO2e,1 metric ton,Asphalt
+ec3qssxp,3352519 3076 Ty C,61.67 kgCO2e,1 metric ton,Asphalt
+ec3nket7,3352519 3076 Ty C,61.06 kgCO2e,1 metric ton,Asphalt
+ec35ussw,3352520 3077 Ty C,64.25 kgCO2e,1 metric ton,Asphalt
+ec379des,3352520 3077 Ty C,64.25 kgCO2e,1 metric ton,Asphalt
+ec3ypthr,3352520 3077 Ty C,64.25 kgCO2e,1 metric ton,Asphalt
+ec3u56ys,3352520 3077 Ty C,63.64 kgCO2e,1 metric ton,Asphalt
+ec3a3cej,3354510 3077 Ty C,64.25 kgCO2e,1 metric ton,Asphalt
+ec3k0xyq,3354510 3077 Ty C,63.64 kgCO2e,1 metric ton,Asphalt
+ec3yu2r9,3356502 3077 SP C,64.42 kgCO2e,1 metric ton,Asphalt
+ec3ndrun,3356502 3077 SP C,65.03 kgCO2e,1 metric ton,Asphalt
+ec31fsgs,3356502 3077 SP C,65.03 kgCO2e,1 metric ton,Asphalt
+ec37f0an,3356502 3077 SP C,65.03 kgCO2e,1 metric ton,Asphalt
+ec348f7k,3452504 340 D,64.73 kgCO2e,1 metric ton,Asphalt
+ec37y71d,3452504 340 D,64.12 kgCO2e,1 metric ton,Asphalt
+ec38ej2u,3452544 3077 D,67.23 kgCO2e,1 metric ton,Asphalt
+ec30ny02,3452544 3077 D,67.84 kgCO2e,1 metric ton,Asphalt
+ec31k6uf,3454509 3077 D,67.23 kgCO2e,1 metric ton,Asphalt
+ec38a9yw,3454509 3077 D,67.84 kgCO2e,1 metric ton,Asphalt
+ec32b6jp,3456003 SMA D,182.7 kgCO2e,1 metric ton,Asphalt
+ec3q5r43,3456504 3077 D,67.23 kgCO2e,1 metric ton,Asphalt
+ec3m07dm,3456504 3077 D,67.84 kgCO2e,1 metric ton,Asphalt
+ec30t8jz,3508,64.48 kgCO2e,1 metric ton,Asphalt
+ec3ymwm0,351-40232416-V,55.7 kgCO2e,1 metric ton,Asphalt
+ec3yj09c,351-40332407-A,53.12 kgCO2e,1 metric ton,Asphalt
+ec38nn8k,351-40332428-P,53.35 kgCO2e,1 metric ton,Asphalt
+ec3z1g5c,351-40342407-A,55.03 kgCO2e,1 metric ton,Asphalt
+ec3nhn13,351-40342428-P,55.27 kgCO2e,1 metric ton,Asphalt
+ec3mabyj,351-40932407-A,53.12 kgCO2e,1 metric ton,Asphalt
+ec35dyxh,351-40932407-P,53.34 kgCO2e,1 metric ton,Asphalt
+ec33md8f,351-40942407-A,55.03 kgCO2e,1 metric ton,Asphalt
+ec38e0wd,351-40942407-P,55.26 kgCO2e,1 metric ton,Asphalt
+ec300sgk,351-40942407-V,55.83 kgCO2e,1 metric ton,Asphalt
+ec3cex59,351-40942428-P,55.28 kgCO2e,1 metric ton,Asphalt
+ec3h0ncm,3552508 3076 F,68.19 kgCO2e,1 metric ton,Asphalt
+ec3z7kz0,3552508 3076 F,69.11 kgCO2e,1 metric ton,Asphalt
+ec3n0tq5,370433,51.95 kgCO2e,1 metric ton,Asphalt
+ec3jnrx8,370433Oaks,54.27 kgCO2e,1 metric ton,Asphalt
+ec3xp1fk,370433R20,44.5 kgCO2e,1 metric ton,Asphalt
+ec3uh65p,370433R20Oaks,45.71 kgCO2e,1 metric ton,Asphalt
+ec3x4ptu,370433R30,41.11 kgCO2e,1 metric ton,Asphalt
+ec3zafrj,370433R30Oaks,41.85 kgCO2e,1 metric ton,Asphalt
+ec3cm0rt,370827,54.04 kgCO2e,1 metric ton,Asphalt
+ec3mnuj3,370827R20,45.36 kgCO2e,1 metric ton,Asphalt
+ec3z7pmm,370827R20S,45.46 kgCO2e,1 metric ton,Asphalt
+ec3m1w8g,370827R30,42 kgCO2e,1 metric ton,Asphalt
+ec3cd1f2,370827R30S,42.1 kgCO2e,1 metric ton,Asphalt
+ec3mmtg5,370827S,53.52 kgCO2e,1 metric ton,Asphalt
+ec35ayum,370833,51.29 kgCO2e,1 metric ton,Asphalt
+ec3qc392,370833R20,44.5 kgCO2e,1 metric ton,Asphalt
+ec3t993u,370833R30,41.11 kgCO2e,1 metric ton,Asphalt
+ec30nqkj,371127,53.39 kgCO2e,1 metric ton,Asphalt
+ec3py0jb,371127R20,46.66 kgCO2e,1 metric ton,Asphalt
+ec3b3hfp,371127R20S,46.78 kgCO2e,1 metric ton,Asphalt
+ec359u7n,371127R30,43.3 kgCO2e,1 metric ton,Asphalt
+ec3942j5,371127R30S,43.4 kgCO2e,1 metric ton,Asphalt
+ec3kg1zr,371127S,53.54 kgCO2e,1 metric ton,Asphalt
+ec32grmg,371531,71.6 kgCO2e,1 metric ton,Asphalt
+ec343qr0,372031,71.44 kgCO2e,1 metric ton,Asphalt
+ec3h6mad,3776,67.93 kgCO2e,1 metric ton,Asphalt
+ec3q97zy,"424 1"" Binder ABCDE PG67-22 GH-0062-22",53.62 kgCO2e,1 metric ton,Asphalt
+ec38rf95,"424 1/2"" Binder PG76-22 GH-0208-23",68.72 kgCO2e,1 metric ton,Asphalt
+ec35q8r8,"424 1/2"" Surface Esal E PG67-22 GH-0209-23",63.12 kgCO2e,1 metric ton,Asphalt
+ec3s67gd,"424 1/2"" Surface Esal E PG67-22 GH-0212-23",69.55 kgCO2e,1 metric ton,Asphalt
+ec3eus12,"424 1/2"" Surface PG76-22 GH-0210-23 W- Evotherm",76.1 kgCO2e,1 metric ton,Asphalt
+ec31q9uj,"424 1/2"" Surface PG76-22 GH-0210-23 W- Evotherm",75.96 kgCO2e,1 metric ton,Asphalt
+ec3kendp,"424 1/2"" Surface PG76-22 GH-0211-23",75.31 kgCO2e,1 metric ton,Asphalt
+ec3k4amk,"424 1/2"" Surface PG76-22 GH-0213-23 W- Anova 1815",76.09 kgCO2e,1 metric ton,Asphalt
+ec3cwx7h,"424 1/2"" Surface PG76-22 GH-0213-23 W- Anova 1815",75.99 kgCO2e,1 metric ton,Asphalt
+ec3nxja0,"424 1/2"" Surface PG76-22 GH-0214-23 W- ACE XP Fiber",82.67 kgCO2e,1 metric ton,Asphalt
+ec3f3fxe,424 1/2” Meta,67.2 kgCO2e,1 metric ton,Asphalt
+ec3btpa6,424 1/2” Meta Permanent,70.03 kgCO2e,1 metric ton,Asphalt
+ec37pmgt,424 1/2” Private,35.64 kgCO2e,1 metric ton,Asphalt
+ec3wmn9s,424 1” Meta,52.69 kgCO2e,1 metric ton,Asphalt
+ec3p4wtt,424 1” Meta Permanent,55.6 kgCO2e,1 metric ton,Asphalt
+ec3316bq,"424 3/4"" Binde ABCDE PG67-22 GH-0207-23",60.23 kgCO2e,1 metric ton,Asphalt
+ec33dadu,"424 3/4"" Meta",56.9 kgCO2e,1 metric ton,Asphalt
+ec3c64my,424 3/4” Binder,27.58 kgCO2e,1 metric ton,Asphalt
+ec3s7fy0,424 3/4” Meta,56.91 kgCO2e,1 metric ton,Asphalt
+ec3baa4u,424 3/4” Meta Permanent,59.97 kgCO2e,1 metric ton,Asphalt
+ec3xw7jh,630231,82.36 kgCO2e,1 metric ton,Asphalt
+ec371k96,630527,67.68 kgCO2e,1 metric ton,Asphalt
+ec3a3x7c,630527R20,59.67 kgCO2e,1 metric ton,Asphalt
+ec3sxdhm,630627,68.33 kgCO2e,1 metric ton,Asphalt
+ec3gahft,630627R20,60.97 kgCO2e,1 metric ton,Asphalt
+ec389ndy,630633,63.85 kgCO2e,1 metric ton,Asphalt
+ec3bey1u,630633Oaks,66.46 kgCO2e,1 metric ton,Asphalt
+ec38hz9u,630633R20,56.42 kgCO2e,1 metric ton,Asphalt
+ec32yzj6,630633R20Oaks,59.24 kgCO2e,1 metric ton,Asphalt
+ec3h9662,630731,84.04 kgCO2e,1 metric ton,Asphalt
+ec3kchu4,630733,65.24 kgCO2e,1 metric ton,Asphalt
+ec36gj1m,630733R20,58.41 kgCO2e,1 metric ton,Asphalt
+ec3cpfz3,9.5mm 65gyr FMT PG64-28ETCop 115.20 Zyco,67.7 kgCO2e,1 metric ton,Asphalt
+ec3qqx83,9.5mm 65gyr FMT PG64-28ETCop 115.20 Zyco,67.74 kgCO2e,1 metric ton,Asphalt
+ec3zgx5c,9.5mm 65gyr FMT PG64-28ETMA 115.20 Zyco,69.72 kgCO2e,1 metric ton,Asphalt
+ec3r3pcf,9.5mm 65gyr FMT PG64-28ETMA 115.20 Zyco,69.77 kgCO2e,1 metric ton,Asphalt
+ec3ugmee,9.5mm 65gyr FMT PG64-28NH 115.20,62.48 kgCO2e,1 metric ton,Asphalt
+ec3ss8p4,9.5mm 65gyr FMT PG64-28NH 115.20 Zyco,62.45 kgCO2e,1 metric ton,Asphalt
+ec3k5hr4,9.5mm 65gyr FMT PG64-28NH 115.20 Zyco,62.48 kgCO2e,1 metric ton,Asphalt
+ec330xfq,9.5mm 65gyr FMT PG64-28SP 115.20,61.71 kgCO2e,1 metric ton,Asphalt
+ec376q81,9.5mm 65gyr FT PG64-28ETCop 115.20 Zyco,64.34 kgCO2e,1 metric ton,Asphalt
+ec3t9sq5,9.5mm 65gyr FT PG64-28ETCop 115.20 Zyco,64.3 kgCO2e,1 metric ton,Asphalt
+ec3y4dy5,9.5mm 65gyr FT PG64-28ETMA 115.20 Zyco,66.19 kgCO2e,1 metric ton,Asphalt
+ec37s82p,9.5mm 65gyr FT PG64-28ETMA 115.20 Zyco,66.23 kgCO2e,1 metric ton,Asphalt
+ec33q14e,9.5mm 65gyr FT PG64-28NH 115.20,59.48 kgCO2e,1 metric ton,Asphalt
+ec33ajwg,9.5mm 65gyr FT PG64-28NH 115.20 Zyco,59.48 kgCO2e,1 metric ton,Asphalt
+ec376zab,9.5mm 65gyr FT PG64-28NH 115.20 Zyco,59.45 kgCO2e,1 metric ton,Asphalt
+ec36fr0f,9.5mm 65gyr FT PG64-28SP 115.20,58.76 kgCO2e,1 metric ton,Asphalt
+ec377364,9.5mm 65gyr FTS PG64-28NH 115.20,64.74 kgCO2e,1 metric ton,Asphalt
+ec3hazu3,9.5mm 65gyr FTS PG64-28SP 115.20,63.88 kgCO2e,1 metric ton,Asphalt
+ec3j9gzk,9.5mm 65gyr PG64-22 115.20,57.12 kgCO2e,1 metric ton,Asphalt
+ec35dm8j,9.5mm 65gyr PG64-22NH 115.20,57.14 kgCO2e,1 metric ton,Asphalt
+ec32xz9t,9.5mm 65gyr PG64-28 115.20,57.3 kgCO2e,1 metric ton,Asphalt
+ec3zqktb,9.5mm 65gyr PG64-28E 115.20,65.99 kgCO2e,1 metric ton,Asphalt
+ec3j7f6a,9.5mm 75gyr FT PG64-28SP 125.20,57.65 kgCO2e,1 metric ton,Asphalt
+ec350d5h,950433,64.59 kgCO2e,1 metric ton,Asphalt
+ec3472z2,950433Grav,65.66 kgCO2e,1 metric ton,Asphalt
+ec3krkta,950433R20,57.75 kgCO2e,1 metric ton,Asphalt
+ec38a95p,950433R20Grav,58.75 kgCO2e,1 metric ton,Asphalt
+ec3x35fp,950733,63.85 kgCO2e,1 metric ton,Asphalt
+ec3yw10n,950733GBlend,64.33 kgCO2e,1 metric ton,Asphalt
+ec32ncs4,950733Oaks,66.46 kgCO2e,1 metric ton,Asphalt
+ec3750wn,950733OaksT&L,66.79 kgCO2e,1 metric ton,Asphalt
+ec3ef5nb,950733R20,57.07 kgCO2e,1 metric ton,Asphalt
+ec3g470z,950733R20GBlend,56.79 kgCO2e,1 metric ton,Asphalt
+ec3g06c5,950733R20Oaks,59.24 kgCO2e,1 metric ton,Asphalt
+ec33ffm4,950733R20OaksT&L,59.9 kgCO2e,1 metric ton,Asphalt
+ec3gugmn,950733R20TL Staff,59.01 kgCO2e,1 metric ton,Asphalt
+ec3e9bnr,950733TL Staff,66.18 kgCO2e,1 metric ton,Asphalt
+ec3190d5,951133,63.85 kgCO2e,1 metric ton,Asphalt
+ec3mahu8,951133R20,57.07 kgCO2e,1 metric ton,Asphalt
+ec3e9sst,951233,65.17 kgCO2e,1 metric ton,Asphalt
+ec3wgkzc,951233R20,57.73 kgCO2e,1 metric ton,Asphalt
+ec373q02,951631,83 kgCO2e,1 metric ton,Asphalt
+ec3mhk9d,952031,83.48 kgCO2e,1 metric ton,Asphalt
+ec32qwbw,952127,67.68 kgCO2e,1 metric ton,Asphalt
+ec3eju8u,952127R20,60.32 kgCO2e,1 metric ton,Asphalt
+ec3uww3a,952127TL,67.03 kgCO2e,1 metric ton,Asphalt
+ec3sgt1p,952227,68.98 kgCO2e,1 metric ton,Asphalt
+ec3xgskk,952227R20,67.47 kgCO2e,1 metric ton,Asphalt
+ec3cn880,952527,66.38 kgCO2e,1 metric ton,Asphalt
+ec3cuegh,952527R20,59.02 kgCO2e,1 metric ton,Asphalt
+ec3pfag0,952927,67.03 kgCO2e,1 metric ton,Asphalt
+ec36kkjn,952927R20,60.32 kgCO2e,1 metric ton,Asphalt
+ec3gpyep,Asphalt/Rubber Hot Mix Asphalt,69.8 kgCO2e,1 short ton,Asphalt
+ec3czt7c,BP-2 22-61,46.58 kgCO2e,1 metric ton,Asphalt
+ec3k6x1t,BUR Non-Modified Asphalt Roofing,1.83 kgCO2e,1 kg,Asphalt
+ec39dh1y,GH-0108-21,46.22 kgCO2e,1 metric ton,Asphalt
+ec3x63wz,GH-0108-21,46.62 kgCO2e,1 metric ton,Asphalt
+ec3q5ha9,GH-0161-21,61.9 kgCO2e,1 metric ton,Asphalt
+ec3sa1z1,GH-0161-21,61.17 kgCO2e,1 metric ton,Asphalt
+ec3xeabe,GH-0161-21,61.67 kgCO2e,1 metric ton,Asphalt
+ec3as368,HMA055-21,63.21 kgCO2e,1 metric ton,Asphalt
+ec37y3j3,"HMA055-21, an asphalt mix.",,1 ton,Asphalt
+ec3p5hz1,HMA205-20,75.54 kgCO2e,1 metric ton,Asphalt
+ec38f1wh,PAG 2 HV PG 70-10 W/ RAP WRIGHT,61.21 kgCO2e,1 metric ton,Asphalt
+ec3ax499,PAG 2 LV PG 70-10 WRIGHT NO RAP,67.62 kgCO2e,1 metric ton,Asphalt
+ec3uucp4,PAG 2 LV PG 70-10 WRIGHT W/ RAP,63.71 kgCO2e,1 metric ton,Asphalt
+ec3262n0,Polymer modified hot mix asphalt,58.7 kgCO2e,1 short ton,Asphalt
+ec32qn1r,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
+ec34h6c1,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
+ec3yum7t,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
+ec3trmwq,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
+ec32um6w,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
+ec3cw0ej,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
+ec3zjaru,S21-2-11,92.18 kgCO2e,1 metric ton,Asphalt
+ec33phpk,"S21-2-11, an asphalt mix.",92.18 kgCO2e,1 tonne,Asphalt
+ec3bsd34,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
+ec3q1p49,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
+ec34jyu9,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
+ec3qstjy,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
+ec348tjj,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
+ec3g5ha9,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
+ec3f5h0e,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
+ec32f7tt,S21-2-16W,82.32 kgCO2e,1 metric ton,Asphalt
+ec3cr544,"S21-2-16W, an asphalt mix.",82.32 kgCO2e,1 tonne,Asphalt
+ec3wpunh,S21-2-1LVW,74.65 kgCO2e,1 metric ton,Asphalt
+ec32w389,"S21-2-1LVW, an asphalt mix.",74.65 kgCO2e,1 ton,Asphalt
+ec3upczz,S21-2-1W,72.73 kgCO2e,1 metric ton,Asphalt
+ec3d1xe7,"S21-2-1W, an asphalt mix.",72.73 kgCO2e,1 tonne,Asphalt
+ec353j18,S21-2-2LVW,75.33 kgCO2e,1 metric ton,Asphalt
+ec3d6sj4,"S21-2-2LVW, an asphalt mix.",75.33 kgCO2e,1 tonne,Asphalt
+ec3yxnzr,S21-2-2W,73.99 kgCO2e,1 metric ton,Asphalt
+ec34jm0y,"S21-2-2W, an asphalt mix.",73.99 kgCO2e,1 tonne,Asphalt
+ec3ux2bc,S21-2-4W,74.22 kgCO2e,1 metric ton,Asphalt
+ec3kfr9c,"S21-2-4W, an asphalt mix.",74.22 kgCO2e,1 tonne,Asphalt
+ec37sw3e,S22-2-10HVW,81.15 kgCO2e,1 metric ton,Asphalt
+ec370w1d,"S22-2-10HVW, an asphalt mix.",81.15 kgCO2e,1 tonne,Asphalt
+ec31ejf3,S22-2-10LVW,84.37 kgCO2e,1 metric ton,Asphalt
+ec3cz32f,"S22-2-10LVW, an asphalt mix.",84.37 kgCO2e,1 tonne,Asphalt
+ec3dyjfm,S22-2-11R,88.81 kgCO2e,1 metric ton,Asphalt
+ec38swpg,S22-2-11R,92.29 kgCO2e,1 metric ton,Asphalt
+ec3nczxb,S22-2-11R,92.29 kgCO2e,1 metric ton,Asphalt
+ec3sqq41,"S22-2-11R, an asphalt mix.",92.29 kgCO2e,1 tonne,Asphalt
+ec37bbb1,S22-2-11W,92.18 kgCO2e,1 metric ton,Asphalt
+ec3755ce,"S22-2-11W, an asphalt mix.",92.18 kgCO2e,1 tonne,Asphalt
+ec3yb4dk,S22-2-16W,84.49 kgCO2e,1 metric ton,Asphalt
+ec3wgejk,S22-2-9HVW,80.19 kgCO2e,1 metric ton,Asphalt
+ec3kj1ak,S22-2-9HVW,80.19 kgCO2e,1 metric ton,Asphalt
+ec3hf3zu,"S22-2-9HVW, an asphalt mix.",80.19 kgCO2e,1 tonne,Asphalt
+ec3u8p04,S22-2-9LVW,83.73 kgCO2e,1 metric ton,Asphalt
+ec3bczzm,"S22-2-9LVW, an asphalt mix.",83.73 kgCO2e,1 tonne,Asphalt
+ec3qd50b,WMA015-22 25.0mm Binder,56.61 kgCO2e,1 metric ton,Asphalt
+ec39h9xk,WMA020-21 25.0mm Binder RAP,48.89 kgCO2e,1 metric ton,Asphalt

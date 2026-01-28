@@ -1,0 +1,654 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/5ad1f11655b0e82d946ad31e
+best_practice: 13.03065858 kgCO2e
+biogenic_embodied_carbon_z: 0.35128336140500593
+box_id: '449694352408'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: 'Solid glass panes without internal gaps which have been heat-treated
+    or otherwise substantially processed. Includes:
+
+    1. Coatings including low-e and other coatings (see PCR)
+
+    2. laminating (fire-rated, glass clad polycarbonate, interlayers
+
+    3. Heat treated (heat strengthened, tempered, fire-rated)
+
+    4. Mechanically or chemically processed or fabricated (edging, bending, etching,
+    drilling, notching, cutting, polishing, etc)
+
+    5. combined products of processing in 1-5.'
+  display_name: Processed Non-insulating Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6daae3d967104f5c8c85199b259f58c8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 21.45 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: ProcessedNonInsulatingGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  parents: []
+  pct10_gwp: 6.213147523 kgCO2e
+  pct20_gwp: 20.90514778 kgCO2e
+  pct30_gwp: 32.0255063 kgCO2e
+  pct40_gwp: 59.51445943 kgCO2e
+  pct50_gwp: 82.48616351 kgCO2e
+  pct60_gwp: 118.5869395 kgCO2e
+  pct70_gwp: 148.7003071 kgCO2e
+  pct80_gwp: 185.8318315 kgCO2e
+  pct90_gwp: 275.6181123 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Processed Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-11-20T07:58:06.238550Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 23.96934142 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-07-01T13:07:19.326767Z'
+date_of_issue: '2018-09-05'
+date_validity_ends: '2023-09-05'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: Processed glass products are heat-treated to meet desired performance
+  characteristics.
+developer:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/3aae86691efc432e94710136878d8ead.png
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2025-10-10T20:50:31.564974Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3h6jze4g
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Guardian_EPD_Processed.pdf
+gwp: 18.5 kgCO2e
+gwp_per_category_declared_unit: 18.5 kgCO2e
+gwp_per_kg: 1.85 kgCO2e
+gwp_z: 0.35128336140500593
+id: ec94c4aacc9746e09e858f9c66c83eb2
+image: https://static.buildingtransparency.org/images/26a91c9ffaff4894a57ae1c77b2dd698.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  s Used in Buildings - Safety Performance Specifications and Methods of Test
+
+
+  ## Source Data Notes
+
+  ASTM C 1036: Standard Specification for Flat Glass ASTM C 1376: Standard Specification
+  for Pyrolytic and Vacuum Deposition Coatings on Flat Glass ANSI Z97.1-2015: Safety
+  Glazing Materials Used in Buildings - Safety Performance Specifications and Methods
+  of Test Bare, J. (2012). Tool for the Reduction and Assessment of Chemical and other
+  Environmental Impacts - TRACI v2.1 - User''s Manual. Washington, DC: U.S. EPA. CPSC
+  16 CFR 1201: Safety Standard for Architectural Glazing Materials EPA. (2016, Marchy).
+  Waste Reduction Model v14. European Standards. (2013). EN 15804+A1 Sustainability
+  of construction works - Environmental product declarations - Core rules for the
+  product category of construction products. PROCESSED GLASS PRODUCTS According to
+  ISO 14025 GANA (2014) DD 04-0114: Recyclability of Architectural Glass Products
+  Information Bulletin Intergovernmental Panel on Climate Change. (2013). IPCC Fifth
+  Assessment Report. ISO. (2009). ISO 14040: Environmental management - Life cycle
+  assessment - principles and frameworks. ISO. (2011). ISO 14025: Environmental labels
+  and declarations - Type III environmental declarations - principles and procedures.
+  ISO. (2006). ISO 14044: Environmental management - Life cycle assessment - Requirements
+  and guidelines. ISO. (2007). ISO 21930 Sustainability in building construction -
+  Environmental declaration of building products. NSF International. (2014). Product
+  Category Rule for Environmental Product Declarations. GANA PCR for Flat Glass: UN
+  CPC 3711. thinkstep. (2017). GaBi LCA Database Documentation. UL. (2016). PCR Guidance
+  for Building-Related Products and Services - Part B: Processed Glass EPD Requirements.
+  UL. (2017). Product Category Rules for Building-Related Products and Services in
+  North America - Part A: Life Cycle Assessment Calculation Rules and Report Requirements.
+  Velikov, K. et al., United States (2012). The Benefits of Glass: A Literature Review
+  on the Qualitative Benefits of Glass on Building Occupants. Ann Arbor, Michigan.
+  Retrieved January 3, 2018 from: http://023app01.guardian.com/Sunguard/SpecificationsResources/TechnicalLibrary/ProductLiterature/PRO_045179?s
+  sSourceSiteId=SunGuardNAEN2013'
+lowest_plausible_gwp: 13.03065858 kgCO2e
+manufacturer:
+  address: 2300 Harmon Road, Auburn Hills, MI 48326
+  address_line: 2300 Harmon Road
+  admin_district: MI
+  admin_district2: Oakland
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/guardian-glass
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-01T13:01:37.326596Z'
+  email_extensions:
+  - guardianglass.com
+  - guardian.com
+  enterprise: true
+  id: d96843486240476da954d7da7d2f4e96
+  image: https://static.buildingtransparency.org/images/c99974f6-0324-495e-9b68-3c5a9d3f28ab.png
+  is_failed: false
+  latitude: 42.69897
+  locality: Auburn Hills
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Oakland
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    extendedPostalCode: '483261714'
+    freeformAddress: 2300 Harmon Road, Auburn Hills, MI 48326
+    localName: Auburn Hills
+    municipality: Auburn Hills
+    postalCode: '48326'
+    streetName: Harmon Road
+    streetNumber: '2300'
+  longitude: -83.24943
+  name: Guardian Glass
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d96843486240476da954d7da7d2f4e96
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '48326'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-02-21T15:29:43.180665Z'
+  web_domain: guardianglass.com
+  website: https://www.guardianglass.com/
+manufacturer_specific: true
+mass_per_declared_unit: 10 kg
+matched_plants_count: 1
+material_id: c7e334b92acf41d9b98054f31b6b2733
+my_capabilities: 1
+name: Heat-Treated Glass Products
+not_an_epd: false
+open_xpd_uuid: ec3h6jze
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3h6jze
+output_flows: {}
+owner:
+  name: cqd.io Script
+  user_id: script@cqd.io
+pcr:
+  alt_names:
+  - 'Part B: Processed Glass EPD Requirements'
+  - 'Part B: Processed Glass (North America) 2016'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Processed Glass EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:52.742103Z'
+  date_of_issue: '2016-08-17'
+  date_validity_ends: '2024-06-30'
+  declared_units:
+  - 1 m2
+  - 1 kg
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=35842
+  id: b92d89dd3e90403093e9cfb7bf90cb32
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: 'Part B: Processed Glass'
+  open_xpd_uuid: ec3p1b94
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3p1b94
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3p1b9494
+  short_name: 'Part B: Processed Glass'
+  status: Expired
+  updated_on: '2024-07-01T00:04:17.250793Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 23.96934142 kgCO2e
+plant_geography:
+- US-TX
+- US-IA
+- US-SC
+- US-CA
+- MX
+- US-MI
+- US-NY
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-05T14:09:58.643808Z'
+  id: 6f611258b9004767857b732de5e7127a
+  is_failed: false
+  jurisdiction:
+  - US-TX
+  - US-IA
+  - US-SC
+  - US-CA
+  - MX
+  - US-MI
+  - US-NY
+  name: Guardian Glass Plants
+  owned_by:
+    address: 2300 Harmon Road, Auburn Hills, MI 48326
+    address_line: 2300 Harmon Road
+    admin_district: MI
+    admin_district2: Oakland
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/guardian-glass
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-01T13:01:37.326596Z'
+    email_extensions:
+    - guardianglass.com
+    - guardian.com
+    enterprise: true
+    id: d96843486240476da954d7da7d2f4e96
+    image: https://static.buildingtransparency.org/images/c99974f6-0324-495e-9b68-3c5a9d3f28ab.png
+    is_failed: false
+    latitude: 42.69897
+    locality: Auburn Hills
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Oakland
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      extendedPostalCode: '483261714'
+      freeformAddress: 2300 Harmon Road, Auburn Hills, MI 48326
+      localName: Auburn Hills
+      municipality: Auburn Hills
+      postalCode: '48326'
+      streetName: Harmon Road
+      streetNumber: '2300'
+    longitude: -83.24943
+    name: Guardian Glass
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d96843486240476da954d7da7d2f4e96
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '48326'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-02-21T15:29:43.180665Z'
+    web_domain: guardianglass.com
+    website: https://www.guardianglass.com/
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2020-10-05T14:10:00.536110Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4788140764.102.1
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3h6jze4g
+standard_deviation: 6.498742186 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness: 4 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 23.96934142 kgCO2e
+uncertainty_factor: 1.295640076958453
+updated_on: '2025-01-14T02:52:03.426979Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-TERRESTRIAL impact not specified

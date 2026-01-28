@@ -1,6 +1,6 @@
-uuid,name,gwp,declared_unit,category
-89c5858784cf4552b6da2334783875ce,JM TPO 60 mils,4.143 kgCO2e,1 m2,Single-Ply_TPO
-5e11f0e3f09d444cb97c3ef30d01c6b7,JM TPO 60 mils fleece-backed,4.672 kgCO2e,1 m2,Single-Ply_TPO
-cdb856928b1948f996afd5e84f06bb74,JM TPO 80 mils,5.681 kgCO2e,1 m2,Single-Ply_TPO
-c34eaa2095f64ba989336447beff3b65,JM TPO 80 mils fleece-backed,6.29 kgCO2e,1 m2,Single-Ply_TPO
-55852c1ff2294fd8b8b8c8cbe80fed99,UltraPlyTM TPO Membrane 45 mils,2.75 kgCO2e,1 m2,Single-Ply_TPO
+ID,name,gwp,declared_unit,category
+ec349abq,JM TPO 60 mils,4.143 kgCO2e,1 m2,Single-Ply_TPO
+ec3k7rqs,JM TPO 60 mils fleece-backed,4.672 kgCO2e,1 m2,Single-Ply_TPO
+ec3ad206,JM TPO 80 mils,5.681 kgCO2e,1 m2,Single-Ply_TPO
+ec33fyne,JM TPO 80 mils fleece-backed,6.29 kgCO2e,1 m2,Single-Ply_TPO
+ec3dcrd2,UltraPlyTM TPO Membrane 45 mils,2.75 kgCO2e,1 m2,Single-Ply_TPO

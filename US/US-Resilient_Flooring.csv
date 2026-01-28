@@ -1,12 +1,12 @@
-uuid,name,gwp,declared_unit,category
-6f4e7101859e45ed93d8bdef7f2d3d85,2mm Homogeneous Vinyl Sheet,11.14 kgCO2e,1 ft2,Resilient_Flooring
-8370fc06498e43829a997ac55a9f7c15,Distinct Designs Rubber Flooring,23 kgCO2e,1 m^2,Resilient_Flooring
-15e005058e6f4bc6b08cbad62227b820,Envire® Rubber Sheet & Tile,23 kgCO2e,1 m^2,Resilient_Flooring
-1f5aa95f7f074de4aae3ca6e8e57eb9f,EnviroFlex™ Rubber Sheet & Tile,23 kgCO2e,1 m^2,Resilient_Flooring
-4d3d684fffe9478091ee28d8389cbdb2,Gallant Multi-Use Rubber Tile,48.5 kgCO2e,1 m^2,Resilient_Flooring
-c47b2babff0d41faa911000cffed53e9,Kinetex®,55.05 kgCO2e,1 m2,Resilient_Flooring
-94d5a35967c946998c4a438ba5834209,Rubber Floor Tile,29.2 kgCO2e,1 m2,Resilient_Flooring
-ae9aaa6ae4824220905dfdb279dc6043,Solid Vinyl & ESD Static Control Vinyl Tile,10.1 kgCO2e,1 m^2,Resilient_Flooring
-30499f2774324403ab8447941cef88d1,Solid Vinyl & ESD Vinyl Tile,12.5 kgCO2e,1 m^2,Resilient_Flooring
-d069b17ab12f4f29b4e58914e804a46c,Tuflex® Force® Premium Engineered Sports Flooring,43.7 kgCO2e,1 m^2,Resilient_Flooring
-7fdbd62a3af14d71aba443c9cc1c7c27,Tuflex® Spartus Multi-Use Rubber Tile,43.7 kgCO2e,1 m^2,Resilient_Flooring
+ID,name,gwp,declared_unit,category
+ec3c3ss7,2mm Homogeneous Vinyl Sheet,11.14 kgCO2e,1 ft2,Resilient_Flooring
+ec38xkmu,Distinct Designs Rubber Flooring,23 kgCO2e,1 m^2,Resilient_Flooring
+ec3jyskb,Envire® Rubber Sheet & Tile,23 kgCO2e,1 m^2,Resilient_Flooring
+ec32dpwz,EnviroFlex™ Rubber Sheet & Tile,23 kgCO2e,1 m^2,Resilient_Flooring
+ec3q2mc6,Gallant Multi-Use Rubber Tile,48.5 kgCO2e,1 m^2,Resilient_Flooring
+ec3cxrzf,Kinetex®,55.05 kgCO2e,1 m2,Resilient_Flooring
+ec381y0s,Rubber Floor Tile,29.2 kgCO2e,1 m2,Resilient_Flooring
+ec3s1jbe,Solid Vinyl & ESD Static Control Vinyl Tile,10.1 kgCO2e,1 m^2,Resilient_Flooring
+ec3y5wg3,Solid Vinyl & ESD Vinyl Tile,12.5 kgCO2e,1 m^2,Resilient_Flooring
+ec3tgbut,Tuflex® Force® Premium Engineered Sports Flooring,43.7 kgCO2e,1 m^2,Resilient_Flooring
+ec3byc2b,Tuflex® Spartus Multi-Use Rubber Tile,43.7 kgCO2e,1 m^2,Resilient_Flooring

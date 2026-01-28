@@ -1,5 +1,3 @@
-
-
 import os
 import csv
 import yaml
@@ -20,9 +18,21 @@ def extract_product_name(yaml_data):
     else:
         return "Unknown Product"
 
+def extract_short_id(yaml_data, filename):
+    """
+    Extract the short open_xpd_uuid from YAML data.
+    Falls back to filename if not found in YAML.
+    """
+    # Try to get open_xpd_uuid from YAML
+    if 'open_xpd_uuid' in yaml_data:
+        return yaml_data['open_xpd_uuid']
+    
+    # Fallback: use filename without extension as the ID
+    return filename.replace('.yaml', '').replace('.yml', '')
+
 def generate_category_csv(region_path, category_name):
     """
-    Generate CSV for a specific category with UUID to name mapping.
+    Generate CSV for a specific category with ID to name mapping.
     
     Args:
         region_path: Path to the region folder (e.g., 'IN/', 'US/')
@@ -40,7 +50,6 @@ def generate_category_csv(region_path, category_name):
     # Scan all YAML files in the category
     for filename in os.listdir(category_path):
         if filename.endswith('.yaml') or filename.endswith('.yml'):
-            uuid = filename.replace('.yaml', '').replace('.yml', '')
             yaml_path = os.path.join(category_path, filename)
             
             try:
@@ -48,6 +57,7 @@ def generate_category_csv(region_path, category_name):
                     yaml_data = yaml.safe_load(f)
                     
                 if yaml_data:
+                    product_id = extract_short_id(yaml_data, filename)
                     product_name = extract_product_name(yaml_data)
                     
                     # Extract additional useful fields
@@ -55,7 +65,7 @@ def generate_category_csv(region_path, category_name):
                     declared_unit = yaml_data.get('declared_unit', '')
                     
                     products.append({
-                        'uuid': uuid,
+                        'ID': product_id,
                         'name': product_name,
                         'gwp': gwp,
                         'declared_unit': declared_unit,
@@ -73,7 +83,7 @@ def generate_category_csv(region_path, category_name):
         csv_path = os.path.join(region_path, csv_filename)
         
         with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['uuid', 'name', 'gwp', 'declared_unit', 'category']
+            fieldnames = ['ID', 'name', 'gwp', 'declared_unit', 'category']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             
             writer.writeheader()
@@ -83,6 +93,37 @@ def generate_category_csv(region_path, category_name):
         print(f"Generated: {csv_path} ({len(products)} products)")
     else:
         print(f"No products found in {category_path}")
+
+def move_state_csvs_to_subfolder(region_path):
+    """
+    Move state CSV files (like US-AK.csv) to a 'states' subfolder.
+    
+    Args:
+        region_path: Path to the region folder (e.g., 'US/')
+    """
+    region_code = os.path.basename(region_path.rstrip('/'))
+    states_folder = os.path.join(region_path, 'states')
+    
+    # Create states folder if it doesn't exist
+    os.makedirs(states_folder, exist_ok=True)
+    
+    # Pattern for state CSVs: US-XX.csv (2-letter state codes)
+    moved_count = 0
+    for filename in os.listdir(region_path):
+        if filename.endswith('.csv') and filename.startswith(f"{region_code}-"):
+            # Check if it's a state file (e.g., US-AK.csv, US-CA.csv)
+            parts = filename.replace('.csv', '').split('-')
+            if len(parts) == 2 and len(parts[1]) == 2:  # 2-letter state code
+                old_path = os.path.join(region_path, filename)
+                new_path = os.path.join(states_folder, filename)
+                
+                # Move the file
+                os.rename(old_path, new_path)
+                print(f"Moved: {filename} → states/{filename}")
+                moved_count += 1
+    
+    if moved_count > 0:
+        print(f"Moved {moved_count} state CSV files to {states_folder}")
 
 def generate_all_category_csvs(base_path='.'):
     """
@@ -107,13 +148,17 @@ def generate_all_category_csvs(base_path='.'):
         for item in os.listdir(region_path):
             item_path = os.path.join(region_path, item)
             
-            # Skip files and CSV files
-            if os.path.isfile(item_path):
+            # Skip files and the new 'states' folder
+            if os.path.isfile(item_path) or item == 'states':
                 continue
             
             # Process category directory
             print(f"  Category: {item}")
             generate_category_csv(region_path, item)
+        
+        # Move state CSV files to states subfolder
+        print(f"\nMoving state CSV files for {region}...")
+        move_state_csvs_to_subfolder(region_path)
 
 def generate_master_csv(base_path='.', output_file='all_products.csv'):
     """
@@ -135,12 +180,12 @@ def generate_master_csv(base_path='.', output_file='all_products.csv'):
         for category in os.listdir(region_path):
             category_path = os.path.join(region_path, category)
             
-            if not os.path.isdir(category_path):
+            # Skip files and states folder
+            if not os.path.isdir(category_path) or category == 'states':
                 continue
             
             for filename in os.listdir(category_path):
                 if filename.endswith('.yaml') or filename.endswith('.yml'):
-                    uuid = filename.replace('.yaml', '').replace('.yml', '')
                     yaml_path = os.path.join(category_path, filename)
                     
                     try:
@@ -148,12 +193,13 @@ def generate_master_csv(base_path='.', output_file='all_products.csv'):
                             yaml_data = yaml.safe_load(f)
                             
                         if yaml_data:
+                            product_id = extract_short_id(yaml_data, filename)
                             product_name = extract_product_name(yaml_data)
                             
                             all_products.append({
                                 'region': region,
                                 'category': category,
-                                'uuid': uuid,
+                                'ID': product_id,
                                 'name': product_name,
                                 'gwp': yaml_data.get('gwp', ''),
                                 'declared_unit': yaml_data.get('declared_unit', '')
@@ -165,7 +211,7 @@ def generate_master_csv(base_path='.', output_file='all_products.csv'):
     # Write master CSV
     if all_products:
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['region', 'category', 'uuid', 'name', 'gwp', 'declared_unit']
+            fieldnames = ['region', 'category', 'ID', 'name', 'gwp', 'declared_unit']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             
             writer.writeheader()

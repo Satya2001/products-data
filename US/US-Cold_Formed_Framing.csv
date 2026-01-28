@@ -1,6 +1,6 @@
-uuid,name,gwp,declared_unit,category
-4608e885440540849d5758ea964a5ff2,Cold formed Steel Framing and Accessory Products,2660 kgCO2e,1 t,Cold_Formed_Framing
-99c411ec5746464382b0092a79ce5c9c,Light Guage Steel Track and Stud Framing,1336.3 kgCO2e,1 t,Cold_Formed_Framing
-d7c05b8a72ff4cf1a39bb1aba487cd68,MBA Metal Framing,1900 kgCO2e,1 t,Cold_Formed_Framing
-74bfb3dd0abf4a2aa13f0d3623f116af,Steel framing studs and track,2100 kgCO2e,1 t,Cold_Formed_Framing
-46d3a588fb1d4febb8aa1cc6976413d2,Steel framing studs and track,3200 kgCO2e,1 t,Cold_Formed_Framing
+ID,name,gwp,declared_unit,category
+ec370des,Cold formed Steel Framing and Accessory Products,2660 kgCO2e,1 t,Cold_Formed_Framing
+ec3gez2c,Light Guage Steel Track and Stud Framing,1336.3 kgCO2e,1 t,Cold_Formed_Framing
+ec32sjj6,MBA Metal Framing,1900 kgCO2e,1 t,Cold_Formed_Framing
+ec33axac,Steel framing studs and track,2100 kgCO2e,1 t,Cold_Formed_Framing
+ec3bnd2x,Steel framing studs and track,3200 kgCO2e,1 t,Cold_Formed_Framing

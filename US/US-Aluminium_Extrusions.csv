@@ -1,10 +1,10 @@
-uuid,name,gwp,declared_unit,category
-a8475676669c41359a5b73141e33076a,Aluminum Extrusions - Anodized Finish,7.02 kgCO2e,1 kg,Aluminium_Extrusions
-ac0947d6987c44da8662d97f9563624d,Aluminum Extrusions - Anodized Finish,7.02 kgCO2e,1 kg,Aluminium_Extrusions
-a6a6020987e14cba913a9413c47ed9fc,Aluminum Extrusions - Anodized Finish,5.9 kgCO2e,1 kg,Aluminium_Extrusions
-db419c3425664b9ea5f6bac0a123f508,Aluminum Extrusions - Mill Finish,5.9 kgCO2e,1 kg,Aluminium_Extrusions
-337c362e5ed2400da65ce34215323170,Aluminum Extrusions - Mill Finish,5.9 kgCO2e,1 kg,Aluminium_Extrusions
-e85c5c7c8b6145ca994b8a5be8255edd,Aluminum Extrusions - Mill Finish,5.9 kgCO2e,1 kg,Aluminium_Extrusions
-bc20d4455b9a4649b21d10e7a97fc398,Aluminum Extrusions - Painted Finish,11 kgCO2e,1 kg,Aluminium_Extrusions
-fc682fc68f8846fb85149b228b223833,Aluminum Extrusions - Painted Finish,11 kgCO2e,1 kg,Aluminium_Extrusions
-cf45142006394429983253a4a355df69,Aluminum Extrusions - Painted Finish,11 kgCO2e,1 kg,Aluminium_Extrusions
+ID,name,gwp,declared_unit,category
+ec3kh44b,Aluminum Extrusions - Anodized Finish,7.02 kgCO2e,1 kg,Aluminium_Extrusions
+ec35d7ka,Aluminum Extrusions - Anodized Finish,7.02 kgCO2e,1 kg,Aluminium_Extrusions
+ec35j16f,Aluminum Extrusions - Anodized Finish,5.9 kgCO2e,1 kg,Aluminium_Extrusions
+ec3az2c5,Aluminum Extrusions - Mill Finish,5.9 kgCO2e,1 kg,Aluminium_Extrusions
+ec3fcez1,Aluminum Extrusions - Mill Finish,5.9 kgCO2e,1 kg,Aluminium_Extrusions
+ec3mqxrb,Aluminum Extrusions - Mill Finish,5.9 kgCO2e,1 kg,Aluminium_Extrusions
+ec3fbb8c,Aluminum Extrusions - Painted Finish,11 kgCO2e,1 kg,Aluminium_Extrusions
+ec3jm2kf,Aluminum Extrusions - Painted Finish,11 kgCO2e,1 kg,Aluminium_Extrusions
+ec3cqkgj,Aluminum Extrusions - Painted Finish,11 kgCO2e,1 kg,Aluminium_Extrusions

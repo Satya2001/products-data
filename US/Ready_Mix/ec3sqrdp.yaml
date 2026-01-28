@@ -1,0 +1,568 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 296.2278549 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+box_id: '1635581934881'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.0899029 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
+  pct40_gwp: 334.578825 kgCO2e
+  pct50_gwp: 359.0203617 kgCO2e
+  pct60_gwp: 386.3847185 kgCO2e
+  pct70_gwp: 416.8085524 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 507.1461971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-11-20T07:56:16.507251Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 17.2 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 358.1115264 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-08-30T14:04:40.305900Z'
+date_of_issue: '2024-08-30'
+date_validity_ends: '2029-08-30'
+declaration_type: Product EPD
+declared_unit: 1 m^3
+density: 2400 kg / m^3
+description: 520C2500 L A City
+developer:
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: buildingtransparency.org/e/ec3sqrdp46
+document_version: '1'
+excluded: false
+externally_verified: true
+file_name: la520b31.pdf
+gwp: 327.1696906 kgCO2e
+gwp_per_category_declared_unit: 327.1696906 kgCO2e
+gwp_per_kg: 0.1363207044 kgCO2e
+gwp_z: 0.11237437430304116
+id: 6f78d29107ed4f10b99ea027f96ccdab
+impacts: {}
+includes:
+- citation: Manufacturer-specific cement EPD
+  evidence_type: Product EPD
+  gwp_fraction: 0.0
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 296.2278549 kgCO2e
+manufacturer:
+  address: Corona, CA
+  admin_district: CA
+  admin_district2: Riverside
+  alt_names:
+  - Robertson's Ready Mix
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/service-rock-products
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-10T12:55:12.870666Z'
+  email_extensions:
+  - rrmca.com
+  enterprise: true
+  id: 66b06d9ff7714eba856cc87b0ede91fb
+  is_failed: false
+  latitude: 33.87567
+  locality: Corona
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Riverside
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Corona
+    freeformAddress: Corona, CA
+    municipality: Corona
+  longitude: -117.56884
+  name: Robertson's Ready Mix, Ltd.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/66b06d9ff7714eba856cc87b0ede91fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-11-28T17:50:46.087464Z'
+  web_domain: rrmca.com
+  website: http://www.rrmca.com
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 0ee1789d59cc4fbdbff27d76da633108
+my_capabilities: 1
+name: LA520B31
+not_an_epd: false
+open_xpd_uuid: ec3sqrdp
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3sqrdp
+output_flows: {}
+owner:
+  name: Nicolas
+  user_id: nicolas@climateearth.com
+pcr:
+  alt_names:
+  - NSF PCR for Concrete
+  - PCR for Concrete, NSF International, August 2021 v2.1
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-03-06T23:21:19.464390Z'
+  date_of_issue: '2024-02-28'
+  date_validity_ends: '2025-02-28'
+  declared_units:
+  - 1 m3
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/PCR-Product-Category-Rules/NSF-1112-19-w-2024-dev-2024Ext.pdf?v=1709737159
+  id: 59ab637f47394bde9bc2ada0f5abc847
+  is_failed: false
+  issuer_doc_id: NSF 1112-19
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: NSF PCR for Concrete
+  open_xpd_uuid: ec3r08uc
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3r08uc
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3r08uctb
+  short_name: Concrete
+  status: Expired
+  updated_on: '2025-11-20T20:50:04.219177Z'
+  version: 2.3 extension
+pct80_gwp_per_category_declared_unit: 358.1115264 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 13925 S Broadway, Los Angeles, CA 90061, USA
+  address_line: 13925 S Broadway
+  admin_district: CA
+  admin_district2: Los Angeles County
+  alt_names: []
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2023-05-03T08:07:25.593744Z'
+  id: 4ea786361348478a9adc352a510ed0bb
+  is_failed: false
+  latitude: 33.9046569
+  locality: Los Angeles
+  location:
+  - long_name: '13925'
+    short_name: '13925'
+    types:
+    - street_number
+  - long_name: South Broadway
+    short_name: S Broadway
+    types:
+    - route
+  - long_name: South Los Angeles
+    short_name: South Los Angeles
+    types:
+    - neighborhood
+    - political
+  - long_name: Los Angeles
+    short_name: Los Angeles
+    types:
+    - locality
+    - political
+  - long_name: Los Angeles County
+    short_name: Los Angeles County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '90061'
+    short_name: '90061'
+    types:
+    - postal_code
+  - long_name: '1015'
+    short_name: '1015'
+    types:
+    - postal_code_suffix
+  longitude: -118.2787513
+  name: Gardena
+  openepd_id: 8553WP3C+VF.rrmca.com
+  owned_by:
+    address: Corona, CA
+    admin_district: CA
+    admin_district2: Riverside
+    alt_names:
+    - Robertson's Ready Mix
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/service-rock-products
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:55:12.870666Z'
+    email_extensions:
+    - rrmca.com
+    enterprise: true
+    id: 66b06d9ff7714eba856cc87b0ede91fb
+    is_failed: false
+    latitude: 33.87567
+    locality: Corona
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Riverside
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: Corona
+      freeformAddress: Corona, CA
+      municipality: Corona
+    longitude: -117.56884
+    name: Robertson's Ready Mix, Ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66b06d9ff7714eba856cc87b0ede91fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-11-28T17:50:46.087464Z'
+    web_domain: rrmca.com
+    website: http://www.rrmca.com
+  postal_code: '90061'
+  total_epds: 98
+  type: Plant
+  units: SI
+  updated_on: '2024-09-13T00:00:47.092255Z'
+plant_specific: true
+plc: false
+private: false
+product_classes:
+  climateearth.com: ConcreteReadyMix
+product_specific: true
+program_operator:
+  address: 900 Spring Street, Silver Spring, MD 20910
+  address_line: 900 Spring Street
+  admin_district: MD
+  admin_district2: Montgomery
+  alt_names:
+  - National Ready Mixed Concrete Association
+  - The National Ready Mixed Concrete Association
+  - NRMCA
+  - National Ready Mix Concrete Association
+  - National Ready-Mix Concrete Association
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/national-ready-mixed-concrete-assoc
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-25T01:07:49.604571Z'
+  currency: USD
+  email: servicerequest@nrmca.org
+  email_extensions:
+  - nrmca.org
+  enterprise: true
+  id: 1812a81e62a1424b8f27738be33fe023
+  image: https://static.buildingtransparency.org/images/0449ac39-6fff-4aca-a07f-36c94f3a3b63.png
+  is_failed: false
+  latitude: 38.99884
+  legal_name: National Ready Mixed Concrete Association
+  locality: Silver Spring
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Montgomery
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 13
+    extendedPostalCode: '209104017'
+    freeformAddress: 900 Spring Street, Silver Spring, MD 20910
+    localName: Silver Spring
+    municipality: Silver Spring
+    municipalitySubdivision: Silver Spring
+    postalCode: '20910'
+    streetName: Spring Street
+    streetNumber: '900'
+  longitude: -77.02468
+  name: NRMCA
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1812a81e62a1424b8f27738be33fe023
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20910'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-06-06T00:35:46.621058Z'
+  web_domain: nrmca.org
+  website: http://www.nrmca.org/sustainability/
+program_operator_fkey: 072aad2f-92c1-4015-a01c-ad230cf6c3bd
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3sqrdp46
+sku: LA520B31
+standard_deviation: 36.76548928 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 358.1115264 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2024-09-25T16:47:14Z'
+use_stored_carbon: false
+verifier:
+  email: joseph@ecoform.com
+  name: joseph
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Verifier is not employee of verifier org
+white_cement: false

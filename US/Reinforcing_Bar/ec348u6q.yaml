@@ -1,0 +1,459 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+best_practice: 722.3969394 kgCO2e
+biogenic_embodied_carbon_z: 0.17837600735524944
+box_id: '2038641686138'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 521.4991161 kgCO2e
+  pct20_gwp: 694.6503556 kgCO2e
+  pct30_gwp: 763.7966119 kgCO2e
+  pct40_gwp: 816.3412036 kgCO2e
+  pct50_gwp: 882.7302894 kgCO2e
+  pct60_gwp: 940.5757397 kgCO2e
+  pct70_gwp: 1080.065663 kgCO2e
+  pct80_gwp: 1455.354582 kgCO2e
+  pct90_gwp: 2948.429061 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2025-11-20T07:56:44.822971Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 977.6030606 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-11-06T19:20:39.727404Z'
+date_of_issue: '2025-09-25'
+date_validity_ends: '2030-09-25'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+description: Rebar, also known as reinforcing steel, is an essential component in
+  construction, commonly used in bridges, buildings, skyscrapers, homes, warehouses,
+  and foundations to enhance the strength of concrete structures. Uncoated reinforcement
+  bars (coiled, spooled, straight; deformed or smooth) primary function is to reinforce
+  concrete, which is naturally weak in tension, by leveraging the tensile and compressive
+  strength of steel, as defined by the Concrete Reinforcing Steel Institute (CRSI).
+  The surface of rebar is often patterned to form a better bond with concrete and
+  can be epoxy-coated at CMC Epoxy-Coating Fabrication facilities to mitigate corrosion
+  under certain environmental conditions.
+doc: www.smartepd.com
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: 05 12 00_EPD_CMC_Dowel Baskets.pdf
+gwp: 850 kgCO2e
+gwp_per_category_declared_unit: 850 kgCO2e
+gwp_per_kg: 0.85 kgCO2e
+gwp_z: 0.17837600735524944
+id: f3e816f6297648eba2aabfc1c1d95efc
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 722.3969394 kgCO2e
+manufacturer:
+  address: 6565 North Macarthur Boulevard, Irving, TX 75039
+  address_line: 6565 North Macarthur Boulevard, Hackberry Drive
+  admin_district: TX
+  admin_district2: Dallas
+  alt_names:
+  - CMC Steel
+  - CMC Rebar
+  - 'Commercial Metals Company (CMC) '
+  - CMC
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/commercial-metals-company
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-08T09:17:22.068654Z'
+  email_extensions:
+  - cmc.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/847de14d5e814710afc2a52e5d61f787.png
+  id: a20a220e4fa34d429f69de2fae809ace
+  image: https://static.buildingtransparency.org/images/491aa1f0a4fd46efa0a3dfdddab5e2f8.png
+  is_failed: false
+  latitude: 32.89806
+  legal_name: Commercial Metals Company
+  locality: Irving
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Dallas
+    countrySubdivision: TX
+    countrySubdivisionName: Texas
+    countryTertiarySubdivision: Southwest Dallas
+    extendedPostalCode: '750392468'
+    freeformAddress: 6565 North Macarthur Boulevard, Irving, TX 75039
+    municipality: Irving
+    municipalitySubdivision: Irving
+    postalCode: '75039'
+    streetName: North Macarthur Boulevard, Hackberry Drive
+    streetNumber: '6565'
+  longitude: -96.96038
+  name: CMC
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a20a220e4fa34d429f69de2fae809ace
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '75039'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-06T17:14:25.566109Z'
+  web_domain: cmc.com
+  website: www.cmc.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 1
+material_id: d04ae02c29304a4c8b49a2f688d909ba
+my_capabilities: 1
+name: Epoxy-Coated Fabricated Steel Rebar
+not_an_epd: false
+open_xpd_uuid: ec348u6q
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec348u6q
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2025-04-29T14:36:31.670754Z'
+  date_of_issue: '2025-04-03'
+  date_validity_ends: '2030-04-03'
+  declared_units:
+  - 1 kg
+  doc: buildingtransparency.org/p/ec35721x73
+  id: 9b8397a2cac24f6095e677ddf894a0ad
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: "Smart EPD\xAE Part B PCR for Designated Steel Construction Products, 1000-008,\
+    \ v3.0"
+  open_xpd_uuid: ec35721x
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35721x
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec35721x73
+  short_name: Steel Construction Products
+  updated_on: '2025-07-09T14:58:11.655119Z'
+  version: '3'
+pct80_gwp_per_category_declared_unit: 977.6030606 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-02-25T06:18:20.558036Z'
+  id: 0e404476cc3e40abb30d49392b4b9f99
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Mesa, Jacksonville, Sayreville, Durant, Cayce, Knoxville, Seguin
+  owned_by:
+    address: 6565 North Macarthur Boulevard, Irving, TX 75039
+    address_line: 6565 North Macarthur Boulevard, Hackberry Drive
+    admin_district: TX
+    admin_district2: Dallas
+    alt_names:
+    - CMC Steel
+    - CMC Rebar
+    - 'Commercial Metals Company (CMC) '
+    - CMC
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/commercial-metals-company
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-05-08T09:17:22.068654Z'
+    email_extensions:
+    - cmc.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/847de14d5e814710afc2a52e5d61f787.png
+    id: a20a220e4fa34d429f69de2fae809ace
+    image: https://static.buildingtransparency.org/images/491aa1f0a4fd46efa0a3dfdddab5e2f8.png
+    is_failed: false
+    latitude: 32.89806
+    legal_name: Commercial Metals Company
+    locality: Irving
+    location:
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Dallas
+      countrySubdivision: TX
+      countrySubdivisionName: Texas
+      countryTertiarySubdivision: Southwest Dallas
+      extendedPostalCode: '750392468'
+      freeformAddress: 6565 North Macarthur Boulevard, Irving, TX 75039
+      municipality: Irving
+      municipalitySubdivision: Irving
+      postalCode: '75039'
+      streetName: North Macarthur Boulevard, Hackberry Drive
+      streetNumber: '6565'
+    longitude: -96.96038
+    name: CMC
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a20a220e4fa34d429f69de2fae809ace
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '75039'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-06T17:14:25.566109Z'
+    web_domain: cmc.com
+    website: www.cmc.com
+  plants_count: 7
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2025-11-10T18:00:34.580699Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+program_operator_fkey: SmartEPD-2025-086-0606-01
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec348u6qdn
+standard_deviation: 151.6196063 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 977.6030606 kgCO2e
+uncertainty_factor: 1.1501212477901779
+updated_on: '2025-11-10T16:40:47Z'
+use_stored_carbon: false
+verifier:
+  email: brandie@bsebastianconsulting.com
+  name: Brandie Sebastian
+  org:
+    address: Pittsburgh, PA, USA
+    admin_district: PA
+    admin_district2: Allegheny County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2025-03-25T14:49:41.669953Z'
+    enterprise: false
+    id: bc67a90583374ec697c39e357173268b
+    is_failed: false
+    latitude: 40.44062479999999
+    locality: Pittsburgh
+    location:
+    - long_name: Pittsburgh
+      short_name: Pittsburgh
+      types:
+      - locality
+      - political
+    - long_name: Allegheny County
+      short_name: Allegheny County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    longitude: -79.9958864
+    name: Brandie Sebastian Consulting LLC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bc67a90583374ec697c39e357173268b
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-03-25T14:49:41.669970Z'
+    web_domain: bsebastianconsulting.com
+    website: bsebastianconsulting.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

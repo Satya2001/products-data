@@ -1,7 +1,7 @@
-uuid,name,gwp,declared_unit,category
-12887729e5eb4b53849d888bb3eb8070,B77023,66 kgCO2e,,Outdoor_Lighting
-c93a92fe9767425e8adc0bf6475c1f5c,Garden Floodlight B77008,,1 unit,Outdoor_Lighting
-198edd82d5b24d4dbca2b7440210c468,Ground Mounted Luminaire B77069,100 kgCO2e,1 unit,Outdoor_Lighting
-172ba0d86c3f4851bfc8176468a46b36,Magnetic Transformer 536,,1 unit,Outdoor_Lighting
-437303ab2ff944b7b5489b6c9db1add1,Remote Driver 19591,19 kgCO2e,1 unit,Outdoor_Lighting
-cd741d3098fa42bf930b6055fec5fe3f,Wall Luminaire B24503,5.2 kgCO2e,1 unit,Outdoor_Lighting
+ID,name,gwp,declared_unit,category
+ec39213p,B77023,66 kgCO2e,,Outdoor_Lighting
+ec3t5kgn,Garden Floodlight B77008,,1 unit,Outdoor_Lighting
+ec3jtp8u,Ground Mounted Luminaire B77069,100 kgCO2e,1 unit,Outdoor_Lighting
+ec3mu7ty,Magnetic Transformer 536,,1 unit,Outdoor_Lighting
+ec3x193n,Remote Driver 19591,19 kgCO2e,1 unit,Outdoor_Lighting
+ec3b3x8m,Wall Luminaire B24503,5.2 kgCO2e,1 unit,Outdoor_Lighting

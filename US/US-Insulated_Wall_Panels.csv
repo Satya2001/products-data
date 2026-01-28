@@ -1,35 +1,35 @@
-uuid,name,gwp,declared_unit,category
-ced085440d174c1e9535571363b15179,IMP 2 in Sheridan,3590 kgCO2e,100 m2,Insulated_Wall_Panels
-104e159684a94c419fbbd3b5cecf517c,IMP 2 in Sheridan,3960 kgCO2e,100 m2,Insulated_Wall_Panels
-42725d8dd81c45b9878509e096a8c9e9,IMP 2.5 in Sheridan,4090 kgCO2e,100 m2,Insulated_Wall_Panels
-b7d647f53a63479cbac1278b1244b934,IMP 2.5 in Sheridan,3960 kgCO2e,100 m2,Insulated_Wall_Panels
-fe120faa0f7c424fbc01504cbe6c6b01,IMP 2.75 in Sheridan,3920 kgCO2e,100 m2,Insulated_Wall_Panels
-49fe232000074eebb4fcbb2d4f19d337,IMP 3 in Sheridan,3830 kgCO2e,100 m2,Insulated_Wall_Panels
-a4cdbbd480b94193ae348436ff47b98c,IMP 3 in Sheridan,4040 kgCO2e,100 m2,Insulated_Wall_Panels
-c778d6b327864e578adf6e23a706a0c6,IMP 4 in Sheridan,4530 kgCO2e,100 m2,Insulated_Wall_Panels
-3f22cbf74fb144acac2fdfe76b9dcbcd,"Insulated Metal Roof Deck Panels - RD1 2"", 26 / 26 ga Polyvinyl Chloride Roof membrane",2740 kgCO2e,100 m^2,Insulated_Wall_Panels
-2fed1c6cf03c4cfd8c12f7e80c664a9f,"Insulated Metal Roof Deck Panels - RD1 2"", 26 / 26 ga Thermoplastic Polyolefin roof membrane",2740 kgCO2e,100 m^2,Insulated_Wall_Panels
-bb3000e23b144539b3c1d9e19bdbc70e,"Insulated Metal Roof Deck Panels - RD1 5"", 22 / 26 ga Polyvinyl Chloride Roof membrane",4150 kgCO2e,100 m^2,Insulated_Wall_Panels
-e703b058c52547e18f3d646fe4d112bb,"Insulated Metal Roof Deck Panels - RD1 5"", 26 / 26 ga Polyvinyl Chloride Roof membrane",3740 kgCO2e,100 m^2,Insulated_Wall_Panels
-2a45f867cd104f33a7ab4af7b01d1d98,"Insulated Metal Roof Deck Panels - RD1 6"", 26 / 26 ga Polyvinyl Chloride Roof membrane",4080 kgCO2e,100 m^2,Insulated_Wall_Panels
-106becfb68444fb899ae9fb6a3949e82,"Insulated Metal Roof Deck Panels - RD1 8"", 22 / 26 ga Polyvinyl Chloride Roof membrane",5160 kgCO2e,100 m^2,Insulated_Wall_Panels
-ecaf363f9c784849af1d4f6efc2d2774,"Insulated Metal Roof Deck Panels - RD1 8"", 26 / 26 ga Polyvinyl Chloride Roof membrane",4750 kgCO2e,100 m^2,Insulated_Wall_Panels
-28b55d99aacb4ea3ab4e1d237d60a609,"Insulated Metal Roof Deck Panels - RD1, 6"", 22 / 26 ga Thermoplastic Polyolefin roof membrane",5140 kgCO2e,100 m^2,Insulated_Wall_Panels
-dc37bac6870343f895b9c19addeeecbd,"Insulated Metal Wall Panels - CW36 2'', 26 ga",2750 kgCO2e,100 m^2,Insulated_Wall_Panels
-fe30533069f149cc874aba64787fb30a,"Insulated Metal Wall Panels - CW36 6'', 22 ga",5180 kgCO2e,100 m^2,Insulated_Wall_Panels
-0fc20d1ddfd14644ab1101a95f0b7711,"Insulated Metal Wall Panels - DM36 2'', 26 ga",2720 kgCO2e,100 m^2,Insulated_Wall_Panels
-28fd34ca28fc438bb0a44cc3d4f026c2,"Insulated Metal Wall Panels - DM36 6'', 22 ga",5100 kgCO2e,100 m^2,Insulated_Wall_Panels
-762b215f801f4739b67b3e78bff9c75b,"Insulated Metal Wall Panels - DM40 2'', 26 ga",2720 kgCO2e,100 m^2,Insulated_Wall_Panels
-6ddc260eaa48474cb619d27db7e071b8,"Insulated Metal Wall Panels - DM40 6'', 22 ga",5080 kgCO2e,100 m^2,Insulated_Wall_Panels
-79ec43d8353c44ab955c7fef7dd94be7,"Insulated Metal Wall Panels - FL36 2'', 26 ga",2720 kgCO2e,100 m^2,Insulated_Wall_Panels
-9da73a2f919f4f5987dffb31707fc6ad,"Insulated Metal Wall Panels - FL36 6'', 22 ga",5100 kgCO2e,100 m^2,Insulated_Wall_Panels
-5560c9c938104e01b9e7b6c3d15d8853,"Insulated Metal Wall Panels - FL40 2'', 26 ga",2710 kgCO2e,100 m^2,Insulated_Wall_Panels
-bdd50724c2404500b71cdfa0de587db2,"Insulated Metal Wall Panels - FL40 6'', 22 ga",5060 kgCO2e,100 m^2,Insulated_Wall_Panels
-3137ce4cb08f4566838ac698e9a1a6b1,"Insulated Metal Wall Panels - HE40 2'', 26 ga",2720 kgCO2e,100 m^2,Insulated_Wall_Panels
-8c5429a999174943bb837b9274205399,"Insulated Metal Wall Panels - HE40 6'', 22 ga",5080 kgCO2e,100 m^2,Insulated_Wall_Panels
-7cd0fefface540208c80de76f521246f,"Insulated Metal Wall Panels - HE40A 2'', 26 ga",2730 kgCO2e,100 m^2,Insulated_Wall_Panels
-269bfeb8e71d488a87390dac93932814,"Insulated Metal Wall Panels - HE40A 6'', 22 ga",5090 kgCO2e,100 m^2,Insulated_Wall_Panels
-9c9d58805da94201b829902edd80e65b,"Insulated Metal Wall Panels - ST36 2'', 26 ga",2700 kgCO2e,100 m^2,Insulated_Wall_Panels
-66db7ce66dc44c2f8a665eba66199c7b,"Insulated Metal Wall Panels - ST36 6'', 22 ga",5040 kgCO2e,100 m^2,Insulated_Wall_Panels
-0bff6950a15c4d70b1e5be6f7fd5ae28,"Insulated Metal Wall Panels - ST40 2'', 26 ga",2700 kgCO2e,100 m^2,Insulated_Wall_Panels
-52ef31820e484ab6b909c0dd027e4479,"Insulated Metal Wall Panels - ST40 6'', 22 ga",5050 kgCO2e,100 m^2,Insulated_Wall_Panels
+ID,name,gwp,declared_unit,category
+ec3hzcnm,IMP 2 in Sheridan,3590 kgCO2e,100 m2,Insulated_Wall_Panels
+ec34kj6h,IMP 2 in Sheridan,3960 kgCO2e,100 m2,Insulated_Wall_Panels
+ec3swm9g,IMP 2.5 in Sheridan,4090 kgCO2e,100 m2,Insulated_Wall_Panels
+ec307ysn,IMP 2.5 in Sheridan,3960 kgCO2e,100 m2,Insulated_Wall_Panels
+ec3pznz1,IMP 2.75 in Sheridan,3920 kgCO2e,100 m2,Insulated_Wall_Panels
+ec34sdgd,IMP 3 in Sheridan,3830 kgCO2e,100 m2,Insulated_Wall_Panels
+ec3bp7fz,IMP 3 in Sheridan,4040 kgCO2e,100 m2,Insulated_Wall_Panels
+ec37acjh,IMP 4 in Sheridan,4530 kgCO2e,100 m2,Insulated_Wall_Panels
+cqdh2d95,"Insulated Metal Roof Deck Panels - RD1 2"", 26 / 26 ga Polyvinyl Chloride Roof membrane",2740 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdhkr1r,"Insulated Metal Roof Deck Panels - RD1 2"", 26 / 26 ga Thermoplastic Polyolefin roof membrane",2740 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdee282,"Insulated Metal Roof Deck Panels - RD1 5"", 22 / 26 ga Polyvinyl Chloride Roof membrane",4150 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdbqe0u,"Insulated Metal Roof Deck Panels - RD1 5"", 26 / 26 ga Polyvinyl Chloride Roof membrane",3740 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqddn7wp,"Insulated Metal Roof Deck Panels - RD1 6"", 26 / 26 ga Polyvinyl Chloride Roof membrane",4080 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdsk4d4,"Insulated Metal Roof Deck Panels - RD1 8"", 22 / 26 ga Polyvinyl Chloride Roof membrane",5160 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdu6n97,"Insulated Metal Roof Deck Panels - RD1 8"", 26 / 26 ga Polyvinyl Chloride Roof membrane",4750 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdfyrdk,"Insulated Metal Roof Deck Panels - RD1, 6"", 22 / 26 ga Thermoplastic Polyolefin roof membrane",5140 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdsj6y6,"Insulated Metal Wall Panels - CW36 2'', 26 ga",2750 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdk5f34,"Insulated Metal Wall Panels - CW36 6'', 22 ga",5180 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdwnqbj,"Insulated Metal Wall Panels - DM36 2'', 26 ga",2720 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdz15bs,"Insulated Metal Wall Panels - DM36 6'', 22 ga",5100 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqd45hfe,"Insulated Metal Wall Panels - DM40 2'', 26 ga",2720 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdc0ff6,"Insulated Metal Wall Panels - DM40 6'', 22 ga",5080 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqd80wjj,"Insulated Metal Wall Panels - FL36 2'', 26 ga",2720 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqd74eb8,"Insulated Metal Wall Panels - FL36 6'', 22 ga",5100 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdajyzc,"Insulated Metal Wall Panels - FL40 2'', 26 ga",2710 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdxms7b,"Insulated Metal Wall Panels - FL40 6'', 22 ga",5060 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdf2xpa,"Insulated Metal Wall Panels - HE40 2'', 26 ga",2720 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdw7uh9,"Insulated Metal Wall Panels - HE40 6'', 22 ga",5080 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdq69pj,"Insulated Metal Wall Panels - HE40A 2'', 26 ga",2730 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqd9ksn3,"Insulated Metal Wall Panels - HE40A 6'', 22 ga",5090 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqd6fyq7,"Insulated Metal Wall Panels - ST36 2'', 26 ga",2700 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdp944h,"Insulated Metal Wall Panels - ST36 6'', 22 ga",5040 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdr1m2e,"Insulated Metal Wall Panels - ST40 2'', 26 ga",2700 kgCO2e,100 m^2,Insulated_Wall_Panels
+cqdkk68q,"Insulated Metal Wall Panels - ST40 6'', 22 ga",5050 kgCO2e,100 m^2,Insulated_Wall_Panels

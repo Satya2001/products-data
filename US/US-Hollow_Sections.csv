@@ -1,23 +1,23 @@
-uuid,name,gwp,declared_unit,category
-a270166323ce43a2a2757370b06bf6e5,Fabricated HSS,1850 kgCO2e,1 t,Hollow_Sections
-45cc06eca6f04b70b34213e6208a0429,Fabricated HSS,1920 kgCO2e,1 t,Hollow_Sections
-7598298824aa42408b41951198d1e8bb,"Fabricated HSS - Blytheville, AR (Jumbo) - AVERAGE STEEL SUPPLY MIX",1520 kgCO2e,1 metric ton,Hollow_Sections
-711178259a9249dcb8b36f50aab9d934,"Fabricated HSS - Blytheville, AR – AVERAGE STEEL SUPPLY MIX",1630 kgCO2e,1 metric ton,Hollow_Sections
-2603b63838d34e9e865f3f0b18ae048d,Fabricated Hollow Structural Sections,1520 kgCO2e,1 metric ton,Hollow_Sections
-972d7a02da3c4d3aa5479c3bee1a7670,"Fabricated Hollow Structural Sections (HSS) - Birmingham, AL - Average Steel Supply Mix",1460 kgCO2e,1 metric ton,Hollow_Sections
-cae06ded723d42a88b65b0cce1072e73,Fabricated Hollow structural steel sections (average),1941.3 kgCO2e,1 t,Hollow_Sections
-2410a228b9e64e89a00f25dc2b67e8ab,Fabricated Steel Hollow Structural Sections,1680 kgCO2e,1 short ton,Hollow_Sections
-a86fdfffa56245478bafa06753a77e6e,Fabricated Steel Hollow Structural Sections,1640 kgCO2e,1 short ton,Hollow_Sections
-801e89ad150143c18e1a62e1a5affac0,Fabricated Steel Hollow Structural Sections,1690 kgCO2e,1 short ton,Hollow_Sections
-cef3da7a0583410da670d8710d240760,Fabricated hollow structural sections (average),1400 kgCO2e,1 metric ton,Hollow_Sections
-5479cbdd9efc4a5cb18fbd7bf74ed075,Steel Mechanical Tubing,2720 kgCO2e,1 t,Hollow_Sections
-0de2e84ef6c34394bdd7ae32f78aff10,Steel Pipe and Tube,2090 kgCO2e,1 t,Hollow_Sections
-32455196ab8444d6b4a7cb343c94d6dc,Unfabricated HSS,1650 kgCO2e,1 t,Hollow_Sections
-8f372de41fe94617b0144379071f2342,Unfabricated HSS,1580 kgCO2e,1 t,Hollow_Sections
-c572c75a8a5c430c83da5dece12cec34,"Unfabricated HSS - Blytheville, AR (Jumbo) - AVERAGE STEEL SUPPLY MIX",1280 kgCO2e,1 metric ton,Hollow_Sections
-59e13bb1aae04442a24747502d6076ce,"Unfabricated HSS - Blytheville, AR – AVERAGE STEEL SUPPLY MIX",1380 kgCO2e,1 metric ton,Hollow_Sections
-1a81d8571b2f4fd0b3e65063eb94b373,"Unfabricated Hollow Structural Sections (HSS) - Birmingham, AL - Average Steel Supply Mix",1220 kgCO2e,1 metric ton,Hollow_Sections
-347fe5e5fd3a4b94833829315973ca63,Unfabricated Low-Embodied Carbon (LEC) Steel Pipe and Tube,1370 kgCO2e,1 metric ton,Hollow_Sections
-24a014d0ff0e43baac42c4702061b988,Unfabricated Steel Hollow Structural Sections,1400 kgCO2e,1 short ton,Hollow_Sections
-e585ab2f692f491c987cb103edf35263,Unfabricated Steel Hollow Structural Sections,1440 kgCO2e,1 short ton,Hollow_Sections
-9175157467a545a091df44bc3fcd0fe1,Unfabricated hollow structural sections (average),1170 kgCO2e,1 metric ton,Hollow_Sections
+ID,name,gwp,declared_unit,category
+ec3ywuq6,Fabricated HSS,1850 kgCO2e,1 t,Hollow_Sections
+ec33pas9,Fabricated HSS,1920 kgCO2e,1 t,Hollow_Sections
+ec3n7mzg,"Fabricated HSS - Blytheville, AR (Jumbo) - AVERAGE STEEL SUPPLY MIX",1520 kgCO2e,1 metric ton,Hollow_Sections
+ec3xbqgp,"Fabricated HSS - Blytheville, AR – AVERAGE STEEL SUPPLY MIX",1630 kgCO2e,1 metric ton,Hollow_Sections
+ec3trb6q,Fabricated Hollow Structural Sections,1520 kgCO2e,1 metric ton,Hollow_Sections
+ec3tcxy6,"Fabricated Hollow Structural Sections (HSS) - Birmingham, AL - Average Steel Supply Mix",1460 kgCO2e,1 metric ton,Hollow_Sections
+ec32aeek,Fabricated Hollow structural steel sections (average),1941.3 kgCO2e,1 t,Hollow_Sections
+ec3mw25d,Fabricated Steel Hollow Structural Sections,1680 kgCO2e,1 short ton,Hollow_Sections
+ec3pdhmu,Fabricated Steel Hollow Structural Sections,1640 kgCO2e,1 short ton,Hollow_Sections
+ec3ebamy,Fabricated Steel Hollow Structural Sections,1690 kgCO2e,1 short ton,Hollow_Sections
+ec3wmhtc,Fabricated hollow structural sections (average),1400 kgCO2e,1 metric ton,Hollow_Sections
+ec3k7r3t,Steel Mechanical Tubing,2720 kgCO2e,1 t,Hollow_Sections
+ec36bkfk,Steel Pipe and Tube,2090 kgCO2e,1 t,Hollow_Sections
+ec3828ey,Unfabricated HSS,1650 kgCO2e,1 t,Hollow_Sections
+ec3qbej6,Unfabricated HSS,1580 kgCO2e,1 t,Hollow_Sections
+ec3k75ss,"Unfabricated HSS - Blytheville, AR (Jumbo) - AVERAGE STEEL SUPPLY MIX",1280 kgCO2e,1 metric ton,Hollow_Sections
+ec329kzq,"Unfabricated HSS - Blytheville, AR – AVERAGE STEEL SUPPLY MIX",1380 kgCO2e,1 metric ton,Hollow_Sections
+ec3cy492,"Unfabricated Hollow Structural Sections (HSS) - Birmingham, AL - Average Steel Supply Mix",1220 kgCO2e,1 metric ton,Hollow_Sections
+ec3qecn4,Unfabricated Low-Embodied Carbon (LEC) Steel Pipe and Tube,1370 kgCO2e,1 metric ton,Hollow_Sections
+ec3y0jpq,Unfabricated Steel Hollow Structural Sections,1400 kgCO2e,1 short ton,Hollow_Sections
+ec3guhzu,Unfabricated Steel Hollow Structural Sections,1440 kgCO2e,1 short ton,Hollow_Sections
+ec3a0yq6,Unfabricated hollow structural sections (average),1170 kgCO2e,1 metric ton,Hollow_Sections

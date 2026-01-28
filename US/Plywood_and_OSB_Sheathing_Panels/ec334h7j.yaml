@@ -1,0 +1,506 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/smith-fong
+best_practice: 3.620600242 kgCO2e
+biogenic_embodied_carbon: 3.4 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '492996502117'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:52.588197Z'
+  declared_unit: 1 m3
+  default_distance: 362.1015 km
+  default_transport_mode: truck, unspecified
+  description: Wood sheets used for structural sheathing, including plywood and Oriented
+    Strand Board
+  display_name: Plywood and OSB Sheathing Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: e4aa9c1808ad41b6944db88e51d877ba
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 500 kg
+  massless: false
+  masterformat: 06 16 00 Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: SheathingPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> SheathingPanels
+  openepd_name: Wood >> SheathingPanels
+  parents: []
+  pct10_gwp: 44.07064593 kgCO2e
+  pct20_gwp: 127.9952328 kgCO2e
+  pct30_gwp: 151.701818 kgCO2e
+  pct40_gwp: 171.9092621 kgCO2e
+  pct50_gwp: 194.9849416 kgCO2e
+  pct60_gwp: 221.9974223 kgCO2e
+  pct70_gwp: 260.1522891 kgCO2e
+  pct80_gwp: 303.5743398 kgCO2e
+  pct90_gwp: 436.5214656 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Plywood and OSB Sheathing Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103604'
+  updated_on: '2025-11-20T07:57:16.100639Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 5.179399758 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-07-19T14:42:14.480314Z'
+date_of_issue: '2017-10-18'
+date_validity_ends: '2022-10-18'
+declaration_type: Product EPD
+declared_unit: 0.001449275 m3
+density: 1 kg / m3
+description: "Plyboo\xAE bamboo plywood (flat and edge grain) is a panel product made\
+  \ entirely from Moso bamboo. All panels are of a 3-ply construction having a face\
+  \ skin on top and bottom with a perpendicular core. On a typical \xBE (19mm) panel\
+  \ the face skins are approximately 3.5mm each and the core is 12mm. This construction\
+  \ is unique to bamboo plywood and is not found in any other wood panel product.\
+  \ The basic building block of the panel is a bamboo strip that measures approximately\
+  \ 0.6mm in thickness with a width of 22mm and a length of 2438mm for the plywood\
+  \ face skin and 1220mm for the plywood core. These strips are laminated together\
+  \ (using an adhesive), sliced and sanded to dimension for their specific application\
+  \ as face skin or core board. Using different lamination orientations, the core\
+  \ board and face skins are produced. There are two lamination methods that produce\
+  \ two different looks for the face skin. With the edge grain lamination, thin narrow\
+  \ laminations are used and for the flat grain, wider strip laminations are used.\
+  \ Ultra-low emitting adhesives (ULEF) are used in the assembly process and once\
+  \ trimmed to dimension and final sanded the boards are packaged and ready for shipment.\
+  \ Plyboo flat and edge grain bamboo products are available manufactured to the California\
+  \ Air Resource Board (CARB) Phase II Airborne Toxic Control Measure (ATCM) 93120\
+  \ regulation and the Forest Stewardship Council (FSC\xAE) 100% label requirements.\
+  \ The applicable CPC Code is UN CPC 3145 - Plywood, veneer panels and similar laminated\
+  \ wood of bamboo."
+doc: buildingtransparency.org/e/ec334h7ja5
+epd_degraded: true
+excluded: false
+externally_verified: true
+fabrication: Plywood
+file_name: 372.EPD_for_S_F_EPD_FINAL_25.Oct.2017.pdf
+forest_practices_certifiers: []
+gwp: 4.4 kgCO2e
+gwp_per_category_declared_unit: 3036.000759 kgCO2e
+gwp_per_kg: 4.4 kgCO2e
+gwp_z: 0.2104756517984919
+id: b75d1ed946424f36b054736b4e69fc7f
+image: https://static.buildingtransparency.org/images/21b01d9d14284080bd2c44b130289e66.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 3.620600242 kgCO2e
+manufacturer:
+  address: 394 Bel Marin Keys Boulevard, Novato, CA 94949
+  address_line: 394 Bel Marin Keys Boulevard
+  admin_district: CA
+  admin_district2: Marin
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/smith-fong
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:42:39.463804Z'
+  email_extensions: []
+  enterprise: true
+  id: 0e11d2f222734faea68b96fdece4bf8a
+  is_failed: false
+  latitude: 38.07577
+  locality: Novato
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Marin
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    freeformAddress: 394 Bel Marin Keys Boulevard, Novato, CA 94949
+    localName: Novato
+    municipality: Novato
+    municipalitySubdivision: Ignacio
+    postalCode: '94949'
+    streetName: Bel Marin Keys Boulevard
+    streetNumber: '394'
+  longitude: -122.53671
+  name: Smith & Fong
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/0e11d2f222734faea68b96fdece4bf8a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '94949'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:15:18.045896Z'
+  web_domain: plyboo.com
+  website: https://www.plyboo.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 282e266d3d6b49d493bffe3505939657
+my_capabilities: 1
+name: Flat and Edge Grain Plyboo, Carved
+not_an_epd: false
+open_xpd_uuid: ec334h7j
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec334h7j
+output_flows: {}
+owner:
+  name: cqd.io Script
+  user_id: script@cqd.io
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 3573.786726 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Indio, CA
+  admin_district: CA
+  admin_district2: Riverside
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-10-10T19:42:09.674240Z'
+  id: a451015ed2374ce4ad9ea939b861e922
+  is_failed: false
+  latitude: 33.71865
+  locality: Indio
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Riverside
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Coachella Valley
+    freeformAddress: Indio, CA
+    municipality: Indio
+  longitude: -116.21818
+  name: Indio
+  openepd_id: 8555PQ9J+FP.plyboo.com
+  owned_by:
+    address: 394 Bel Marin Keys Boulevard, Novato, CA 94949
+    address_line: 394 Bel Marin Keys Boulevard
+    admin_district: CA
+    admin_district2: Marin
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/smith-fong
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:42:39.463804Z'
+    email_extensions: []
+    enterprise: true
+    id: 0e11d2f222734faea68b96fdece4bf8a
+    is_failed: false
+    latitude: 38.07577
+    locality: Novato
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Marin
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      freeformAddress: 394 Bel Marin Keys Boulevard, Novato, CA 94949
+      localName: Novato
+      municipality: Novato
+      municipalitySubdivision: Ignacio
+      postalCode: '94949'
+      streetName: Bel Marin Keys Boulevard
+      streetNumber: '394'
+    longitude: -122.53671
+    name: Smith & Fong
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0e11d2f222734faea68b96fdece4bf8a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94949'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:15:18.045896Z'
+    web_domain: plyboo.com
+    website: https://www.plyboo.com/
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2020-02-28T03:02:33.691750Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 072
+recycled_content: 0.0
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec334h7ja5
+standard_deviation: 0.9260928679 kgCO2e
+stored_carbon: 4.3 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.179399758 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-03-14T03:20:05.139259Z'
+use_stored_carbon: true
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - GWP with the PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - GWP is suspiciously greater than category's typical values

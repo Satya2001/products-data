@@ -1,0 +1,506 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 1513.907693 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1713303358971'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2024-02-26T17:50:12Z'
+  declared_unit: 1 unit
+  description: Permanent lighting fixtures for interior spaces, including ceiling,
+    wall-mounted, and pendant fixtures.
+  display_name: Lighting Fixtures
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 569d9fcd818f49ef95b26f6585ba6772
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.234358431 kg
+  massless: false
+  masterformat: 26 51 00 Interior Lighting
+  may_contain_trusted_vendor_declarations: false
+  name: LightingFixtures
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> Lighting >> LightingFixtures
+  openepd_name: Electrical >> Lighting >> LightingFixtures
+  parents: []
+  pct10_gwp: 5.358188473 kgCO2e
+  pct20_gwp: 12.88028314 kgCO2e
+  pct30_gwp: 19.36719009 kgCO2e
+  pct40_gwp: 31.2276297 kgCO2e
+  pct50_gwp: 42.19526795 kgCO2e
+  pct60_gwp: 50.59371891 kgCO2e
+  pct70_gwp: 66.3883099 kgCO2e
+  pct80_gwp: 86.78125037 kgCO2e
+  pct90_gwp: 123.7708086 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Fixtures
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '39111500'
+  updated_on: '2025-11-20T07:58:22.417009Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2486.092307 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-11-30T04:08:14.465485Z'
+date_of_issue: '2024-11-22'
+date_validity_ends: '2029-11-22'
+declaration_type: Product EPD
+declared_unit: 1 unit
+description: "Recessed square and rectangular LED luminaires in a variety of light\
+  \ distributions. Separate installation housing allows for seamless coordination\
+  \ into construction and easy maintenance. Features include: - 2700K (K27), 3000K\
+  \ (K3), 3500K (K35), 4000K (K4) - Clear safety glass - Corrosion-resistant 304 grade\
+  \ stainless steel or marine grade, copper free (\u2264 0.3% copper content) A 360.0\
+  \ aluminum alloy"
+developer:
+  email: tad@sustainablesolutionscorporation.com
+  name: Tad Radzinski
+  org:
+    address: 155 Railroad Plaza, Royersford, PA 19468
+    address_line: 155 Railroad Plaza
+    admin_district: PA
+    admin_district2: Montgomery
+    alt_names:
+    - Sustainable Solutions Corp.
+    - Sustainable Solutions Corp
+    - SSC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T23:56:56.916735Z'
+    email_extensions:
+    - greencirclecertified.com
+    - sustainablesolutionscorporation.com
+    enterprise: true
+    id: a091acc71c3a403884e36e1cdac9db39
+    image: https://static.buildingtransparency.org/images/d03f2259-a454-477f-8fa6-f25858a3ca7b.png
+    is_failed: false
+    latitude: 40.186058
+    legal_name: Sustainable Solutions Corporation
+    locality: Royersford
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.188496,-75.543354
+        southWest: 40.183033,-75.546312
+      buildingNumber: '155'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Montgomery
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Royersford
+      extendedPostalCode: '194681942'
+      freeformAddress: 155 Railroad Plaza, Royersford, PA 19468
+      municipality: Royersford
+      municipalitySubdivision: Royersford
+      postalCode: '19468'
+      routeNumbers: []
+      street: Railroad Plaza
+      streetName: Railroad Plaza
+      streetNameAndNumber: 155 Railroad Plaza
+      streetNumber: '155'
+    longitude: -75.544975
+    name: Sustainable Solutions Corporation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a091acc71c3a403884e36e1cdac9db39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19468'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T11:45:28.981304Z'
+    web_domain: sustainablesolutionscorporation.com
+    website: www.sustainablesolutionscorporation.com
+doc: buildingtransparency.org/e/ec3d2f7c87
+errors:
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: BEGA%20North%20America%20Recessed%20Wall%20Product%20Category_da39a3ee5e6b4b0d3255bfef95601890afd80709.pdf
+gwp: 2000 kgCO2e
+gwp_per_category_declared_unit: 2000 kgCO2e
+gwp_per_kg: 286.1230329 kgCO2e
+gwp_z: 0.28879058156387305
+id: bd592e2fb17d4b36819f823012e4e075
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 1513.907693 kgCO2e
+manufacturer:
+  address: 1000 Bega Way, Carpinteria, CA 93013, USA
+  address_line: 1000 Bega Way
+  admin_district: CA
+  admin_district2: Santa Barbara County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2025-03-15T23:29:41.027611Z'
+  enterprise: false
+  id: 95b6bf90f06645239cd382347cfba256
+  is_failed: false
+  latitude: 34.3901023
+  locality: Carpinteria
+  location:
+  - long_name: '1000'
+    short_name: '1000'
+    types:
+    - street_number
+  - long_name: Bega Way
+    short_name: Bega Way
+    types:
+    - route
+  - long_name: Carpinteria
+    short_name: Carpinteria
+    types:
+    - locality
+    - political
+  - long_name: Santa Barbara County
+    short_name: Santa Barbara County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '93013'
+    short_name: '93013'
+    types:
+    - postal_code
+  - long_name: '2902'
+    short_name: '2902'
+    types:
+    - postal_code_suffix
+  longitude: -119.4914321
+  name: Bega
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/95b6bf90f06645239cd382347cfba256
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '93013'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-03-15T23:29:41.027627Z'
+  web_domain: bega-us.com
+  website: bega-us.com
+manufacturer_specific: true
+mass_per_declared_unit: 6.99 kg
+matched_plants_count: 0
+material_id: 5f6e07df670e4f2ab867f5544c830777
+my_capabilities: 1
+name: B24104
+not_an_epd: false
+open_xpd_uuid: ec3d2f7c
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3d2f7c
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 2486.092307 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Bega Way, Carpinteria, CA 93013, USA
+  address_line: Bega Way
+  admin_district: CA
+  admin_district2: Santa Barbara County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2025-03-15T23:33:39.874877Z'
+  id: 04e53f9133e2435dbce398c3f7f53682
+  is_failed: false
+  latitude: 34.3890167
+  locality: Carpinteria
+  location:
+  - long_name: Bega Way
+    short_name: Bega Way
+    types:
+    - route
+  - long_name: Carpinteria
+    short_name: Carpinteria
+    types:
+    - locality
+    - political
+  - long_name: Santa Barbara County
+    short_name: Santa Barbara County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '93013'
+    short_name: '93013'
+    types:
+    - postal_code
+  longitude: -119.4924782
+  name: Carpinteria
+  openepd_id: 85629GQ5+J2.bega-us.com
+  owned_by:
+    address: 1000 Bega Way, Carpinteria, CA 93013, USA
+    address_line: 1000 Bega Way
+    admin_district: CA
+    admin_district2: Santa Barbara County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2025-03-15T23:29:41.027611Z'
+    enterprise: false
+    id: 95b6bf90f06645239cd382347cfba256
+    is_failed: false
+    latitude: 34.3901023
+    locality: Carpinteria
+    location:
+    - long_name: '1000'
+      short_name: '1000'
+      types:
+      - street_number
+    - long_name: Bega Way
+      short_name: Bega Way
+      types:
+      - route
+    - long_name: Carpinteria
+      short_name: Carpinteria
+      types:
+      - locality
+      - political
+    - long_name: Santa Barbara County
+      short_name: Santa Barbara County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: California
+      short_name: CA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '93013'
+      short_name: '93013'
+      types:
+      - postal_code
+    - long_name: '2902'
+      short_name: '2902'
+      types:
+      - postal_code_suffix
+    longitude: -119.4914321
+    name: Bega
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/95b6bf90f06645239cd382347cfba256
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '93013'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-03-15T23:29:41.027627Z'
+    web_domain: bega-us.com
+    website: bega-us.com
+  postal_code: '93013'
+  total_epds: 7
+  type: Plant
+  units: SI
+  updated_on: '2025-03-16T10:41:19.131089Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 819
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3d2f7c87
+standard_deviation: 577.5811631 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2486.092307 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-03-16T07:40:29.515839Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

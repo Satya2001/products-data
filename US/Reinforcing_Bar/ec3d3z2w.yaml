@@ -1,0 +1,558 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+astm_standards: []
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+  replaced_by: https://buildingtransparency.org/ec3/epds/ec3w2gt3
+best_practice: 618.8181963 kgCO2e
+biogenic_embodied_carbon_z: 0.07244998274671982
+box_id: '976845194422'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 521.4991161 kgCO2e
+  pct20_gwp: 694.6503556 kgCO2e
+  pct30_gwp: 763.7966119 kgCO2e
+  pct40_gwp: 816.3412036 kgCO2e
+  pct50_gwp: 882.7302894 kgCO2e
+  pct60_gwp: 940.5757397 kgCO2e
+  pct70_gwp: 1080.065663 kgCO2e
+  pct80_gwp: 1455.354582 kgCO2e
+  pct90_gwp: 2948.429061 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2025-11-20T07:56:44.822971Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 699.1818037 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-06-30T17:12:14.319296Z'
+date_of_issue: '2022-06-24'
+date_validity_ends: '2023-03-07'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7800 kg / m3
+description: "Steel reinforcing bar (steel rebar) assemblies are used in building\
+  \ and road/bridge projects where they are embedded in concrete. These products are\
+  \ rolled round deformed bars which are further detailed, cut, bent and/or tied into\
+  \ assemblies to prepare for installation. Additionally, merchant bar quality (MBQ)\
+  \ steel shapes are angles, flats, rounds, channels and others used in a variety\
+  \ of building, industrial and equipment products. For use in the construction market,\
+  \ they are detailed, cut, drilled, bolted, welded and otherwise processed at the\
+  \ fabricator to be prepared for installation.\nSteel bar produced by Nucor\u2019\
+  s bar mill are defined by the following ASTM standards:\n    -   ASTM A36/A36M-19\
+  \ Standard Specification for Carbon Structural Steel\n    -   ASTM A529/A529M-19\
+  \ Standard Specification for High-Strength Carbon-Manganese Steel of Structural\
+  \ Quality [Grades 50, 55]\n    -   ASTM A709/A709M-18 Standard Specification for\
+  \ Structural Steel for Bridges [Grades 36, 50]\n    -   ASTM A572/A572M-21 Standard\
+  \ Specification for High-Strength Low-Alloy Columbium-Vanadium Structural Steel\
+  \ [Grades 50, 55]\n    -   ASTM A615/A615M-20 Standard Specification for Deformed\
+  \ and Plain Carbon Steel Bars for Concrete Reinforcement [Grades 40, 60, 75, 80,\
+  \ 100]\n    -   ASTM A706/A706M-16 Standard Specification for Deformed and Plain\
+  \ Low-Alloy Steel Bars for Concrete Reinforcement [Grades 60, 80]"
+doc: buildingtransparency.org/e/ec3qepfyxa
+document_version: '1'
+en_standards: []
+epoxy_coated: false
+excluded: false
+externally_verified: true
+file_name: 101.1_Nucor_Corporation_EPD_Fabricated_Steel_Reinforcing_Bar_and_Merchant_Bar_4.00_3bcb5c55039a4285939903cb0fe26e4b.pdf
+galvanized: false
+gwp: 659 kgCO2e
+gwp_per_category_declared_unit: 659 kgCO2e
+gwp_per_kg: 0.659 kgCO2e
+gwp_z: 0.07244998274671982
+id: 1c66cba932464ed687e4bc3c6f859a15
+image: https://static.buildingtransparency.org/images/b9ee9379bac84ca2bef8bfeea435eddd.png
+impacts: {}
+includes: []
+industry_standards:
+- ASTM A36/A36M-19
+- ASTM A529/A529M-19
+- ASTM A709/A709M-18
+- ASTM A572/A572M-21
+- ASTM A615/A615M-20
+- ASTM A706/A706M-16
+- ASTM F1554-20
+- ASTM A588/A588M-19
+- ASTM A29/A29M-20
+- CSA G40.20-13/G40.21-13
+- CSA G30.18M-09 (R2014)
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- US-AL
+- '021'
+language: en
+lowest_plausible_gwp: 618.8181963 kgCO2e
+manufacturer:
+  address: Charlotte, NC 28211
+  admin_district: NC
+  admin_district2: Mecklenburg
+  alt_names:
+  - Nucor Corporation
+  - Nucor Steel Seattle, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T15:02:42.684523Z'
+  currency: USD
+  email_extensions:
+  - nucor.com
+  enterprise: true
+  id: 625c7af38bd0492d9fbdd186f1cea21a
+  image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+  is_failed: false
+  iso14001_certified: true
+  iso9001_certified: true
+  latitude: 35.159332
+  locality: Charlotte
+  location:
+    boundingBox:
+      entity: position
+      northEast: 35.159382,-80.834303
+      southWest: 35.159260,-80.834970
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Mecklenburg
+    countrySubdivision: NC
+    countrySubdivisionName: North Carolina
+    countryTertiarySubdivision: Township 1 Charlotte
+    freeformAddress: Charlotte, NC 28211
+    municipality: Charlotte
+    municipalitySubdivision: Charlotte, Barclay Downs
+    postalCode: '28211'
+    routeNumbers: []
+  longitude: -80.834694
+  name: Nucor
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28211'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:02:58.846698Z'
+  web_domain: nucor.com
+  website: http://www.nucor.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: f095b5e6135c4cc18bd071d1d941136d
+my_capabilities: 1
+name: Steel Reinforcing Bar and Merchant Bar Products (Unfabricated)
+not_an_epd: false
+open_xpd_uuid: ec3d3z2w
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3d3z2w
+output_flows: {}
+owner:
+  name: Bonnie Gan
+  user_id: bonnie.gan@c-change-labs.com
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-fossil
+      - gwp
+      - gwp-biogenic
+      - gwp-luluc
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - ep-fresh
+      - ep-terrestrial
+      - pocp
+      - ep-marine
+      - ep
+      - odp
+      - ap
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2025-09-18T05:33:14.263756Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 699.1818037 kgCO2e
+plant_geography:
+- US-AL
+plant_or_group:
+  address: F.L. Shuttlesworth Drive, Birmingham, AL 35234
+  address_line: ' F.L. Shuttlesworth Drive, Huntsville Road'
+  admin_district: AL
+  admin_district2: Jefferson
+  carbon_intensity: 1038.127 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-11-17T07:00:45.870192Z'
+  id: 0c65f193990c46c3ac39a2812cb5c32f
+  is_failed: false
+  latitude: 33.54748
+  locality: Birmingham
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Jefferson
+    countrySubdivision: AL
+    countrySubdivisionName: Alabama
+    countryTertiarySubdivision: Birmingham
+    extendedPostalCode: 352341335,352341354
+    freeformAddress: F.L. Shuttlesworth Drive, Birmingham, AL 35234
+    municipality: Birmingham
+    municipalitySubdivision: Birmingham
+    postalCode: '35234'
+    streetName: F.L. Shuttlesworth Drive, Huntsville Road
+  longitude: -86.80924
+  name: Nucor Steel Birmingham  - Bar Mill
+  openepd_id: 865MG5WR+X8.nucor.com
+  owned_by:
+    address: Charlotte, NC 28211
+    admin_district: NC
+    admin_district2: Mecklenburg
+    alt_names:
+    - Nucor Corporation
+    - Nucor Steel Seattle, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T15:02:42.684523Z'
+    currency: USD
+    email_extensions:
+    - nucor.com
+    enterprise: true
+    id: 625c7af38bd0492d9fbdd186f1cea21a
+    image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+    is_failed: false
+    iso14001_certified: true
+    iso9001_certified: true
+    latitude: 35.159332
+    locality: Charlotte
+    location:
+      boundingBox:
+        entity: position
+        northEast: 35.159382,-80.834303
+        southWest: 35.159260,-80.834970
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Mecklenburg
+      countrySubdivision: NC
+      countrySubdivisionName: North Carolina
+      countryTertiarySubdivision: Township 1 Charlotte
+      freeformAddress: Charlotte, NC 28211
+      municipality: Charlotte
+      municipalitySubdivision: Charlotte, Barclay Downs
+      postalCode: '28211'
+      routeNumbers: []
+    longitude: -80.834694
+    name: Nucor
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28211'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:02:58.846698Z'
+    web_domain: nucor.com
+    website: http://www.nucor.com/
+  postal_code: '35234'
+  total_epds: 7
+  type: Plant
+  units: SI
+  updated_on: '2025-04-09T00:00:09.129267Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4790372675.101.1
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3d3z2w57
+stainless: false
+standard_deviation: 47.74453863 kgCO2e
+steel_fabricated: false
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 699.1818037 kgCO2e
+uncertainty_factor: 1.0609739054796394
+updated_on: '2025-04-09T00:41:52.823998Z'
+use_stored_carbon: false
+verifier:
+  email: tgloria@industrial-ecology.com
+  name: Thomas P. Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified

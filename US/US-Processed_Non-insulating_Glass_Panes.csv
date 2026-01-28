@@ -1,4 +1,4 @@
-uuid,name,gwp,declared_unit,category
-c7e334b92acf41d9b98054f31b6b2733,Heat-Treated Glass Products,18.5 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-233dca84c2af45df9f29ac3dc732ce60,Processed glass products - Low-e,27.6 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-43dd7ab7582244fc9e0512ac8700651b,Processed glass products - reflective,26.5 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ID,name,gwp,declared_unit,category
+ec3h6jze,Heat-Treated Glass Products,18.5 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec326nzp,Processed glass products - Low-e,27.6 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec34xd45,Processed glass products - reflective,26.5 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes

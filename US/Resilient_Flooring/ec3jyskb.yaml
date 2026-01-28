@@ -1,0 +1,593 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 19.55905997 kgCO2e
+biogenic_embodied_carbon_z: 0.1777638883463118
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.066509501 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 5.834202189 kgCO2e
+  pct20_gwp: 7.369800903 kgCO2e
+  pct30_gwp: 8.234196495 kgCO2e
+  pct40_gwp: 9.125277292 kgCO2e
+  pct50_gwp: 10.68592731 kgCO2e
+  pct60_gwp: 12.00669255 kgCO2e
+  pct70_gwp: 13.64533131 kgCO2e
+  pct80_gwp: 16.0441221 kgCO2e
+  pct90_gwp: 21.64449993 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2025-11-20T07:57:01.911459Z'
+  use_stored_carbon: OPTIONAL
+conductive_flooring: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 26.44094003 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-06-24T16:05:52.600826Z'
+date_of_issue: '2025-06-23'
+date_validity_ends: '2030-06-23'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+description: "Roppe Envire\xAE is a smooth-surfaced, homogeneous vulcanized rubber\
+  \ flooring product manufactured under the Roppe\xAE brand. It is available in both\
+  \ sheet and tile formats for permanent installation in commercial and institutional\
+  \ buildings.Sheet format: 74-inch by 50-foot rolls (0.100-inch gauge)Tile format:\
+  \ 24-inch by 24-inch tiles (0.100-inch gauge)Envire\xAE features a flecked design\
+  \ composed of tonal rubber chips in a wide color palette, offering design flexibility\
+  \ in high-use areas. The product is engineered for durability and dimensional stability\
+  \ under foot traffic and rolling loads.The product conforms to:ASTM F1344 \u2013\
+  \ Standard Specification for Rubber Floor Tile (tile format)ASTM F1859 \u2013 Standard\
+  \ Specification for Rubber Sheet Floor Covering Without Backing (sheet format)These\
+  \ standards establish requirements for performance characteristics such as dimensional\
+  \ stability, flexibility, and chemical resistance.The mass and density of the product\
+  \ are calculated per square meter of installed flooring in accordance with applicable\
+  \ product category rules."
+developer:
+  org:
+    address: 1602 North Union Street, Fostoria, OH 44830
+    address_line: 1602 North Union Street
+    admin_district: OH
+    admin_district2: Wood, Seneca
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/roppe
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-20T13:21:37.989364Z'
+    email_extensions: []
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/d0467f6ccae345e282d9c3a2b222b630.png
+    id: 2bc6dd9a95914d32ae9fd07d792ddc7c
+    image: https://static.buildingtransparency.org/images/46623df6b45c472d952b7d9b562193ec.png
+    is_failed: false
+    latitude: 41.17666
+    locality: Fostoria
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Wood, Seneca
+      countrySubdivision: OH
+      countrySubdivisionName: Ohio
+      countryTertiarySubdivision: Fostoria
+      freeformAddress: 1602 North Union Street, Fostoria, OH 44830
+      localName: Fostoria
+      municipality: Fostoria
+      municipalitySubdivision: Fostoria
+      postalCode: '44830'
+      streetName: North Union Street
+      streetNumber: '1602'
+    longitude: -83.41925
+    name: Roppe Corporation, USA
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2bc6dd9a95914d32ae9fd07d792ddc7c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '44830'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-04-21T19:06:25.264201Z'
+    web_domain: roppe.com
+    website: https://roppe.com/
+doc: smartepd.com/epd-library/677b1300a0de86eb82fb1c05
+excluded: false
+externally_verified: true
+gwp: 23 kgCO2e
+gwp_per_category_declared_unit: 23 kgCO2e
+gwp_per_kg: 5.75 kgCO2e
+gwp_z: 0.1777638883463118
+id: 139dc1b48482463e96072b44a1b8d92b
+image: https://www.smartepd.com/api/epd-library/gallery/6801464ee989a71aa66f7809
+impacts: {}
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '021'
+- US-AL
+language: en
+lowest_plausible_gwp: 19.55905997 kgCO2e
+manufacturer:
+  address: 1602 North Union Street, Fostoria, OH 44830
+  address_line: 1602 North Union Street
+  admin_district: OH
+  admin_district2: Wood, Seneca
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/roppe
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-20T13:21:37.989364Z'
+  email_extensions: []
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/d0467f6ccae345e282d9c3a2b222b630.png
+  id: 2bc6dd9a95914d32ae9fd07d792ddc7c
+  image: https://static.buildingtransparency.org/images/46623df6b45c472d952b7d9b562193ec.png
+  is_failed: false
+  latitude: 41.17666
+  locality: Fostoria
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Wood, Seneca
+    countrySubdivision: OH
+    countrySubdivisionName: Ohio
+    countryTertiarySubdivision: Fostoria
+    freeformAddress: 1602 North Union Street, Fostoria, OH 44830
+    localName: Fostoria
+    municipality: Fostoria
+    municipalitySubdivision: Fostoria
+    postalCode: '44830'
+    streetName: North Union Street
+    streetNumber: '1602'
+  longitude: -83.41925
+  name: Roppe Corporation, USA
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2bc6dd9a95914d32ae9fd07d792ddc7c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '44830'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-04-21T19:06:25.264201Z'
+  web_domain: roppe.com
+  website: https://roppe.com/
+manufacturer_specific: true
+manufacturing_image: https://www.smartepd.com/api/epd-library/gallery/67febedc79f4ddd01a0935cf
+mass_per_declared_unit: 4 kg
+matched_plants_count: 0
+material_id: 15e005058e6f4bc6b08cbad62227b820
+my_capabilities: 1
+name: "Envire\xAE Rubber Sheet & Tile"
+not_an_epd: false
+open_xpd_uuid: ec3jyskb
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3jyskb
+output_flows: {}
+owner:
+  name: Mariya Verovko
+  user_id: mariya.verovko@smartepd.com
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2025-09-10T16:49:20.092103Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 26.44094003 kgCO2e
+plant_geography:
+- US-AL
+plant_or_group:
+  address: 1401 E 6th St, Tuscumbia, AL 35674, USA
+  address_line: 1401 E 6th St
+  admin_district: AL
+  admin_district2: Colbert County
+  carbon_intensity: 1038.127 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2025-03-12T19:41:07.779546Z'
+  id: b9a4b2b050c44991b9ccc38e0c806f2b
+  is_failed: false
+  latitude: 34.7316121
+  locality: Tuscumbia
+  location:
+  - long_name: '1401'
+    short_name: '1401'
+    types:
+    - street_number
+  - long_name: East 6th Street
+    short_name: E 6th St
+    types:
+    - route
+  - long_name: Tuscumbia
+    short_name: Tuscumbia
+    types:
+    - locality
+    - political
+  - long_name: Colbert County
+    short_name: Colbert County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Alabama
+    short_name: AL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '35674'
+    short_name: '35674'
+    types:
+    - postal_code
+  - long_name: '2919'
+    short_name: '2919'
+    types:
+    - postal_code_suffix
+  longitude: -87.68167799999999
+  name: RHC Plant 2
+  openepd_id: 866JP8J9+J8.roppe.com
+  owned_by:
+    address: 1602 North Union Street, Fostoria, OH 44830
+    address_line: 1602 North Union Street
+    admin_district: OH
+    admin_district2: Wood, Seneca
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/roppe
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-20T13:21:37.989364Z'
+    email_extensions: []
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/d0467f6ccae345e282d9c3a2b222b630.png
+    id: 2bc6dd9a95914d32ae9fd07d792ddc7c
+    image: https://static.buildingtransparency.org/images/46623df6b45c472d952b7d9b562193ec.png
+    is_failed: false
+    latitude: 41.17666
+    locality: Fostoria
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Wood, Seneca
+      countrySubdivision: OH
+      countrySubdivisionName: Ohio
+      countryTertiarySubdivision: Fostoria
+      freeformAddress: 1602 North Union Street, Fostoria, OH 44830
+      localName: Fostoria
+      municipality: Fostoria
+      municipalitySubdivision: Fostoria
+      postalCode: '44830'
+      streetName: North Union Street
+      streetNumber: '1602'
+    longitude: -83.41925
+    name: Roppe Corporation, USA
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2bc6dd9a95914d32ae9fd07d792ddc7c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '44830'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-04-21T19:06:25.264201Z'
+    web_domain: roppe.com
+    website: https://roppe.com/
+  postal_code: '35674'
+  total_epds: 4
+  type: Plant
+  updated_on: '2025-06-24T18:00:05.738772Z'
+plant_specific: true
+private: false
+product_classes:
+  EC3: Finishes >> Flooring >> ResilientFlooring
+  Masterformat: 09 65 19
+product_specific: true
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+reference_service_life: 40 year
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3jyskbgn
+sport_flooring: false
+standard_deviation: 4.088569432 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 26.44094003 kgCO2e
+uncertainty_factor: 1.149606088432256
+updated_on: '2025-06-24T16:05:59.315980Z'
+use_stored_carbon: false
+verifier:
+  email: mari.kirss@meetripuu.ee
+  name: mari.kirss
+  org:
+    address: Herndon, VA 20170, USA
+    admin_district: VA
+    admin_district2: Fairfax County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-11-14T14:43:39.418085Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+    id: bf9d0aaa64de490bbd874ae435e9945e
+    image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+    is_failed: false
+    latitude: 38.9695545
+    locality: Herndon
+    location:
+    - long_name: Herndon
+      short_name: Herndon
+      types:
+      - locality
+      - political
+    - long_name: Fairfax County
+      short_name: Fairfax County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Virginia
+      short_name: VA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '20170'
+      short_name: '20170'
+      types:
+      - postal_code
+    longitude: -77.3860976
+    name: Smart EPD LLC
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '20170'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-01-22T21:59:42.873726Z'
+    web_domain: smartepd.com
+    website: www.smartepd.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - GWP with the PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  output_flows:
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  resource_uses:
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Verifier is not employee of verifier org

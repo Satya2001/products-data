@@ -1,4 +1,4 @@
-uuid,name,gwp,declared_unit,category
-07bf3e16297a458795b880d124a014ac,Flat Glass,1370 kgCO2e,1 t,Flat_Glass_Panes
-f0c371e9089e44459d3fde28e5751707,Flat Glass Products,1450 kgCO2e,1 t,Flat_Glass_Panes
-b42f2c8ffdb94ea4b6ab71ab0ca96af2,Flat Glass Products,1450 kgCO2e,1 t,Flat_Glass_Panes
+ID,name,gwp,declared_unit,category
+ec302wc3,Flat Glass,1370 kgCO2e,1 t,Flat_Glass_Panes
+ec3gnr9b,Flat Glass Products,1450 kgCO2e,1 t,Flat_Glass_Panes
+ec3sxre0,Flat Glass Products,1450 kgCO2e,1 t,Flat_Glass_Panes

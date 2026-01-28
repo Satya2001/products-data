@@ -1,0 +1,606 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/clark-pacific
+best_practice: 248.0812296 kgCO2e
+biogenic_embodied_carbon_z: 0.11630993078838968
+box_id: '751541532167'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:10Z'
+  declared_unit: 1 t
+  description: Precast concrete used for structural purposes
+  display_name: Structural Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 19ea8ae36e314a3095e82c340f68eb46
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 41 00 Precast Structural Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralPrecast
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete >> StructuralPrecast
+  openepd_name: PrecastConcrete >> StructuralPrecast
+  parents: []
+  pct10_gwp: 147.3058854 kgCO2e
+  pct20_gwp: 173.0806487 kgCO2e
+  pct30_gwp: 194.7535139 kgCO2e
+  pct40_gwp: 208.8490491 kgCO2e
+  pct50_gwp: 225.4823003 kgCO2e
+  pct60_gwp: 244.476229 kgCO2e
+  pct70_gwp: 268.2017172 kgCO2e
+  pct80_gwp: 316.8855678 kgCO2e
+  pct90_gwp: 397.2091442 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2025-11-20T07:56:18.824846Z'
+  use_stored_carbon: ABSENT
+concrete_compressive_strength_28d: 6000 psi
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 301.9187704 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-01-05T22:44:45.665299Z'
+date_of_issue: '2020-11-09'
+date_validity_ends: '2025-11-04'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 2400 kg / m3
+description: A load bearing structure that resembles two T-beams connected to each
+  other side by side. The strong bond of the flange and the two webs create a structure
+  that is capable of withstanding high loads while having a long span
+developer:
+  email: laurel.mcewen@climateearth.com
+  name: Laurel McEwen
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: buildingtransparency.org/e/ec3r5k2f6s
+excluded: false
+externally_verified: false
+file_name: 565.EPD_for_Clark_Pacific_Microsoft_Parking__Garage__7bd5021268d445fb8caca0907051ab58.pdf
+gfrc: false
+gwp: 275 kgCO2e
+gwp_per_category_declared_unit: 275 kgCO2e
+gwp_per_kg: 0.275 kgCO2e
+gwp_z: 0.11630993078838968
+id: f4bcdcb1ee64463690411cea246846f6
+impacts: {}
+includes: []
+industry_standards:
+- PCI MNL-116
+- PCI Category C3
+insulated: false
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lightweight: false
+lowest_plausible_gwp: 248.0812296 kgCO2e
+manufacturer:
+  address: 710 Riverpoint Ct, West Sacramento, CA 95691, USA
+  address_line: 710 Riverpoint Ct
+  admin_district: CA
+  admin_district2: Yolo County
+  alt_names:
+  - CP
+  - CP Parking
+  - CP Office
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/clark-pacific
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-06T23:09:53.714778Z'
+  email_extensions:
+  - clarkpacific.com
+  enterprise: true
+  id: f1c8e33a2234447c92d8660cf5a8121f
+  image: https://static.buildingtransparency.org/images/8993a401ef9b4e59ac49f39799823944.png
+  is_failed: false
+  latitude: 38.5885258
+  locality: West Sacramento
+  location:
+  - long_name: '710'
+    short_name: '710'
+    types:
+    - street_number
+  - long_name: Riverpoint Court
+    short_name: Riverpoint Ct
+    types:
+    - route
+  - long_name: West Sacramento
+    short_name: West Sacramento
+    types:
+    - locality
+    - political
+  - long_name: Yolo County
+    short_name: Yolo County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '95691'
+    short_name: '95691'
+    types:
+    - postal_code
+  longitude: -121.5468125
+  name: Clark Pacific
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f1c8e33a2234447c92d8660cf5a8121f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '95691'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:29:38.205553Z'
+  web_domain: clarkpacific.com
+  website: https://www.clarkpacific.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: fe50bd77c8cf4b9487d350379dc69a04
+my_capabilities: 1
+name: Double Tee
+not_an_epd: false
+open_xpd_uuid: ec3r5k2f
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3r5k2f
+output_flows: {}
+owner:
+  name: Denis Senchishen
+  user_id: denis.senchishen@c-change-labs.com
+pcr:
+  alt_names:
+  - ASTM PCR for Precast Concrete
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:55:24.481787Z'
+  date_of_issue: '2015-03-03'
+  date_validity_ends: '2020-02-29'
+  declared_units:
+  - 1 tonne
+  doc: '#broken-link https://www.astm.org/CERTIFICATION/DOCS/266.PCR_for_Precast_Concrete.pdf'
+  id: 04b407a3825c4e44b4eeadb1129333fd
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      order: 1
+  name: Precast Concrete
+  open_xpd_uuid: ec3cq27p
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3cq27p
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3cq27px3
+  short_name: Precast Concrete
+  status: Sunset
+  updated_on: '2025-03-02T00:03:24.503650Z'
+  version: '1'
+pcr_notes: https://buildingtransparency.org/ec3/pcrs/ec3cq27p
+pct80_gwp_per_category_declared_unit: 301.9187704 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Holly Road, Adelanto, CA 92301
+  address_line: ' Holly Road'
+  admin_district: CA
+  admin_district2: San Bernardino
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-07T00:56:40.097856Z'
+  id: 9e1d1490867649518835dca66b132fe2
+  is_failed: false
+  latitude: 34.54296
+  locality: Adelanto
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: San Bernardino
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Victorville-Hesperia
+    extendedPostalCode: 923012724,923013111,923013900,923013910,923013954,923013955
+    freeformAddress: Holly Road, Adelanto, CA 92301
+    municipality: Adelanto
+    municipalitySubdivision: Adelanto
+    postalCode: '92301'
+    streetName: Holly Road
+  longitude: -117.44355
+  name: Adelanto
+  openepd_id: 8564GHV4+5H.clarkpacific.com
+  owned_by:
+    address: 710 Riverpoint Ct, West Sacramento, CA 95691, USA
+    address_line: 710 Riverpoint Ct
+    admin_district: CA
+    admin_district2: Yolo County
+    alt_names:
+    - CP
+    - CP Parking
+    - CP Office
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/clark-pacific
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-05-06T23:09:53.714778Z'
+    email_extensions:
+    - clarkpacific.com
+    enterprise: true
+    id: f1c8e33a2234447c92d8660cf5a8121f
+    image: https://static.buildingtransparency.org/images/8993a401ef9b4e59ac49f39799823944.png
+    is_failed: false
+    latitude: 38.5885258
+    locality: West Sacramento
+    location:
+    - long_name: '710'
+      short_name: '710'
+      types:
+      - street_number
+    - long_name: Riverpoint Court
+      short_name: Riverpoint Ct
+      types:
+      - route
+    - long_name: West Sacramento
+      short_name: West Sacramento
+      types:
+      - locality
+      - political
+    - long_name: Yolo County
+      short_name: Yolo County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: California
+      short_name: CA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '95691'
+      short_name: '95691'
+      types:
+      - postal_code
+    longitude: -121.5468125
+    name: Clark Pacific
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f1c8e33a2234447c92d8660cf5a8121f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '95691'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:29:38.205553Z'
+    web_domain: clarkpacific.com
+    website: https://www.clarkpacific.com/
+  postal_code: '92301'
+  total_epds: 12
+  type: Plant
+  units: SI
+  updated_on: '2025-08-14T08:47:43.055902Z'
+plant_specific: true
+precast_element_type_beam: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD-161
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3r5k2f6s
+standard_deviation: 31.98523097 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 301.9187704 kgCO2e
+uncertainty_factor: 1.0978864377515087
+updated_on: '2025-01-14T01:36:08.580376Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

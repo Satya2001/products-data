@@ -1,0 +1,605 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 391.5813481 kgCO2e
+biogenic_embodied_carbon_z: 0.10616171814736232
+box_id: '752574175625'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.0899029 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
+  pct40_gwp: 334.578825 kgCO2e
+  pct50_gwp: 359.0203617 kgCO2e
+  pct60_gwp: 386.3847185 kgCO2e
+  pct70_gwp: 416.8085524 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 507.1461971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-11-19T07:56:39.792299Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.0
+  ggbs: 0.0
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 31 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 468.4186519 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-12-14T09:01:20.800813Z'
+date_of_issue: '2020-07-22'
+date_validity_ends: '2021-11-28'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m^3
+description: 3/8 4500PSI PU
+developer:
+  email: laurel.mcewen@climateearth.com
+  name: Laurel McEwen
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: https://api.climateearth.com/api/mixes/epd/244d95229d9940b1a1916b6331c6f4d2/true
+document_version: '1'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: National Ready Mix_5134_S80918_244d95229d9940b1a1916b6331c6f4d2_1.pdf
+gwp: 430 kgCO2e
+gwp_per_category_declared_unit: 430 kgCO2e
+gwp_per_kg: 0.1791666667 kgCO2e
+gwp_z: 0.10616171814736232
+id: d83a6db82a2b49b6be2ddf84fda64e48
+image: https://static.buildingtransparency.org/images/79c24d3ffea144d09e421edaa4d2ddd0.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nnatural aggregate (ASTM C33), Portland\
+  \ cement (ASTM C150), fly ash (ASTM C618), batch water (ASTM C1602), admixture (ASTM\
+  \ C494)\n\n## Source Data Notes\nFly ash: byproduct of coal combustion; no upstream\
+  \ manufacturing impacts Admixture (plasticizing): EFCA EPD, 2015 Portland cement:\
+  \ Portland Concrete Association, Industry Average EPD, 2016 Municipal Water: US-EI\
+  \ (2016): \u201CTap water, at user/US\u201D, 2000 Aggregate (natural): US-EI (2016):\
+  \ \u201CGravel, round, at mine/US\u201D, 2001 Truck transport: USLCI:\"Transport,\
+  \ combination truck, short-haul, diesel powered/tkm/RNA\", 2010 Rail transport:\_\
+  USLCI: \u201CTransport, train, diesel powered NREL/US\u201D, 2007 Truck transport:\
+  \ USLCI:\"Transport, combination truck, long-haul, diesel powered/tkm/RNA\", 2010\
+  \ Electricity (WECC): Ecoinvent 3.4: \u201C Electricity, medium voltage, market\
+  \ for, cut-off\u201D, 2015 Diesel: USLCI: \u201CDiesel, combusted in industrial\
+  \ equipment/NREL/US\u201D, 2007 Non-Hazardous Solid Waste: US-EI (2016): Disposal,\
+  \ municipal solid waste, 2008 Oils, Lubricants and Greases: Ecoinvent 3.4:: Lubricating\
+  \ oil, GLO, market for, cut-off, 2011 Cleaning Chemicals: Ecoinvent 3.4: 50% Citric\
+  \ acid and 50% Phosphoric acid, industrial grade, without water, in 70% solution\
+  \ state, market for/GLO, 2017"
+lightweight: false
+lowest_plausible_gwp: 391.5813481 kgCO2e
+manufacturer:
+  address: 15821 Ventura Boulevard, Encino, CA 91436
+  address_line: 15821 Ventura Boulevard
+  admin_district: CA
+  admin_district2: Los Angeles
+  alt_names:
+  - National Ready Mix
+  - National Ready-Mix
+  - NATIONAL READY MIX
+  - National Ready Mixed Concrete Co.
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-10-21T09:51:38.575851Z'
+  email_extensions:
+  - natcem.com
+  enterprise: true
+  id: 4c68f7395077463e8ae896ec6ad54e19
+  is_failed: false
+  latitude: 34.15604
+  locality: Encino, Los Angeles
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: San Fernando Valley
+    extendedPostalCode: '914365222'
+    freeformAddress: 15821 Ventura Boulevard, Encino, CA 91436
+    localName: Encino
+    municipality: Encino, Los Angeles
+    municipalitySubdivision: Encino, Los Angeles
+    postalCode: '91436'
+    streetName: Ventura Boulevard
+    streetNumber: '15821'
+  longitude: -118.47816
+  name: National Ready Mix
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4c68f7395077463e8ae896ec6ad54e19
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91436'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-07-08T20:01:45.688733Z'
+  web_domain: placeholder-national-ready-mix.cqd.io
+  website: www.placeholder-national-ready-mix.cqd.io
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: e1c154f4f2404b2c9c55710af5bb9670
+my_capabilities: 1
+name: S80918
+not_an_epd: false
+open_xpd_uuid: ec3acx2j
+original_data_format: custom_api
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3acx2j
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF PCR for Concrete
+  - 'ISO 21930:2017 Sustainability in Building Construction - Environmental Declaration
+    of Building Products: serves as the core PCR PCR for Concrete, NSF International,
+    February 2019 serves as the sub-category PCR'
+  - Product Category Rule for Environmental Product Declarations PCR for Concrete
+  - ISO 21930:2017 Sustainability in Building Construction - Environmental Declaration
+    of Building Products serves as the core PCR. NSF International Product Category
+    Rule (PCR) for Concrete Version 1 (February 22, 2019) serves as the sub-category
+    PCR
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:55:36.295338Z'
+  date_of_issue: '2019-02-01'
+  date_validity_ends: '2024-02-01'
+  declared_units:
+  - 1 m3
+  doc: https://www.nrmca.org/wp-content/uploads/2020/02/NSF_PCR_CONCRETE2019.pdf
+  id: c4d00c85479b42229c8c3e88e1e36366
+  is_failed: false
+  issuer_doc_id: NSF 1112-19
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NSF PCR for Concrete
+  open_xpd_uuid: ec39kz7y
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39kz7y
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec39kz7yt5
+  short_name: Concrete
+  status: Expired
+  updated_on: '2025-11-20T00:44:34.795621Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 468.4186519 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: Princeton Avenue, Moorpark, CA
+  address_line: ' Princeton Avenue'
+  admin_district: CA
+  admin_district2: Ventura
+  alt_names: []
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-10-25T12:59:47.264584Z'
+  id: 7aa9caec6c9740bd8a57034e4ad1d4b2
+  is_failed: false
+  latitude: 34.28841
+  locality: Moorpark
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ventura
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: Moorpark
+    extendedPostalCode: 9302000,9302001,9302002,9302003,9302004,9302005,9302006,9302007,9302008,9302010,9302011,9302012,9302013,9302020,9302021,9302022,9302023,9302024,9302025,9302026,9302080,930200001,930200002,930200003,930200004,930200005,930200006,930200007,930200008,930200009,930200010,930200011,930200012,930200013,930200014,930200015,930200016,930200017,930200018,930200019,930200020,930200021,930200022,930200023,930200024,930200025,930200026,930200027,930200028,930200029,930200030,930200031,930200032,930200033,930200034,930200035,930200036,930200037,930200038,930200039,930200040,930200041,930200042,930200043,930200044,930200045,930200046,930200047,930200048,930200049,930200050,930200051,930200052,930200053,930200054,930200055,930200056,930200057,930200058,930200059,930200060,930200061,930200062,930200063,930200064,930200065,930200066,930200067,930200068,930200069,930200070,930200071,930200072,930200073,930200074,930200075,930200076,930200077,930200078,930200079,930200080,930200081,930200082,930200083,930200084,930200085,930200086,930200087,930200088,930200089,930200090,930200091,930200092,930200093,930200094,930200095,930200096,930200097,930200098,930200099,930200100,930200101,930200102,930200103,930200104,930200105,930200106,930200107,930200108,930200109,930200110,930200111,930200112,930200113,930200114,930200115,930200116,930200117,930200118,930200119,930200120,930200121,930200122,930200123,930200124,930200125,930200126,930200127,930200128,930200129,930200130,930200131,930200132,930200133,930200134,930200135,930200136,930200137,930200138,930200139,930200140,930200141,930200142,930200143,930200144,930200145,930200146,930200147,930200148,930200149,930200150,930200151,930200152,930200153,930200154,930200155,930200156,930200157,930200158,930200159,930200160,930200161,930200162,930200163,930200164,930200165,930200166,930200167,930200168,930200169,930200170,930200171,930200172,930200173,930200174,930200175,930200176,930200177,930200178,930200179,930200180,930200181,930200182,930200183,930200184,930200185,930200186,930200187,930200188,930200189,930200190,930200191,930200192,930200193,930200194,930200195,930200196,930200197,930200198,930200199,930200200,930200201,930200202,930200203,930200204,930200205,930200206,930200207,930200208,930200209,930200210,930200211,930200212,930200213,930200214,930200215,930200216,930200217,930200218,930200219,930200220,930200221,930200222,930200223,930200224,930200225,930200226,930200227,930200228,930200229,930200230,930200231,930200232,930200233,930200234,930200235,930200236,930200237,930200238,930200239,930200240,930200241,930200242,930200243,930200244,930200245,930200246,930200247,930200248,930200249,930200250,930200251,930200252,930200253,930200254,930200255,930200256,930200257,930200258,930200259,930200260,930200261,930200262,930200263,930200264,930200265,930200266,930200267,930200268,930200269,930200270,930200271,930200272,930200273,930200274,930200275,930200276,930200277,930200278,930200279,930200280,930200281,930200282,930200283,930200284,930200285,930200286,930200287,930200288,930200289,930200290,930200291,930200292,930200293,930200294,930200295,930200296,930200297,930200298,930200299,930200300,930200301,930200302,930200303,930200304,930200305,930200306,930200307,930200308,930200309,930200310,930200311,930200312,930200313,930200314,930200315,930200316,930200317,930200318,930200319,930200320,930200321,930200322,930200323,930200324,930200325,930200326,930200327,930200328,930200329,930200330,930200331,930200332,930200333,930200334,930200335,930200336,930200337,930200338,930200339,930200340,930200341,930200342,930200343,930200344,930200345,930200346,930200347,930200348,930200349,930200350,930200351,930200352,930200353,930200354,930200355,930200356,930200357,930200358,930200359,930200360,930200361,930200362,930200363,930200364,930200365,930200366,930200367,930200368,930200369,930200370,930200371,930200372,930200373,930200374,930200375,930200376,930200377,930200378,930200379,930200380,930200381,930200382,930200383,930200384,930200385,930200386,930200387,930200388,930200389,930200390,930200391,930200392,930200393,930200394,930200395,930200396,930200397,930200398,930200399,930200400,930200401,930200402,930200403,930200404,930200405,930200406,930200407,930200408,930200409,930200410,930200411,930200412,930200413,930200414,930200415,930200416,930200417,930200418,930200419,930200420,930200421,930200422,930200423,930200424,930200425,930200426,930200427,930200428,930200429,930200430,930200431,930200432,930200433,930200434,930200435,930200436,930200437,930200438,930200439,930200440,930200441,930200442,930200443,930200444,930200445,930200446,930200447,930200448,930200449,930200450,930200451,930200452,930200453,930200454,930200455,930200456,930200457,930200458,930200459,930200460,930200461,930200462,930200463,930200464,930200465,930200466,930200467,930200468,930200469,930200470,930200471,930200472,930200473,930200474,930200475,930200476,930200477,930200478,930200479,930200480,930200481,930200482,930200483,930200484,930200485,930200486,930200487,930200488,930200489,930200490,930200491,930200492,930200493,930200494,930200495,930200496,930200497,930200498,930200499,930200500,930200501,930200502,930200503,930200504,930200505,930200506,930200507,930200508,930200509,930200510,930200511,930200512,930200513,930200514,930200515,930200516,930200517,930200518,930200519,930200520,930200521,930200522,930200523,930200524,930200525,930200526,930200527,930200528,930200529,930200530,930200531,930200532,930200533,930200534,930200535,930200536,930200537,930200538,930200539,930200540,930200541,930200542,930200543,930200544,930200545,930200546,930200547,930200548,930200549,930200550,930200551,930200552,930200553,930200554,930200555,930200556,930200557,930200558,930200559,930200560,930200561,930200562,930200563,930200564,930200565,930200566,930200567,930200568,930200569,930200570,930200571,930200572,930200573,930200574,930200575,930200576,930200577,930200578,930200579,930200580,930200581,930200582,930200583,930200584,930200585,930200586,930200587,930200588,930200589,930200590,930200591,930200592,930200593,930200594,930200595,930200596,930200597,930200598,930200599,930200600,930200601,930200602,930200603,930200604,930200605,930200606,930200607,930200608,930200609,930200610,930200611,930200612,930200613,930200614,930200615,930200616,930200617,930200618,930200619,930200620,930200621,930200622,930200623,930200624,930200625,930200626,930200627,930200628,930200629,930200630,930200631,930200632,930200633,930200634,930200635,930200636,930200637,930200638,930200639,930200640,930200641,930200642,930200643,930200644,930200645,930200646,930200647,930200648,930200649,930200650,930200651,930200652,930200653,930200654,930200655,930200656,930200657,930200658,930200659,930200660,930200661,930200662,930200663,930200664,930200665,930200666,930200667,930200668,930200669,930200670,930200671,930200672,930200673,930200674,930200675,930200676,930200677,930200678,930200679,930200680,930200681,930200682,930200683,930200684,930200685,930200686,930200687,930200688,930200689,930200690,930200691,930200692,930200693,930200694,930200695,930200696,930200697,930200698,930200699,930200700,930200701,930200702,930200703,930200704,930200705,930200706,930200707,930200708,930200709,930200710,930200711,930200712,930200713,930200714,930200715,930200716,930200717,930200718,930200719,930200720,930200721,930200722,930200723,930200724,930200725,930200726,930200727,930200728,930200729,930200730,930200731,930200732,930200733,930200734,930200735,930200736,930200737,930200738,930200739,930200740,930200741,930200742,930200743,930200744,930200745,930200746,930200747,930200748,930200749,930200750,930200751,930200752,930200753,930200754,930200755,930200756,930200757,930200758,930200759,930200760,930200761,930200762,930200763,930200764,930200765,930200766,930200767,930200768,930200769,930200770,930200771,930200772,930200773,930200774,930200775,930200776,930200777,930200778,930200779,930200780,930200781,930200782,930200783,930200784,930200785,930200786,930200787,930200788,930200789,930200790,930200791,930200792,930200793,930200794,930200795,930200796,930200797,930200798,930200799,930200800,930200801,930200802,930200803,930200804,930200805,930200806,930200807,930200808,930200809,930200810,930200811,930200812,930200813,930200814,930200815,930200816,930200817,930200818,930200819,930200820,930200821,930200822,930200823,930200824,930200825,930200826,930200827,930200828,930200829,930200830,930200831,930200832,930200833,930200834,930200835,930200836,930200837,930200838,930200839,930200840,930201001,930201002,930201003,930201004,930201005,930201006,930201007,930201008,930201009,930201010,930201011,930201012,930201013,930201014,930201015,930201016,930201017,930201018,930201019,930201020,930201021,930201022,930201023,930201024,930201025,930201026,930201027,930201028,930201029,930201030,930201031,930201032,930201033,930201034,930201035,930201036,930201037,930201038,930201039,930201040,930201041,930201042,930201043,930201044,930201045,930201046,930201047,930201048,930201049,930201050,930201051,930201052,930201053,930201054,930201055,930201056,930201057,930201058,930201059,930201060,930201101,930201102,930201103,930201104,930201105,930201106,930201107,930201108,930201109,930201110,930201111,930201112,930201113,930201114,930201115,930201116,930201117,930201118,930201119,930201120,930201121,930201122,930201123,930201124,930201125,930201126,930201127,930201128,930201129,930201130,930201131,930201132,930201133,930201134,930201135,930201136,930201137,930201138,930201139,930201140,930201141,930201142,930201143,930201144,930201145,930201146,930201147,930201148,930201149,930201150,930201151,930201152,930201153,930201154,930201155,930201156,930201157,930201158,930201159,930201160,930201201,930201202,930201203,930201204,930201205,930201206,930201207,930201208,930201209,930201210,930201211,930201212,930201213,930201214,930201215,930201216,930201217,930201218,930201219,930201220,930201221,930201222,930201223,930201224,930201225,930201226,930201227,930201228,930201229,930201230,930201231,930201232,930201233,930201234,930201235,930201236,930201237,930201238,930201239,930201240,930201241,930201242,930201243,930201244,930201245,930201246,930201247,930201248,930201249,930201250,930201251,930201252,930201253,930201254,930201255,930201256,930201257,930201258,930201259,930201260,930201301,930201302,930201303,930201304,930201305,930201306,930201307,930201308,930201309,930201310,930201311,930201312,930201313,930201314,930201315,930201316,930201317,930201318,930201319,930201320,930201321,930201322,930201323,930201324,930201325,930201326,930201327,930201328,930201329,930201330,930201331,930201332,930201333,930201334,930201335,930201336,930201337,930201338,930201339,930201340,930201341,930201342,930201343,930201344,930201345,930201346,930201347,930201348,930201349,930201350,930201351,930201352,930201353,930201354,930201355,930201356,930201357,930201358,930201359,930201360,930202069,930202070,930202109,930202110,930202159,930202160,930202209,930202210,930202359,930202360,930202408,930202409,930202410,930202459,930202460,930202559,930202560,930202609,930202610,930202659,930202660,930208002,930208003,930208004,930208005,930208006,930208007,930208008,930208009,930208010,930208039,930208040,930208041,930208042,930208043,930208044,930208045,930208046,930208047,930208048,930208049,930208050,930208051,930208052,930208053,930208054,930208055,930208056,930208057,930208058,930208059,930208060,930208061,930208062,930208063,930208064,930208065,930208066,930208067,930208068,930208069,930208070,930208071,930208072,930208073,930208074,930208075,930208076,930208077,930208078,930208079,930208080,930208081,930208082,930208083,930208084,930208085,930211436,930211437,930211438,930211457,930211458,930211459,930211460,930211461,930211462,930211463,930211464,930211465,930211466,930211467,930211468,930211469,930211470,930211471,930211473,930211474,930211475,930211476,930211477,930211478,930211479,930211480,930211481,930211483,930211484,930211485,930211489,930218708,930218709,930219732,930219733,930219735,930219736,930219737,930219738,930219773,930219775
+    freeformAddress: Princeton Avenue, Moorpark, CA
+    municipality: Moorpark
+    municipalitySubdivision: Moorpark
+    postalCode: 93020,93021
+    streetName: Princeton Avenue
+  longitude: -118.86562
+  name: Moorpark
+  openepd_id: 856374QM+9Q.placeholder-national-ready-mix.cqd.io
+  owned_by:
+    address: 15821 Ventura Boulevard, Encino, CA 91436
+    address_line: 15821 Ventura Boulevard
+    admin_district: CA
+    admin_district2: Los Angeles
+    alt_names:
+    - National Ready Mix
+    - National Ready-Mix
+    - NATIONAL READY MIX
+    - National Ready Mixed Concrete Co.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-10-21T09:51:38.575851Z'
+    email_extensions:
+    - natcem.com
+    enterprise: true
+    id: 4c68f7395077463e8ae896ec6ad54e19
+    is_failed: false
+    latitude: 34.15604
+    locality: Encino, Los Angeles
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Los Angeles
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: San Fernando Valley
+      extendedPostalCode: '914365222'
+      freeformAddress: 15821 Ventura Boulevard, Encino, CA 91436
+      localName: Encino
+      municipality: Encino, Los Angeles
+      municipalitySubdivision: Encino, Los Angeles
+      postalCode: '91436'
+      streetName: Ventura Boulevard
+      streetNumber: '15821'
+    longitude: -118.47816
+    name: National Ready Mix
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4c68f7395077463e8ae896ec6ad54e19
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91436'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-07-08T20:01:45.688733Z'
+    web_domain: placeholder-national-ready-mix.cqd.io
+    website: www.placeholder-national-ready-mix.cqd.io
+  postal_code: 93020,93021
+  total_epds: 656
+  type: Plant
+  updated_on: '2023-05-04T04:43:05.384310Z'
+plant_specific: true
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: 244d95229d9940b1a1916b6331c6f4d2
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3acx2jdr
+standard_deviation: 45.6495388 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.06
+third_party_verified: true
+uncertainty_adjusted_gwp: 468.4186519 kgCO2e
+uncertainty_factor: 1.08934570199282
+updated_on: '2024-09-25T16:57:59Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+white_cement: false

@@ -1,0 +1,651 @@
+aci_exposure_classes: []
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/central-concrete
+best_practice: 402.0090226 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+box_id: '782799016677'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.0899029 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
+  pct40_gwp: 334.578825 kgCO2e
+  pct50_gwp: 359.0203617 kgCO2e
+  pct60_gwp: 386.3847185 kgCO2e
+  pct70_gwp: 416.8085524 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 507.1461971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-11-20T07:56:16.507251Z'
+  use_stored_carbon: ABSENT
+concrete_compressive_strength_28d: 41.36854375901017 MPa
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 485.9909774 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-03-03T22:59:03.313819Z'
+csa_exposure_classes: []
+date_of_issue: '2019-01-28'
+date_validity_ends: '2024-01-28'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m3
+description: AUGER 10SK SAND EF50 INTRUSION AID
+developer:
+  email: laurel.mcewen@climateearth.com
+  name: Laurel McEwen
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: buildingtransparency.org/e/ec3hzca581
+en_exposure_classes: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Grouted Piles - 8SUP00Z3 RC_ed42c7f2c7e7418a81f9945bce31c97e.pdf
+gwp: 444 kgCO2e
+gwp_per_category_declared_unit: 444 kgCO2e
+gwp_per_kg: 0.185 kgCO2e
+gwp_z: 0.11237437430304116
+id: 1927ccfcc79341a099549f434479c6ae
+image: https://static.buildingtransparency.org/images/adf3294a1df04c3fab57066e03ca936f.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nnatural aggregate (ASTM C33), crushed\
+  \ aggregate (ASTM C33), Portland cement (ASTM C150), slag cement (ASTM C9839), fly\
+  \ ash (ASTM C618), admixture (ASTM C494), batch water (ASTM C1602) es (PCR)for ISO\
+  \ 14025 TypeIll Environmental Product Declarations\n\n## LCA Notes\nLIFE CYCLE ASSESSMENT\
+  \ This EPD is based ona \u2018cradle-to-gate\u2019life cycle assessment(LCA) of\
+  \ ready mixe concrete mixes. Asummary of life cycle processesincluded in the EPD\
+  \ is as follows: e Raw material supply (upstream processes): Extraction, handling,\
+  \ and processing of the raw materials used in production of concrete: cement, supplementary\
+  \ cementitious materials, aggregate (coarse and fine), water admixtures, and other\
+  \ materials or chemicals used in concrete mixtures. e Transportation: Transportation\
+  \ of these materials from supplier to the gate of the concrete producer. e Manufacturing\
+  \ (core processes): Energy used to store, batch, mix, and distribute the concrete\
+  \ and operatethe facility (concrete plant). e Water use in mixing and distributing\
+  \ concrete. Asummary of cradle-to-gatelife cycle processes excluded from the EPD\
+  \ is as follows: e Production, manufacture, and construction of buildings, capital\
+  \ goods, and infrastructure. e Production and manufacture of concrete production\
+  \ equipment, concrete delivery vehicles, earthmoving equipment, and laboratory equipment.\
+  \ e Personnel-related activities (travel, furniture, office supplies). e Energyand\
+  \ water use related to company managementandsalesactivitie Asummary ofthe limitations\
+  \ of this EPD include thefollowing: e This EPD doesnotreport all of the environmental\
+  \ impacts due to manufacturingof the product, but rather environmental impacts for\
+  \ categories with established LCA-based methods to track andreport. Unreported environmental\
+  \ impacts include (but are notlimited to) factors attributable to human health,\
+  \ land use change, water use in the upstream manufacturing process, and habitat\
+  \ destruction. e This EPD reports the results of an LCAfor \u2018cradle-to-gate\u2019\
+  \ analysis. Thus, declarations themselvesare not comparative assertions, defined\
+  \ as an environmental claim regarding the superiority or equivalence of one produc\
+  \ versus a competing product that performs the samefunction. An EPD doe not makeany\
+  \ statements that the product covered by the EPDis better or worse than any other\
+  \ product. e Inorder to assess the local impacts of product manufacturing, additional\
+  \ analysis is required. e Life cycle impact assessmentresults are relative expressions\
+  \ and do not predict impacts on category endpoints, the exceeding of thresholds,\
+  \ safety margins, or risks. Note: The product manufacturer has the option of declaring\
+  \ additional information abouttheir product including conformance with anyother\
+  \ sustainability certificatio programs that often have performance andprescriptive\
+  \ requirements that aim to illustrate environmental best practices that cannot be\
+  \ captured by LCA DATA QUALITY, VARIABILITY, AND COMPARABILITY\n\n## Source Data\
+  \ Notes\ne Admixture (other): Hghestirrpact in each impact category of the six EFCA\
+  \ adnixture EPD, 2015 Admixture(plasticizing): EFCA EPD, 2015 Admixture (retarding):\
+  \ EFCA ED, 2015 Admixture (superplasticizing): E-FCA EPD, 2015 Aggregate (crushed):\
+  \ US-H (2016): \u201CGravel, crushed,at rrine/US\u2019, 2001 Aggregate: Supplier\
+  \ specific primary data, 2016 Diesel: US-H (2016): \u201CDiesel, corrbusted in industrial\
+  \ equiprrent/NREL/US\u2019\u201D, 2007 Hectricity (WECC): Ecoinvent 3.32: \u201C\
+  Hectricity, mediumvoltage, market for, Alloc Rec\u201D, 2015 Fly ash: byproductof\
+  \ coal combustion; no upstream manufacturing impacts Municipal Water: US-H (2016):\
+  \ \u201CTap water, at user/US\u2019, 2000 Portland cement: Portland Concrete Association,\
+  \ Industry Average EPD, 2016 Rail transport: US-H (2014): Transport,train, diesel\
+  \ pow ered NREL/US, 2007 Ship transport: US-H (2014): Transport, ocean freighter,\
+  \ average fuel mix NREL/US, 2007 Slag cement: Slag Cement Association, industry\
+  \ average EPD, 2014 e Truck transport: US-H (2014): Transport, single unit truck,\
+  \ diesel pow ered/NREL/US, 2007 and US EPA emission factors, 2014 REDWOOD CITY"
+lightweight: false
+lowest_plausible_gwp: 402.0090226 kgCO2e
+manufacturer:
+  address: 755 Stockton Avenue, San Jose, CA 95126
+  address_line: 755 Stockton Avenue
+  admin_district: CA
+  admin_district2: Santa Clara
+  alt_names:
+  - Central Concrete
+  - Monumental Concrete
+  - Centre Concrete
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/central-concrete
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T14:55:59.965541Z'
+  email_extensions:
+  - centralconcrete.com
+  enterprise: true
+  id: c3d7d8d1e466457798d8c37c0df44cee
+  image: https://static.buildingtransparency.org/images/baee2a14-dfb9-4e9a-b1b7-f14134e3689b.png
+  is_failed: false
+  latitude: 37.34156
+  legal_name: CENTRAL CONCRETE Supply Company
+  locality: San Jose
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Santa Clara
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: San Jose
+    freeformAddress: 755 Stockton Avenue, San Jose, CA 95126
+    municipality: San Jose
+    municipalitySubdivision: San Jose, College Park
+    postalCode: '95126'
+    streetName: Stockton Avenue
+    streetNumber: '755'
+  longitude: -121.91509
+  name: Central Concrete
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c3d7d8d1e466457798d8c37c0df44cee
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '95126'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-21T18:31:05.255783Z'
+  web_domain: centralconcrete.com
+  website: http://www.centralconcrete.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 1afdb158f76345de84cc6cb2f49a42df
+my_capabilities: 1
+name: Mix 8SUP00Z3 * Redwood City Plant
+not_an_epd: false
+open_xpd_uuid: ec3hzca5
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hzca5
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules (PCR) for ISO 14025:2006 Type III Environmental Product
+    Declarations (EPDs) of Concrete
+  - "North American Product Category Rules (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - "North American Product Category Rules v1 (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - Product Category Rules (PCR) for ISO 14025 Type III Environmental Product Declarations
+    (EPDs) Concrete Version 1.1
+  - 'CLF PCR for ISO14025 Type III Environmental Product Declarations for Concrete
+    meeting hte requirement of one of the following:  C90, ASTM C90, CSA A23.1/A23.2,
+    UNSPC code 30111500, Version 1.1, Dec 4, 2013 Clarifications 1,2, and 3'
+  - PCR for ISO 14025:2006 Type III EPD of Concrete
+  - Carbon Leadership Forum (CLF) Product Category Rules (PCR) for ISO 14025 Type
+    III Environmental Product Declarations (EPDs) for Concrete v1.1 (December 2013)
+  - 'The Carbon Leadership Forum PCR: PCR for ISO 14025 Type III EPD for Concrete'
+  - '""The Carbon Leadership Forum PCR: Product Category Rules (PCR) for ISO 14025
+    Type III Environmental Product Declarations (EPDs) for Concrete, Version 1.1 dated
+    12/4/2013, serves as the PCR for this EPD. http://www.carbonleadershipforum.org""'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:48.524245Z'
+  date_of_issue: '2013-12-04'
+  date_validity_ends: '2018-12-04'
+  declared_units:
+  - 1 m3
+  doc: https://app.box.com/file/292552692203
+  id: 64e661dd8d894db3a1bb327f08edae1f
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American PCR for Concrete
+  open_xpd_uuid: ec37zjz1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37zjz1
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec37zjz1ws
+  short_name: Concrete
+  status: Sunset
+  updated_on: '2023-12-05T00:02:02.009988Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 485.9909774 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 625 Seaport Blvd, Redwood City, CA 94063, USA
+  address_line: 625 Seaport Blvd
+  admin_district: CA
+  admin_district2: San Mateo County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-02-20T22:44:08.382824Z'
+  id: b54b0a74e55a49178c6a504965dcaa8a
+  is_failed: false
+  latitude: 37.508828
+  locality: Redwood City
+  location:
+  - long_name: '625'
+    short_name: '625'
+    types:
+    - street_number
+  - long_name: Seaport Boulevard
+    short_name: Seaport Blvd
+    types:
+    - route
+  - long_name: Redwood City
+    short_name: Redwood City
+    types:
+    - locality
+    - political
+  - long_name: San Mateo County
+    short_name: San Mateo County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '94063'
+    short_name: '94063'
+    types:
+    - postal_code
+  longitude: -122.2086066
+  name: Redwood City
+  openepd_id: 849VGQ5R+GH.centralconcrete.com
+  owned_by:
+    address: 755 Stockton Avenue, San Jose, CA 95126
+    address_line: 755 Stockton Avenue
+    admin_district: CA
+    admin_district2: Santa Clara
+    alt_names:
+    - Central Concrete
+    - Monumental Concrete
+    - Centre Concrete
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/central-concrete
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T14:55:59.965541Z'
+    email_extensions:
+    - centralconcrete.com
+    enterprise: true
+    id: c3d7d8d1e466457798d8c37c0df44cee
+    image: https://static.buildingtransparency.org/images/baee2a14-dfb9-4e9a-b1b7-f14134e3689b.png
+    is_failed: false
+    latitude: 37.34156
+    legal_name: CENTRAL CONCRETE Supply Company
+    locality: San Jose
+    location:
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Santa Clara
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: San Jose
+      freeformAddress: 755 Stockton Avenue, San Jose, CA 95126
+      municipality: San Jose
+      municipalitySubdivision: San Jose, College Park
+      postalCode: '95126'
+      streetName: Stockton Avenue
+      streetNumber: '755'
+    longitude: -121.91509
+    name: Central Concrete
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c3d7d8d1e466457798d8c37c0df44cee
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '95126'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-21T18:31:05.255783Z'
+    web_domain: centralconcrete.com
+    website: http://www.centralconcrete.com/
+  postal_code: '94063'
+  total_epds: 2524
+  type: Plant
+  updated_on: '2024-10-21T22:00:46.474248Z'
+plant_specific: true
+plc: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 10857 98th Place Southwest, Vashon, WA 98070
+  address_line: 10857 98th Place Southwest
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - Earthsure
+  - IERE
+  - Institute for Environmental Research and Education
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-07-26T13:26:41.418139Z'
+  email_extensions:
+  - iere.org
+  enterprise: true
+  id: 5609a6ef730f45d381c0dfcc8f1e4030
+  image: https://static.buildingtransparency.org/images/09578c87-ff1e-4bef-b9de-710d039dda6c.png
+  invalid_after: '2018-07-01'
+  is_failed: false
+  latitude: 47.447029
+  legal_name: EarthSure
+  locality: Vashon
+  location:
+    boundingBox:
+      entity: position
+      northEast: 47.447447,-122.459782
+      southWest: 47.446493,-122.459807
+    buildingNumber: '10857'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Vashon Island
+    freeformAddress: 10857 98th Place Southwest, Vashon, WA 98070
+    municipality: Vashon
+    municipalitySubdivision: Vashon
+    postalCode: '98070'
+    routeNumbers: []
+    street: 98th Place Southwest
+    streetName: 98th Place Southwest
+    streetNameAndNumber: 10857 98th Place Southwest
+    streetNumber: '10857'
+  longitude: -122.459793
+  name: EarthSure
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5609a6ef730f45d381c0dfcc8f1e4030
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '98070'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:50:05.976251Z'
+  web_domain: iere.org
+  website: http://iere.org/programs/earthsure/
+program_operator_fkey: ''
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hzca581
+standard_deviation: 49.89422219 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 485.9909774 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2025-11-20T03:05:11.081806Z'
+use_stored_carbon: false
+verifier:
+  email: rita@iere.org
+  name: Rita Schenck
+  org:
+    address: 10857 98th Place Southwest, Vashon, WA 98070
+    address_line: 10857 98th Place Southwest
+    admin_district: WA
+    admin_district2: King
+    alt_names:
+    - Earthsure
+    - IERE
+    - Institute for Environmental Research and Education
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-07-26T13:26:41.418139Z'
+    email_extensions:
+    - iere.org
+    enterprise: true
+    id: 5609a6ef730f45d381c0dfcc8f1e4030
+    image: https://static.buildingtransparency.org/images/09578c87-ff1e-4bef-b9de-710d039dda6c.png
+    invalid_after: '2018-07-01'
+    is_failed: false
+    latitude: 47.447029
+    legal_name: EarthSure
+    locality: Vashon
+    location:
+      boundingBox:
+        entity: position
+        northEast: 47.447447,-122.459782
+        southWest: 47.446493,-122.459807
+      buildingNumber: '10857'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: King
+      countrySubdivision: WA
+      countrySubdivisionName: Washington
+      countryTertiarySubdivision: Vashon Island
+      freeformAddress: 10857 98th Place Southwest, Vashon, WA 98070
+      municipality: Vashon
+      municipalitySubdivision: Vashon
+      postalCode: '98070'
+      routeNumbers: []
+      street: 98th Place Southwest
+      streetName: 98th Place Southwest
+      streetNameAndNumber: 10857 98th Place Southwest
+      streetNumber: '10857'
+    longitude: -122.459793
+    name: EarthSure
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5609a6ef730f45d381c0dfcc8f1e4030
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '98070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:50:05.976251Z'
+    web_domain: iere.org
+    website: http://iere.org/programs/earthsure/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  program_operator_fkey:
+  - Value is an empty string

@@ -1,0 +1,653 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/central-concrete
+best_practice: 268.0965576 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+box_id: '493000334693'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.0899029 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
+  pct40_gwp: 334.578825 kgCO2e
+  pct50_gwp: 359.0203617 kgCO2e
+  pct60_gwp: 386.3847185 kgCO2e
+  pct70_gwp: 416.8085524 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 507.1461971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-11-20T07:56:16.507251Z'
+  use_stored_carbon: ABSENT
+cementitious: {}
+concrete_air_entrain: true
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 24.1 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 324.1034424 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-02T16:29:19.101286Z'
+date_of_issue: '2013-04-12'
+date_validity_ends: '2018-04-12'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m^3
+description: "Central Concrete mixes are identified by a combination of an 8-digit\
+  \ alphanumeric mix code and one of the seven service areas listed above. Mixes with\
+  \ identical mix codes share the same performance specifications but may have different\
+  \ mix designs (specifying the quantity of materials per cubic yard of concrete)\
+  \ based on the service area where they are batched. This EPD reports the impacts\
+  \ for the product \"concrete\" (ASTM C94, UNSPSC code 30111500, CSI Specification\
+  \ Section 03 30 00) and covers the life cycle phases A1-A3 (`cradle-to-gate'). Life\
+  \ cycle stages not included in this EPD: \u2022 A4: Transportation to the construction\
+  \ site \u2022 A5: Construction (reinforcement, forming, placing, curing, etc.) \u2022\
+  \ B1-7: Building use and maintenance \u2022 C1-4: End of life This information can\
+  \ be used to model the environmental impacts of the concrete component of products\
+  \ that use concrete, including (but not limited to): cast-in-place concrete, precast\
+  \ concrete, concrete masonry units, mass concrete, and concrete pavements, provided\
+  \ the life cycle impacts of all additional materials and processes are accounted\
+  \ for and the information is integrated into a comprehensive LCA."
+developer:
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/498b142a51424b1f863c0a7617458745.png
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-10-10T20:41:37.682443Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: buildingtransparency.org/e/ec36k75kpz
+excluded: false
+externally_verified: true
+file_name: Central_Concrete_EPD.pdf
+gwp: 296.1 kgCO2e
+gwp_per_category_declared_unit: 296.1 kgCO2e
+gwp_per_kg: 0.123375 kgCO2e
+gwp_z: 0.11237437430304116
+id: 659638ecec224638822dbd155b08c9f6
+image: https://static.buildingtransparency.org/images/fdcb14dd9e6f4432a33d34408eadf814.png
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: '
+
+
+  ## Product Component Notes
+
+  The components of the mixes included in this EPD meet the following standards: Component
+  Standard Portland cement ASTM C150 Standard Specification for Portland Cement Fly
+  ash ASTM C618 Standard Specification for Coal Fly Ash and Raw or Calcined Natural
+  Pozzolan for Use in Concrete Slag cement ASTM C989 Standard Specification for Slag
+  Cement for Use in Concrete and Mortars Natural and crushed ASTM C33 Standard Specification
+  for Concrete aggregates Aggregates Admixtures ASTM C494 Standard Specification for
+  Chemical Admixtures for Concrete Batch water ASTM C1602 Standard Specification for
+  Mixing Water Used in the Production of Hydraulic Cement Concrete
+
+
+  ## LCA Notes
+
+  A summary of life cycle processes included in the EPD is as follows: 1. Raw material
+  supply (upstream processes): Extraction, handling, and processing of the raw materials
+  used in production of concrete: cement, supplementary cementitious materials, aggregate
+  (coarse and fine), water, admixtures, and other materials or chemicals used in concrete
+  mixtures. 2. Transportation: Transportation of these materials from supplier to
+  the gate of the concrete producer. 3. Manufacturing (core processes): Energy used
+  to store, batch, mix, and distribute the concrete and operate the facility (concrete
+  plant). 4. Water use in mixing and distributing concrete. A summary of life cycle
+  processes excluded from the EPD is as follows: 1. Production, manufacture, and construction
+  of buildings, capital goods, and infrastructure with an expected lifespan of over
+  five years. 2. Production and manufacture of concrete production equipment, concrete
+  delivery vehicles, earthmoving equipment, and laboratory equipment with expected
+  lifespan of over five years. 3. Personnel-related activities (travel, furniture,
+  office supplies). 4. Energy and water use related to company management and sales
+  activities. 5. Water use in upstream manufacturing processes and in placement and
+  curing of concrete. Better data and methodology is required to track and report
+  these numbers.
+
+
+  ## Source Data Notes
+
+  Carbon Leadership Forum. 2012. Default Life Cycle Inventories v1.0 (for Concrete
+  PCR). Seattle, WA, November. Ecoinvent Centre. 2007. Ecoinvent Data v2.2 (Ecoinvent
+  Reports No. 1-25). DUbendorf, Switzerland. http://db.ecoinvent.org/ecoquery/index.php?newlanguage=en.
+  EFCA. 2006a. Environmental Declaration: Accelerating Admixtures. Sittard, The Netherlands,
+  January. http://efca.info/downloads/300 ETG Accelerator EPD.pdf. EFCA. 2006b. Environmental
+  Declaration: Air Entraining Admixtures. Sittard, The Netherlands, January. http://efca.info/downloads/301
+  ETG Air Entrainer EPD.pdf. EFCA. 2006c. Environmental Declaration: Retarding Admixtures.
+  Sittard, The Netherlands, January. http://efca.info/downloads/302 ETG Retarding
+  EPD.pdf. EFCA. 2006d. Environmental Declaration: Waterproofing Admixtures. Sittard,
+  The Netherlands, January. http://efca.info/downloads/303 ETG Waterproofing EPD.pdf.
+  EFCA. 2006e. Environmental Declaration: Plasticising Admixtures. Sittard, The Netherlands,
+  April. http://efca.info/downloads/324 ETG Plasticiser EPD.pdf. EFCA. 2006f. Environmental
+  Declaration: Superplasticising Admixtures. Sittard, The Netherlands, April. http://efca.info/downloads/325
+  ETG Superplasticiser EPD.pdf. GHG Protocol. 2011. Product Life Cycle Accounting
+  and Reporting Standard. http://www.ghgprotocol.org/standards/product-standard .
+  Accessed January 21, 2013. ISO. 2006. ISO 14025: Environmental labels and declarations
+  - Type III environmental declarations - Principles and procedures. Geneva, Switzerland.
+  Marceau, M.L., M.A. Nisbet, and M.G. VanGeem. 2006. Life Cycle Inventory of Portland
+  Cement Manufacture. Skokie, Illinois, USA. http://www.nrmca.org/taskforce/item 2
+  talkingpoints/sustainability/sustainability/sn2095b - cement Ici 2006.pdf. Accessed
+  November 2, 2012. NREL. 2012. U.S. Life Cycle Inventory Database. https://www.lcaconnmons.gov/nrel/search.
+  Perrine, S. 2012. Personal communication with Scott Perrine, VP of Operations and
+  Sustainability at Central Concrete - Nov 2, 2012.'
+lightweight: false
+lowest_plausible_gwp: 268.0965576 kgCO2e
+manufacturer:
+  address: 755 Stockton Avenue, San Jose, CA 95126
+  address_line: 755 Stockton Avenue
+  admin_district: CA
+  admin_district2: Santa Clara
+  alt_names:
+  - Central Concrete
+  - Monumental Concrete
+  - Centre Concrete
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/central-concrete
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T14:55:59.965541Z'
+  email_extensions:
+  - centralconcrete.com
+  enterprise: true
+  id: c3d7d8d1e466457798d8c37c0df44cee
+  image: https://static.buildingtransparency.org/images/baee2a14-dfb9-4e9a-b1b7-f14134e3689b.png
+  is_failed: false
+  latitude: 37.34156
+  legal_name: CENTRAL CONCRETE Supply Company
+  locality: San Jose
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Santa Clara
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: San Jose
+    freeformAddress: 755 Stockton Avenue, San Jose, CA 95126
+    municipality: San Jose
+    municipalitySubdivision: San Jose, College Park
+    postalCode: '95126'
+    streetName: Stockton Avenue
+    streetNumber: '755'
+  longitude: -121.91509
+  name: Central Concrete
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c3d7d8d1e466457798d8c37c0df44cee
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '95126'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-21T18:31:05.255783Z'
+  web_domain: centralconcrete.com
+  website: http://www.centralconcrete.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: e973920bdd4b4ef1b098ed201c4af044
+my_capabilities: 1
+name: 352EG9D1
+not_an_epd: false
+open_xpd_uuid: ec36k75k
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36k75k
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules (PCR) for ISO 14025:2006 Type III Environmental Product
+    Declarations (EPDs) of Concrete
+  - "North American Product Category Rules (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - "North American Product Category Rules v1 (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - Product Category Rules (PCR) for ISO 14025 Type III Environmental Product Declarations
+    (EPDs) Concrete Version 1.1
+  - 'CLF PCR for ISO14025 Type III Environmental Product Declarations for Concrete
+    meeting hte requirement of one of the following:  C90, ASTM C90, CSA A23.1/A23.2,
+    UNSPC code 30111500, Version 1.1, Dec 4, 2013 Clarifications 1,2, and 3'
+  - PCR for ISO 14025:2006 Type III EPD of Concrete
+  - Carbon Leadership Forum (CLF) Product Category Rules (PCR) for ISO 14025 Type
+    III Environmental Product Declarations (EPDs) for Concrete v1.1 (December 2013)
+  - 'The Carbon Leadership Forum PCR: PCR for ISO 14025 Type III EPD for Concrete'
+  - '""The Carbon Leadership Forum PCR: Product Category Rules (PCR) for ISO 14025
+    Type III Environmental Product Declarations (EPDs) for Concrete, Version 1.1 dated
+    12/4/2013, serves as the PCR for this EPD. http://www.carbonleadershipforum.org""'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:48.524245Z'
+  date_of_issue: '2013-12-04'
+  date_validity_ends: '2018-12-04'
+  declared_units:
+  - 1 m3
+  doc: https://app.box.com/file/292552692203
+  id: 64e661dd8d894db3a1bb327f08edae1f
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American PCR for Concrete
+  open_xpd_uuid: ec37zjz1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37zjz1
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec37zjz1ws
+  short_name: Concrete
+  status: Sunset
+  updated_on: '2023-12-05T00:02:02.009988Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 324.1034424 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 790 Stockton Avenue, San Jose, CA 95126
+  address_line: 790 Stockton Avenue
+  admin_district: CA
+  admin_district2: Santa Clara
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-12-02T16:28:38.200217Z'
+  id: 19d0955c704b4b808b152d46a3177406
+  is_failed: false
+  latitude: 37.34183
+  locality: San Jose
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Santa Clara
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: San Jose
+    freeformAddress: 790 Stockton Avenue, San Jose, CA 95126
+    municipality: San Jose
+    municipalitySubdivision: San Jose, College Park
+    postalCode: '95126'
+    streetName: Stockton Avenue
+    streetNumber: '790'
+  longitude: -121.91421
+  name: Stockton
+  openepd_id: 849W83RP+P8.centralconcrete.com
+  owned_by:
+    address: 755 Stockton Avenue, San Jose, CA 95126
+    address_line: 755 Stockton Avenue
+    admin_district: CA
+    admin_district2: Santa Clara
+    alt_names:
+    - Central Concrete
+    - Monumental Concrete
+    - Centre Concrete
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/central-concrete
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T14:55:59.965541Z'
+    email_extensions:
+    - centralconcrete.com
+    enterprise: true
+    id: c3d7d8d1e466457798d8c37c0df44cee
+    image: https://static.buildingtransparency.org/images/baee2a14-dfb9-4e9a-b1b7-f14134e3689b.png
+    is_failed: false
+    latitude: 37.34156
+    legal_name: CENTRAL CONCRETE Supply Company
+    locality: San Jose
+    location:
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Santa Clara
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: San Jose
+      freeformAddress: 755 Stockton Avenue, San Jose, CA 95126
+      municipality: San Jose
+      municipalitySubdivision: San Jose, College Park
+      postalCode: '95126'
+      streetName: Stockton Avenue
+      streetNumber: '755'
+    longitude: -121.91509
+    name: Central Concrete
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c3d7d8d1e466457798d8c37c0df44cee
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '95126'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-21T18:31:05.255783Z'
+    web_domain: centralconcrete.com
+    website: http://www.centralconcrete.com/
+  postal_code: '95126'
+  total_epds: 426
+  type: Plant
+  updated_on: '2020-08-10T03:48:23.438737Z'
+plant_specific: true
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: 900 Spring Street, Silver Spring, MD 20910
+  address_line: 900 Spring Street
+  admin_district: MD
+  admin_district2: Montgomery
+  alt_names:
+  - National Ready Mixed Concrete Association
+  - The National Ready Mixed Concrete Association
+  - NRMCA
+  - National Ready Mix Concrete Association
+  - National Ready-Mix Concrete Association
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/national-ready-mixed-concrete-assoc
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-25T01:07:49.604571Z'
+  currency: USD
+  email: servicerequest@nrmca.org
+  email_extensions:
+  - nrmca.org
+  enterprise: true
+  id: 1812a81e62a1424b8f27738be33fe023
+  image: https://static.buildingtransparency.org/images/0449ac39-6fff-4aca-a07f-36c94f3a3b63.png
+  is_failed: false
+  latitude: 38.99884
+  legal_name: National Ready Mixed Concrete Association
+  locality: Silver Spring
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Montgomery
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 13
+    extendedPostalCode: '209104017'
+    freeformAddress: 900 Spring Street, Silver Spring, MD 20910
+    localName: Silver Spring
+    municipality: Silver Spring
+    municipalitySubdivision: Silver Spring
+    postalCode: '20910'
+    streetName: Spring Street
+    streetNumber: '900'
+  longitude: -77.02468
+  name: NRMCA
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1812a81e62a1424b8f27738be33fe023
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20910'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-06-06T00:35:46.621058Z'
+  web_domain: nrmca.org
+  website: http://www.nrmca.org/sustainability/
+program_operator_fkey: NRMCAEPD:10001
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36k75kpz
+standard_deviation: 33.27405223 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 324.1034424 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2024-09-25T16:50:48Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link
+white_cement: false

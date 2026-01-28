@@ -1,0 +1,638 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  Developer: http://wapsustainability.com
+best_practice: 242.3636885 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.0899029 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
+  pct40_gwp: 334.578825 kgCO2e
+  pct50_gwp: 359.0203617 kgCO2e
+  pct60_gwp: 386.3847185 kgCO2e
+  pct70_gwp: 416.8085524 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 507.1461971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-11-20T07:56:16.507251Z'
+  use_stored_carbon: ABSENT
+concrete_compressive_strength_28d: 27.6 MPa
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 292.9948315 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-04-15T21:37:28.030099Z'
+date_of_issue: '2024-04-15'
+date_validity_ends: '2025-07-17'
+declaration_type: Product EPD
+declared_unit: 1 m^3
+description: IL(HS) 0.50 W/C  4000 PSI  1" ORCA
+developer:
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: https://concrete.thetaepd.com/public?guid=078a1e12-27e6-4da6-abc5-1782d25d98b2
+excluded: false
+externally_verified: true
+gwp: 267.67926 kgCO2e
+gwp_per_category_declared_unit: 267.67926 kgCO2e
+gwp_per_kg: 0.1380882434 kgCO2e
+gwp_z: 0.11237437430304116
+id: 74317a2d8c4243b3b314afb16f8b8067
+impacts: {}
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 242.3636885 kgCO2e
+manufacturer:
+  address: 2025 East Financial Way, Glendora, CA 91741
+  address_line: 2025 East Financial Way
+  admin_district: CA
+  admin_district2: Los Angeles
+  alt_names:
+  - CalPortland Company Oregon/SW Washington Office
+  - CalPortland Company Washington Division
+  - CalPortland Company CA Central Coast Divsion Office
+  - Catalina Pacific A CalPortland Company
+  - CalPortland Company Tuscon Phoenix Regional Office
+  - CalPortland Company Phoenix Regional Office
+  - Chaparral Concrete Company
+  - CalPortland Company
+  - CalPortland Construction
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/calportland-company
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T15:02:42.684523Z'
+  currency: USD
+  email_extensions:
+  - calportland.com
+  enterprise: true
+  id: ce0a81a1f8044ec4adf0d4197d3ed2c9
+  image: https://static.buildingtransparency.org/images/0692bdbf-970b-4d4d-9c14-74f1478147e7.png
+  is_failed: false
+  latitude: 34.128937
+  legal_name: CalPortland
+  locality: Glendora
+  location:
+    boundingBox:
+      entity: position
+      northEast: 34.128936,-117.825432
+      southWest: 34.128915,-117.826189
+    buildingNumber: '2025'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Los Angeles
+    countrySubdivision: CA
+    countrySubdivisionName: California
+    countryTertiarySubdivision: East San Gabriel Valley
+    extendedPostalCode: '917414601'
+    freeformAddress: 2025 East Financial Way, Glendora, CA 91741
+    municipality: Glendora
+    municipalitySubdivision: Glendora
+    postalCode: '91741'
+    routeNumbers: []
+    street: East Financial Way
+    streetName: East Financial Way
+    streetNameAndNumber: 2025 East Financial Way
+    streetNumber: '2025'
+  longitude: -117.826157
+  name: CalPortland
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ce0a81a1f8044ec4adf0d4197d3ed2c9
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91741'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:26:49.998159Z'
+  web_domain: calportland.com
+  website: https://www.calportland.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1938.465241 kg
+matched_plants_count: 0
+material_id: a92297a8d80f4148a8751115e985764d
+my_capabilities: 1
+name: OL50C44
+not_an_epd: false
+open_xpd_uuid: ec3yh19f
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3yh19f
+output_flows: {}
+owner:
+  name: Michael Salazar
+  user_id: mike@wapsustainability.com
+pcr:
+  alt_names:
+  - NSF PCR for Concrete
+  - PCR for Concrete, NSF International, August 2021 v2.1
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-01-20T21:57:07.160366Z'
+  date_of_issue: '2021-08-01'
+  date_validity_ends: '2025-02-22'
+  declared_units:
+  - 1 m3
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/pcr_concrete.pdf?mtime=20210903125351&focal=none
+  id: ad8c5c4db2454a5e963fce6cc747e5bf
+  is_failed: false
+  issuer_doc_id: NSF 1112-19
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NSF PCR for Concrete
+  open_xpd_uuid: ec3n3h3t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3n3h3t
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3n3h3t5z
+  short_name: Concrete
+  status: Expired
+  updated_on: '2025-11-20T20:50:04.123411Z'
+  version: '2.1'
+pct80_gwp_per_category_declared_unit: 292.9948315 kgCO2e
+plant_geography:
+- US-CA
+plant_or_group:
+  address: 1862 E 27th St, Los Angeles, CA 90058, USA
+  address_line: 1862 E 27th St
+  admin_district: CA
+  admin_district2: Los Angeles County
+  carbon_intensity: 498.686 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2023-12-28T19:13:46.123987Z'
+  id: c6c7f452016a433181f59d9036c75158
+  is_failed: false
+  latitude: 34.0124507
+  locality: Los Angeles
+  location:
+  - long_name: '1862'
+    short_name: '1862'
+    types:
+    - street_number
+  - long_name: East 27th Street
+    short_name: E 27th St
+    types:
+    - route
+  - long_name: Los Angeles
+    short_name: Los Angeles
+    types:
+    - locality
+    - political
+  - long_name: Los Angeles County
+    short_name: Los Angeles County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '90058'
+    short_name: '90058'
+    types:
+    - postal_code
+  longitude: -118.2357175
+  name: Alameda
+  openepd_id: 85632Q67+XP.calportland.com
+  owned_by:
+    address: 2025 East Financial Way, Glendora, CA 91741
+    address_line: 2025 East Financial Way
+    admin_district: CA
+    admin_district2: Los Angeles
+    alt_names:
+    - CalPortland Company Oregon/SW Washington Office
+    - CalPortland Company Washington Division
+    - CalPortland Company CA Central Coast Divsion Office
+    - Catalina Pacific A CalPortland Company
+    - CalPortland Company Tuscon Phoenix Regional Office
+    - CalPortland Company Phoenix Regional Office
+    - Chaparral Concrete Company
+    - CalPortland Company
+    - CalPortland Construction
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/calportland-company
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T15:02:42.684523Z'
+    currency: USD
+    email_extensions:
+    - calportland.com
+    enterprise: true
+    id: ce0a81a1f8044ec4adf0d4197d3ed2c9
+    image: https://static.buildingtransparency.org/images/0692bdbf-970b-4d4d-9c14-74f1478147e7.png
+    is_failed: false
+    latitude: 34.128937
+    legal_name: CalPortland
+    locality: Glendora
+    location:
+      boundingBox:
+        entity: position
+        northEast: 34.128936,-117.825432
+        southWest: 34.128915,-117.826189
+      buildingNumber: '2025'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Los Angeles
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      countryTertiarySubdivision: East San Gabriel Valley
+      extendedPostalCode: '917414601'
+      freeformAddress: 2025 East Financial Way, Glendora, CA 91741
+      municipality: Glendora
+      municipalitySubdivision: Glendora
+      postalCode: '91741'
+      routeNumbers: []
+      street: East Financial Way
+      streetName: East Financial Way
+      streetNameAndNumber: 2025 East Financial Way
+      streetNumber: '2025'
+    longitude: -117.826157
+    name: CalPortland
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ce0a81a1f8044ec4adf0d4197d3ed2c9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91741'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:26:49.998159Z'
+    web_domain: calportland.com
+    website: https://www.calportland.com/
+  postal_code: '90058'
+  total_epds: 111
+  type: Plant
+  updated_on: '2025-06-23T22:01:06.437445Z'
+plant_specific: true
+private: false
+product_classes:
+  io.cqd.ec3: ReadyMix
+product_specific: true
+program_operator:
+  address: 900 Spring Street, Silver Spring, MD 20910
+  address_line: 900 Spring Street
+  admin_district: MD
+  admin_district2: Montgomery
+  alt_names:
+  - National Ready Mixed Concrete Association
+  - The National Ready Mixed Concrete Association
+  - NRMCA
+  - National Ready Mix Concrete Association
+  - National Ready-Mix Concrete Association
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/national-ready-mixed-concrete-assoc
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-25T01:07:49.604571Z'
+  currency: USD
+  email: servicerequest@nrmca.org
+  email_extensions:
+  - nrmca.org
+  enterprise: true
+  id: 1812a81e62a1424b8f27738be33fe023
+  image: https://static.buildingtransparency.org/images/0449ac39-6fff-4aca-a07f-36c94f3a3b63.png
+  is_failed: false
+  latitude: 38.99884
+  legal_name: National Ready Mixed Concrete Association
+  locality: Silver Spring
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Montgomery
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 13
+    extendedPostalCode: '209104017'
+    freeformAddress: 900 Spring Street, Silver Spring, MD 20910
+    localName: Silver Spring
+    municipality: Silver Spring
+    municipalitySubdivision: Silver Spring
+    postalCode: '20910'
+    streetName: Spring Street
+    streetNumber: '900'
+  longitude: -77.02468
+  name: NRMCA
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1812a81e62a1424b8f27738be33fe023
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20910'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-06-06T00:35:46.621058Z'
+  web_domain: nrmca.org
+  website: http://www.nrmca.org/sustainability/
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3yh19fsd
+standard_deviation: 30.08028936 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 292.9948315 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2024-09-25T16:52:17Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 155 Railroad Plaza, Royersford, PA 19468
+    address_line: 155 Railroad Plaza
+    admin_district: PA
+    admin_district2: Montgomery
+    alt_names:
+    - Sustainable Solutions Corp.
+    - Sustainable Solutions Corp
+    - SSC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T23:56:56.916735Z'
+    email_extensions:
+    - greencirclecertified.com
+    - sustainablesolutionscorporation.com
+    enterprise: true
+    id: a091acc71c3a403884e36e1cdac9db39
+    image: https://static.buildingtransparency.org/images/d03f2259-a454-477f-8fa6-f25858a3ca7b.png
+    is_failed: false
+    latitude: 40.186058
+    legal_name: Sustainable Solutions Corporation
+    locality: Royersford
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.188496,-75.543354
+        southWest: 40.183033,-75.546312
+      buildingNumber: '155'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Montgomery
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Royersford
+      extendedPostalCode: '194681942'
+      freeformAddress: 155 Railroad Plaza, Royersford, PA 19468
+      municipality: Royersford
+      municipalitySubdivision: Royersford
+      postalCode: '19468'
+      routeNumbers: []
+      street: Railroad Plaza
+      streetName: Railroad Plaza
+      streetNameAndNumber: 155 Railroad Plaza
+      streetNumber: '155'
+    longitude: -75.544975
+    name: Sustainable Solutions Corporation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a091acc71c3a403884e36e1cdac9db39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19468'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T11:45:28.981304Z'
+    web_domain: sustainablesolutionscorporation.com
+    website: www.sustainablesolutionscorporation.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_air_entrain:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

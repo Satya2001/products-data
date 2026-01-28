@@ -1,0 +1,593 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+best_practice: 1057.461243 kgCO2e
+biogenic_embodied_carbon_z: 0.3777525645180983
+box_id: '1314465777244'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 798.0133131 kgCO2e
+  pct20_gwp: 1067.512412 kgCO2e
+  pct30_gwp: 1356.241027 kgCO2e
+  pct40_gwp: 1695.329469 kgCO2e
+  pct50_gwp: 2036.763197 kgCO2e
+  pct60_gwp: 2387.240754 kgCO2e
+  pct70_gwp: 2901.618596 kgCO2e
+  pct80_gwp: 3418.515697 kgCO2e
+  pct90_gwp: 3940.570509 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-11-20T07:56:43.942113Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2043.218757 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-30T16:59:52.470148Z'
+date_of_issue: '2023-06-29'
+date_validity_ends: '2028-06-28'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 1 kg / m3
+description: 'Steel deck is typically manufactured by rolling or otherwise forming
+  light gage steel coils into specific shapes. The coils are
+
+  either galvanized or uncoated steel to which a coating of paint may be applied.
+  Deck in this EPD represents product
+
+  manufactured in North America.'
+developer:
+  email: connor.rutledge@trinityconsultants.com
+  name: Connor Rutledge
+  org:
+    address: '12700 Park Central Dr #2100, Dallas, TX 75251, USA'
+    address_line: 12700 Park Central Dr
+    admin_district: TX
+    admin_district2: Dallas County
+    alt_names:
+    - Jaffe Holden
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-06-14T22:43:33.527691Z'
+    email_extensions:
+    - jaffeholden.com
+    enterprise: false
+    id: fe74c6b3c83649a7bdfd98133b6ff607
+    image: https://static.buildingtransparency.org/images/dd1111c88a5845ff914025469eef6ad2.png
+    is_failed: false
+    latitude: 32.9216509
+    locality: Dallas
+    location:
+    - long_name: '2100'
+      short_name: '2100'
+      types:
+      - subpremise
+    - long_name: '12700'
+      short_name: '12700'
+      types:
+      - street_number
+    - long_name: Park Central Drive
+      short_name: Park Central Dr
+      types:
+      - route
+    - long_name: North Dallas
+      short_name: North Dallas
+      types:
+      - neighborhood
+      - political
+    - long_name: Dallas
+      short_name: Dallas
+      types:
+      - locality
+      - political
+    - long_name: Dallas County
+      short_name: Dallas County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Texas
+      short_name: TX
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '75251'
+      short_name: '75251'
+      types:
+      - postal_code
+    longitude: -96.77570999999999
+    name: Trinity Consultants
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fe74c6b3c83649a7bdfd98133b6ff607
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '75251'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-08-08T22:13:36.843143Z'
+    web_domain: trinityconsultants.com
+    website: https://www.trinityconsultants.com/
+doc: https://www.scsglobalservices.com/certified-green-products-guide?pd_pid=69173
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: VulcraftFabricatedSteelandFloorDeck_724b4ac3eee1789c419f9ffc729eba84dd4c2840.pdf
+galvanized: true
+gwp: 1550.34 kgCO2e
+gwp_per_category_declared_unit: 1550.34 kgCO2e
+gwp_per_kg: 1.55034 kgCO2e
+gwp_z: 0.3777525645180983
+id: 7b580cb6496c4404b1573a622824f471
+image: https://static.buildingtransparency.org/images/a25404d1f85a4764a3ee16c4704c4f4f.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1057.461243 kgCO2e
+manufacturer:
+  address: Charlotte, NC 28211
+  admin_district: NC
+  admin_district2: Mecklenburg
+  alt_names:
+  - Nucor Corporation
+  - Nucor Steel Seattle, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-06-21T15:02:42.684523Z'
+  currency: USD
+  email_extensions:
+  - nucor.com
+  enterprise: true
+  id: 625c7af38bd0492d9fbdd186f1cea21a
+  image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+  is_failed: false
+  iso14001_certified: true
+  iso9001_certified: true
+  latitude: 35.159332
+  locality: Charlotte
+  location:
+    boundingBox:
+      entity: position
+      northEast: 35.159382,-80.834303
+      southWest: 35.159260,-80.834970
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Mecklenburg
+    countrySubdivision: NC
+    countrySubdivisionName: North Carolina
+    countryTertiarySubdivision: Township 1 Charlotte
+    freeformAddress: Charlotte, NC 28211
+    municipality: Charlotte
+    municipalitySubdivision: Charlotte, Barclay Downs
+    postalCode: '28211'
+    routeNumbers: []
+  longitude: -80.834694
+  name: Nucor
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28211'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:02:58.846698Z'
+  web_domain: nucor.com
+  website: http://www.nucor.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: f1875bccd7fd46d8826b9815eb0b6726
+my_capabilities: 1
+name: Vulcraft Fabricated Steel and Floor Deck
+not_an_epd: false
+open_xpd_uuid: ec3src6x
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3src6x
+output_flows: {}
+owner:
+  name: Vaclav Admin
+  user_id: vaclav.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-fossil
+      - gwp
+      - gwp-biogenic
+      - gwp-luluc
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - ep-fresh
+      - ep-terrestrial
+      - pocp
+      - ep-marine
+      - ep
+      - odp
+      - ap
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2025-09-18T05:33:14.263756Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2043.218757 kgCO2e
+plant_geography:
+- US-AL
+plant_or_group:
+  address: Fort Payne, AL, USA
+  admin_district: AL
+  admin_district2: Dekalb County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-06-23T03:39:52.525171Z'
+  id: 594f236c23044271b93a735b2acaec02
+  is_failed: false
+  latitude: 34.4442547
+  locality: Fort Payne
+  location:
+  - long_name: Fort Payne
+    short_name: Fort Payne
+    types:
+    - locality
+    - political
+  - long_name: DeKalb County
+    short_name: Dekalb County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Alabama
+    short_name: AL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -85.7196893
+  name: Fort Payne, AL
+  openepd_id: 866PC7VJ+P4.nucor.com
+  owned_by:
+    address: Charlotte, NC 28211
+    admin_district: NC
+    admin_district2: Mecklenburg
+    alt_names:
+    - Nucor Corporation
+    - Nucor Steel Seattle, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/nucor
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-06-21T15:02:42.684523Z'
+    currency: USD
+    email_extensions:
+    - nucor.com
+    enterprise: true
+    id: 625c7af38bd0492d9fbdd186f1cea21a
+    image: https://static.buildingtransparency.org/images/c1e8c20b-f096-458b-8cff-d254bb02778e
+    is_failed: false
+    iso14001_certified: true
+    iso9001_certified: true
+    latitude: 35.159332
+    locality: Charlotte
+    location:
+      boundingBox:
+        entity: position
+        northEast: 35.159382,-80.834303
+        southWest: 35.159260,-80.834970
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Mecklenburg
+      countrySubdivision: NC
+      countrySubdivisionName: North Carolina
+      countryTertiarySubdivision: Township 1 Charlotte
+      freeformAddress: Charlotte, NC 28211
+      municipality: Charlotte
+      municipalitySubdivision: Charlotte, Barclay Downs
+      postalCode: '28211'
+      routeNumbers: []
+    longitude: -80.834694
+    name: Nucor
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/625c7af38bd0492d9fbdd186f1cea21a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28211'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:02:58.846698Z'
+    web_domain: nucor.com
+    website: http://www.nucor.com/
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2022-06-23T03:39:52.525176Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-09144
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3src6xy1
+standard_deviation: 585.6449109 kgCO2e
+steel_making_route_eaf: true
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2043.218757 kgCO2e
+uncertainty_factor: 1.3179165582984316
+updated_on: '2024-03-14T01:08:00.060778Z'
+use_stored_carbon: false
+verifier:
+  email: user_aaf9694988f34f84968d46ab4ca2ce59@cqd.io
+  name: Beth Cassese
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

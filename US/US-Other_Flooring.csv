@@ -1,12 +1,12 @@
-uuid,name,gwp,declared_unit,category
-95c8e7081ca24f2184f29a4845918fa1,Chilewich BioFelt Flooring,10.4 kgCO2e,1 m2,Other_Flooring
-16ccc26bc73746a084fb670e8e855a2d,Desco #597-MVT,0.626 kgCO2e,1 m^2,Other_Flooring
-9d42b72b6c0643329a9a03c790e0869f,Desco 2200,5.99 kgCO2e,1 m^2,Other_Flooring
-492952625d93485b822ef26583157d5f,Desco 500,1.11 kgCO2e,1 m^2,Other_Flooring
-e2621476bed942f58c9807941321a828,Desco 6500,2.18 kgCO2e,1 m^2,Other_Flooring
-685d288bb28848e2ad7802d7a58723b8,Desco Hydrabond,1.94 kgCO2e,1 m^2,Other_Flooring
-0106557a442440faa64ba0f4a02d197b,Key #502 - Epoxy Primer/Low Modulus Binder,1.11 kgCO2e,1 m^2,Other_Flooring
-900439d976d64e63b73488164f1cf290,Key #510 - Epoxy Binder & Coating,5.99 kgCO2e,1 m^2,Other_Flooring
-fe6ba9338d1b479cb0984e18bdb9dc54,Key #520 - Epoxy Coating,2.18 kgCO2e,1 m^2,Other_Flooring
-bc9eae63c70046088f7d417d4525ae44,Key #597 MVT - Epoxy Moisture Mitigation Primer,0.626 kgCO2e,1 m^2,Other_Flooring
-4622f9914d764644912fc15959efce97,Key Epocoat - Moisture Mitigation Epoxy Resin,1.94 kgCO2e,1 m^2,Other_Flooring
+ID,name,gwp,declared_unit,category
+ec3z75fy,Chilewich BioFelt Flooring,10.4 kgCO2e,1 m2,Other_Flooring
+ec35bq32,Desco #597-MVT,0.626 kgCO2e,1 m^2,Other_Flooring
+ec3tadb7,Desco 2200,5.99 kgCO2e,1 m^2,Other_Flooring
+ec3yben7,Desco 500,1.11 kgCO2e,1 m^2,Other_Flooring
+ec3fq9a3,Desco 6500,2.18 kgCO2e,1 m^2,Other_Flooring
+ec37rftb,Desco Hydrabond,1.94 kgCO2e,1 m^2,Other_Flooring
+ec3f3eck,Key #502 - Epoxy Primer/Low Modulus Binder,1.11 kgCO2e,1 m^2,Other_Flooring
+ec3hpkny,Key #510 - Epoxy Binder & Coating,5.99 kgCO2e,1 m^2,Other_Flooring
+ec3x6swj,Key #520 - Epoxy Coating,2.18 kgCO2e,1 m^2,Other_Flooring
+ec3581qn,Key #597 MVT - Epoxy Moisture Mitigation Primer,0.626 kgCO2e,1 m^2,Other_Flooring
+ec3juqc3,Key Epocoat - Moisture Mitigation Epoxy Resin,1.94 kgCO2e,1 m^2,Other_Flooring
