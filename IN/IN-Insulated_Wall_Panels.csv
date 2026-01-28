@@ -1,13 +1,13 @@
-uuid,name,gwp,declared_unit,category
-229f975f32b843068647614197354c92,Berger ETICS with EPS board (100 mm),14.3 kgCO2e,1 m2,Insulated_Wall_Panels
-b02fca9d9925487cb093189afb9b442a,Berger ETICS with EPS board (120 mm),15.8 kgCO2e,1 m2,Insulated_Wall_Panels
-f1b5a5e95b864fc7bb5d166232dbf3ad,Berger ETICS with EPS board (75 mm),12.4 kgCO2e,1 m2,Insulated_Wall_Panels
-3f049205526f4f7492e6fbb8c1598dbc,Berger ETICS with EPS board 50 mm,10.5 kgCO2e,1 m2,Insulated_Wall_Panels
-171b5bdee56949539feb424130936e0d,Berger ETICS with Mineral-woolboard (100mm),26.1 kgCO2e,1 m2,Insulated_Wall_Panels
-252f4ef3e8494ccfb876a46b593831a6,Berger ETICS with Mineral-woolboard (120mm),29.9 kgCO2e,1 m2,Insulated_Wall_Panels
-6321096c72f240dfad059536d5f37c33,Berger ETICS with Mineral-woolboard (50mm),16.5 kgCO2e,1 m2,Insulated_Wall_Panels
-76d6d8fff63e45ce89c5d70900b97acc,Berger ETICS with Mineral-woolboard (75mm),21.3 kgCO2e,1 m2,Insulated_Wall_Panels
-31849af8f075422ea5a6b940d1e9e4fe,Berger ETICS with XPS board (100 mm),19.7 kgCO2e,1 m2,Insulated_Wall_Panels
-b72c7532b28549108ba0cbc360fc54b4,Berger ETICS with XPS board (120 mm),22.2 kgCO2e,1 m2,Insulated_Wall_Panels
-75416e97be974893b4280213403b313f,Berger ETICS with XPS board (50 mm),13.2 kgCO2e,1 m2,Insulated_Wall_Panels
-cb761af19d4d421aa2e31afe9ce45412,Berger ETICS with XPS board (75 mm),16.4 kgCO2e,1 m2,Insulated_Wall_Panels
+ID,name,gwp,declared_unit,category
+ec35ysj3,Berger ETICS with EPS board (100 mm),14.3 kgCO2e,1 m2,Insulated_Wall_Panels
+ec36fe4k,Berger ETICS with EPS board (120 mm),15.8 kgCO2e,1 m2,Insulated_Wall_Panels
+ec3385rj,Berger ETICS with EPS board (75 mm),12.4 kgCO2e,1 m2,Insulated_Wall_Panels
+ec38yh2q,Berger ETICS with EPS board 50 mm,10.5 kgCO2e,1 m2,Insulated_Wall_Panels
+ec35s3tm,Berger ETICS with Mineral-woolboard (100mm),26.1 kgCO2e,1 m2,Insulated_Wall_Panels
+ec3j7ukt,Berger ETICS with Mineral-woolboard (120mm),29.9 kgCO2e,1 m2,Insulated_Wall_Panels
+ec3f8nur,Berger ETICS with Mineral-woolboard (50mm),16.5 kgCO2e,1 m2,Insulated_Wall_Panels
+ec3y9md1,Berger ETICS with Mineral-woolboard (75mm),21.3 kgCO2e,1 m2,Insulated_Wall_Panels
+ec3npess,Berger ETICS with XPS board (100 mm),19.7 kgCO2e,1 m2,Insulated_Wall_Panels
+ec3zcar5,Berger ETICS with XPS board (120 mm),22.2 kgCO2e,1 m2,Insulated_Wall_Panels
+ec3k1722,Berger ETICS with XPS board (50 mm),13.2 kgCO2e,1 m2,Insulated_Wall_Panels
+ec385hfp,Berger ETICS with XPS board (75 mm),16.4 kgCO2e,1 m2,Insulated_Wall_Panels

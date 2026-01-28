@@ -1,3 +1,3 @@
-uuid,name,gwp,declared_unit,category
-8cafd7dd7d674369ac7366ff1443aeb5,S-P-08345 OTIS GEN3 MACHINE ROOM LESS ELEVATOR,23.3 kgCO2e,1 tkm,Elevators
-653cf5bd786643c4801f269732f65f1a,Schindler 5000 X - Rope,1.24 kgCO2e,1 tkm,Elevators
+ID,name,gwp,declared_unit,category
+ec3rzu1n,S-P-08345 OTIS GEN3 MACHINE ROOM LESS ELEVATOR,23.3 kgCO2e,1 tkm,Elevators
+ec3698gf,Schindler 5000 X - Rope,1.24 kgCO2e,1 tkm,Elevators

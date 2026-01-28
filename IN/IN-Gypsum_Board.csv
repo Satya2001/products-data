@@ -1,4 +1,4 @@
-uuid,name,gwp,declared_unit,category
-8cab1ac156a84020948381e7dde6de3b,12.5 mm Gypboard® Plain,3.17 kgCO2e,1 m2,Gypsum_Board
-fbc683097f1640e4ae83b72f189b0cd9,15 mm Gypboard® Plain,3.99 kgCO2e,1 m2,Gypsum_Board
-47213e378ecd4fde86b90fb66dec748d,Gypboard Plain Plasterboard,,1 m2,Gypsum_Board
+ID,name,gwp,declared_unit,category
+ec370jnd,12.5 mm Gypboard® Plain,3.17 kgCO2e,1 m2,Gypsum_Board
+ec30eed7,15 mm Gypboard® Plain,3.99 kgCO2e,1 m2,Gypsum_Board
+ec3gjtqk,Gypboard Plain Plasterboard,,1 m2,Gypsum_Board

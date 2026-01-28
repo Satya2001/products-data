@@ -1,45 +1,45 @@
-uuid,name,gwp,declared_unit,category
-dfaef8cc93e849278442ba7a1d026c27,10 mm REFLECTASOL on PLANILUX,32.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-1673eb9c41d2415e87806174a4715cec,12 mm REFLECTASOL on PLANILUX,38.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-6c4245ed88c942adb3dfbf9b4ea1c2d2,3 mm REFLECTASOL on PARSOL,11.7 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-02306f2a819f448f88d0e2207b6ad3f8,3.5 mm REFLECTASOL on PLANILUX,11.3 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-ace0fb23e26143768941960015377a43,4 mm REFLECTASOL on PARSOL,15.6 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-e355858b7dc0437dab489e40e6b2cb37,4 mm REFLECTASOL on PLANILUX,13 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-369f0415331d4bbbbf2106628dad2b1b,5 mm REFLECTASOL on PLANILUX,16.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-d97f73b89dc44634b4ad40991f8837e8,6 mm REFLECTASOL on PLANILUX,19.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-56426cc373bd4ddfb4a5c39ef428e0b4,8 mm REFLECTASOL on PARSOL,31.1 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-5ddab638ec7049cbb8e6159eb208497c,8 mm REFLECTASOL on PLANILUX,25.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-b16b7b0ad41b441180db0a0b1f2d122e,S-P-06081 ERW Epoxy Coated Steel Pipes,2383 kgCO2e,1.0 t,Processed_Non-insulating_Glass_Panes
-f184542bfaf2415d9a8e7b5a3cc522bb,SGG PARSOL 3 mm Magnetron Coated Glass,15.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-92beb9f194e2430d983fbe6a19401ff4,SGG PARSOL 3.5 mm Magnetron Coated Glass,17.1 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-89fa1a354a544e3189b417aa786e3f93,SGG PARSOL 4 mm Magnetron Coated Glass,19.1 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-d19f50973e6143449d20d1c0b4bc81db,SGG PARSOL 5 mm Magnetron Coated Glass,23 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-83b2fccb1d0b451494db2993eb5e9a18,SGG PARSOL 6 mm Magnetron Coated Glass,26.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-772e7e8c315649c286958a2cf90c6c1f,SGG PARSOL 8 mm Magnetron Coated Glass,34.6 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-769989fe3e964f4d9ccbc46702eb9a41,SGG PLANILUX 10 mm Magnetron Coated Glass,35.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-91c937209fc8481aa87cf37bf21b6b15,SGG PLANILUX 12 mm Magnetron Coated Glass,42.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-ff380fad1e8a4cea9020257d60f22d3a,SGG PLANILUX 2 mm Magnetron Coated Glass,10 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-69d433c58a844a94b99261f65d9cda5c,SGG PLANILUX 3 mm Magnetron Coated Glass,13.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-14b130ee97d44313bb2dc03a6afde7f6,SGG PLANILUX 3.5 mm Magnetron Coated Glass,14.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-0995764021b243819da8f7249b031c92,SGG PLANILUX 4 mm Magnetron Coated Glass,16.5 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-0aa8c0bac8304154a7d624392b36198f,SGG PLANILUX 5 mm Magnetron Coated Glass,19.7 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-d0b45d3490974becbffdea1601c1f5e7,SGG PLANILUX 6 mm Magnetron Coated Glass,23 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-60979f10c61c4f8c8f3fbf1d01c5a50e,SGG PLANILUX 8 mm Magnetron Coated Glass,29.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-3a97576c2235445ca207a548b1319406,soft coated glazed glass of thickness 6 mm,52.7 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-904ada7889e14b14a4a083421fbc4d05,soft coated laminated glass of thickness 6 mm,93.6 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-668b57a1463b46aa8d5bb5929b5de765,soft coated printed glass thickness 6 mm,47.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-be8a0e6a134641e599b232f49f13cad0,thickness 10 mm hard coated reflective glass,32.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-df3ebdb900cf44cc948cb93ed80fa17a,thickness 10 mm soft coated reflective glass,49.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-1dc907d797084ee2b065f455130df14c,thickness 12 mm hard coated reflective glass,38.8 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-456e89d000e3432a82122e3c6fc44b46,thickness 12 mm soft coated reflective glass,59.8 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-4327ed54f828408b94d9fbdbcb291996,thickness 3 mm hard coated reflective glass,9.7 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-44f2588c851748e3a23079fab4474c5c,thickness 3 mm soft coated reflective glass,15 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-888537bf23e147999e3aee6505480f21,thickness 3.5 mm soft coated reflective glass,17.5 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-ec5ecbb31211420181286d3d4e1aff72,thickness 4 mm hard coated reflective glass,12.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-d001910f57884e3b810502aca8116455,thickness 4 mm soft coated reflective glass,19.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-ef70528268994e7788a52da5d4a94d3d,thickness 5 mm hard coated reflective glass,16.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-ef81e12c5a674caca3fa35d335e419a6,thickness 5 mm soft coated reflective glass,24.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-5b7fe659db5543db90764e468488986c,thickness 6 mm hard coated reflective glass,19.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-418ec1d0796047be86a76bbb9317bbae,thickness 6 mm soft coated reflective glass,29.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-f93a4c7468434450ba84f4560cc78e93,thickness 8 mm hard coated reflective glass,25.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
-2a7d9769744d4d6093a7337daffdff4d,thickness 8 mm soft coated reflective glass,39.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ID,name,gwp,declared_unit,category
+ec3det67,10 mm REFLECTASOL on PLANILUX,32.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3cu9aa,12 mm REFLECTASOL on PLANILUX,38.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3tk6gx,3 mm REFLECTASOL on PARSOL,11.7 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3bbdg1,3.5 mm REFLECTASOL on PLANILUX,11.3 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec36m2xt,4 mm REFLECTASOL on PARSOL,15.6 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec32210h,4 mm REFLECTASOL on PLANILUX,13 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3af5zq,5 mm REFLECTASOL on PLANILUX,16.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3qr803,6 mm REFLECTASOL on PLANILUX,19.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3uz7gd,8 mm REFLECTASOL on PARSOL,31.1 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec387rjx,8 mm REFLECTASOL on PLANILUX,25.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3kjfby,S-P-06081 ERW Epoxy Coated Steel Pipes,2383 kgCO2e,1.0 t,Processed_Non-insulating_Glass_Panes
+ec3sjd5h,SGG PARSOL 3 mm Magnetron Coated Glass,15.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3n5kbu,SGG PARSOL 3.5 mm Magnetron Coated Glass,17.1 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3z4bjj,SGG PARSOL 4 mm Magnetron Coated Glass,19.1 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec37q6s3,SGG PARSOL 5 mm Magnetron Coated Glass,23 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3y12rz,SGG PARSOL 6 mm Magnetron Coated Glass,26.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3cr94j,SGG PARSOL 8 mm Magnetron Coated Glass,34.6 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3yeytw,SGG PLANILUX 10 mm Magnetron Coated Glass,35.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3fhwbf,SGG PLANILUX 12 mm Magnetron Coated Glass,42.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3nh4ng,SGG PLANILUX 2 mm Magnetron Coated Glass,10 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec33rdzz,SGG PLANILUX 3 mm Magnetron Coated Glass,13.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3sea8u,SGG PLANILUX 3.5 mm Magnetron Coated Glass,14.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3mbwex,SGG PLANILUX 4 mm Magnetron Coated Glass,16.5 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3t8jxh,SGG PLANILUX 5 mm Magnetron Coated Glass,19.7 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3a04s4,SGG PLANILUX 6 mm Magnetron Coated Glass,23 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec32c734,SGG PLANILUX 8 mm Magnetron Coated Glass,29.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3uhphd,soft coated glazed glass of thickness 6 mm,52.7 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3brgc9,soft coated laminated glass of thickness 6 mm,93.6 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3ht2dz,soft coated printed glass thickness 6 mm,47.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec32kuar,thickness 10 mm hard coated reflective glass,32.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec35uhuw,thickness 10 mm soft coated reflective glass,49.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3pq4fn,thickness 12 mm hard coated reflective glass,38.8 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3hz5e6,thickness 12 mm soft coated reflective glass,59.8 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3erkkr,thickness 3 mm hard coated reflective glass,9.7 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec37k1d4,thickness 3 mm soft coated reflective glass,15 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec35wf63,thickness 3.5 mm soft coated reflective glass,17.5 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3ztpap,thickness 4 mm hard coated reflective glass,12.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec39q3fj,thickness 4 mm soft coated reflective glass,19.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec31up1j,thickness 5 mm hard coated reflective glass,16.2 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3g406g,thickness 5 mm soft coated reflective glass,24.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3nbdt9,thickness 6 mm hard coated reflective glass,19.4 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec37hrug,thickness 6 mm soft coated reflective glass,29.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec346pe2,thickness 8 mm hard coated reflective glass,25.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes
+ec3afc5b,thickness 8 mm soft coated reflective glass,39.9 kgCO2e,1 m2,Processed_Non-insulating_Glass_Panes

@@ -1,4 +1,4 @@
-uuid,name,gwp,declared_unit,category
-3c8769ed31354ddba0d2d29dede77864,#name_is_not_extracted,51.9 kgCO2e,1 m2,Unknown
-0b5d99dbcc5d47b19b29e768e5f3450d,S-P-11894 STEELAGE MAGNA CLASS C SAFE,1520 kgCO2e,1.0 item,Unknown
-ce2d38f645a64feabfc0eab418b8bef3,S-P-12055 Indowud’s NFC Board,1468.69 kgCO2e,1.0 m^3,Unknown
+ID,name,gwp,declared_unit,category
+ec3uam64,#name_is_not_extracted,51.9 kgCO2e,1 m2,Unknown
+ec3nud1g,S-P-11894 STEELAGE MAGNA CLASS C SAFE,1520 kgCO2e,1.0 item,Unknown
+ec34rdn3,S-P-12055 Indowud’s NFC Board,1468.69 kgCO2e,1.0 m^3,Unknown
